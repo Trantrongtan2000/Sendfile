@@ -1,0 +1,56 @@
+[Dịch] Khởi nguồn của văn tự Hàn Ngữ: Tính bạo lực trong sự "nhìn" (I): 
+'Huấn Dân Chính Âm' và các ký tự chữ Hàn (Hangeul)
+Pre-note: Đây là một bài viết của tác giả Trần Khánh Đức người Đài Loan, đăng trên trang web Minh Nhân Đường.
+ Tác giả hiện đang là chuẩn nghiên cứu sinh tiến sĩ triết học phương tây của Đại học Quốc lập Seoul, Nam Hàn, ngành học chủ yếu là "Hiện tượng học".
+ Bài gốc được chia làm hai phần, nhưng vì quá dài nên người dịch xin được phép chia lại làm ba phần.
+Hình chụp bản chép "Huấn dân chính âm" của Vua Se-jong, Wikisource.
+Ngày 9 tháng 10 hằng năm được gọi là 'Ngày tiếng Hàn' ở Hàn Quốc.
+ (1) Bắt đầu từ năm 2012, chính phủ Hàn Quốc quy định 'ngày tiếng Hàn', từ vốn không phải là ngày nghỉ công, thành ngày nghỉ công, vào ngày ấy cả nước được nghỉ một ngày, lý do của việc nghỉ, cũng giống hệt như tên gọi của ngày lễ, là nhằm kỉ niệm chữ tiếng Hàn - sự ra đời của 'Huấn dân chính âm' (훈민정음 - Hoon-Min-Jeong-Eum).
+ Một vị phóng viên độc lập quốc tịch Hàn ở Đài Loan, đồng thời cũng là người bạn tốt của tôi, ông chú họ Liễu, dạo trước để giới thiệu khởi nguồn của tiếng Hàn, đã đặc biệt viết một văn bản --- "Tròn tròn chéo chéo chữ tiếng Hàn, nói chuyện ồn lắm người nước Hàn?" (2); sau khi hoàn thành ông ấy cũng đã cất công gởi cho người viết để chỉ giáo.
+ Khởi nguồn của Hàn văn, cũng như ông đã trích dẫn bài báo của "DISCOVERY" bản tháng 6 năm 1994 trong bài, để trình bày lập luận "Hàn văn là hệ thống chữ viết khoa học nhất" (the most scientific system of writing); trong bài cũng thông qua việc trích dẫn văn hiến lịch sử (sách "Huấn dân chính âm"), phương thức viết vần cùng với phát âm, giới thiệu kết cấu Hàn văn một cách đơn giản mà rõ ràng, để hoá giải chuyện hiểu lầm mà một hôm nọ ông đến Cảnh Phúc Cung (Gyeong-bok-goong) của Hàn Quốc, nghe thấy hướng dẫn viên Trung Quốc nói trong lúc giới thiệu khởi nguồn của chữ tiếng Hàn: "Người sáng tạo ra chữ tiếng Hàn là Thế Tông Đại Vương (Se-Jong-Dae-Wang).
+ Ngài là đại vương, vì vậy có rất nhiều cung nữ.
+ Một buổi sớm mai hôm nọ sau khi giao hoan với rất nhiều cung nữ, đương ngây người ra nhìn cửa, đột nhiên ông nghĩ ra chữ tiếng Hàn.
+ Nhìn thử xem, chữ tiếng Hàn rất giống với hình vân cửa, phải không ạ?".
+ Thậm chí cũng đã làm sáng tỏ ấn tượng ngộ nhận của người Đài Loan đối với chữ tiếng Hàn là 'tròn tròn chéo chéo', hoặc là 'chữ Sao Hoả', 'chữ nòng nọc' .
+Ảnh Gyeongbokgoong nhìn vào ban đêm, bên cạnh là con Haechi linh vật của Hàn Quốc.
+ Nguồn: Preparetravelplan.
+comVăn bản "Tròn tròn chéo chéo chữ tiếng Hàn, nói chuyện ồn lắm người nước Hàn?" của ông chú họ Liễu là một bài rất phổ thông lại còn thú vị để 'giới thiệu khởi nguồn của văn hoá văn tự Hàn Quốc'.
+Theo như người viết nhận thấy, khi nghiên cứu văn hoá của bất kì quốc gia nào, thậm chí là các đặc tính liên quan đến một quốc gia, văn tự là một khâu không thể nào bị bỏ qua.
+ Bởi vì, ngôn ngữ ngoài việc tồn tại một tầng diện 'thực dụng' như là giao tiếp giữa người với người, hay học cho tốt ngoại ngữ bản địa để có thể ép giá với thương gia ra, còn có tầng diện quan trọng hơn nữa là 'thuyết tồn sinh' - chúng ta có thể thông qua ngôn ngữ, nhìn thấy nhữg người sinh sống ở bản địa, dạng thái tồn sinh của họ.
+ Mà điều này, cũng chính là vì sao trong lúc người viết chắp bút sách về ngôn ngữ, sẽ không đi thẳng vào việc dạy học ngữ pháp ở ngay trang đầu, mà sẽ giới thiệu ngôn ngữ này được sáng lập ra như thế nào, có khởi nguồn như thế nào.
+ Căn cứ trên ghi chép của văn hiến lịch sử, Hàn văn được Thế Tông Đại Vương (세종대왕, 1397-1450), họ Lý, thời đại Joseon (Triều Tiên) sáng lập năm 1443, vào tháng 12 của năm thứ 25 tại vị của ông.
+ Đương thời, ông đã triệu tập các học sĩ mà nổi bật là Trịnh Lân Chỉ (정인지, Jong-In-Ji, 1396-1478), dựa trên kết cấu âm vận của Triều Tiên Ngữ, đồng thời tham khảo âm vận học Trung Quốc, để xây dựng nên một bộ văn tự chuyên dùng để ghi lại âm vận Triều Tiên Ngữ.
+ Ba năm sau, cũng chính là vào tháng 9 năm tại vị thứ 28 (1446) của Thế Tông Đại Vương, mới chính thức ban bố hệ thống ngôn ngữ này đến nhân dân cả nước, vào lúc đương thời được gọi là 'Ngạn văn' (諺文) hoặc 'ngạn văn' (彥文), còn tên gọi chính thức được triều đình ban bố là 'Huấn dân chính âm'.
+ Mãi đến đầu thế kỉ XX, mới đổi thành cái tên 'Hàn tự' (한글, Han-geul), để mà gọi bộ văn tự này.
+ Tượng Vua Se-jong ở giữa Quảng trường Gwang-hua-moon (Quang Hoá Môn), Seoul.
+ Nguồn: https://photohistory.
+tistory.
+com/11477'Huấn dân chính âm' có nghĩa là gì? Dựa trên phần đề giải (giải thích đề mục) thì 'Huấn dân chính âm' là 'âm thanh chính xác để dạy dỗ bá tánh' (3).
+ Vào bối cảnh hoàn cảnh lịch sử đương thời, dẫu sao những người có khả năng học tập Hán ngữ, viết chữ Hán là không nhiều, vì những người có khả năng đi học tư thục và tiếp nhận giáo dục phần lớn là quý tộc, người dân bình thường không có năng lực, cũng không có tư cách để học tập thứ văn tự 'quý tộc' mà tư thục truyền dạy --- Giáo dục Hán ngữ.
+ Thế nhưng, nhân bất phân quý tiện, trong cuộc sống thường ngày khi trao đổi giữa người với người cũng cần giao tiếp đối thoại, do đó lúc ban bố 'Huấn dân chính âm' thì Thế Tông Đại Vương đã nói: Quốc chi ngữ âm, dị hồ Trung Quốc, dư văn tự bất tương lưu thông.
+ Cố ngu dân hữu sở dục ngôn nhi chung bất đắc thân kì tình giả đa hĩ.
+ Dư vi thử mẫn nhiên, tân chế nhị thập bát tự, dục sứ nhân nhân dị tập, tiện ư nhật dụng dĩ.
+(Tạm dịch thoát theo lời dịch của tác giả): Bởi vì phát âm, thanh điệu của nước ta không giống như của Trung Quốc, vì vậy văn tự của nước ta thường thường không có cách nào lưu thông chung với Hán tự Trung Quốc được, thế nhưng nhân dân của chúng ta vẫn cần phải nói chuyện, giao tiếp, chiếu vào điều này, ta đặc biệt sáng tạo ra hai mươi tám ký hiệu phiên âm mới, giúp  nhân dân chúng ta học tập dễ dàng, để tiện cho việc sử dụng trong cuộc sống thường ngày.
+Thời Hàn văn mới vừa ra đời, nó bị những người thuộc tầng lớp thượng lưu của xã hội bài xích, thậm chí có những viên quan yêu cầu Thế Tông Đại Vương phế nó đi, vì họ sợ rằng nếu bị Trung Quốc biết được, sẽ bị cười nhạo là 'di tự' sử dụng bởi một bang man di.
+ Dĩ nhiên, dựa trên những văn hiến cổ đại còn lưu lại đến nay, chúng ta có thể thấy rằng có không ít quan lại Triều Tiên vẫn sử dụng Ngạn văn một cách âm thầm, bởi vì đem so sánh với Hán tự, Ngạn văn tiện hơn cho việc học tập và viết lách.
+ Nhưng điều cần phải nói rõ là, về mặt kết cấu tự hình, Hàn văn có lợi trong việc viết cặp chung với Hán tự, nhưng người Hàn Quốc đương thời phân biệt rất nghiêm khắc hai loại văn tự "Hàn", "Hán", tức là khi viết Hàn văn trên thực tế, không hề viết cặp chung với Hán tự.
+ Một mặt khác, do phụ nữ Triều Tiên thông thường có ít cơ hội hơn để tiếp thu giáo dục, dù cho họ biết viết chữ, cũng phần nhiều sử dụng Hàn văn, mà không sử dụng 'Hán tự', thứ chữ được xem là văn tự quý tộc, có đẳng cấp đương thời.
+ Nói đơn giản hơn, vào thời trung kì của thời đại Joseon, tuy các văn kiện chính thức vẫn sử dụng Hán tự để viết lách, nhưng bá tánh dân gian cùng với phụ nữ vẫn phổ biến dùng Hàn văn để viết.
+ Đến năm cuối đời Tuyên Tổ, viên ngự y thời ấy là Hứa Tuấn (허준, 1546—1615) còn bắt tay vào dùng Hàn văn để biên viết đồng thời giải thích những sách và kinh điển y học, vốn được viết bằng Hán tự từ trước, có lợi cho việc phổ cập và phát triển y thuật trong dân gian ở Triều Tiên.
+ (4)Sự khác nhau lớn nhất trong số đó, chính là hai mười tám chữ cái Hàn văn ký âm thuở sơ kì nhất, do sự biến hoá trong kết cấu âm vận của tiếng Hàn, dẫn đến việc ngày nay có bốn ký tự đã biến mất.
+ Thế là, Hàn văn mà ngày nay mọi người nhìn thấy chỉ còn sót lại hai mươi tư ký tự phiên âm mà thôi.
+ Bản gốc của 'Huấn dân chính âm' được in dập lên ly sứ Starbucks kỉ niệm ngày Hangeul.
+ Hình mình chụp.
+ Không hiểu sao up lên đây bị auto ngang mà mình ko fix được? Dưới đây là văn tự đương thời cùng với những ký tự phiên âm đã biến mất về sau (được thể hiện trong ngoặc đơn), được chia làm như sau:             Phần phụ âm: ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎ (ㅿㆁㆆ)            Phần nguyên âm: (ㆍ)ㅏㅑㅓㅕㅗㅛㅜㅠㅡㅣHai mươi bốn ký tự cơ bản còn lại tổ hợp lẫn nhau, cấu thành bảng chữ cái bốn mươi âm của Hàn ngữ ngày nay.
+ (5)            Chữ cái Hàn ngữ, phụ âm (bao gồm các phụ âm cơ bản, phụ âm đôi và âm cứng):             ㄱ、ㄲ、ㄴ、ㄷ、ㄸ、ㄹ、ㅁ、ㅂ、ㅃ、ㅅ、ㅆ、ㅇ、ㅈ、ㅉ、ㅊ、ㅋ、ㅌ、ㅍ、ㅎ            Chữ cái Hàn ngữ, nguyên âm: (bao gồm các nguyên âm cơ bản và nguyên âm ghép):             ㅏ、ㅐ、ㅑ、ㅒ、ㅓ、ㅔ、ㅕ、ㅖ、ㅗ、ㅘ、ㅙ、ㅚ、ㅛ、ㅜ、ㅝ、ㅞ、ㅠ、ㅡ、ㅢ、ㅣĐiều thú vị là, các học giả bản xứ Hàn Quốc cho rằng, chữ Hàn (한글 - Hangeul) có thể được sáng tạo ra chỉ trong khoảng thời gian ngắn như thế, là điều cực kì không thể tin được.
+ Thậm chí có người còn nói một cách cực đoan, rằng trong Hàn ngữ ngoài quy tắc sắp xếp chữ cái khi ghép từ, cùng với việc chịu ảnh hưởng bởi văn hoá Hán trong thời gian dài, từ đó tiếp thu âm đọc của từ vựng Hán ngữ ra, toàn bộ hệ thống văn tự của Hàn ngữ hầu như không chịu sự ảnh hưởng của bất cứ loại văn tự nào.
+ Vì thế, khi bàn đến thuyết khởi nguyên (기원설 - Ki-Won-Sol) của Hàn văn (Huấn Dân Chính Âm), sẽ diễn ra tình trạng là chín người mười ý.
+ còn tiếpChú thích (Mọi chú thích gốc của tác giả): (1): Ngày lễ này được chế định vào năm 1926 bởi Triều Tiên Ngữ Học hội (Hội ngôn ngữ học ái quốc ở bản địa Hàn Quốc thời thuộc Nhật).
+ (2): 'Tròn tròn chéo chéo chữ tiếng Hàn, nói chuyện rất ồn người nước Hàn?' Link nguồn tác giả dẫn(3): Chúng ta thử phân tích giản lược kết cấu của sách 'Huấn Dân Chính Âm' tác phẩm 'Huấn Dân Chính Âm' có thể chia làm ba phần là 'Bổn Văn' (본문), 'Giải Lệ' (해례) cùng với 'Trịnh Lân Chỉ Tự Văn' (정인지의 서문) ở cuối sách.
+ 'Bổn văn' có ý chính là nói rõ mục đích cho việc sáng tạo ra 'Huấn Dân Chính Âm', trong đó bao gồm âm giá, thuyết minh về cách sử dụng thực tế.
+ 'Giải lệ' thì lại chia làm sáu phần, lần lượt là:         - 'Chế tự giải' (제자해) nói rõ nguyên lý sáng tạo Hàn văn, tiêu chuẩn tạo tự cơ bản, thể hệ nguyên-phụ âm, quan hệ với thanh vận học Trung Quốc;        - 'Sơ thanh giải' (초성해): nói rõ sơ thanh là gì;        - 'Trung thanh giải' (중성해): nói rõ trung thanh là gì;        - 'Chung thanh giải' (종성해): bản chất của chung thanh là gì, đồng thời bao gồm tám phép chung thanh và giải thích về bốn thanh;         - 'Hợp tự giải' (합자해): Giải thích cách sử dụng chữ khi ba thứ chữ sơ, trung, chung thanh hợp lại với nhau (tất cả gồm 25 cách sử dụng chữ đơn), cùng với thuyết minh thêm lần nữa về thanh điệu của Hàn ngữ ở thời đại trung cổ;        - Và phần cuối cùng, 'Dụng tự giải' (용자례): tất cả gồm 94 chữ đơn làm ví dụ, thuyết minh về ví dụ sử dụng của hợp tự tạo thành từ ba thứ chữ nói trên.
+ (4): Về sự tranh cãi về chính sách chữ viết của Hàn văn - Hán tự, xin tham khảo phần giới thiệu của người viết (tác giả) trong sách 'Nhập môn người Hàn Quốc' (NXB Ngũ Nam).
+ (5): Về sự diễn biến của Hàn văn, xin tham khảo phần giới thiệu ở lời nói đầu của hai sách 'Sổ bút ký ngữ pháp tiếng Hàn của lớp tiến sĩ Đại học Seoul' (NXB Liên Kinh), 'Tiếng Hàn Quốc đơn giản vui vẻ' (NXB Thống Nhất) của người viết (tác giả).
+
+
+Tác giả: tuhuynh

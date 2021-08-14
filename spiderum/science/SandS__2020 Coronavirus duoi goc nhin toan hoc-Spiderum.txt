@@ -1,0 +1,69 @@
+2020 Coronavirus dưới góc nhìn toán học
+Coronavirus đang trong giai đoạn bùng phát mạnh mẽ tại châu Âu, và còn rất nhiều mầm mống tại nhiều nước châu Á.
+ Dù là đối tượng chính của các nhà y tế, dịch tễ học, .
+.
+.
+, dưới góc nhìn của toán học, đây cũng là một sự kiện 'thú vị', và chúng ta cùng tìm hiểu, dưới góc nhìn toán học, đại dịch Covid-19 này được mô tả thế nào nhé.
+ (Mô hình được mô phỏng dựa trên bài báo này: https://www.
+sciencedirect.
+com/science/article/pii/S2468042716300495, phần code mô phỏng mô hình của mình: https://github.
+com/minhtriphan/nCovi-19-simulation/blob/master/nCovid-simulation.
+ipynb)Đầu tiên, mình muốn định nghĩ vài khái niệm cơ bản:- Transmission rate: tỉ lệ lây nhiễm, là tham số thể hiện tốc độ lây lan của virus.
+- Recovery rate: tỉ lệ hồi phục, là tham số thể hiện khả năng phục hồi của bệnh nhân nhiễm virus.
+Chúng ta không quan tâm đến 2 tỉ lệ này như những tỉ lệ riêng biệt, mà chúng ta chỉ quan tâm đến tỉ lệ giữa chúng, R0 = transmission rate/recovery rate, vì dù tỉ lệ hồi phục cao, nhưng virus lây nhiễm quá nhanh thì vẫn không thoát khỏi việc bùng nổ của đại dịch.
+ Đối với virus nCovi-19 này, R0 được ước lượng tầm 2.
+28 sử dụng phương pháp Maximum Likelihood  (https://www.
+ijidonline.
+com/article/S1201-9712(20)30091-6/fulltext).
+Phân tích tình hình ở châu ÂuSử dụng phương trình vi phân ngẫu nhiên (Stochastic differential equations), mô hình nổi tiếng trong định giá quyền chọn, ta có thể mô phỏng quá trình phát triển của virus theo như hình sau (mô hình giả sử lúc đầu có 2% dân số nhiễm, dân số là 1000 người, tỉ lệ lây lan là 0.
+3, tỉ lệ hồi phục là 0.
+15)Mô phỏng số ca nhiễm theo thời gian, R0 = 2, đường màu đỏ là trung bình của tất cả các đường mô phỏngHình ở trên được mô phỏng với R0 = 2, tức là gần bằng với số liệu của virus nCovi-19.
+ Lưu ý, cột thời gian không chỉ ngày, tháng hay năm mà là thời gian tương đối.
+ Ví dụ, nếu thời gian dịch hoàn toàn được dập tắt là 10 tháng, chúng ta đang ở tháng thứ 2, có nghĩa là ở biểu đồ trên, ta đang ở mốc 20 tương ứng với số ca nhiễm tầm 15% dân số.
+Vậy hình này cho ta biết được những thông tin gì? Tin tốt là, đối với virus corona mới này, tỉ lệ nhiễm chỉ tối đa ở mức tầm 25% dân số nếu R0 duy trì ở mức 2, có nghĩa là, thấp hơn rất nhiều so với những gì thủ tướng Đức Angela Merkel tuyên bố (https://www.
+bbc.
+com/news/world-us-canada-51835856).
+ Tuy nhiên, tin xấu là chúng ta chưa đạt được tới đỉnh của dịch, cụ thể là ở châu Âu.
+ Đây là báo cáo của WHO về tình hình virus cho đến hôm qua, 19.
+03.
+2020, (https://www.
+who.
+int/docs/default-source/coronaviruse/situation-reports/20200319-sitrep-59-covid-19.
+pdf?sfvrsn=c3dcdef9_2).
+ Ở cuối bài báo cáo có biểu đồ tình hình dịch được cập nhật cho đến ngày hôm qua, nhìn vào số liệu của riêng khu vực châu Âu, ta có thể thấy nó gần giống với phần sườn trái của biểu đồ khi mà sự tăng trưởng vẫn chưa có dấu hiệu chững lại (gradient vẫn đang tăng).
+Ra ngoài phạm vi của mô hình này, hiện tại, Ý đang có 12.
+5 giường bệnh chăm sóc đặc biệt (giường dành cho những trường hợp nguy kịch, https://en.
+wikipedia.
+org/wiki/List_of_countries_by_hospital_beds) tính trên 100.
+000 người dân, dân số Ý hiện tại tầm là 60 triệu người, nghĩa là cả Ý có tổng cộng 7500 giường bệnh dành cho chăm sóc đặc biệt.
+ Nếu chỉ 1% dân số Ý nhiễm bệnh và 5% trong số đó lâm vào tình trạng nguy kịch, con số giường bệnh cần là 30.
+000 giường, một con số khổng lồ đối với 7500 giường bệnh trên cả nước Ý hiện nay.
+ Và không chỉ ở Ý, các nước khác ở châu Âu cũng đang đối mặt với tình trạng tương tự khi các bệnh viện đều quá tải.
+Chính phủ và người dân đã làm gì để ngăn chặn sự lây lan của dịchCông việc của hệ thống y tế là làm tăng tỉ lệ hồi phục (tăng recovery rate), còn nhiệm vụ của chính phủ và người dân là giảm tỉ lệ lây lan (giảm transmission rate).
+ Các biện pháp hiện nay như hạn chế ra đường, tiếp xúc với người khác, cấm cụ tập đông người, đóng cửa biên giới, .
+.
+.
+ cũng chỉ để nhằm giảm tỉ lệ lây lan, qua đó, hệ số R0 cũng sẽ giảm.
+ Đây là mô phỏng nếu tỉ lệ R0 giảm xuống ở mức 1.
+333,Ta có thể dễ dàng thấy là, tỉ lệ nhiễm tối ta trong trường hợp xấu nhất chỉ là 12% dân số, trung bình chỉ tầm 4.
+5%.
+Một vài yếu tố có thể ảnh hưởng đến tỉ lệ hồi phục như, khả năng và nguồn lực của hệ thống y tế, nếu hệ thống quá tải, tỉ lệ hồi phục sẽ giảm rất nhiều.
+ Thêm vào đó, tình trạng dân số cũng ảnh hưởng đến tỉ lệ hồi phục.
+ Ý là một trong những nước có dân số già nhất châu Âu, 45.
+5 tuổi (median), so với median của châu Âu là 42.
+8.
+ Do đó, tỉ lệ nhiễm và tử vong ở Ý hiện đang rất cao.
+ (https://en.
+wikipedia.
+org/wiki/List_of_countries_by_median_age).
+Một lưu ý là  mô hình này dù là mô hình động (dynamics) nhưng tỉ lệ lây lan và tỉ lệ hồi phục vẫn là cố định theo thời gian, thực tế thì không phải như vậy, vì tỉ lệ lây lan và tỉ lệ hồi phục theo thời gian sẽ thay đổi.
+Còn Việt Nam thì sao?Theo mình thấy, tình hình ở Việt Nam vẫn đang trong tầm kiểm soát, và có phần tươi sáng hơn tình hình ở châu Âu.
+ Thứ nhất, độ tuổi trung bình ở VN là rất trẻ, 30.
+5 tuổi, thấp hơn nhiều so với châu Âu và Ý, do đó, mình có thể tự tin nói là, tỉ lệ hồi phục ở VN sẽ cao hơn Ý rất nhiều.
+ Thứ 2, VN mình đang thực hiện cách ly rất tốt, do đó, tỉ lệ lây nhiễm là rất thấp, do đó, chỉ số R0 đang rất thấp và khả năng bùng dịch ở VN như châu Âu cũng thấp theo đó.
+Tuy nhiên, trình độ và nguồn lực của hệ thống y tế VN nếu so với các nước phương Tây thì có phần không tốt bằng.
+ Do đó, nếu dịch bệnh bùng phát ở VN, hậu quả sẽ rất khủng khiếp, việc chính phủ đang thực hiện những biện pháp cách ly, khuyến khích người dân cách ly cũng đang nhằm giảm tải áp lực cho hệ thống y tế của chúng ta, tránh để tình trạng dịch leo đến đỉnh như trong biểu đồ mà mình đã nêu ở trên.
+ Về phần chúng ta, thì việc tốt nhất có thể làm là hạn chế tiếp xúc với mọi người, hạn chế tụ tập, khai báo y tế trung thực, thực hiện các biện pháp y tế nhằm chung tay đẩy lùi dịch bệnh.
+
+
+Tác giả: SandS_

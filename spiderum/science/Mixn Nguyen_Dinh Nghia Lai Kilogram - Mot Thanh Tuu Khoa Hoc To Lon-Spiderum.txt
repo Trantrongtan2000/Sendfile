@@ -1,0 +1,65 @@
+Định Nghĩa Lại Kilogram - Một Thành Tựu Khoa Học To Lớn
+Nguyên mẫu Kilogram Quốc tế (Le Grand K) - nguồn ảnh: NPRThế giới vừa có một định nghĩa mới về Kilogram, đơn vị tiêu chuẩn của khối lượng.
+Thay đổi này chính thức có hiệu lực vào ngày Đo lường Thế giới (20/5), và nó diễn ra một cách âm thầm hơn nhiều so với sự kiện một giây được thêm vào một năm, diễn ra vào năm 2016.
+ Định nghĩa mới về Kilogram sẽ không phá vỡ bất cứ điều gì cả.
+ Con số hiện lên khi bạn đứng trên chiếc cân sẽ không thay đổi - không tăng, cũng như không giảm.
+Nhưng điều đó vẫn là một thành tựu đáng tự hào: nó thể hiện chiến thắng của con người trước sự hỗn loạn bao trùm cả vũ trụ.
+Khi các nhà khoa học gặp nhau tại Hội nghị Đo lường Quốc tế tổ chức tại Versailles vào tháng mười một năm ngoái, và bỏ phiếu thông qua sự thay đổi, họ nhận ra mong muốn ngay từ thuở sơ khai của hệ thống đơn vị đo lường: Hệ thống đơn vị đo lường - hay còn được gọi với cái tên chính thức là Hệ thống đơn vị tiêu chuẩn Quốc tế (SI) - được thiết kế để "đúng với mọi thời điểm, đúng với mọi người".
+Trước đây, Kilogram không hề đúng với mọi thời điểm.
+ Nó không hoàn hảo.
+ Nhưng kể từ hôm nay, nó sẽ không còn như vậy nữa.
+Trước đây, định nghĩa của Kilogram là một khối kim loại đặt tại Paris.
+Trong hơn một thế kỉ, Kilogram được định nghĩa một cách hết sức đơn giản: Đó là khối lượng của một khối hợp kim platinum-iridium được đặt trong hầm an toàn tại Cục Đo lường Quốc tế, Paris, Pháp từ năm 1889.
+Nó được gọi là Nguyên mẫu Kilogram Quốc tế, Big K, hay Le Grand K.
+ Và nó có rất nhiều bản sao trên khắp thế giới - bao gồm một vài bản tại Viện Tiêu chuẩn và Kỹ thuật Quốc gia Hoa Kỳ (NIST) - từng được dùng để hiệu chỉnh và đảm bảo rằng cả thế giới đang dùng chung một hệ thống các đơn vị đo lường.
+Những bản sao đó nhằm đảm bảo rằng một Kilogram sẽ luôn là một Kilogram - dù cho nó được đo tại một nhà máy sản xuất máy bay, hay trên bàn cân điện tử tại quầy thu ngân của một cửa hàng tạp hoá nào đó.
+ Và nếu bạn nghĩ rằng định nghĩa của Kilogram không có nhiều ảnh hưởng tại Hoa Kỳ, nơi vẫn sử dụng các đơn vị đo lường truyền thống như pounds, feet và gallons, thì các đơn vị đó đều được dẫn xuất từ hệ SI: 1 Found được định nghĩa chính thức bằng 0.
+45359237 kilograms.
+Vấn đề ở đây là: Big K là một vật thể nhân tạo, do vậy nó không hoàn hảo.
+ Nếu Big K thay đổi, mọi thứ sẽ phải thay đổi theo.
+ Và điều đó đã xảy ra: Big K không còn được giữ nguyên trạng, nó đã bị mất đi khoảng 50 micrograms (bằng với khối lượng của một cái lông mi) kể từ khi được tạo ra.
+ Nhưng, thất vọng thay, kể cả khi khối lượng của Big K thay đổi, nó vẫn nặng 1 Kilogram, dựa trên cách định nghĩa cũ.
+Điều đó tất nhiên là không ổn.
+ Vậy có cách định nghĩa nào tốt hơn không?Định nghĩa mới sẽ gắn Kilogram với các hằng số tự nhiên, thứ không thể và không bao giờ thay đổi.
+Từ thứ Hai, Kilogram sẽ được định nghĩa dựa trên hằng số Planck.
+Hằng số Planck là một khái niệm của cơ học lượng tử (ngành nghiên cứu sự tương tác của các thành tố bé nhất trong vũ trụ), dùng để mô tả cách mà các phần bé nhất của vật chất giải phóng năng lượng.
+ Một cách cơ bản, có thể hiểu hằng số Planck là hành động nhỏ nhất mà một electron có thể thực hiện.
+Điều quan trọng về hằng số Planck, đó là việc nó không thể, và không bao giờ thay đổi theo thời gian.
+ Điều đó khiến cho hằng số Planck có thể định nghĩa Kilogram một cách chính xác tuyệt đối.
+Nhưng trước tiên, để hiểu rõ tại sao hằng số Planck có thể được dùng để định nghĩa đơn vị Kilogram, hãy nhìn lại cách mà đơn vị Mét - đơn vị tiêu chuẩn của độ dài - được định nghĩa bằng tốc độ ánh sáng, như một ví dụ minh hoạ.
+Ban đầu, đơn vị Mét được định nghĩa là độ dài của một thanh kim loại tại Cục Đo lường Quốc tế.
+ (Sau đó, nó được định nghĩa lại là độ dài của một bước sóng bức xạ.
+) Một lần nữa, vấn đề của việc định nghĩa này là sự thiếu chính xác.
+ Nó không dựa trên những tính chất bất biến của vũ trụ.
+Ngược lại, tốc độ ánh sáng là không đổi.
+ Vào năm 1983, các nhà vật lý học đã có những bước tiến quan trọng trong việc xác định tốc độ ánh sáng.
+ Nên họ dùng nó để định nghĩa lại đơn vị Mét một cách vĩnh viễn.
+Một Mét được định nghĩa là quãng đường mà ánh sáng dịch chuyển trong vùng không gian không trọng lực, trong khoảng thời gian 1/299,792,458 giây.
+ Từ đó, định nghĩa của Mét được dựa trên định nghĩa của tốc độ ánh sáng.
+Quay trở lại với hằng số Planck.
+ Hằng số Planck có giá trị bằng 6.
+62607015 × 10-34 m2kg/s.
+ Có thể xem đơn vị của giá trị này - Mét bình phương nhân cho Kilogram, tất cả chia cho Giây - như một phương trình.
+ Kilogram có mặt trong phương trình này, nên một khi ta xác định chính xác giá trị của hằng số Planck, giá trị của Kilogram cũng sẽ được xác định.
+Mỗi đơn vị trong hằng số Planck đều được xác định bởi các yếu tố bất biến trong vũ trụ.
+ Mét được định nghĩa bằng tốc độ ánh sáng.
+ Giây được định nghĩa bằng các tính chất của nguyên tử trong nguyên tố Cesium.
+ Và một khi hằng số Planck được đo lường chính xác và được chấp nhận, có nghĩa là Kilogram cũng sẽ được xác định.
+Và chúng ta đã biết giá trị của hằng số Planck, thông qua quá trình đo đạc kéo dài nhiều năm.
+ Đó là một công việc cực kỳ khó khăn: đo lường giá trị nhỏ nhất có thể đo được.
+ Mất hơn một thập kỷ để làm điều đó, với sự trợ giúp của một trong những thiết bị đẹp đẽ và phức tạp nhất từng được tạo ra: thiết bị cân bằng Kibble.
+Và, một lần nữa: Kilogram mới có khối lượng tương tự với Kilogram cũ, vì các nhà khoa học đã sử dụng Kilogram cũ để đo đạc hằng số Planck.
+ Vậy nên, chúng ta không có điều gì để lo lắng.
+Bằng cách đó, Kilogram đã được định nghĩa bằng hằng số Planck, giống như cách Mét được định nghĩa bằng tốc độ ánh sáng.
+ (Và cũng từ thứ Hai, các đơn vị đo cường độ dòng điện - Ampere, nhiệt độ - Kelvin, và lượng chất - Mole, cũng đã được định nghĩa lại.
+ Chúng cũng được định nghĩa bằng các hằng số tự nhiên.
+ Nhưng không giống với Kilogram, chúng chưa từng được định nghĩa bằng các vật thể vật lý.
+ Big K là vật thể cuối cùng.
+)Tóm lại, lý do chính của việc định nghĩa lại các đơn vị đo lường này, đó là chúng ta không cần bất cứ một chính phủ, hay một tổ chức nào, để nói với chúng ta rằng một Kilogram là như thế nào.
+ Nó sẽ trở thành một chân lý cơ bản của vũ trụ, và bất cứ ai với nền tảng kiến thức đầy đủ đều có thể hiểu được nó.
+Dịch từ bài viết "The new kilogram just debuted.
+ It’s a massive achievement.
+" của tác giả Brian Resnick, đăng trên Vox.
+
+
+Tác giả: Mixn Nguyen

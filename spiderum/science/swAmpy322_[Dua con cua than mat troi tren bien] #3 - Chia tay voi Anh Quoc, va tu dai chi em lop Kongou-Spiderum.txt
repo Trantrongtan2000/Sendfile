@@ -1,0 +1,128 @@
+[Đứa con của thần mặt trời trên biển] #3 - Chia tay với Anh Quốc, và tứ đại chị em lớp Kongou
+Khoan nói đến chuyện tình cảm đôi lứa sứt mẻ giữa Anh và Nhật, chúng ta đang đứng ở năm 1905 phải không ?Chào mừng đến với thời đại Dreadnought !Khái niệm "toàn súng lớn"Khoảng những năm 1902 - 1903, các nhà thiết kế hải quân trên thế giới bắt đầu xét lại tư duy thiết kế tàu chiến chủ lực của mình : những thiết giáp hạm và tàu tuần dương bọc thép.
+ Thời điểm này, về căn bản, tàu chiến chủ lực sẽ có vài ba cỡ pháo chủ lực khác nhau theo kiểu : pháo bé đánh tàu bé, pháo to đánh tàu to, cho nó tiết kiệm đạn.
+Sơ đồ bố trí hoả lực trên tuần dương hạm bọc thép Scharnhorst của ĐứcTheo thời gian, tầm bắn, độ chính xác lẫn khả năng xuyên giáp của những khẩu đại bác cỡ 8 inch (203mm) trở lên ngày càng tốt hơn, và người ta tự hỏi rằng : tại sao không trang bị một thiết kế "toàn súng lớn" cỡ 10 inch trở lên cho tàu chiến chủ lực ? Đây không phải là một mớ lí thuyết suông, mà thực ra chúng đã được kiểm nghiệm qua thực chiến ở Hoàng Hải : giới hạn máy đo tầm xa của Nga và Nhật chỉ rơi vào khoảng 4km tới 6km, tuy nhiên, với pháo 12 inch, những cuộc đấu pháo ngoài tầm 12km đều đã diễn ra.
+Một luận điểm nữa ủng hộ cho việc xài pháo hạng nặng hàng loạt, đó là tiếp tế và điều khiển bắn cho con tàu giờ đây sẽ đơn giản hơn.
+ Thứ nhất, do tất cả những khẩu pháo chính trên tàu đều cùng một cỡ pháo lớn, vì vậy, chỉ cần 1 hệ thống điều khiển bắn cho tất cả các khẩu pháo trên tàu.
+ Thứ hai, việc tiếp tế đạn dược trở nên vô cùng dễ dàng, do pháo chính giờ đây sử dung chung một cỡ đạn pháo.
+ Cuối cùng, việc huấn luyện cho pháo thủ sẽ trở nên nhẹ nhàng hơn; và trong trường hợp khẩu pháo ở vị trí của anh ta bị hỏng, anh ta có thể tới hỗ trợ các pháo thủ khác ở các tháp pháo còn lại, do sự tương đồng giữa các tháp pháo.
+Người Anh thoả hiệp với lớp Lord Nelson mang một hỗn hợp pháo lớn khác nhau : 4 khẩu 12 inch (305mm) ở hai đầu của con tàu, và 10 khẩu hạng hai "lớn" cỡ 9,2 inch (234mm).
+ Người Nhật cũng thực hiện giải pháp tương tự với lớp Katori, người Mỹ với lớp Connecticut, và Ý với Regina - Elena.
+ Chúng đều mang một hỗn hợp giữa hai loại pháo 12 inch và 8 inch/9,2 inch.
+HMS Agamemnon, lớp Lord Nelson của AnhNgay trước khi hải chiến Tsushima nổ ra, người Nhật đã tính tới khả năng cho một con tàu mang toàn một thiết kế pháo chính đồng nhất.
+ Satsuma, đặt lườn ngay trước trận Tsushima chỉ 10 ngày, được dự trù để mang 16 khẩu pháo 12 inch sau khi nó hoàn thành.
+ Do thiếu thốn về loại pháo này, nên người Anh từ chối cung cấp ngần đó pháo hạng nặng - và người Nhật ngậm ngùi gắn những khẩu pháo 10 inch (254mm) thay thế.
+Cuộc cách mạng mang tên DreadnoughtSau khi tham khảo những kinh nghiệm của Nhật ở Hoàng Hải, Uỷ ban thiết kế Hải quân Hoàng gia Anh, mà đứng đầu là Đô đốc John "Jackie" Fisher đưa ra một bản danh sách những tính năng cần có trên thiết giáp hạm thế hệ mới tiếp theo của Anh, bao gồm :Một dàn hoả lực chính đồng nhất gồm pháo 12 inch, và một số pháo nhỏ 12-pounder (chính xác là 76mm).
+Việc loại bỏ những khẩu pháo hạng 2, và giữ lại những khẩu pháo cỡ nhỏ chống tàu phóng lôi đưa số loại đạn dược trên tàu giảm xuống con số 2, không hơn.
+ Tầm bắn được cải thiện, và bộ điều khiển hoả lực được dùng cho tất cả các khẩu pháo chính.
+Động cơ hơi nước bành trướng ba buồng đặt dọc, phải được thay thế bằng động cơ turbine hơi nước và các nồi hơi kiểu ống nước.
+ Thông thường ở động cơ ba buồng bành trướng, hơi nước được đốt nóng sẽ được đi qua ba buồng hơi, sau đó chuyển lượng nhiệt năng của mình thành thế năng, sau đó thải hơi nước qua ống khói, như hình dưới.
+Tuy nhiên, với nồi hơi kiểu ống nước và các turbine hơi nước, mọi thứ đơn giản hơn rất nhiều.
+ Nước được bơm qua các ống kim loại nhỏ đặt trong nồi hơi, tạo ra hơi nước nóng già với áp suất cao rồi xả thẳng vào turbine để làm quay chúng, sau đó nước được ngưng tụ lại và quay trở về chu trình, hoặc thải bớt đi để làm giảm áp suất trong nồi hơi.
+Điều này khiến hệ thống động lực của tàu mạnh hơn đáng kể, trong khi thể tích của hệ thống lại nhỏ đi, và có thể đặt hệ thống động lực dưới mực choán nước thay vì phải đặt bên trên như thông thường, giảm khả năng bị hư hại do trúng đạn.
+ Trên thực tế, tốc độ cao hơn cho phép tàu có thể nhanh chóng cắt chứ T kẻ địch hoặc thoát khỏi cắt chữ T của kẻ địch, làm thay đổi cục diện trận đánh.
+Dầu cũng được sử dụng, song song với nhiên liệu truyền thống là than.
+ Nó cho tốc độ cháy cao hơn, và giảm số nhân công đốt lò, do dầu được phun tự động vào buồng cháy cùng với than bụi.
+Vỏ giáp được tập trung tại một khu vực nhất định (bao gồm nồi hơi và hệ thống động lưc, tháp pháo và khu vực tiếp đạn cho các khẩu pháo, cùng với tháp chỉ huy).
+ Khu vực này là "thành trì" của con tàu (tiếng Anh nguyên bản là "citadel" ).
+Phía trên là sơ đồ bọc giáp của cô nàng HMS Bellerophon - một thiết giáp hạm dreadnought điển hình.
+ Thay vì vỏ giáp được làm riêng cho từng khu vực, thì giờ đây nó trở thành một khối thống nhất và bảo vệ toàn bộ những phần nguy hiểm của con tàu, bỏ qua những phần không quan trọng.
+ Những vách ngăn dưới mực nước cũng được cải thiện : thiết giáp hạm của Nga Tsesarevich đã sống sót sau khi trúng ngư lôi nhờ những vách ngăn như thế.
+Dưới áp lực của Đô đốc Fisher và những người ủng hộ ông, ngày 2 tháng 10 năm 1905, HMS Dreadnought chính thức được đặt lườn.
+ Cô được ưu tiên đóng ở xưởng đóng tàu tốt nhất - Xưởng tàu Portsmouth - và được ưu tiên những vật liệu quan trọng nhất.
+ Việc hoàn thành diễn ra nhanh chóng : một năm sau ngày chế tạo, HMS Dreadnought đã sẵn sàng chạy ra biển để thử máy, và tròn mười lăm tháng sau khi chế tạo thì con tàu được nhập biên chế vào Hải quân Hoàng gia Anh, trở thành kỳ hạm của Hạm đội Nhà.
+ Thiết kế được đánh giá là vô cùng thành công : tốc độ tối đa đạt tới 21 hải lý/giờ và tốc độ trung bình đạt 17 hải lý/giờ, nhanh hơn hẳn những con tàu tiền nhiệm trước đó với một độ ổn định đáng kinh ngạc.
+ Đại tá Reginald Bacon,  thành viên của Uỷ ban viết trong báo cáo : "Không một thành viên nào của Ủy ban Thiết kế có thể hy vọng mọi cải tiến đưa ra lại đạt đến thành công như trong trường hợp này".
+HMS Dreadnought đang chạy thử máyCó thể nói không ngoa rằng, Dreadnought chính thức mở đầu cuộc cách mạng hải quân mang tên mình.
+Sự chạy đua của Nhật BảnTuy phát triển những khái niệm "toàn súng lớn" từ rất sớm, nhưng do phụ thuộc vào linh kiện Anh Quốc trong mảng đóng tàu, nên Nhật Bản gần như tụt hậu trong cuộc chạy đua này.
+Năm 1905, Nhật hạ thuỷ thiết giáp hạm toàn súng lớn Satsuma ngay tại nội địa, nhưng do thiếu nguồn cung pháo 305mm từ Anh nên con tàu buộc phải dùng nhiều cỡ pháo để thay thế.
+ Tới năm 1909, một thiết kế cải tiến của lớp Satsuma là Kawachi được chọn làm lớp thiết giáp hạm tiếp theo được đóng trong nội địa Nhật Bản.
+ Nó mang toàn bộ tính năng của thế hệ dreadnought hiện đại lúc bấy giờ, trừ một việc : pháo chính không có cùng cỡ.
+Settsu, chiếc thứ 2 trong lớp KawachiNói cho đúng hơn, vấn đề ở đây nằm ở chiều dài của cỡ pháo.
+ Các khẩu pháo ở mũi và đuôi thuyền là pháo 12 inch/50 caliber Type 41; trong khi đó, pháo ở hai bên mạn thuyền là cỡ 12 inch/45 caliber Type 4, ngắn hơn khoảng 1,5m so với pháo gắn ở hai đầu thiết giáp hạm.
+ Hệ thống điều khiển bắn phải tách riêng cho hai loại pháo khác nhau dù dùng chung một cỡ đạn, đem lại những rắc rối trong vận hành con tàu.
+ Đây là một yếu điểm không lồ, và tất cả chỉ do Anh Quốc không có đủ pháo 50 caliber để cung cấp cho Nhật Bản(Chú thích về đơn vị caliber : đây là một đơn vị dùng để so sánh giữa chiều dài nòng và cỡ nòng của khẩu súng/pháo.
+ Ví dụ, nếu ta nói về khẩu Mark 7 406mm/50 caliber trong Hải quân Hoa Kỳ, có nghĩa là nòng pháo của nó có cỡ 406mm và dài 2,03m - gấp 50 lần cỡ nòng pháo.
+)Hơn thế nữa, khi Anh đưa tàu chiến - tuần dương (battlecruiser) đầu tiên HMS Invincible vào hoạt động vào năm 1909, thì mọi tàu chiến chủ lực của Nhật đều trở nên lạc hậu.
+ Sự kết hợp của hoả lực hợp lý gồm 8 khẩu 12 inch, với tốc độ lên tới 26 hải lý một giờ và lớp giáp dày vừa đủ để chịu được pháo 12 inch/45 caliber, đặt mọi cường quốc hải quân đứng sau Anh trong cuộc chạy đua, trong đó có Nhật Bản.
+HMS InvincibleNhật Bản cần tìm mọi cách để có thể vượt ra khỏi ảnh hưởng của Anh, và cách nhanh nhất, là nhờ vào chính nước Anh.
+Một thiết kế hoàn hảoNhững hành động chạy đua của Anh và Đức, cùng việc xác định một cuộc đụng độ trong tương lai với Mỹ, khiến Nhật Bản không thể chậm chân hơn nữa trong cuộc chạy đua này.
+ Năm 1909, Nhật đưa ra những kế hoạch đầu tiên cho một lớp tàu chiến tuần dương hạng nặng, và phải tới 3 năm sau, vào năm 1911, Nghị viện Nhật Bản mới đồng ý cấp tiền cho kế hoạch chạy đua này, với kế hoạch đóng mới 1-2 thiết giáp hạm và 4 tàu chiến - tuần dương hạng nặng.
+ Ngay lập tức, Nhật liên hệ với hãng Vickers Anh Quốc, kẻ đang có trong tay lớp tàu chiến tuần dương mạnh nhất thế giới - lớp Lion.
+HMS Queen Mary, một thiết kế cải tiến của lớp LionRất mạnh mẽ vào lúc bấy giờ, nhưng nhà thiết kế hải quân nổi tiếng Sir George Thurston vẫn chưa hài lòng với Lion lẫn bản cải tiến của nó, Queen Mary.
+ Ông đề nghị với Nhật Bản một thiết kế dựa trên khung lườn của Lion nhưng được bố trí hoàn hảo hơn rất nhiều : sàn pháo phụ được chuyển toàn bộ lên phía trước, thu gọn hệ thống động lực, tăng cường hoả lực của con tàu lên 5 tháp pháo nòng đôi 13,5 inch (343mm) Mark V.
+ Thiết kế cuối cùng của ông được đặt mã nội bộ là Vicker 472C.
+Thiết kế Vicker 472CNhật Bản lúc này đã dự trù kế hoạch cho một cuộc chiến tranh với Hoa Kỳ, và pháo 343mm có lẽ là không đủ.
+ Họ đòi hỏi loại pháo có cỡ nòng lớn hơn : cỡ 356mm, vốn chỉ đang được thử nghiệm lúc này.
+ Để đảm bảo độ ổn định và tốc độ của con tàu, tháp pháo "X" đặt gần cuối tàu bị loại bỏ, bù cho việc dàn hoả lực được nâng cấp một cách đáng kể về chất lượng.
+ Thiết kế được phía Nhật Bản chấp nhận, và ngày 17 tháng 11 năm 1911, chiếc đầu tiên được đặt lườn với cái tên Kongou (Kim Cương).
+Kongou, như nó hiện hữu vào năm 1913Một chú ý đáng ngạc nhiên là thiết kế của Sir George Thurston quá thành công, tới mức mà chiếc tàu chiến tuần dương tiếp theo của Anh, HMS Tiger, gần như sao chép lại nguyên bản thiết kế của Kongou.
+ Thật đáng ngạc nhiên khi mà Vickers lại tạo ra một con tàu cho nước ngoài tốt hơn hẳn hàng của chính quốc.
+HMS Tiger (1914)Hoàn thiện, những hoạt động ban đầu và tái cấu trúcĐể đảm bảo có thể nắm vững những kĩ thuật đóng tàu của Anh, hơn 100 kĩ sư cùng khoảng 100 nhân viên khác gồm các thợ lành nghề, quản đốc, quan sát viên, kỹ thuật viên.
+.
+.
+.
+.
+.
+ được gửi tới Vickers để quan sát và hỗ trợ trong quá trình đóng tàu, đồng thời ghi lại tới chi tiết kỹ thuật nhỏ nhất của bản thiết kế.
+ Sự đầu tư đã đem lại trái chín : ngày 4 tháng 11 năm 1911, người Nhật đặt lườn cho cô em thứ hai trong lớp - Hiei ở hải càng Yokosuka, và tới ngày 16 tháng 3 năm 1912, họ tiếp tục đặt lườn cho hai cô em út trong lớp - Kirishima và Haruna.
+Lườn tàu của Kirishima tại NagasakiĐiều đặc biệt của cặp tàu chị em Kirishima - Haruna, là do Nhật Bản không có đủ đường trượt hạ thuỷ và nhà máy đóng tàu quân sự đủ lớn, nên Kirishima và Haruna được đóng tại hai nhà máy đóng tàu tư nhân ở Nagasaki và Kobe.
+ Ngay khi ra khỏi xưởng đóng tàu, chúng lập tức trở thành những chiến hạm chủ lực mạnh nhất lúc bấy giờ, với dàn hoả lực 356mm và một thiết kế hài hoà giữa vỏ giáp lẫn tốc độ.
+Hiệu năng của những con tàu tốt tới nỗi, người Anh đã ngỏ ý mượn cả bốn con tàu trong Thế chiến thứ Nhất.
+ Tuy nhiên, câu trả lời của người Nhật là "không" - họ lo sợ con tàu sẽ bị mất trong chiến đấu do tính mỏng manh của tàu chiến - tuần dương.
+ Trên thực tế, chị em xa với lớp Kongou là Queen Mary đã mất trong chiến tranh do nổ hầm đạn, còn thiết kế được coi như "em út" của lớp Kongou và lớp Lion là HMS Tiger thì lại chịu được khá nhiều hoả lực và sống sót sau cuộc chiến.
+Haruna chạy thử năm 1915Hoạt động khá hạn chế trong Thế chiến đầu tiên, Kongou, Haruna và Kirishima phải trải qua một đợt tái cấu trúc lớn sau khi Nhật Bản kí Hiệp ước Hải quân Washington.
+ Những con tàu mới đang đóng dở thuộc lớp Amagi và Tosa phải bị tháo dỡ hoặc chuyển đổi mục đích, và như vậy, cùng với lớp Ise và Fuso, những tàu chiến lớp Kongo là chỗ dựa cuối cùng của Hải quân Đế quốc Nhật Bản.
+ Để lách luật về tải trọng, Hiei được chuyển đổi thành tàu huấn luyện, trong khi chị em của cô được bổ sung thêm giáp, đai chống ngư lôi, và ray phóng để có thể sử dụng thuỷ phi cơ trinh sát Nakajima A2N.
+ Ống khói phía trước được loại bỏ, tạo điều kiện cho cấu trúc thượng tầng được nối dài thêm nhằm tăng tầm ngắm cho hệ thống quan sát/điều khiển bắn, trờ thành kiểu cấu trúc thượng tầng "tháp chùa" đặc trưng.
+Lúc này, Kongou, Haruna và Kirishima được xếp lớp như những thiết giáp hạm.
+Kongou sau khi tái cấu trúc lần 1, năm 1931Năm 1935, Nhật Bản rút khỏi Hiệp ước Washington, và cuộc chạy đua quân sự lại được tái khởi động.
+ Nguyên vật liệu đang được tích góp để đóng hai siêu thiết giáp hạm lớp Yamato, nên việc thay thế những thiết giáp hạm lớp Kongou là gần như bất khả thi : Hiei được tái vũ trang, và cả 4 con tàu đều tiếp tục được cải biên mạnh hơn nữa.
+ Các nồi hơi than - dầu hỗn hợp được thay bằng nồi hơi Kampon đốt dầu, giáp và đai chống ngư lôi được tăng cường.
+ Hệ thống phòng không được bổ sung bằng các khẩu đội 25mm tầm thấp và 127mm tầm cao, cấu trúc thượng tầng được bổ sung.
+Sự khác biệt của từng thiết giáp hạm sau khi cải biên.
+ Chú ý ở thượng tầng của Hiei không có cột ăng ten chạc 4 - đây sẽ là nguyên mẫu của thượng tầng trên lớp Yamato sau nàyCũng cần phải nhắc lại rằng : tứ đại chị em lớp Kongou đều là những tàu chiến đã có xấp xỉ 25 - 30 năm tuổi đời vào lúc chúng được hiện đại hoá.
+ Giáp mỏng, vũ khí chỉ dừng ở mức vừa phải; ưu điểm lớn nhất của chúng là tốc độ lên tới 30 hải lý/giờ, đủ sức để hộ tống các tàu sân bay chủ lực và trở thành kỳ hạm của một hạm đội tàu tuần dương.
+ Chiến đấu, và tổn thấtCũ kĩ, mỏng manh và không được xem trọng bởi những đối thủ ở bên kia chiến tuyến, tuy nhiên cả 4 cô nàng đều hoạt động cực kì tích cực trên mặt trận Thái Bình Dương do khả năng đa nhiệm của mình.
+Kongou  xuất kích vào ngày 4 tháng 12 cùng với Haruna và 3 tàu tuần dương lớp Takao về hướng Đông Dương nhằm đánh chặn thiết giáp hạm Prince of Wales cùng tàu chiến tuần dương Repulse của Anh.
+ Họ không tìm thấy lực lượng này, nhưng thay vào đó, Prince of Wales và Repulse bị phát hiện nhanh chóng bởi lực lượng Không quân Hải quân Nhật đóng tại Thủ Dầu Một và Sài Gòn.
+ Cả hai tàu chiến của Anh đều bị đánh đắm, cho thấy sự mong manh của những thiết giáp hạm khi không có sự bảo vệ đúng mực.
+Prince of Wales và Repulse bị đánh chìmKirishima và Hiei đều chiến đấu cực kì dũng cảm trong trận hải chiến Guadacanal vào đêm ngày 12 tháng 11, gây nên rất nhiều tổn thất cho Hoa Kỳ.
+ Tuy vậy, sai lầm của thuyền trường và hoa tiêu khiến Hiei cắt thẳng vào đội hình đối phương trong khi đang di chuyển, cùng với việc đang bật toàn bộ những đèn pha tìm kiếm công suất lớn, khiến Hiei trở thành mục tiêu tập bắn tầm gần của những tuần dương hạm hạng nặng Hoa Kỳ.
+Bọc giáp yếu kém và chịu quá nhiều hoả lực, Kirishima đã không thể kéo được Hiei về tới nơi sửa chữa.
+ Không thể cứu vãn được nữa, Hiei đã bị chính thuỷ thủ của mình đánh đắm vào ngày 13 tháng 1, sau khi huỷ diệt 3 tàu khu trục và một tàu tuần dương của kẻ thù.
+Hiei, đang bị tấn công bởi những chiếc B-17.
+ Vệt dầu loang khắp mặt biểnKirishima tiếp tục hoạt động một cách tích cực trong ngày 14 và 15 của chiến dịch Guadacanal.
+ Đêm ngày 14 tháng 11, Kirishima và đồng đội tìm thấy thiết giáp hạm USS South Dakota, liền sau đó họ khai hoả liên tục vào nó.
+ Trúng nhiều phát đạn và không thể đáp trả lại một cách hợp lí do hệ thống điện bị hỏng gần như hoàn toàn, South Dakota thiệt hại khá nặng nhưng vẫn trụ vững được cho đến khi USS Washington đến gần tiếp ứng mà không bị phía Nhật Bản phát hiện ra.
+ Khi Kirishima bật đèn pha tìm kiếm rọi thằng vào Washington, người Mỹ ngay lập tức phát hiện ra ai là địch, ai là bạn và nhanh chóng khai hoả thẳng vào Kirishima trong tầm bắn trực diện chỉ 8km.
+ Lớp giáp mỏng manh chỉ 250mm của cô phải chịu tới 9 phát đạn 406mm từ Washington cùng rất nhiều đạn pháo phụ, khiến cô mất khả năng điều khiển và bốc cháy giữa vùng biển Solomon, bù lại được việc bảo vệ cho đoàn tàu vận tải quan trọng tiến đến Guadacanal tiếp tế cho quân Nhật.
+USS Washington đang khai hoả trực diện vào KirishimaKongou, vốn hoạt động như một tàu hộ tống cực nặng và yểm trợ hoả lực cho các hải đội tàu sân bay đặc nhiệm, được chuyển tới Brunei để trở thành kỳ hạm của lực lượng A gồm một vài thiết giáp hạm và tàu tuần dương hạng nặng.
+ Sau khi tiêu diệt được tàu sân bay hộ tống Gambier Bay cùng các tàu khu trục Hoel, Johnston và Samuel B.
+ Roberts, Kongou chia tay với người chị em đi cùng suốt hành trình của mình, Haruna, để quay về sửa chữa tại Kure cùng với Nagato và Yamato.
+ Trên quãng đường đi của mình qua eo biển Đài Loan, cả ba bị phát hiện bởi radar của tàu ngầm USS Sealion; thuỷ thủ đoàn Kongou tưởng nhầm đây là radar của máy bay trinh sát và tỏ ra coi thường, vì cô đã từng bị các tàu sân bay chọn làm mục tiêu tới 5 lần và chưa lần nào thành công cả.
+ Họ cho rằng cô được nữ thần bầu trời che chở.
+Tuy nhiên thì rõ ràng là thần biển cả của Thái Bình Dương không che chở cho cô.
+ Khoảng gần 3h sáng ngày 21 tháng 11 năm 1944, tàu ngầm Sealion phóng ra chín quả quả ngư lôi đánh chặn hạm đội thiết giáp hạm này : 6 nhắm vào Kongou và 3 nhắm vào Nagato.
+ Nagato ngoặt khẩn cấp và né được, trong khi Kongou trúng hai quả và thiệt hại trung bình.
+ Tàu khu trục Urakaze cũng bị trúng hai quả và chìm ngay lập tức.
+USS SealionThuyền trưởng của Kongou, Shimazaki xin phép được tách ra và tiến đến cảng Keelung cách đó 65 hải lý để sửa chữa.
+ Đội kiểm soát thiệt hại cho rằng con tàu vẫn có thể di chuyển cùng hạm đội ở tốc độ 16 hải lý/giờ, nhưng sự thực tệ hại hơn thế nhiều.
+ Kongou ngày càng nghiêng dần, ban đầu chỉ khoảng 12 độ, sau đó tăng lên 20 độ.
+ Tốc độ của cô giảm xuống còn 12 hải lý; và đến khi tàu nghiêng tới 45 độ thì rõ ràng là cơ hội cứu sống con tàu giảm xuống còn không phần trăm.
+ Chỉ huy phó của Đội kiểm soát thiệt hại tự tử vì cảm thấy mình không làm tròn trách nhiệm; thuỷ thủ bắt đầu được di tản.
+ Đến 5 giờ 24 phút cùng ngày, khi mọi người đang di tản tới những tàu khu trục gần đó, thì có 4 vụ nổ lớn xảy ra do những quả đạn pháo 356mm.
+ Khoảng 1250 người thiệt mạng, bao gồm cả Đô đốc Shimazaki.
+Haruna đang bị tấn công ở KureHaruna, may mắn so với nhiều đồng đội và chị em xấu số của mình, sống sót tới năm 1945.
+ Ngày 24 tháng 7 năm 1945, người Mỹ tấn công vào Kure, nơi mà Haruna đang cập bờ.
+ Nhờ sự can đảm của những phi đội Kawasaki N1K Raiden, Haruna chỉ bị tổn thương nhẹ trong khi thiết giáp hạm Hyuga bị đánh chìm, và cô trụ vững được tới 4 ngày sau, khi Lực lượng Đặc nhiệm 38 của Hải quân Mỹ quyết đinh đánh cú chót.
+ Trúng tới 8 quả bom và thiệt hại nhân mạng 65 người, Haruna chìm tại vùng nước trong cảng.
+ Phần còn lại của cô được trục vớt vào năm 1946 và đem tháo dỡ, chính thức kết thúc câu chuyện về những con tàu huyền thoại từng là xương sống của Hải quân Đế quốc Nhật Bản.
+[Phần tiếp theo : Không đội Hải quân 1 - Từ Trân Châu Cảng tới Midway ]// Cám ơn các thím đã ủng hộ series của em ༼ つ .
+_.
+ ༽つ Dạo này em khá là bận, mà nội dung bài viết thì cùng hơi hơi dài nên phải rình lúc học xong thì mới viết được tí, thành ra phần 1 xong mà phần 2 đang đi chơi tung tăng :shame:Dù sao thì cũng chân thành cảm ơn các thím đã ủng hộ và mong các thím sẽ đón đọc những bài tiếp theo trong series <(")Burningggg.
+.
+.
+Love！Các bài trước trong series :#1 Đứa con của thần mặt trời trên biển#2 Mikasa và câu chuyện "người Á Châu quật đổ con gấu trắng" 
+
+Tác giả: swAmpy322

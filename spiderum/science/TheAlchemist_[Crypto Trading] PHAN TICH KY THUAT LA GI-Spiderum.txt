@@ -1,0 +1,133 @@
+[Crypto Trading] PHÂN TÍCH KỸ THUẬT LÀ GÌ?
+E hèm.
+ Tôi biết là công đồng Spiderum chả mấy ai quan tâm trading thị trường tài chính hay crypto gì mấy.
+ Nhưng thôi, trước khi quay lại với những thứ xung quanh Blockchain, crytoeconomics, decentralization, money, etc.
+ Tôi sẽ vẫn cứ viết một vài bài về trading trước vì đối với tôi nó dễ viết hơn, dễ hút view, dễ seed trong các group crypto hơn :)).
+ Tôi hứa sẽ chăm chút hơn cho công đồng Spiderum nhiều hơn trong các tuần kế.
+ Read on.
+-----------------------------------------------------Từ từ hẵng.
+Nếu ông nào lười đọc dài thì tôi nhắc luôn là các ông chỉ cần đọc khổ 1 tôi viết dưới đây thôi.
+ Sau đó các ông có thể đóng tab đi ra luôn và ngay.
+ Một trong những lý do đầu tiên khiến tôi bắt đầu viết series này là để làm rõ những quan niệm sai lệch về phân tích kỹ thuật (PTKT), hành vi tài chính, và làm rõ sự khác biệt với phân tích nền tảng (Fundamental Analysis).
+ Nếu các ông muốn biết sâu xa hơn chút đỉnh về lịch sử ra đời của nó, xu hướng thị trường, etc.
+ thì hãy đọc tiếp hết nhé.
+Sẵn sàng? Lấy cốc cafe ra ngồi uống đã rồi đọc tiếp.
+ Vội gì.
+PTKT là việc nghiên cứu về hành vi của thị trường và hành vi của người tham gia thị trường.
+ Yếu tố quan trọng bậc nhất trong PTKT là Giá.
+ Chấm hết.
+ Giá là tất cả, lũ lĩ các indicators khác chỉ là phụ gia mắm muối thêm vào giúp mọi người phân tích giá mà thôi.
+PTKT không phải là công cụ để dự đoán cho tương lai, nó chỉ là công cụ để nhìn nhận các khả năng có thể xảy ra.
+ Và nó giúp người tham gia thị trường phản ứng hợp lý khi khả năng đó xảy ra hoặc không xảy ra.
+ PTKT không phải là công cụ xem tử vi tướng số, nên nó chịu không biết trước tương lai nhé.
+Hết rồi.
+ Đi ra được rồi đấy mấy ông lười đọc.
+ Còn Vi với Xuân chăm lắm, 2 bả đọc hết để trade đấy.
+Năm 1948, Robert D.
+ Edwards và John Magee viết cuốn “Phân tích kỹ thuật - Xu hướng cổ phiếu” (Technical Analysis of Stock Trends), cuốn này được coi là Kinh thánh của Phân tích kỹ thuật.
+ Nó là cuốn sách có ảnh hưởng lớn nhất viết về quá trình diễn giải bản chất của thị trường và cộng đồng đầu tư.
+ Trong cuốn sách này thì Edwards và Magee đã định nghĩa PTKT là “Nghiên cứu về hoạt động của bản thân thị trường, trái ngược với nghiên cứu về hàng hóa trên thị trường.
+” Rất nhiều điều mà 2 cụ Edwards và Magee viết vào năm 1948 được bắt nguồn từ bài viết của huyền thoại Charles Dow vào khoảng 60 năm trước đó.
+Charles Henry Dow, ông được coi là cha đẻ của PTKT, cùng với Edward Jones, là người đồng sáng lập ra Dow Jones & Company.
+ Sinh ra và lớn lên tại Connecticut, năm 21 tuổi Charlie làm việc với tư cách là một phóng viên tại Springfield, MA.
+ Hồi ấy, khi ông Charlie này muốn viết về các công ty, ông sẽ phải trực tiếp đến thăm và đặt câu hỏi cho họ.
+ Thời này thì hơi khê một cái là chưa có Ủy ban chứng khoán và sàn giao dịch (đến những năm 1930 mới được thành lập), do vậy các công ty không bắt buộc phải trả lời các câu hỏi của ông.
+“Công việc kinh doanh của chúng tôi không liên quan gì đến ông” – đây đa phần là câu trả lời mà ông nhận được khi ông hỏi sâu hơn về cổ phiếu công ty đó.
+ Nhưng Charlie (đủ thông minh) để nhân thấy được những khoản tiền lớn đang được chuyển ra chuyển vào bằng cổ phiếu.
+Ông Charlie nhận ra rằng phần lớn chứng khoán của các công ty đã thành lập thường có xu hướng đi lên hoặc đi xuống cùng nhau.
+ Các cổ phiếu đi theo hướng ngược lại với xu hướng chung thường là rất ít.
+ Rất hiếm khi xảy ra việc có một cổ phiếu đi ngược lại với xu hướng của toàn thị trường trong một vài ngày.
+ Nếu thị trường đi lên, một khối lượng lớn chứng khoán cũng sẽ đi lên, và nếu thị trường đi xuống thì cũng khối lượng chứng khoán đó sẽ tụt dốc.
+ Mặc dù cũng có một vài trường hợp khi mà cổ phiếu này tăng giá nhanh hơn so với các cổ phiếu khác trong thời điểm tốt, và giảm giá nhanh hơn trong thời điểm xấu, nhưng nhìn chung những xu hướng này sẽ chuyển động trùng khớp với xu hướng của toàn bộ thị trường.
+ Trường hợp này đúng ở xưa và vẫn đúng ở nay.
+(Huh.
+ Tới đây thì hớp 1 hớp cafe nghĩ về chứng khoán Việt Nam rồi nghĩ sang thị trường Crypto xem nào.
+ Hummmmm)Charles Henry Dow (1851 - 1902)Hồi này thì, Charlie nhận ra rằng có hai nhóm công ty đang điều khiển thị trường.
+ Các công ty sản xuất ra sản phẩm, nhà sản xuất, và các công ty vận tải, đó là đường sắt (nên nhớ rằng đường sắt là phương tiện duy nhất để vận chuyển hàng hóa tại thời điểm này).
+ Trong những năm 1880, Charlie quyết định đưa ra hai chỉ số trung bình: Trung bình công nghiệp Dow Jones và Trung bình đường sắt Dow Jones.
+ Chỉ số trung bình công nghiệp DJ ban đầu chỉ bao gồm 12 công ty cổ phần lớn nhất nước Mỹ, sau đó tăng lên 20 vào năm 1916 và cuối cùng là 30 vào năm 1928 (mặc dù các công ty có thay đổi, nhưng số lượng các công ty vẫn giữ nguyên).
+ Chỉ số còn lại là trung bình đường sắt, trong đó có 20 công ty đường sắt và một số các công ty chiếm ưu thế nhất thời gian đó.
+Dưới đây là hình ảnh của ấn bản đầu tiên của tạp chí Wall Street Journal năm 1889, trong đó Charles Dow đã bắt đầu ghi lại những thay đổi về giá trong một cột có tiêu đề “biến động trung bình giá”Kể từ giữa cho đến cuối thập niên 90, phân tích kỹ thuật đã đi từ biểu đồ vẽ tay sang những phần mềm biểu đồ xịn hơn (Như là Tradingview chẳng hạn).
+ Nói thật là tôi và các bạn may mắn (đâm ra lười) khi có những công cụ hỗ trợ này, ngày xưa người ta toàn vẽ tay ạ.
+Dưới đây là biểu đồ vẽ tay của kỹ thuật viên huyền thoại Ralph Acampora từ năm 1970 tại trụ sở Hiệp hội các chuyên gia phân tích kỹ thuật thị trường tại Broadway, NYC.
+Các chuyên gia kỹ thuật thị trường thường gắn liền với các biểu đồ và việc phân tích biểu đồ.
+ Nhưng việc đó không nói lên rằng các bạn phải mua và bán cái gì, nó chỉ đơn thuần là những phân tích kỹ thuật, nghiên cứu sự thay đổi trong cân bằng giữa cung và cầu.
+ Vì vậy cách tốt nhất để hình dung ra những thay đổi trong trạng thái cân bằng này là sử dụng biểu đồ.
+Rất rất nhiều những ông thông minh nhất trong vài trăm năm vừa qua đã cố gắng làm chủ thị trường xong rồi thất bại thảm hại.
+ Lợi nhuận mà bạn có thể đạt được từ trading thị trường thành công là rất lớn.
+ Sự cạnh tranh trong trading là rất lớn.
+ Do vậy không cần phải quá ngạc nhiên khi những phân tích gia nổi tiếng trên thế với và kể cả những người đoạt giải Nobel thất bại khi tham gia đầu cơ vào thị trường.
+ Mặc dù vậy cũng đã có rất nhiều người thành công, nhưng họ là những ngoại lệ, khi họ bỏ ra hơn 10.
+000 giờ để mãi dũa kỹ năng trade và phân tích kỹ thuật của mình.
+Để thực sự nắm bắt tốt các nguyên tắc đằng sau phân tích kỹ thuật, tôi nghĩ rằng điều quan trọng đầu tiên là phải hiểu một chút về mặt “triết học” và tâm lý học đằng sau yếu tố cung và cầu trên thị trường.
+ Chính điều này làm cho phân tích kỹ thuật có lý và trở nên khả thi ngay từ đầu khi bạn kẻ những dòng kẻ đầu tiên vào chart.
+Một khái niệm quan trọng nữa cần được nhìn vào đó là xu hướng thị trường (market trend).
+ Bạn nên nhớ 1 điều: Khả năng xu hướng thị trường tiếp tục xu hướng trước đó sẽ cao hơn là đảo chiều.
+ Nếu thị đường đang có xu hướng đi lên, thì khả năng nó sẽ tiếp tục đi lên là lớn hơn rất nhiều so với việc nó đi xuống.
+ Điều đó cũng ra tương tự với xu hướng đi xuống của thị trường.
+ Nếu giá cả đang giảm xuống, thì khả năng lớn là nó sẽ tiếp tục giảm.
+Trong blog #theAlchemist này, tôi sẽ sử dụng các công cụ khác nhau mà chúng tôi nghĩ nó sẽ giúp ích trong việc nhận ra xu hướng thị trường và các thay đổi có thể xảy ra.
+ Các công cụ này bao gồm từ các chỉ số momentum, sentiment, tới nhận dạng chart patterns phổ biến.
+ Nhưng những thay đổi trong xu hướng thị trường thường xảy ra theo một quá trình.
+ Bạn nên nhớ rằng giá cả bị ảnh hưởng lớn bởi các nhà quản lý quỹ quy mô lớn với biên độ ra vào thị trường lớn lên tới hàng tỷ đô la mỗi ngày (Nôm na là cá mập - hay whales).
+ Vì vậy việc xu hướng thay đổi không phải là một sự kiện, mà là một quá trình.
+ Nó sẽ mất thời gian (đối với stocks) - đối với crypto thì thường sẽ nhanh hơn.
+Những sự thay đổi trong xu hướng này phản ánh những thay đổi bởi yếu tố cung và cầu – đều bị tác động bởi con người.
+ Thuật ngữ Fear and Greed (sợ hãi và tham lam) là hai cực đoan trong tâm lý con người giúp đưa sự thay đổi này tiến tới cân bằng giữa cung và cầu.
+ Đó là bất kể khi một người nhập vào lệnh mua hay bán, hoặc các thuật toán được xây dựng bởi con người để phục vụ mua hoặc bán, những hành động này đều phản ánh tâm lý sợ hãi và tham lam trong tâm lý của con người.
+ Do đó, hàng trăm năm qua, hành vi này có thể được thể hiện thông qua biểu đồ giá cả.
+ Thị trường có thể thay đổi qua nhiều năm theo cách chúng ta hành xử, hoặc có thể do môi trường kinh tế hoặc chính trị suốt những năm khác nhau, nhưng cuối cùng vẫn con người và hành vi, cảm xúc của họ làm giá cả thay đổi.
+ Đây là lý do tại sao cách hành xử của thị trường là không thay đổi.
+ Và đây cũng là lí do tại sao các pattern về giá mà chúng ta nhìn thấy ngày hôm nay có thể đã được xác định trong biểu đồ giá từ 100 năm trước.
+ Tôi sẵn sàng cá với các bạn rằng xu hướng về giá tương tự sẽ vẫn tương tự trong vòng vài trăm năm tới.
+“Thị trường thực ra là tập hợp vô thức của con người, phản chiếu hy vọng, ước mơ, và sự sợ hãi của tất cả chúng ta” - Chú Han from #theAlchemistPhân tích kỹ thuật tập trung vào hành vi của thị trường.
+ chúng ta cố gắng trả lời các câu hỏi “Cái gì?”, “Khi nào?”, và “Trong bao lâu?”.
+ Trái lại, phân tích nền tảng lại tập trung trả lời câu hỏi “Tại sao?”.
+Cả hai loại phân tích này đều cố gắng trả lời một câu hỏi chung là “Vậy thị trường sẽ đi theo xu hướng nào, đi lên hay là đi xuống?”.
+ Các nhà phân tích nền tảng sẽ thu thập hết các thông tin họ biết, và tính toán các thông tin mà họ có để định giá cho loại tài sản mà họ đang phân tích.
+ Nếu giá hiện tại nằm dưới giá định giá, thì bạn nên mua vào.
+ Còn nếu giá cao hơn, thì bán ra thôi.
+Vấn đề mà tôi gặp phải trong cách tiếp cận này là bạn cần thông tin.
+ Cần rất rất nhiều thông tin để xử lý.
+ Nhưng thử nghĩ mà xem, thông tin trên đời này chẳng bao giờ được chia đều, chia đúng, chia thật cho tất cả mọi người.
+ Bạn sẽ biết những điều mà người khác không biết.
+ Và người khác sẽ biết những điều mà bạn không biết.
+ Bạn sẽ luôn chỉ có một phần thông tin mà thôi.
+ Một trong những thông tin quan trọng nhất cần dùng để định giá hợp lý cũng đã bị loại bỏ trong phân tích nền tảng: “cung và cầu” - yếu tố gây ảnh hưởng đến giá cả.
+Do đó, nhà phân tích nền tảng đa phần luôn phải đưa ra rất nhiều giả định để kết nối các yếu tố trong mô hình phân tích của mình, và từ đó tính toán được khoảng giá và chuyển động của thị trường.
+Trong phân tích nền tảng, thông tin đầu vào và các giả định vừa là điểm mạnh và vừa là điểm yếu của phương pháp này.
+ Bạn sẽ cần rất nhiều các bước để tính toán ra “kết quả", rủi ro mà bạn nhận được do phụ thuộc vào thông tin, giả định, và phương pháp tính là lớn.
+ Trong khi đó các kỹ thuật viên phân tích thị trường thì chỉ cần đúng 1 bước :DMột vấn đề nữa ở đây là giá cả trên thị trường cũng có bị ảnh hưởng bởi tâm trạng của người tham gia thị trường, hay còn gọi là sợ hãi và tham lam.
+ Nhiều phân tích nền tảng được thực hiện để xác định giá trị hợp lý, về mặt toán học nhưng nó là không thể tính toán các yếu tố bổ sung nhằm xác định điểm người bán và người mua đồng thuận khi giao dịch.
+Phân tích kỹ thuật tiếp cận thị trường theo một cách khác.
+ Họ mặc định là tất cả những thông tin đã biết, bao gồm cả những gì các nhà phân tích nền tảng đang đưa ra, các thông tin “mật", đều đang được phản ánh tại giá ở thời điểm đó.
+ Thị trường là một cơ chế chiết khấu thông minh và đây là lí do tại sao các nhà phân tích kỹ thuật lại tập trung vào phân tích các hành vi của thị trường hơn là tập trung vào các yếu tố khác có thể có hoặc không gây ảnh hưởng tới thị trường.
+ Là một người tham gia thị trường trade, bạn muốn tập trung vào điều gì, nguyên nhân hay kết quả? Các ông phân tích nền tảng tiêu tốn thời gian cố gắng tìm ra nguyên nhân, trong khi đó các ông phân tích kỹ thuật có trong tay các bằng chứng có thực và sử dụng chúng để tìm ra kết quả cao nhất có thể xảy ra.
+ Đối với các kỹ thuật viên thị trường, họ không cần biết nguyên nhân để có thể dự đoán được kết quả.
+Vậy nếu bạn phải chọn một trong hai loại phân tích, bạn sẽ chọn loại nào? Bạn sẽ là một kỹ thuật viên, phân tích giá, hay bạn sẽ đi theo con đường phân tích nền tảng và tập trung hết vào các biến giúp xác định giá trị một loại tài sản, và bỏ qua chi tiết quan trọng là hanh vi người tham gia thị trường cùng biến động giá cả.
+ Hãy luôn ghi nhớ một điều rằng: phân tích nền tảng không xét đến hành vi của giá.
+Một trong những ưu điểm lớn nhất của phân tích kỹ thuật là khả năng có thể áp dụng vào các loại thị trường khác nhau.
+ Các ông phân tích nền tảng thì thường có xu hướng chỉ chuyên về một phần hoặc một mảng của thị trường.
+ Trái lại các ông PTKT thì luôn sẵn sàng cho mọi thứ, mọi thị trường liquid.
+Bằng việc lựa chọn thời điểm khôn ngoan, các kỹ thuật viên có thể áp dụng nguyên tắc của họ cho tất cả các khung thời gian.
+ Thị trường là cái mà chúng ta gọi là “Fractal”.
+ Cho dù chúng ta đang xem xét biểu đồ sử dụng khung thời gian hàng tuần, hay hàng ngày hoặc thậm chí các phần trong ngày, thì động lực cung và cầu là vẫn giữ nguyên.
+ Vì vậy kết quả là kỹ thuật viên có thể áp dụng nhiều khung thời gian khác nhau cho việc phân tích.
+ Các tiếp cận từ trên xuống xem xét khung thời gian lớn hơn, ví dụ như hàng tuần, để có thể có một cái nhìn tổng quan và rõ ràng hơn, và từ đó kỹ thuật viên sẽ có thể đưa ra biểu đồ phục vụ cho việc thực hiện các chiến thuật khác nhau.
+ Có một quan niệm sai lầm phổ biến đó là phân tích nền tảng là để dành cho dài hạn trong khi PTKT là phục vụ cho ngắn hạn.
+ Sự thật là khoảng thời gian càng dài thì các PTKT sẽ càng chính xác.
+ Còn với khoảng thời gian ngắn, thì các phân tích có thể sẽ không tốt cho lắm.
+ (Chính vì thế mà nhiều ông phàn nàn PTKT không dùng được cho thị trường crypto)Tôi tốt nghiệp từ Business School ra, thế nên việc tôi đã từng là fan và tin hoàn toàn vào sức mạnh của Fundamental Analysis là dễ hiểu.
+ Nhưng kể từ khi tôi học thêm Phân tích kỹ thuât, tôi chú ý nhiều hơn tới việc tôi cũng là con người.
+ Tôi cũng có cảm xúc.
+ Vì vậy nếu tôi có thể tránh việc làm cho bản thân thiên vị một điều gì đó càng nhiều càng tốt.
+ Phân tích nền tảng rất dễ làm cho bạn thiên vị một tập thông tin nào đó hơn.
+Phương pháp phân tích kỹ thuật này có thể không dành cho tất cả mọi người.
+ Nhưng tôi nghĩ rằng chúng ta có thể đều thống nhất phân tích kỹ thuật là một công cụ có giá trị đối với những người tham gia thị trường trading.
+Để kết bài, tôi xin được trích lời của Josh BrownPhân tích kỹ thuật là một cách giá trị nhất để nhìn vào thị trường.
+ Nếu chúng ta quan tâm chủ yếu đến giá cả, vậy thì tại sao chúng ta không bắt đầu và kết thúc nghiên cứu của mình về giá cả - Josh BrownHẹn gặp các bạn (các ông) vào bài blog kế tiếp.
+Cheers.
+Động viên tôi tại: thealchemist.
+io và trang facebook của #theAlchemist nhé
+
+Tác giả: TheAlchemist

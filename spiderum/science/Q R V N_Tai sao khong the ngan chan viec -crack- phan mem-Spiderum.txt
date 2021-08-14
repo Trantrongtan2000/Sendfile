@@ -1,0 +1,90 @@
+Tại sao không thể ngăn chặn việc "crack" phần mềm?
+Câu hỏi gốc: Cách mà một phần mềm “crack” được tạo ra và tại sao các nhà phát triển không thể ngăn chúng lại?Trả lời bởi Dennis Babkin, S/w developer, Investor, Aspiring scientistDennis Babkin's answer to How are cracked versions of software created and why are developers not able to prevent it?nullqr.
+aeCác sản phẩm crack được tạo ra nhờ vào việc sử dụng trình gỡ rối (debugger).
+ Đây là một loại chương trình đặc biệt được các lập tình viên dùng để tách cấu trúc chương trình của họ thành các phần cấu trúc nhỏ hơn với mục đích tìm kiếm lỗi và từ đó có thể sửa lỗi.
+ Thêm vào đó, trình gỡ rối còn có thể được sử dụng cho “kĩ thuật đảo ngược" (ND:  reverse-engineering là một kỹ thuật áp dụng trong CNTT, cơ khí, điện tử bằng cách tách nhỏ các cấu trúc của thiết bị ra để hiểu về cấu trúc và thuật toán của nó), để xem xét phía trong phần mềm và tìm hiểu về logic của nó.
+ Hầu hết kĩ thuật thứ hai được sử dụng bởi các nhà nghiên cứu “mã độc” với mục đích phân tích mã độc (hay virus máy tính) làm gì bên trong máy tính.
+ Nhưng nó còn được sử dụng bởi những kẻ tấn công với mục đích "crack" (hay bypass) việc đăng ký bản quyền hợp pháp và thỉnh thoảng còn thay đổi tính năng bình thường của phần mềm, như là cài “mã độc” vào nó.
+Lấy ví dụ, tôi giả sử phần mềm bị crack được biên dịch về mã máy (native code), chứ không phải một ứng dụng dựa trên .
+NET hay JavaScript.
+ (Nếu không thì việc xem mã nguồn trở nên dễ dàng quá).
+ Việc phân tích mã máy đã được biên dịch thì thực sự là "khó nhằn".
+ (Native ý chỉ rằng mã đó được thực thi trực tiếp bởi CPU, GPU hoặc các phần cứng khác.
+)Giả sử kẻ tấn công đang nhắm đến việc vượt rào cản về phần logic đăng ký của phần mềm để hắn ta không phải trả tiền cho nó.
+ (Sau đó thì kiểu gì, mấy gã này cũng đăng "crack" lên mấy diễn đàn hoặc trang torrent để người khác cũng có thể "dùng" và đổi lại mấy comment biết ơn và thả tym)Để đơn giản hóa, giả định rằng mã gốc kiểm định đăng ký của phần mềm được viết trên C++ và nó tương tự như đoạn mã dưới đây:Trong mẫu code này thì "RegistrationName" và "RegistrationCode" là các chuỗi kí tự đặc biệt mà người dùng hợp pháp của phần mềm sẽ nhận được sau khi mua bản quyền.
+ (Phần tên này thường là tên thật và email của người đó và mã thì là một chuỗi kí tự độc nhất/đặc biệt mà sẽ gắn liền với cái tên này)Với logic trên, hàm với tên "isRegistrationCodeGood()"  sẽ kiểm tra xem "RegistrationName" và "RegistrationCode" có được chấp nhận bằng cách sử dụng một vài thủ tục kiểm tra quyền sở hữu.
+ Nếu đúng, nó sẽ trả về true.
+ Nếu không là false.
+ Mã đầu ra sẽ quyết định nhánh (hay mục tiêu) nào sẽ được thực thi.
+Vì thế logic trên sẽ có thể hiển thị việc đăng kí thất bại và thoát:Xin lỗi, mã đăng kí sai.
+ Vui lòng thử lại.
+Hoặc nếu mã đăng kí và tên khớp với nhau, nó sẽ lưu thông tin đăng kí tại một nơi lưu trữ cố định (ví dụ như File System hoặc System Registry) sử dụng hàm với tên "rememberRegistrationParameters()" rồi hiển thị thông báo cảm ơn người sử dụng đã đăng ký:Việc đăng kí hoàn tất.
+ Cảm ơn!Một "cracker" rõ ràng muốn có được kết quả thứ hai cho bất kì mã đăng kí nào mà gã nhập vào.
+ Nhưng vấn đề là họ không có mã nguồn C++ ở phần ví dụ tôi trình bày ở trên.
+ (Mong là không!)Vậy nên nguồn duy nhất cho những kẻ tấn công là disassemble mã nhị phân (thứ luôn đi kèm với các phần mềm ở dạng tệp .
+exe hoặc .
+dll trên Windows, đa số các phần thực thi Unix trong gói .
+app trên Mac.
+) Kẻ tấn công sẽ sử dụng trình gỡ rối để phân tích mã nhị phân và cố xác định phần logic đăng kí mà tôi chỉ ra phía trên.
+Tiếp theo bạn sẽ thấy lưu đồ cho phần mã C++ ở trên, được hiển thị bằng trình gỡ rối bậc thấp.
+ Hay có thể hiểu là mã sẽ được đọc dưới dạng nhị phân sau khi biên dịch:(Để dễ đọc hơn, tôi đã thêm phần chú thích vào bên phải với tên hàm và tên biến.
+ Chúng không có trong mã của kẻ tấn công.
+)(Để hiểu những thứ ở trên, kẻ tấn công phải có hiểu biết tốt về Hợp ngữ để hiểu mã máy.
+)Cũng cần phải nói rằng một đoạn disassembly như trên là kết quả cuối cùng mà kẻ tấn công nhận được.
+ Phần khó nhất bây giờ là xác định đoạn mã cần thiết giữa hàng triệu các dòng mã tương tự nhau.
+ Và đây là thử thách chính của họ.
+ Không nhiều người làm được điều này, nên việc "crack" phần mềm cũng là một kỹ nãng đặc biệt.
+Một khi được đoạn mã cần thiết trong tệp nhị phân thì "cracker" có hai lựa chọn:1) Thay đổi (hay ráp lại) chuỗi nhị phân2) Đảo ngược hàm "isRegistrationCodeGood()" và sao chép logic của nó để tạo ra một "KeyGen" (tự tạo mã sản phẩm)Giờ thì xem qua cả 2 cách nào:Lựa chọn thứ nhất khá là dễ hiểu.
+ Vì kẻ tấn công đã đi xa đến đây rồi, chắc hẳn gã hiểu Instruction Set của Intel x64 khá rõ (ND: đây là một chỉ số cấu trúc máy tính).
+ Vì thế đơn giản chỉ là đổi điều kiện cú nhảy từ "jnz short loc_7FF645671430" trên địa chỉ 00007FF645671418 (khoanh đỏ trên ảnh) trở thành vô điều kiện, hoặc "jmp short loc_7FF645671430".
+ Điều này sẽ loại bỏ hoàn toàn các đăng kí sai và bất cứ thứ gì người dùng nhập vào đều sẽ được chấp nhận như một đăng ký hợp lệ.
+Cũng nên chú ý là sự thay đổi này có thể được thực hiện chỉ với việc thay đổi một byte trong mã nhị phân từ 0x75 thành 0xEB:Nhưng cách tiếp cận này "trả giá" bằng việc thay đổi tệp nhị phân gốc.
+ Do đó kẻ tấn công cần "bản vá" của riêng mình (hoặc một tệp thực thi nhỏ sẽ thực hiện những chỉnh sửa ở trên.
+) Đối với kẻ tấn công, nhược điểm của cách tiếp cận này là việc vá tệp thực thi gốc sẽ làm hỏng chữ kí số, việc này có thể sẽ được cảnh báo đến người dùng cuối (end-user) hoặc nhà sản xuất.
+ Hơn nữa, các bản vá tệp thực thi này có thể dễ dàng bị đánh dấu và bị chặn bởi các phần mềm diệt virus, hoặc thậm chí làm lộ danh tính kẻ tấn công cho các nhà điều tra tội phạm.
+Giải pháp thứ hai thì láu cá hơn chút.
+ Kẻ tấn công sẽ phải nghiên cứu hàm "isRegistrationCodeGood()" rồi sao chép vào một chương trình của riêng mình.
+ Nó sẽ nhân bản logic được tích hợp trong phần mềm gốc và từ đó cho phép gã tạo ra mã đăng kí nào với bất kì tên nào, do đó bất kì người dùng xấu tính nào đều có thể đăng kí mà không cần trả tiền.
+Các nhà sản xuất đại đa số ứng dụng đều hiểu về nguy cơ ảnh hưởng của phương pháp thứ hai và cố gắng ngăn chặn bằng cách yêu cầu "xác thực".
+ Đơn giản là thêm một bước sau phần đăng kí, khi phần mềm gửi tên đăng kí đến máy chủ web của công ty và được hồi đáp liệu cái mã vừa rồi có hợp lệ hay không? Điều này được Microsoft áp dụng khi bạn mua Windows (họ gọi nó là “Kích hoạt Windows”) và cả các hãng như Adobe và nhiều công ty khác nữa.
+ Bước thứ hai này được chạy ngầm khi mà phần mềm được khởi động và thường sẽ hủy mã đăng kí trước đó nếu như nó là bất hợp lệ.
+Giờ thì bạn chắc cũng hiểu qua về khái niệm và phương pháp “crack” rồi phải không?Giờ là câu hỏi thứ hai tại sao không thể ngăn chặn để vấn đề này.
+  Tất cả đều dẫn ra một sự thật là mọi mã phần mềm thì đều chạy bởi CPU (trong trường hợp mã máy), trình thông dịch JavaScript hoặc trình biên dịch JIT (trong trường hợp của JavaScript và .
+NET.
+) Điều này có nghĩa luôn có cách để đọc/thông dịch bất cứ thứ gì, bất kể độ phức tạp, miễn là đủ kiến thức và kiên trì thì kẻ tấn công vẫn có thể đọc được và rồi bẻ gãy nó.
+Đã có tranh luận về việc các phần mềm nền tảng điện toán đám mây thì bảo mật hơn, đúng vậy vì mã nhị phân của nó lưu trên sever và các người dùng cuối thì không thể truy cập trực tiếp đến nó.
+ Và mặc dù rõ ràng các phần mềm nền tảng đám mây là công nghệ của tương lai, nó vẫn có một vài nhược điểm lớn khiến nó không bao giờ thay thế hoàn toàn các phần mềm kiểu truyền thống được.
+ Điểm danh vài mục:Không phải ai cũng có kết nối Internet hoặc thoải mái với việc đưa dữ liệu của họ trực tuyến.
+ Mặt khác, đối với vài cá nhân, đường truyền Internet có thể quá đắt đỏ hoặc quá chậm khiến phần mềm chạy rất chậm.
+Sau đó có câu hỏi về việc điện toán phân tán.
+ Lấy ví dụ, Blizzard Entertainment sẽ không bao giờ để “World of Warcraft” chạy hoàn toàn trên sever của họ vì lượng tài nguyên khổng lồ cần phải xử lý với mỗi cảnh của từng người chơi.
+ Vì thế hợp lý nhất là để máy tính cá nhân người dùng xử lý riêng.
+Là một kĩ sư phần mềm, tôi hoàn toàn không thích việc đánh cắp bản quyền.
+ Nhưng tôi vẫn phải chấp nhận và sống với nó thôi.
+ Tin tốt là không có quá nhiều người thực sự ngồi mày mò tìm kiếm các bản crack phần mềm.
+ Vấn đề chính với những người xài crack là phải tải về một một tệp thực thi được vá, hoặc KeyGen hay Patcher của kẻ tấn công, họ phải "tin tưởng" hoàn toàn rằng người đó không cho bất cứ thứ gì "mờ ám" vào phần mềm mà không "giới thiệu" (những thứ như trojans, mã đọc hay keylogger.
+) Vì thế câu hỏi đặt ra là liệu có đáng đánh đổi tiền mua bản quyền với nguy cơ nhiễm virus cho hệ thống của bạn hay không?Xét về khía cạnh khác, có rất nhiều các nhà phát triển phần mềm phản ứng rất tiêu cực với bất kỳ hành vi đánh cắp bản quyền phần mềm của họ.
+ (Tôi cũng từng thế.
+) Họ cố gắng tích hợp thêm tất cả phương pháp phòng chống -- mọi thứ từ đánh lừa quy trình đảo ngược, hay thêm các bẫy booby vào mã để có thể ngăn cản nếu phát hiện mã đang bị gỡ rối, cho đến làm rối mã nguồn, áp dụng các sơ đồ DRM phức tạp hoặc chặn người dùng từ một số quốc gia.
+ Tôi, trên quan điểm cá nhân, tránh xa tất cả các thứ này.
+ Và đây là lí do:A) Bất cứ chiến thuật chống đảo ngược nào cũng sẽ bị vượt mặt nếu người đó đủ kiên trì.
+ Vì thế sao tôi phải bận tâm và tốn thời gian của mình thay vì đâu tư nó để thêm những thứ hữu dụng cho người dùng hợp pháp?B) Một vài gói mã thêm vào có thể gây ra báo động giả với các trình diệt virus, điều này rõ ràng là không tốt cho việc bán sản phẩm rồi.
+ Nó cũng tạo nên sự phức tạp không cần thiết khi người phát triển muốn gỡ lỗi.
+C) Thêm các bẫy booby vào mã có thể làm tổn hại chính những người dùng hợp pháp, điều đó không chỉ gây khó chịu mà còn có thể dẫn tới kiện tụng.
+D) Các sơ đồ DRM sẽ có thể bắt được khoảng 100 bản lậu và gây ra sự bất tiện cho 10 000 bản hợp pháp.
+ Vậy tại sao phải làm điều đó với những khách hàng thật sự của bạn?E) Thống kê của chúng tôi cho thấy 75% các phiên bản phần mềm lậu đến từ Trung Quốc, Nga, Brazil, những tội phạm nghiêm trọng nhất.
+ (Tôi hiểu lí do có thể vì nguồn thu nhập thấp ở các nước đó.
+) Vấn đề chính với chúng ta là nếu mạnh tay thêm vào các DRM hoặc các bước kiểm tra xác thực nghiêm ngặt, những người muốn sản phẩm miễn phí sẽ đơn giản là chuyển sang trộm mã thẻ tín dụng.
+ Và việc này thì nằm ngoài tầm kiểm soát của bạn và tôi.
+ Hệ thống của chúng ta sẽ dùng nó để gửi họ những mã bản quyền hợp pháp.
+ Kết quả là chúng ta mất tiền trả cho bản quyền, thêm vào đó các công ty tín dụng chỉ phải bồi thường chúng ta một khoản phí từ 0.
+25 đến 20 đô mỗi lần giao dịch bất hợp pháp.
+F) Một vài công ty còn có thể được lợi từ việc cho phép các bản lậu phần mềm lưu hành.
+ Lấy Microsoft ra làm ví dụ, họ được quảng cáo miễn phí từ những người dùng hệ điều hành Windows, tương tự với Adobe Photoshop.
+ Đây là một điểm tốt mà tôi đồng ý.
+Vậy quan điểm của tôi là -- nếu ai đó muốn bỏ thời gian, công sức trộm phần mềm, cứ làm đi! Họ đã tốn công làm vậy nên hẳn là có lí do xác đáng.
+ Nhìn vào mặt tích cực thì số lượng khách hàng trân trọng công sức việc phát triển phần mềm đông đảo hơn nhiều số người không.
+Bài dịch của Hà Việt Tiến trong group Quora Việt Nam.
+
+
+Tác giả: Q R V N

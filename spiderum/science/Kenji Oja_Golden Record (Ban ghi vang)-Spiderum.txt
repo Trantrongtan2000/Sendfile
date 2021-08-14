@@ -1,0 +1,112 @@
+Golden Record (Bản ghi vàng)
+Golden Record là tên dự án gửi bản ghi âm về cuộc sống trên Trái Đất ra ngoài vũ trụ của NASA vào năm 1977, do nhà khoa học Carl Sagan đứng đầu hội đồng tuyển chọn.
+ Hai bản ghi bằng đồng mạ vàng có đường kính 12 inches đựng trong hộp nhôm đã được gắn lên 2 con tàu không gian Voyager 1 và Voyager 2, phóng lên với nhiệm vụ đầu tiên là khảo sát Mộc tinh và Thổ tinh (đã hoàn thành vào năm 1989) và sau đó với tham vọng xa hơn là đi ra khỏi hệ Mặt trời, tiến vào khoảng không vũ trụ liên vì sao.
+Cả 2 tàu Voyager đều mang theo bản ghi chứa đựng 116 hình ảnh và rất nhiều âm thanh từ tự nhiên như tiếng gió, sóng, sấm và cả tiếng của các loài vật, trong đó có tiếng chim hót và tiếng cá voi gù, cũng như âm nhạc được lựa chọn từ nhiều nền văn hóa ở các thời kì khác nhau, lời chào bằng 55 thứ ngôn ngữ của con người từ cổ đại đến hiện đại, thông điệp từ cựu tổng thống Mỹ Jimmy Carter và cựu tổng thư kí Liên Hiệp Quốc Kurt Waldheim.
+ Tất cả được mã hóa dạng analogue cùng với kim đọc, hướng dẫn cách sử dụng và vị trí của Trái Đất được ghi ngoài đĩa.
+Tôi đã rất thích thú khi nghe về dự án này trên Vsauce [4], nó là một khắc họa hay về con người, vừa đầy tham vọng khi tiến vào không gian bao la, lại vừa mang nét lãng mạn qua những thông điệp được gửi đi.
+ Tôi sẽ tản mạn xung quanh chuyện con người nghĩ gì khi thực hiện dự án Golden Record này.
+1.
+ Nói với “người ngoài hành tinh” bằng ngôn ngữ gì?Khi quyết định gửi bản ghi lên vũ trụ, hội đồng tuyển chọn của NASA đã phải suy nghĩ rất kĩ về việc làm sao cho “người ngoài hành tinh” (nếu có) có thể xem và hiểu được những điều chứa đựng trong đĩa.
+ Họ có để sẵn các thiết bị như kim đọc và đầu quay để sử dụng, nhưng ngay cả việc mở được chiếc đĩa để xem nội dung bên trong cũng là cả một vấn đề.
+ Ngay trên bề mặt đĩa có vẽ cách sử dụng, nơi bắt đầu đặt kim (giống chiếc máy nghe hát bằng đĩa than ngày xưa) và tốc độ quay chuẩn 16-2/3 vòng/phút (ghi bằng mã nhị phân) để có thể nghe đĩa đúng nhất.
+ Trên mặt đĩa cũng có cả hình ảnh đầu tiên trong bản ghi – một hình tròn, để “người ngoài hành tinh” biết được họ đã mở đúng cách, một mẫu đồng vị phóng xạ Uranium 238 để xác định thời gian làm ra đĩa.
+ Chà, khá vất vả nhưng hi vọng họ sẽ làm tốt ở bước đầu tiên này.
+Việc tiếp theo là làm sao cho họ biết được ai đã gửi những thông điệp này, chúng ta đang ở đâu, chúng ta biết cái gì? Ta đâu thể dùng những cái tên quen thuộc như Hệ Mặt Trời, dải Ngân Hà để mà nói, cũng không thể bảo “Này, tôi ở Trái Đất, cách bạn xyz năm ánh sáng đấy!” Hệ Mặt trời quá nhỏ bé và sẽ chẳng ai biết nó ở đâu trong vũ trụ, ngay cả cái tên Hệ Mặt Trời cũng chỉ là do con người đặt ra.
+ Năm ánh sáng cũng lại là một đơn vị của riêng con người, vì “năm” là khoảng thời gian mà Trái Đất quay trọn một vòng quanh Mặt Trời, những ai không sống trong Hệ Mặt Trời không thể biết được.
+ Vấn đề khoảng cách cũng không giải quyết được bằng “Đơn vị thiên văn” (AU: Astronomical Unit) – là khoảng cách từ Trái Đất đến Mặt Trời, hay parsec – là khoảng cách mà từ đó ta nhìn thấy Trái Đất cách Mặt Trời dưới góc 1 giây cung.
+ Đến đây ta mới thấy tính cục bộ của các đơn vị đo lường vẫn hay được sử dụng.
+ Rất may là trong vũ trụ có một loại sao rất đặc biệt – sao xung (pulsar).
+ Pulsar là sao neutron xoay rất nhanh, phát ra bức xạ radio đều đặn với chu kì rất ngắn.
+ Mỗi pulsar có chu kì và cường độ bức xạ riêng biệt nên bằng cách đo bức xạ nhận được, ta hoàn toàn có thể xác định được vị trí của pulsar nguồn.
+ NASA đã dùng 14 pulsar có phát bức xạ đến được Mặt Trời để xác định vị trí ba chiều của Mặt Trời trong không gian.
+Vậy là đã định vị được Trái Đất, kế đến là thống nhất “ngôn ngữ” cho những nội dung tiếp theo.
+ “Ngôn ngữ” ở đây bao gồm đơn vị đo chiều dài, thời gian và cách đếm của chúng ta.
+ Một lần nữa, “giây, phút, giờ” hay “mét, kilomet” chỉ đều là đơn vị của riêng sinh vật trên Trái Đất.
+ Nói đơn giản thì 1 giây bằng 1/3600 giờ, 24 giờ là thời gian Trái Đất tự quay quanh mình, 1 km xấp xỉ 1/40 000 chu vi của Trái Đất.
+ Ta lại tiếp tục đau đầu nghĩ xem, đâu mới là “ngôn ngữ” phổ quát cho vũ trụ? Với giả định được chấp nhận rộng rãi hiện nay là vụ trụ có cấu trúc tương tự nhau ở mọi nơi, hydro chính là nguyên tử phổ biến nhất trong vũ trụ.
+ Người ta đã dùng hydro làm “ngôn ngữ chung” như sau: vẽ 2 nguyên tử hydro ở trạng thái năng lượng cơ bản với 1 vòng tròn và 1 vạch tượng trưng cho 1 proton và 1 electron.
+ Thời gian để chuyển từ trạng thái này sang trạng thái kia được dùng làm thời gian tham chiếu cho tất cả những sơ đồ được mã hóa sau đó, độ dài bước sóng phát ra cũng được dùng làm độ dài tham chiếu.
+ Từ 2 đơn vị này, người ta chuyển về các đơn vị thường dùng là giây và mét để diễn tả về Trái Đất trong những hình tiếp theo.
+2.
+ Hình ảnh này và âm thanh nàyTừ hàng ngàn bức ảnh được đề xuất, Carl Sagan và hội đồng tuyển chọn đã lựa ra 116 hình ảnh để lưu trữ trong Golden Record [5], có thể tạm chia làm các mục sau:Các kiến thức chung mà con người biết được: vũ trụ, các phép toán, các phân tử hóa học, phổ ánh sáng.
+Con người trên nhiều khía cạnh: sinh học (giải phẫu, X quang, DNA), gia đình (đàn ông, phụ nữ, trẻ con, sinh nở), cuộc sống thường ngày (ăn uống, chơi, làm việc, mua sắm) và nghệ thuật, giải trí (âm nhạc, thủ công, thể thao).
+Những thành tựu đáng tự hào: một số công trình kiến trúc đặc trưng, các loại nhà trên thế giới, đường xá giao thông, kính thiên văn và tàu vũ trụ.
+Thế giới tự nhiên: các loài động vật, cây cối, đại dương, những hòn đảo và vùng đất (có bán đảo Sinai trong kinh Cựu ước), sự dịch chuyển các lục địa, khám phá châu Nam Cực.
+Những hình ảnh này khắc họa nên những điều rất đẹp: một loài người sinh sống bình thường, hòa hợp, biết lao động và cũng biết tận hưởng cuộc sống, cùng với niềm tự hào về một số thành tựu đạt được trong việc tìm hiểu thế giới xung quanh, cải tạo môi trường sống và chinh phục tự nhiên.
+ Dù trong bối cảnh năm 1977, nước Mỹ vẫn còn đang choáng váng với cuộc chiến tranh Việt Nam, nhưng những hình ảnh về chiến tranh hay thảm họa, đói nghèo không hề xuất hiện.
+ Có lẽ việc lựa chọn cũng cho thấy tâm tính của con người: muốn “người ngoài” biết được những điều tốt đẹp về họ chứ không phải những điều xấu, những sai lầm đáng buồn đã xảy ra.
+ Đây cũng là mong ước của Carl Sagan nói riêng, và các nhà khoa học nói chung khi lựa chọn, rằng những hình ảnh đẹp này mới địch thị là đặc trưng của con người, mới là những điều cần lưu giữ và hướng tới, còn những thứ xung đột, chiến tranh chỉ là nhất thời mà thôi.
+Phần âm thanh lại là câu chuyện thú vị khác, đĩa bao gồm âm thanh của tự nhiên, của con người (tiếng tim đập, tiếng sóng não), những đoạn nhạc cổ điển và bài hát, và tiếng nói bằng 55 ngôn ngữ khác nhau với cùng 1 câu “Xin chào!” Tại sao không phải là những lời tuyên ngôn, lời khuyên, câu nói bất hủ hay được trích dẫn, mà lại là câu chào? Đúng là khi gặp một người lạ, câu đầu tiên ta nói sẽ là “Xin chào”.
+ Nhưng thật khó mà hình dung một vương quốc/ đất nước nào đó cử người đi thám hiểm vùng đất mới mà tất cả những điều cần làm chỉ là nói một từ “Xin chào” với cư dân tại đó.
+ Thế mà con tàu vượt không gian xa xôi lại mang trên mình lời chào của 55 ngôn ngữ từ cổ xưa cho tới hiện đại, nó giống như khi ta ngập ngừng trước cửa của một ngôi nhà lạ lùng bí hiểm, rụt rè nói vọng vào “Xin chào, có ai ở nhà không?”.
+ Như thế, để giới thiệu về người Trái Đất ngay buổi đầu gặp mặt, “Xin chào” bằng 55 thứ tiếng là cách bắt đầu hết sức thân thiện và “dễ thương”.
+Bạn có thể nghe lời chào bằng tiếng Việt ở giây thứ 25:30 trong video [6].
+Sau đó là 90 phút của âm nhạc được tuyển chọn đa dạng từ nhiều nền văn hóa khác nhau [8].
+ Như một người đang yêu, ta thể hiện tình cảm của mình qua những bài hát, cách mà ta cảm nhận về cuộc sống qua những giai điệu.
+ Ở đây ta yêu Trái Đất, với những âm điệu đầy ấn tượng của bản giao hưởng số 5 của Beethoven, nhạc truyền thống Mugham của Azerbaijan, và cả sự cô độc thấm sâu của Willie Johnson trong bài hát Dark Was the Night, Cold Was the Ground.
+Tuy nhiên, cũng như bao chủ đề khác trên thế giới, Golden Record vẫn còn gây tranh cãi về mức độ phù hợp và tính đại diện của thông tin cho Trái Đất, được lựa chọn chỉ bởi một nhóm các chuyên gia người Mỹ vào thập niên 1970.
+3.
+ Bản ghi cho “người ngoài hành tinh” hay cho chính chúng ta?Dù qua bao nhiêu nỗ lực, lựa chọn kĩ càng, ta vẫn không tránh khỏi việc tự hỏi: Liệu “người ngoài hành tinh”, nếu tồn tại, và nếu một ngày nào đó bắt được thông điệp của chúng ta, thì họ có hiểu được những gì chúng ta muốn gửi gắm không?Có lẽ rất khó, ta còn chưa thể hình dung được “người ngoài hành tinh” chính xác là như thế nào.
+ Những gì trước nay được tưởng tượng thường ít nhiều mang đặc điểm của con người, của sinh vật trên Trái Đất.
+ Không có gì đảm bảo rằng ở một nơi xa xôi nào đó, khác hẳn với môi trường sống trên hành tinh của chúng ta, lại tồn tại một dạng sống tương tự như vậy, hay thậm chí định nghĩa của “sinh vật sống” cũng rất khác, vượt xa ngoài những trí tưởng tượng điên rồ nhất.
+Chưa kể đến hành trình của 2 tàu Voyager, tuy về 2 hướng khác nhau và không nhắm vào mục tiêu nào cụ thể, thì đường đi của nó quá nhỏ bé so với vũ trụ bao la, xác suất để một “trí thông minh” nào đó có nền “văn minh” tương đương con người bắt gặp được Golden Record trong lúc ngao du vô định là cực kì thấp.
+Như thế, rốt cuộc tham vọng thật sự của việc gắn một thông điệp lên trên con tàu, phóng ra khoảng không liên vì sao, là để cho “người khác” nhận được, hay đa phần là cho chính chúng ta?Nhiều người cho rằng Golden Record như là một “Time Capsule” – một dạng kí ức được nén lại, những khoảng thời gian về chính con người đang sinh sống, một dấu mốc gửi đi để lưu trữ, để đến khi thực thể sống này có biến mất, thì đâu đó trong không gian vẫn còn tồn tại một kí ức về loài người – với tham vọng được lưu tên mình mãi mãi trong vũ trụ, với ước mong được giữ lại những gì đẹp đẽ và gần với bản chất nhất, như những lời khiêm tốn của Cựu Tổng thống Jimmy Carter được ghi bằng tiếng anh (chắc “người ngoài Trái Đất” không hiểu được):This Voyager spacecraft was constructed by the United States of America.
+ We are a community of 240 million human beings among the more than 4 billion who inhabit the planet Earth.
+ We human beings are still divided into nation states, but these states are rapidly becoming a single global civilization.
+ We cast this message into the cosmos … Of the 200 billion stars in the Milky Way galaxy, some – perhaps many – may have inhabited planets and space faring civilizations.
+ If one such civilization intercepts Voyager and can understand these recorded contents, here is our message: This is a present from a small distant world, a token of our sounds, our science, our images, our music, our thoughts, and our feelings.
+ We are attempting to survive our time so we may live into yours.
+ We hope some day, having solved the problems we face, to join a community of galactic civilizations.
+ This record represents our hope and our determination and our goodwill in a vast and awesome universe.
+(Tạm dịch: Con tàu Voyager được chế tạo bởi Hợp Chúng Quốc Hoa Kì.
+ Chúng tôi là một cộng đồng gồm 240 triệu dân trong số 4 tỉ cư dân cư ngụ trên Trái Đất.
+ Loài người chúng tôi vẫn còn đang chia ra thành những quốc gia, nhưng những quốc gia này sẽ sớm trở thành một nền văn minh toàn cầu duy nhất.
+ Chúng tôi gửi thông điệp này vào vũ trụ… Trong số 200 tỉ vì sao của dải Ngân hà, một vài, hoặc nhiều hành tinh trong đó có thể có sinh vật sống và có những nền văn minh.
+ Nếu có một nền văn minh nào đó có thể gặp được tàu Voyager và có thể hiểu được nội dung bản ghi này, thì đây là thông điệp của chúng tôi: Đây là một món quà từ một thế giới nhỏ bé xa xôi, chứa đựng những âm thanh, nền khoa học, những hình ảnh, âm nhạc, suy nghĩ và cảm xúc của chúng tôi.
+ Chúng tôi đang nỗ lực để sống sót ở thời gian của mình để có thể sống trong thời gian của các bạn.
+ Chúng tôi hi vọng một ngày nào đó, khi đã giải quyết được những vấn đề đang phải đối mặt, chúng tôi có thể tham gia vào cộng đồng các nền văn minh thiên hà.
+ Bản ghi này thể hiện niềm hi vọng, sự quyết tâm và mong muốn tốt đẹp của chúng tôi trong một vũ trụ bao la rộng lớn và tuyệt vời.
+)Vào thời gian đó, nước Mỹ nói riêng, và cả thế giới nói chung, vẫn đang rúng động bởi chiến tranh khắp nơi, chiến tranh lạnh căng thẳng và nguy cơ vũ khí hạt nhân khiến con người không biết liệu sắp đến ngày tận thế chưa.
+ Việc phóng những con tàu vào vũ trụ đã mang lại cảm hứng mới cho rất nhiều người, nhiều đứa trẻ đi theo con đường khoa học vả thành tài cũng nhờ giấc mơ chinh phục vũ trụ từng là huyễn hoặc nay lại mở ra ngay trước mắt.
+ Nó là một biểu tượng, một hành động khác biệt, cứu cho thế giới khỏi những quanh quẩn tranh chấp lợi ích nhỏ hẹp, để hướng ra thế giới bí ẩn ngoài kia.
+ Cái tên Voyager – Kẻ Lữ Hành – như một người rong ruổi ra đi vô định, để dấn thân vào cuộc hành trình khám phá những vì sao.
+Hiện tại, Voyager 1 đang ở khoảng không liên vì sao (interstellar) cách Trái Đất hơn 134 AU, là vật thể nhân tạo xa Trái Đất nhất trong vũ trụ.
+ Voyager 2 có phần chậm hơn một chút, đang ở vùng “vỏ bao Mặt Trời” (heliosheath) [7] cách Trái Đất hơn 110 AU.
+ Hai con tàu hoạt động bằng năng lượng hạt nhân Plutonium dự tính sẽ cạn năng lượng vào khoảng năm 2020, sau đó tiếp tục trôi vô định trong không gian, ước tính 40 000 năm nữa, Voyager 1 sẽ đến sao Gliese 445, thuộc chòm sao Hươu cao cổ (Camelopardalis), cách Trái Đất 17,6 năm ánh sáng.
+Thử tưởng tượng con cháu chúng ta 40 000 năm sau, nếu chúng có tồn tại, bằng công nghệ nào đó mà nghe lại được lời chào của tổ tiên cách cả ngàn thế hệ, liệu chúng có hiểu được, có một cảm xúc gì giống như khi ta nghe câu “Chân thành gửi tới các bạn lời chào thân hữu.
+” vừa rồi không.
+ Và nếu một nền văn minh nào đó tình cờ bắt được con tàu này, họ sẽ nghĩ thế nào?Thế giới bây giờ tuy đã khác thời điểm 1977, nhưng cũng hỗn loạn và chao đảo nhiều giá trị, cũng là lúc ta cần nhìn nhận lại bản thân và thế giới xung quanh.
+Vậy nếu là bạn, bạn sẽ lựa chọn gửi đi thông điệp gì vào vũ trụ kia?_ Lyra _Câu lạc bộ Học thuật Lan tỏa (Spread Out Academic Club)Tham khảo
+[1] Wikipedia Voyager Golden Record https://en.
+wikipedia.
+org/wiki/Voyager_Golden_Record
+[2] Voyager – the interstellar mission http://voyager.
+jpl.
+nasa.
+gov/index.
+html
+[3] Jet Propulsion Laboratory – The Golden Record http://voyager.
+jpl.
+nasa.
+gov/spacecraft/goldenrec.
+html
+[4] Vsauce – Messages For The Future https://www.
+youtube.
+com/watch?v=GDrBIKOR01c
+[5] Voyager record photograph index http://voyager.
+jpl.
+nasa.
+gov/spacecraft/scenes.
+html
+[6] Voyager 1 Golden Record – Earth’s cosmic voices https://www.
+youtube.
+com/watch?v=DpptII291aI
+[7] What’s It Like Where Voyager Is? http://www.
+nasa.
+gov/vision/universe/solarsystem/voyager-interstellar-terms.
+html
+[8] Contents of The Voyager Golden Record https://en.
+wikipedia.
+org/wiki/Contents_of_the_Voyager_Golden_Record#Music
+
+Tác giả: Kenji Oja

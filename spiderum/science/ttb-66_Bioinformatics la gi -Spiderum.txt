@@ -1,0 +1,60 @@
+Bioinformatics là gì ?
+1.
+ Bioinformatics ra đời từ khi nào?(source:http://www.
+nust.
+edu.
+pk/INSTITUTIONS/Centers/RCMS/ap/pg/MSBioinformatics/Pages/default.
+aspx)   Tin sinh học hay bioinformatics là một thuật ngữ được dùng thay cho sinh học tính toán.
+ Tuy nhiên, tính đến thời điểm hiện tại, thì số lượng người nghiên cứu về nó vẫn chiếm tỉ lệ khiêm tốn trong giới học thuật.
+ Ngoài ra, giữa những nhà nghiên cứu này thì tồn tại sự khác biệt khá lớn về đối tượng nghiên cứu.
+ Trong bài này, chúng ta sẽ tìm hểu đôi nét khái lược về lĩnh vực này.
+   Trên internet, chúng ta có thể tìm kiếm trang PubMed, đây là một trang lưu trữ và tìm kiếm những văn kiện có iiên quan đến bioinformatics.
+(https://www.
+ncbi.
+nlm.
+nih.
+gov/pubmed/).
+ Các bạn có thể vào theo đường link đính kèm theo này, để tự mình tìm hiểu kĩ hơn về bioinformatics.
+ Khi bạn vào trang PubMed, và tìm kiểm thử theo keyword "bioinformatics", thì đến thời điểm tháng 9 năm 2006, có đến hơn một vạn văn bản.
+ Những văn kiện đầu tiên, là 3 văn kiện được đăng lên vào năm 1993.
+ Tuy nhiên, chúng ta cũng không chắc được là có bao nhiêu luận văn, bài báo mà không đăng lên trên Pubmed.
+ Dù thế, chúng ta cũng có thể ước tính được, thuật ngữ "bioinformatics" được ra đời trong khoảng từ năm 1980 đén năm 1990.
+ Và câu hỏi là, ngành sinh học đã phát triển đến mức nào tại thời điểm đó?2.
+ Sự phát triển trong việc xác định trình tự Axit nucleichttps://www.
+irishtimes.
+com/polopoly_fs/1.
+3459544.
+1523535483!/image/image.
+jpg_gen/derivatives/box_620_330/image.
+jpg Thế kì 20, là một mốc đánh dấu cho sự phát triển của ngành sinh học, trong việc phát hiện ra thông tin di truyền, mà chúng ta quen với tên gọi của no là DNA.
+ Trong mỗi tế bào của chúng ta, các thông tin di truyền được mã hoá bằng một trình tự di truyền (trình tự axit nucleic), và nó chi phối đến cuộc sống sinh hoạt của chúng ta.
+ Và chính những thông tin di truyền (DNA) này được phục chế một cách chính xác và truyền đến thế hệ sau.
+ Những hiện tượng liên quan đến di truyền được xảy ra ở cấp độ các phân tử.
+ DNA chứa trong nó những đơn vị di truyền nhỏ.
+ Tuy nhiên, trong suốt quà trình lịch sử lâu dài, đôi khi xuất hiện những hiện tượng lỗi trong quá trình phục chế thông tin di truyền và dẫn đến gien của con cái và bố mẹ có một chút khác biệt nhỏ.
+ Chính sự biến đổi này là tiền đề cho sự tiến hoá.
+  Để tìm hiểu kĩ hơn về DNA, các bạn có thể tìm hiểu trên mạng, hay đọc những cuốn sách chuyên môn về DNA, ở đây mình sẽ lược qua một số tính chất của nó như:  DNA được cấu tạo từ hai mạch polyme sinh học xoắn đều qua một trục tưởng tượng, và các đơn phân của nó có cùng một cấu tạoMỗi đơn phân nucleotide được cấu tạo từ một trong bốn loại nucleobase Nucleobase bao gồm có adenine (A), guanine (G), cytosine (C), thymine (T)Genome là thứ chứa tất cả những thông tin di truyền của một sinh vật trong mỗi tế bào Nửa cuối của những năm 70-80, là thời điểm đánh dấu cho việc phát hiện ra cấu tạo của DNA, và sử dụng các kí hiệu như A, G, T, C như trên trong cấu tạo DNA.
+ Trình tự sắp xếp của 4 chữ cái tiếng Anh như này, được gọi là trình tự axit nucleic.
+ Nhiều nhà thực nghiệm, khi nghiên cứu từng mẫu di truyền riêng biệt, như gen ung thư, đều nhận ra và quyết định sự sắp xếp như trên.
+ Trong quá trình nghiên cứu như trên, trình tự sắp xếp thông tin di truyền và sau này có cấu trúc bậc một của protein, tạo thành một dạng dữ liệu (database) cần phải quản lý.
+ Trong thời đại hiện nay, với một dữ liệu lớn như thế, thì việc con người phải nhìn và tính toán bằng tay là một điều hết sức khó khăn.
+ Chính vì thế mà công việc này đã được đưa cho máy tính giải quyết.
+ Sự phát triển của kĩ thuật tính toán và phân tích thông tin về trình tự gien như trên trong những năm 70-80 đã hình thành nên những nền móng cơ bản cho bioinformatics về sau.
+3.
+ Sự phát triển trong nghiên cứu về gen và sự hình thành Bioinformatics.
+  Từ sự phát triển trong kĩ thuật xác định trình tự di truyền, chỉ có một bộ phận nhỏ thiết bị có thể thực hiện được việc xác định trình tự di truyền đó.
+ Tuy nhiên, từ những năm 80, các nhà khoa học nhận thấy, không thể chỉ dùng trình tự di truyền trong DNA và RNA để giải thích các hiện tượng sinh học.
+ Chính vì thế, mà sự nghiên cứu về quy định gen, sự hoạt động của protein sinh ra từ thông tin về trình tự di truyền, các câu hỏi về protein đã thu hút các nhà nghiên cứu chuyển sang tìm hiểu về lĩnh vực này.
+  Qua những nghiên cứu riêng lẻ của các nhà khoa học, thì cuối thập niên 80, đã có dự án nghiên cứu về xác định toàn bộ trình tự di truyền trên gen.
+ Dự án này được gọi là genome project.
+ Lượng thông tin về trình tự di truyền trong genome project đã vượt quá lượng thông tin mà từng nhà khoa học thu thập được.
+ Chính sự phát triển của dự án về gen, mà sự tính toán và phân tích của máy tính là không thể thiếu trong việc xử lí dữ liệu về trình tự di truyền.
+ Đây là điểm gặp nhau giữa hai ngành riêng biệt là sinh học và khoa học thông tin, và giao điểm này chính là bioinformatics.
+  Ngay từ đầu, bioinformatics đóng vai trò giúp đỡ các nhà khoa học xử lí một khối lượng dữ liệu rất lớn thu được từ những thực nghiệm trong genome project.
+  Đến thời điểm hiện tại, thì bioinformactics vẫn đóng một vai trò rất lớn trong việc giúp đỡ các nhà khoa học trong các thí nghiệm của mình.
+ Mặt khác, cùng với sự phát triển của genome project và thông qua việc khai thác dữ liệu lớn từ trình tự DNA từ dự án này, chúng ta có thể thu được một lượng tri thức rất lớn từ gen.
+ Tóm lại, bioinformatíc không chỉ dừng công việc tại xác định được trình tự di truyền trong gen, mà còn qua việc xác định đó, chúng ta có thể có được rất nhiều những tri thức và cách tiếp cận khác nhau.
+ - 初めてのバイオインフォマティクス.
+　藤　博幸-
+
+Tác giả: ttb-66

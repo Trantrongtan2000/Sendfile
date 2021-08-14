@@ -1,0 +1,194 @@
+John Nash và Chuyện thần kỳ ở Princeton
+Bang New Jersey nhỏ xíu có một thị trấn mang tên Princeton.
+ Tuy chỉ có hơn 13 nghìn dân nhưng thị trấn cổ kính thanh bình này nổi tiếng khắp thế giới vì tại đây có trường đại học Princeton và Viện Nghiên cứu cấp cao (IAS) , hai thánh đường của các nhà khoa học toàn cầu.
+ ĐH Princeton là một trường tư thục thành lập năm 1746, tuổi đời cao thứ 4 trong số khoảng 3700 trường đại học ở Mỹ.
+ Quy mô trường khá nhỏ, tổng số nhân viên, giáo viên và học viên chỉ vào khoảng hơn 6 nghìn người, không có các học viện thu hút nhiều thí sinh như Y, Luật và Quản trị kinh doanh, tuy thế ĐH Princeton luôn luôn đứng hàng đầu trong các bảng xếp hạng ĐH toàn thế giới, trong đó có thành tích đào tạo được 2 Tổng thống và 20 chủ nhân giải Nobel.
+ Ngoài ra ĐH Princeton còn đặc biệt nổi tiếng về không khí học thuật tự do, khoan dung và tình thương yêu đùm bọc giữa các nhà khoa học.
+ Trong khuôn viên bao la xanh rợp bóng cây của nhà trường từng xuất hiện vô số chuyện thần kỳ chẳng hạn như câu chuyện về Jr.
+ John Forbes Nash.
+John Nash vào năm 2006“Người này là một thiên tài”Jr.
+ John Forbes Nash ra đời trong một gia đình trí thức có cha là kỹ sư điện tử, mẹ là giáo viên dạy tiếng Anh và tiếng La Tinh.
+ Từ bé Nash đã tỏ ra lập dị khác người, tính tình hướng nội, không ham chơi đùa mà chỉ thích đọc sách.
+ Ở trường tiểu học, cậu bị thầy giáo chê là đầu óc “có vấn đề” vì hay dùng những cách kỳ quặc để giải các bài toán.
+ Lên trung học, biểu hiện đó càng khiến mọi người ngạc nhiên: có lần khi giải bài tập toán, thày giáo viết đầy bảng, thế mà Nash chỉ dùng vài thao tác đơn giản là tìm ra lời giải.
+Thấy con có năng khiếu toán, cha mẹ cho Nash học chương trình toán cao cấp ngay khi cậu còn đang ở trung học.
+ Nhờ học giỏi, Nash nhận được học bổng của Học viện Công nghệ Carnegie.
+ Tại đây anh được thầy giáo toán gọi là Gauss trẻ, một cái tên đầy vinh dự, vì mọi người đều biết trong giới toán học xưa nay chưa ai vượt qua được thần đồng toán học người Đức Carl Friedrich Gauss (1777-1855).
+Năm đầu tiên Nash học ngành hóa, năm sau chuyển sang học toán.
+ Một lần anh đến gặp thầy hướng dẫn khoa học là giáo sư R.
+J.
+Duffin, trình bầy một phát hiện toán học mới của mình.
+ Ông thầy vô cùng ngạc nhiên khi thấy cậu học trò trẻ này đã tự chứng minh được Định lý điểm bất động Brouwer (Brouwer Fixpoint Theorem) mà cậu chưa biết rằng trước đây đã có nhà toán học làm được điều đó.
+Nash lấy bằng thạc sĩ ở tuổi 20 (năm 1948) và chuẩn bị làm nghiên cứu sinh tiến sĩ tại một trong 4 trường đại học đồng thời nhận anh: Harvard, Princeton, Chicago và Michigan.
+ Trong thư giới thiệu Nash đi học tiếp, GS Duffin chỉ viết mỗi một câu: This man is a genius (Người này là một thiên tài).
+Nhận xét ấy khiến ông Solomon Lefschetz Chủ nhiệm khoa Toán ĐH Princeton hết sức quan tâm.
+ Ông lập tức viết thư mời Nash sớm đến Princeton và hứa cấp cho anh học bổng John S.
+ Kennedy trị giá 1150 USD, một số tiền rất lớn ngày ấy và lớn hơn học bổng Harvard đã hứa cấp cho Nash.
+Princeton là trung tâm toán học toàn cầu, nơi đây chẳng những có Albert Einstein vĩ đại mà còn có Von Neumann nhà toán học đại tài, người đặt nền móng cho khoa học máy tính, lý thuyết toán học cho bom khinh khí và kinh tế học toán lý.
+ Một địa điểm như thế là nơi mơ ước của bất cứ nhà toán học trẻ tuổi nào.
+ Nash sao có thể bỏ qua thánh đường khoa học này.
+Bầu không khí học thuật tự do, khoan dung của Princeton khiến Nash như cá gặp nước, thỏa sức vẫy vùng.
+ Anh tự tìm lấy đề tài nghiên cứu: đó là lý thuyết cân bằng (equilibrium theory), một phần trong lý thuyết trò chơi ngày ấy còn mới lạ.
+John Nash nhanh chóng trở thành ngôi sao mới trên bầu trời Princeton.
+ Các bạn học xì xào: anh chàng này có chút lập dị nhưng cực kỳ thông minh.
+ Lloyd Stowell Shapley (sau này là chuyên gia lý thuyết trò chơi nổi tiếng ở ĐH Los Angeles) nhận xét Nash khó hòa hợp với mọi người nhưng tư duy logic của anh rất sắc bén và tuyệt đẹp.
+Trong hai năm 1950 và 1951, Nash công bố mấy bài báo khoa học, trong đó có 2 bài quan trọng: Điểm cân bằng trong trò chơi N người (Equilibrium Points in N-person Games) và Trò chơi bất hợp tác (Non-cooperative Games).
+ Anh đề xuất và định nghĩa khái niệm Cân bằng bất hợp tác (Non-cooperative equilibria, sau này gọi là Cân bằng Nash, Nash equilibrium), một đột phá khuôn khổ của Trò chơi kết cục zero (zero-sum game).
+ Định nghĩa này cùng với định nghĩa Tình cảnh khó khăn của tù nhân (Prisoner’s dilemma) do thầy hướng dẫn của Nash là Albert W.
+ Tucker xác lập năm 1950 đã đặt nền móng cho lý thuyết trò chơi bất hợp tác.
+Cân bằng Nash trở thành nền tảng lý luận cho Trò chơi hai người kết cục phi zero (Two person non zero sum game) là một khái niệm rất cao siêu khó hiểu, một bước phát triển lớn so với Trò chơi hai người kết cục zero do Von Neumann và Oskar Morgenstern đưa ra hồi thập niên 40.
+Lý thuyết trò chơi hiện nay thường nói chính là lý thuyết trò chơi bất hợp tác; nó trở thành công cụ đắc lực để phân tích tình thế kinh tế trong cạnh tranh thương mại và đàm phán thương mại.
+ Nhà kinh tế học phát triển Robert M.
+ Solow (Nobel kinh tế 1987) nói chính là nhờ cống hiến của Nash mà lý thuyết trò chơi trở thành lý thuyết đầy sức sống dùng để phân tích kinh tế hiện đại.
+Lý thuyết này nghiên cứu hành vi tương tác sách lược của mọi người.
+ Nó nghiên cứu làm thế nào để trong nền kinh tế thị trường, con người có thể tự nguyện đưa ra những quy chế hữu hiệu được mọi người tuân theo và thực hành, nhằm tăng tiến cơ chế phúc lợi của xã hội.
+ Nó là cơ sở để giúp con người hiểu biết sâu sắc các hành vi kinh tế và các vấn đề xã hội, vì thế nó được ứng dụng ngày một nhiều trong kinh tế học cũng như nhiều ngành khoa học xã hội-nhân văn khác, chẳng hạn chính trị học.
+Lý thuyết trò chơi ngày nay đã trở thành một phương pháp nghiên cứu dùng trong toàn bộ ngành khoa học xã hội.
+Tên của Nash gắn trong thuật ngữ Nash Equilibrium và Nash embedding theorem và xuất hiện trong các sách giáo khoa toán học, kinh tế học, các luận văn sinh học tiến hóa, các trước tác chính trị học.
+ Nash đem lại cho lý thuyết trò chơi các khái niệm toán học mới có tính cách mạng, nhất là khái niệm Nash embedding theorem.
+ Ngay Einstein đương thời cũng thừa nhận chỉ khi nào đầu óc tỉnh táo lắm ông mới thực sự hiểu các khái niệm đó.
+Các nghiên cứu nói trên được tập hợp trong bản luận án tiến sĩ 28 trang của Nash viết về lý thuyết Trò chơi bất hợp tác và trở thành căn cứ khoa học để hơn 40 năm sau Nash được trao giải Nobel kinh tế (năm 1969 mới thành lập giải này).
+Ngày 13/7/1950, đúng hôm sinh nhật lần thứ 22, John Nash được trao học vị tiến sĩ toán.
+Thành tựu của Nash xuất sắc tới mức giới toán học thế giới đều coi anh là bậc thầy về lý thuyết trò chơi.
+ Tạp chí Fortune nổi tiếng số tháng 7/1958 gọi John Nash là ngôi sao mới sáng nhất của nền tân toán học nước Mỹ.
+Nash ở lại ĐH Princeton một năm làm công tác giảng dạy và kiêm chức cố vấn cho Công ty RAND, một think tank hoạt động sôi nổi trong lĩnh vực quân sự (chủ yếu là không quân) thời kỳ chiến tranh lạnh.
+Về sau, Nash chuyển tới Học viện Công nghệ Massachusetts (MIT) tiếp tục giảng dạy, đồng thời vẫn tiến hành nghiên cứu, hoàn thành một số công trình đột phá về hình học đại số (algebraic geometry).
+ Cho tới nay các nhà toán học MIT vẫn đánh giá Nash có thành tích nghiên cứu “cực kỳ xuất sắc”.
+Tại Massachusetts, trong những giờ dạy toán, Nash làm quen với một trong hai nữ sinh viên duy nhất của khoa Vật lý – cô Alicia Lardé, con một ông bác sĩ y khoa người Mỹ gốc El Salvador (một nước nhỏ ở Trung Mỹ).
+ Cô gái xinh tươi kém anh 5 tuổi nhanh chóng có cảm tình với anh giáo trẻ tài giỏi, đẹp trai, cao 1,85m, có khuôn mặt quý tộc Anh và phong thái lịch sự, ứng xử thông minh.
+Mùa hè 1956 Nash được MIT cử đến Viện Nghiên cứu cấp cao Princeton làm việc một năm; Alicia đi cùng anh.
+Khi trở lại MIT, Nash được đề nghị phong chức danh giáo sư suốt đời.
+ Tháng 2/1957, anh và Alicia làm lễ thành hôn.
+ Đây là sự việc quan trọng nhất trong đời Nash, bởi lẽ không có Alicia thì anh không thể sống tới ngày nay.
+Tai họa bất ngờAi cũng tưởng rằng đôi uyên ương Nash-Alicia sẽ được sống hạnh phúc lâu bền bên nhau, ngờ đâu khi Nash vừa mới bước sang tuổi 30, cái tuổi tài năng có dịp nở rộ thì anh bị mắc chứng tâm thần phân liệt, nói thẳng ra là điên dại.
+ Alicia đau lòng ngán ngẩm nhìn ông chồng thể xác còn đấy nhưng linh hồn thì đã mất.
+ Dường như bệnh này có tính di truyền, vì con trai họ là John Charles Martin Nash, một tiến sĩ toán rất giỏi, về sau cũng mắc bệnh đó.
+Bệnh tâm thần vô cùng quái ác, nó làm cho bệnh nhân hoàn toàn bị cách ly khỏi xã hội, bạn bè, vợ con.
+ Hầu như mọi thứ thuốc, mọi sự chăm sóc đều không có hiệu quả.
+ Bất cứ người lao động trí óc nào khi đã mắc bệnh này thì coi như sự nghiệp đi đứt.
+Bệnh bắt đầu phát từ hồi Nash đang giảng dạy tại MIT và tiến triển từ từ; nguyên nhân tại sao thì không ai rõ.
+Có người nói đó là hậu quả công việc Nash làm tại Viện Nghiên cứu cấp cao Princeton.
+ Tại đây ông tham gia nghiên cứu với một nhóm chuyên gia phương trình vi phân và nhanh chóng có bứt phá quan trọng trong lĩnh vực phương trình vi phân phi tuyến, khiến nhóm chuyên gia kia kinh ngạc.
+ Nhưng đúng lúc ấy có tin mấy tháng trước một học giả trẻ người Ý đã chứng minh được một phần kết quả nghiên cứu của Nash.
+ Tin này khiến Nash nghĩ rằng chính người Ý kia đã làm ông mất cơ hội được tặng Huy chương Fields (còn gọi là giải Nobel Toán).
+ Có người nói mối hận ấy làm cho tinh thần Nash suy sụp và dẫn đến chứng tâm thần phân liệt.
+Nhưng Nash phủ nhận điều đó.
+ Sau này trong bản lý lịch gửi Ủy ban xét giải Nobel, ông cho biết: mùa hè năm 1957, ông bắt đầu chú ý tới một vấn đề hóc búa nhất trong cơ học lượng tử, đó là sự giải thích nguyên lý bất định Heisenberg (Heisenberg uncertainty principle), một lĩnh vực bên ngoài toán học, các nhà khoa học từng tranh luận mãi vẫn chưa thống nhất với nhau.
+ Nash cũng tranh cãi về vấn đề này với Oppenhelmer cha đẻ bom nguyên tử Mỹ, Giám đốc Viện Nghiên cứu cấp cao Princeton (1947-1966); sau đấy ông có viết thư xin lỗi Oppenhelmer về thái độ gay gắt của mình.
+ Nash cho biết: khi hiểu rằng ý định giải quyết mâu thuẫn nội tại của thuyết lượng tử là việc làm không lượng sức mình, tâm trạng ông bị mất cân bằng và có lẽ đó là nguyên nhân phát bệnh tâm thần.
+Mùa thu năm 1958, trong một lần trò chuyện với hai sinh viên nước ngoài, tự dưng Nash thao thao bất tuyệt nói những câu khiến hai người kia ngạc nhiên không hiểu ra sao.
+ Ông nói hoà bình thế giới đang bị đe dọa, nhân loại cần thành lập một “chính phủ thế giới” để bảo vệ hoà bình.
+ Một hôm ông chỉ tờ báo cầm trong tay và nói đây là mật mã của chính phủ người ngoài hành tinh gửi cho ông.
+ Khi ĐH Chicago mời Nash nhận một chức vụ rất cao thì ông lại viết thư từ chối với lý do ông phải đi làm “Hoàng đế châu Nam Cực”.
+ Hồi ấy trường MIT vì muốn giữ Nash nên định đề bạt ông, khi biết chuyện bức thư kỳ quặc ấy, họ cho là bệnh tâm thần của ông đã rất nặng.
+Nash mắc bệnh hoang tưởng, lúc nào ông cũng nghĩ mình được trao nhiệm vụ vĩ đại lãnh đạo phong trào hoà bình thế giới.
+ Ông viết rất nhiều thư và tự lái xe đến sứ quán các nước tại Washington trao thư gửi tới yếu nhân chính phủ các nước và quan chức Liên Hợp Quốc (LHQ).
+ Trong thư, ông bàn chuyện lập chính phủ toàn cầu để bảo vệ hoà bình thế giới.
+Năm 1962 có lần Nash đề nghị khoa Toán ĐH Princeton chuyển giúp thư của mình tới lãnh tụ Trung Quốc Mao Trạch Đông, nhưng vì hồi ấy Trung Quốc và Mỹ chưa có quan hệ ngoại giao nên thư không gửi được.
+ Năm 1967, khi Trung Quốc đang có “Cách mạng văn hoá”, Nash lại viết thư gửi một đồng nghiệp cũ ở nước này, trong đó ông mập mờ nhắc đến khả năng xảy ra chiến tranh hạt nhân tại biên giới Trung Quốc-Liên Xô.
+Trên thực tế hồi ấy giới trí thức phương Tây đúng là đang có trào lưu thân Liên Xô, ưa thích chủ nghĩa xã hội, chống làm bom nguyên tử và chống chiến tranh.
+ Do căm giận Thế chiến II tàn phá nền văn minh nhân loại, họ muốn lập một chính phủ thế giới để bảo vệ hoà bình.
+ Albert Einstein, Jean Paul Sartre .
+.
+.
+ đều ủng hộ ý tưởng này.
+Khoa Toán trường MIT thật sự là một “hang ổ” cộng sản.
+ Trưởng khoa, phó khoa đều là đảng viên đảng Cộng sản Mỹ.
+ Ba người con của Earl Browder lãnh tụ đảng này đều học khoa Toán ở MIT.
+ Những người ấy về sau đều nhiệt tình giúp đỡ Nash khi ông đau ốm.
+ Thập niên 50 là thời kỳ chủ nghĩa chống cộng McCarthy hoành hành, họ đều bị chính quyền Mỹ điều tra.
+ Nhà trường phải mời luật sư bảo vệ nên họ mới không bị rắc rối.
+ Nỗi căm giận và sợ hãi bộ máy nhà nước góp phần làm tăng tình trạng tinh thần thất thường của Nash, ông chỉ muốn đi khỏi nước Mỹ.
+Ngoài ra Nash lại còn là một người đồng tính, từng có lần bị cảnh sát bắt về tội danh này và do đó ông bị công ty RAND cắt hợp đồng làm việc.
+ Ngày ấy đồng tính là một hiện tượng phạm pháp bị xã hội Anh, Mỹ lên án nặng nề, dư luận phổ biến cho rằng các điệp viên Xô Viết hay lợi dụng người đồng tính để lấy cắp bí mật quốc gia.
+ Một thí dụ: nhà toán học Anh nổi tiếng Alan Turing (1912-1954) tuy có công lao cực lớn trong kháng chiến chống phát xít Đức nhưng chỉ vì là người đồng tính mà bị chính phủ Anh buộc thôi việc tại Trung tâm giải mật mã và bị thiến bằng hóa chất, khiến ông xấu hổ phải tự tử.
+Có thể hiểu Alicia khổ sở biết bao khi phải chịu đựng người chồng đã điên dại lại thêm có xu hướng đồng tính.
+Tháng 4/1959 Nash bị đưa vào bệnh viện tâm thần khi Alicia đang lo sinh con đầu lòng.
+Nghe tin này, các đồng nghiệp của Nash gọi điện thoại cho chuyên gia bệnh tâm thần giỏi nhất nước Mỹ, yêu cầu ông này “Vì lợi ích của đất nước, hãy dùng mọi cách điều trị để giúp giáo sư Nash trở lại con người sáng tạo như trước.
+” Họ còn lập một quỹ giúp Nash chữa bệnh, vận động các thành viên Hội Toán học Mỹ quyên góp tiền cho quỹ.
+Sau gần hai tháng điều trị, Nash được ra viện.
+ Do oán trách lãnh đạo trường MIT “nhốt” mình vào “nhà thương điên” và do hoang tưởng chỉ nghĩ đến “sự nghiệp vĩ đại trời trao” cho mình, Nash xin thôi việc ở trường MIT, rút tiền hưu trí, một mình sang châu Âu “làm nhiệm vụ bảo vệ hoà bình thế giới”.
+Việc đầu tiên ông làm là đến Sứ quán Mỹ ở Luxembourg tuyên bố từ bỏ quốc tịch Mỹ, rồi tới Cơ quan tị nạn LHQ và cơ quan chính quyền Thụy Sĩ tại Geneva tự xưng là nạn dân của cả hai khối quân sự NATO và khối Warsaw, xin tị nạn chính trị với lý do trốn lính và muốn nghiên cứu toán học quốc phòng.
+ Các cơ quan này đều nghĩ Nash là người điên, vì thế họ không chấp nhận yêu cầu của ông.
+Nash liền vứt hộ chiếu rồi bỏ sang Leipzig thuộc CHDC Đức.
+ Chẳng hiểu có phải vì nghĩ rằng nhà khoa học Mỹ này có giá trị khoa học gì chăng mà nhà nước cộng sản Đông Đức đã cho ông nhập cảnh dù không có hộ chiếu.
+Thời gian Nash ở châu Âu, bà vợ thường nhận được những tấm bưu thiếp chồng gửi về, viết toàn những con số chẳng hiểu có ý nghĩa gì.
+Năm 1960, Chính phủ Mỹ cử người sang châu Âu nhận Nash và đưa về Mỹ.
+Sau khi trở lại Princeton, bệnh tình của Nash lúc nặng lúc nhẹ.
+ Năm 1963, bà vợ hết chịu nổi đành đâm đơn xin ly dị, nhưng vẫn cho ông ở cùng nhà và vẫn chăm sóc ông.
+ May mắn nữa là các đồng nghiệp đều tìm cách bố trí công việc cho Nash để ông có thu nhập chữa bệnh.
+Ít lâu sau, do bệnh không khỏi, Nash về quê sống với mẹ.
+ Năm 1969, mẹ mất, ông chỉ còn lại cô em ruột là người thân duy nhất, nhưng vì bận chăm nom chồng con mình nên bà này đành đưa ông anh vào bệnh viện tâm thần.
+Quyết định đổi đờiĐầu năm 1970, John Nash ra viện và kiên quyết không bao giờ trở lại.
+ ĐH Princeton đã kịp thời chìa bàn tay nhân ái cứu nhà toán học đang trong tình trạng bơ vơ không nơi nương tựa: họ mời ông về trường.
+ Quyết định quan trọng này giúp Nash tránh được thảm kịch nếu ở lại quê nhà thì ông sẽ chỉ có thể làm kẻ ăn xin lang thang đầu đường xó chợ và một ngày nào đó chết trong đói rét.
+ Sau này khi khỏi bệnh, Nash cảm kích nói: Nhờ sự đùm bọc của Princeton nên tôi đã thoát khỏi cảnh vô gia cư.
+Tại Princeton, Nash được Alicia đón về chăm sóc.
+ Với tình yêu cao cả, ý chí sắt đá và nghị lực phi thường, người vợ cũ của ông vượt qua muôn vàn gian khó, dùng tiền lương ít ỏi của một nhân viên làm chương trình máy tính để nuôi và chữa bệnh cho Nash và con trong nhiều năm.
+ Bà nghĩ rằng hành vi cổ quái của Nash nếu ở nơi khác thì bị cho là điên dại, nhưng tại Princeton nơi có nhiều chủ nhân giải Nobel thì người ta lại có thể nghĩ rằng đó là lối sống của những thiên tài.
+ Quả thật nơi đây không hiếm những chuyện lẩn thẩn kỳ quặc tương tự.
+ Chẳng hạn trên lối mòn mang tên Einstein trong rừng cây khuôn viên Princeton từng xảy ra chuyện ông tổ của thuyết tương đối thường dụ dỗ các cháu học sinh tiểu học đưa bài tập toán cho ông giải giúp để ông được chúng trả công bằng những chiếc kẹo .
+.
+.
+Hai thập niên 70 và 80, người ta thường thấy một người đàn ông gày xơ xác, tóc tai bơ phờ, mắt đờ đẫn không hồn, suốt ngày lang thang trong khuôn viên ĐH Princeton như một bóng ma, đôi lúc dừng lại trước những tấm bảng đen trong vườn và cặm cụi viết lên đó hàng tá công thức toán học kỳ quặc.
+ Các sinh viên ngạc nhiên khi biết ông già điên dại bị gọi là “hồn ma” kia chính là thiên tài John Nash được nhắc tới trong các sách giáo khoa họ đang học.
+Princeton là nơi tập hợp những nhà trí thức lớn, trong đó có nhiều người quen biết Nash.
+ Họ tôn trọng và bảo vệ ông.
+ Nếu có ai xúc phạm Nash thì lập tức người đó sẽ bị họ mắng: Này, cả đời anh cũng chẳng thể có được cống hiến như ông ấy đâu!Nhà trường và các bạn đồng nghiệp đều thông cảm tìm cách giúp Nash có thu nhập để đỡ đần Alicia.
+ Chẳng hạn họ ghi tên Nash tham gia các đề tài nghiên cứu dưới bất cứ hình thức nào dù chỉ là có tính tượng trưng.
+ Nhưng cố gắng của họ đều không thành, trừ một lần Shapley kiếm được một khoản tiền thưởng cho Nash.
+ Có lẽ đó là giải thưởng Lý thuyết John von Neumann (John von Neumann Theory Prize) tặng cho Nash năm 1978 với lý do đã đưa ra khái niệm Cân bằng bất hợp tác (Non-cooperative equilibria).
+Người quản lý phòng máy tính đã cho Nash dùng tài khoản máy tính của mình (vì Nash không ở trong biên chế nhà trường), nhờ đó ông học được cách sử dụng máy.
+ Trong 30 năm Nash đau ốm, công nghệ máy tính đã được cải tiến cực nhiều, bởi vậy những giờ làm việc trên công cụ trí tuệ kỳ diệu này đã có tác dụng tích cực giúp Nash bớt dần chứng hoang tưởng.
+Rốt cuộc chuyện thần kỳ đã xảy ra: bệnh tình của Nash thuyên giảm dần.
+ Quá trình ấy diễn ra rất chậm; từ cuối thập niên 80, ông bắt đầu trò chuyện một cách tỉnh táo với mọi người, làm quen một số nghiên cứu sinh, thậm chí có thể bản bạc vài vấn đề toán học có ý nghĩa.
+Ai nấy vô cùng vui mừng khi thấy Nash trở lại cuộc đời bình thường, nhất là ông đã tham gia một số hoạt động học thuật, giao lưu với đồng nghiệp và sinh viên; nhờ đó giới khoa học trong và ngoài nước dần dần biết Nash vẫn còn sống và làm việc.
+ 30 năm qua, do cái tên Nash hoàn toàn không xuất hiện trên báo chí và các hội thảo toán học, còn những công bố cũ của ông lại có niên đại quá xa xưa, cho nên những người không ở Princeton đều nghĩ rằng Nash đã qua đời từ lâu.
+ Giờ đây hoạt động nói trên của Nash đã tạo tiền đề để Viện Khoa học Hoàng gia Thụy Điển có lý do chú ý tới ông khi họ xét trao giải Nobel kinh tế cho lý thuyết trò chơi bất hợp tác mà ông là một tác giả đầu tiên.
+Thực ra nhiều năm trước, John Nash từng được đưa vào danh sách ứng cử viên giải Nobel.
+ Năm 1985 ông bị loại ra khỏi diện xét chọn, chủ yếu do người ta nghi ngại trí lực của ông có vấn đề.
+ Ai cũng biết, người được trao giải Nobel phải đến Stockholm đọc một đáp từ ngắn gọn, có nội dung sâu sắc súc tích trước Nhà vua, Hoàng hậu và Viện Khoa học Hoàng gia Thụy Điển cùng đám đông đại biểu, nhà báo.
+ Ngoài ra, tuy chưa có văn bản quy định không trao giải cho người đã nghỉ hưu hoặc không có chức danh khoa học, nhưng nói chung người có chức danh thì hợp lẽ hơn.
+ Trong hai thập niên 70-80, Nash hoàn toàn không có những điều kiện đó.
+Đến năm 1994, do lý thuyết trò chơi ngày càng được ứng dụng nhiều trong kinh tế học, việc xét thưởng Nash trở nên có lợi.
+ Giáo sư Harold W.
+ Kuhn nhà kinh tế toán lý nổi tiếng tại hai khoa Toán và Kinh tế học ĐH Princeton, bạn học cũ và đồng nghiệp của Nash, đã hết sức cố gắng giúp Nash.
+ Kuhn thuyết minh với Viện Khoa học Hoàng gia Thụy Điển là nếu chỉ vì tình hình sức khỏe của Nash mà tước mất giải Nobel ông rất xứng đáng được nhận thì điều đó hết sức phi lý.
+ Kuhn còn đề nghị ĐH Princeton phong cho Nash chức danh “Nhân viên hợp tác nghiên cứu”.
+ Đề nghị này được chấp nhận.
+ Như thế Nash được chính danh đi Stockholm dự lễ trao giải.
+ Cũng chính Kuhn dự thảo bản lý lịch của Nash và gửi cho Ủy ban Nobel theo yêu cầu của họ.
+Ngày 11 tháng 10 năm 1994, Viện Khoa học Hoàng gia Thụy Điển tuyên bố: ba nhà khoa học John F.
+ Nash Jr.
+, John C.
+ Harsanyi (quốc tịch Mỹ) và Reinhard Selten (Đức) được trao giải Nobel Kinh tế “vì các phân tích mở đường của họ về khái niệm cân bằng trong lý thuyết Trò chơi bất hợp tác.
+”ĐH Princeton họp báo công bố tin này, chúc mừng Princeton có thêm một chủ nhân giải Nobel.
+ Mọi người đều tiếc là nếu Nash không ốm đau thì lẽ ra một mình ông phải được trao giải này từ rất lâu rồi.
+Sự việc John Nash đoạt giải Nobel không những chứng tỏ các khám phá lỗi lạc của ông được giới khoa học quốc tế thừa nhận, mà còn có tác dụng báo cho thế giới biết ông hãy còn sống khỏe mạnh sau 30 năm im hơi vắng tiếng.
+ Thế nhưng vẫn có một tờ báo châu Á do thiếu thông tin vẫn đăng bài giật tít “Nash không đủ sức khỏe đi dự lễ trao giải Nobel”.
+Trong lý lịch tự khai gửi Ủy ban Nobel, Nash viết: sau 25 năm gián đoạn suy nghĩ, giờ đây ông tin rằng mình có thể đạt được một số giá trị nào đấy qua các nghiên cứu hiện nay của ông hoặc với bất kỳ ý tưởng mới nào sẽ đến trong tương lai.
+Năm 2001 Nash chính thức tái hôn với người vợ cũ.
+ Có điều đời sống hai người không vì được giải Nobel mà thay đổi mấy, họ phải chăm sóc con trai cũng bị tâm thần, giải này hồi ấy có 930 nghìn USD, chia cho 3 chủ nhân, mỗi người chẳng được bao nhiêu.
+Huyền thoại được cả thế giới biết đếnCuộc đời chìm nổi thần kỳ của thiên tài toán học John Nash cùng lòng nhân ái vô biên của Alicia và ĐH Princeton làm xúc động nhiều người, trong đó có bà Sylvia Nasar, nhà kinh tế kiêm giáo sư khoa báo chí thương mại ĐH Columbia, phóng viên báo New York Times.
+Sylvia đã dựa tư liệu cuộc đời Nash viết thành cuốn tiểu thuyết thể loại truyện ký có tên Một Tâm hồn Đẹp (A Beautiful Mind) dầy hơn 400 trang, phát hành năm 1998.
+ Một Tâm hồn Đẹp được tặng giải thưởng Sách Quốc gia 1998 và nhận một để cử giải Pulitzer cùng hợp đồng làm phim với Universal Pictures and DreamWorks.
+Trong tiểu thuyết, Sylvia Nasar dẫn lời một đồng nghiệp của Nash: “Tất cả các nhà toán học đều đồng thời sống trong hai thế giới khác hẳn nhau, một thế giới thanh cao thuần khiết kiểu triết gia Plato và một thế giới với cuộc đời hiện thực ngắn ngủi, hỗn độn, đòi hỏi phải luôn luôn thích ứng mọi biến đổi”.
+ Riêng Nash thì ông còn sống 30 năm trong một thế giới đặc biệt nữa, đó là thế giới hoang tưởng của người điên dại.
+Năm 2002, Sylvia Nasar cùng nhà biên kịch Akiva Goldsman cải biên tiểu thuyết Một Tâm hồn Đẹp thành kịch bản điện ảnh, sau đó đạo diễn Ron Howard dựng thành phim cùng tên.
+ Bộ phim này dài 135 phút, do Russell Crowe đóng vai Nash, Ed Harris và Jennifer Connelly vai Alicia.
+ Phim Một Tâm hồn đẹp được trao giải Oscar lần thứ 74.
+Khác với tiểu thuyết, kịch bản phim đã hư cấu chuyện Nash tham gia làm đề tài nghiên cứu phá mật mã do Bộ Quốc phòng Mỹ tổ chức, tuy thực ra Nash chỉ nghiên cứu lý thuyết trò chơi và phương trình vi phân, là những vấn đề cao sâu khó hiểu, người đời chẳng ai quan tâm.
+ Phá mật mã của kẻ địch trở thành nội dung chính của bộ phim.
+ Kịch bản hư cấu ra chuyện do làm công tác phá mã mà Nash trở thành đối tượng bị ám sát.
+ Và thế là trong phim xuất hiện những cảnh giật gân như ô tô rượt đuổi nhau và đấu súng khiến Nash suýt mất mạng.
+ Truyện phim được cải biên như vậy nhằm tăng sức thu hút người xem, bởi lẽ cuộc đời một nhà toán học vốn đã rất khô khan, lại thêm bị bệnh tâm thần nữa thì vô cùng khó thu hút người xem.
+Phim Một Tâm hồn đẹp rất thành công và được chiếu rộng rãi ở nhiều nước, nhờ đó những người bình thường khắp thế giới đều biết tới thiên tài toán học John Nash.
+Tháng 8 năm 2002, báo chí Trung Quốc rầm rộ đưa tin John Nash sẽ đến Bắc Kinh dự Đại hội Toán học quốc tế do Hiệp hội Toán học quốc tế IMU tổ chức.
+ Do đã xem phim A Beautiful Mind nên người Trung Quốc hồ hởi chờ đón nhân vật huyền thoại này.
+ Ông trở thành một trong những ngôi sao sáng nhất của Đại hội.
+ Khi Nash đến thăm một số trường ĐH Trung Quốc, tai đâu ông cũng được đông đảo người hâm mộ nhiệt liệt hoan nghênh.
+Hiện nay John Nash là giáo sư toán học ở ĐH Princeton, ông không giảng dạy mà chỉ làm nghiên cứu.
+ Khoa Kinh tế nhà trường thường tổ chức các hội thảo về lý thuyết trò chơi; đôi khi Nash có tham gia nhưng ông chỉ nghe mà không phát biểu gì.
+ Phải chăng Nash còn chưa hết bàng hoàng sau khi tỉnh lại từ cơn hoang tưởng kéo dài khủng khiếp làm cho bộ não nhà toán học thiên tài ngừng hoạt động suốt mấy chục năm?Nguyễn Hải Hoành (Tạp chí Tia Sáng)
+
+Tác giả: Kenji Oja

@@ -1,0 +1,129 @@
+[Crypto Trading] Khi nào thì mua, khi nào thì bán và tại sao tôi chán tinder :(
+TRẢ LỜI 2 CÂU HỎI, TÔI (VÀ CHẮC LÀ CẢ BẠN) HỎI NHIỀU NHẤT KHI MỚI TRADE CRYPTOTôi biết là cuộc sống hàng ngày của các bạn giờ đã khác đi một chút.
+ Thay vì mở mắt tỉnh dậy vớ ngay cái điện thoại check facebook, thì giờ bạn lại mở CoinMarketCap hay CoinStat để xem cái tài khoản trade của bạn lên hay xuống.
+ Thay vì quẹt Tinder khi ngồi toa-let ở văn phòng, bạn lại mở chart ra xem.
+ Thay vì thi thoảng tối gặp gỡ bạn bè hay đi Tinder date, thì bạn lại ở nhà ngồi "nghiên cứu thị trường” “xem chart” hay vào các group crypto chém gió.
+ Sau một thời gian, chắc bạn vẫn giống tôi.
+ Vẫn sẽ hỏi 2 câu hỏi này: “Khi nào thì mua?” “Khi nào thì bán?” cộng thêm một loạt câu khác như “Có nên tiếp tục HODL không?” “Có nên mua Coincard không? aka Coincard này thế nào?” “Coin nào chuẩn bị #gotothemoon?”Trong bài viết này tôi sẽ trả lời 2 câu hỏi đầu tiên dưới lăng kính Phân tích kỹ thuật.
+ Nếu bạn chưa học chút nào hay mới làm quen với PTKT, đừng lo, tôi sẽ tiếp tục cung cấp các tài liệu, nguồn học, và cách thức tiếp cận PTKT trong blog này và trang Facebook.
+Chú ý: Bài viết này là cách tôi tiếp cận thị trường và trade.
+ Nó có thể khác với cách rất nhiều trader khác đang làm.
+ Tôi KHÔNG phải là trader chuyên nghiệp hay chuyên gia tài chính, tất cả những gì tôi sắp trình bày dưới đây không phải là lời khuyên mang tính tuyệt đối.
+ Bạn đừng nhắm mắt nhắm mũi mà làm theo, hay nghe theo.
+ Một lần nữa: #DYOR (Do your own research).
+Nếu bạn đã sẵn sàng.
+ Bắt đầu nào.
+Đối với tôi, khi mua bất kỳ một loại tài sản nào trên thị trường đều có 2 góc nhìn.
+ Góc nhìn đầu tiên dựa trên chu kỳ thị trường.
+ Đây.
+ Nó đây:Tôi biết tôi biết.
+ Bạn chắc đã nhìn thấy cái chart này cả trăm lần rồi.
+ Bạn biết rồi.
+Ừ nhưng mà từ từ, dừng ở đây với tôi một lát đã.
+ Bạn đã nhìn thấy nó rồi, nhưng liệu bạn đã thực sự nhìn thấy nó ???Trung thực nào.
+ Đối với newbie, chắc là chưa.
+Bây giờ dừng việc đọc tiếp lại trong vài phút.
+ Bạn hãy tập trung nhìn lại cái chart này, và thực sự găm nó vào trong đầu bạn.
+ In nó ra dán nó ở đâu đó dễ nhìn thấy.
+ Bài viết này có thể đợi.
+ Làm đi, làm ngay đi.
+Xong? Quay lại?Tốt.
+ Nào bây h thì mở TradingView lên và xem chart (ngày - tuần) các cặp Altcoin/BTC trong năm 2017, bạn sẽ thấy chart các Altcoins na ná nhau.
+ Một uptrend ổn định, đôi khi có khoảng pump mạnh rồi theo sau là một down-trend kéo dài và một khoảng giai đoạn tích luỹ (accumulation) để tiếp tục đi vào một chu kỳ khác.
+Ví dụ ư: Đây LBC/BTC Tiếp, ví dụ tiếp: VRC/BTCMục tiêu chính trong 1 năm là tích luỹ tài sản khi giá ở đáy, trước hoặc ngay khi chu kỳ uptrend bắt đầu và chốt lãi khi chu kỳ uptrend kết thúc nhường chỗ cho downtrend.
+ Một điểm các bạn cũng nên lưu ý là chúng ta sẽ không bao giờ căn chuẩn xác được thời điểm hoàn hảo để ra vào thị trường.
+ Điều này gần như là rất rất rất khó.
+ Thế nên cách tôi thường làm là sau khi mua một chút ở giai đoạn tích luỹ, tới khi indicators và chart pattern confirm uptrend thì mua thêm và khi confirm downtrend thì tôi té.
+ Trung bình giá và stop loss luôn là chìa khoá cho việc không sấp ml.
+Phần sau trong năm đó thường là swing trade.
+ Tôi thì cũng không phải là chuyên gia món swing này cho lắm.
+ Trong team tôi có ông dùng Bot để trade thì mê món này vđ.
+Góc nhìn thứ hai là khi bạn mua coins trước và trong chu kỳ thị trường này.
+ Một điểm mua vào thị trường hoàn hảo sẽ khác nhau đối với mỗi người, điểm mua vào này phụ thuộc vào “hệ quy chiếu” riêng về thời gian, mục tiêu lợi nhuận, và mức độ rủi ro chấp nhận của riêng từng cá nhân.
+ Riêng đối với tôi, một điểm mua vào tốt là khi:Mức hỗ trợ (support line) trong một hình dạng chart phổ biếnVùng tích luỹ trước đó sau khi hoàn thành một chu kỳ, được xác định rõ ràng.
+Điểm breakout hay kickback vào mức kháng cự cũ.
+Ví dụ? Cùng xem chart ETC/BTC sau nhé:ETC có mức hỗ trợ nằm trong trong chart pattern symmetrical triangle, rất gần với mức kháng cự và ở mức giá cùng với giai đoạn tích luỹ từ tháng 4.
+ Để ý thấy chart ETC có double-bottom đảo ngược, cùng volume tăng cao hơn giai đoạn trước đó.
+ Thơm phức.
+Zoom vào khung thời gian nhỏ hơn chúng ta sẽ thấy đáy dang Adam & Eva.
+ Các đáy này thường sẽ trông khác khác nhau, thế nên bạn hãy luôn chú ý kết hợp các indicators khác giúp xác nhận bullish trend này nhé.
+ Tôi thường sử dụng Volume, RSI, MACD, trend line làm kim chỉ nam và Fabonancci để làm target.
+ Đây là những vị trí mà bạn thường sẽ muốn đặt cửa vào up-trend.
+Không phải chart nào cũng y đúc nhau, nên một việc vô cùng quan trọng bạn nên làm khi xem chart là zoom out ra.
+ Nhắc lại cùng tôi nào: ZOOM THE FUCK OUTTTTTTT.
+Zoom out sẽ giúp bạn có cái nhìn tổng quan và dễ phân tích hơn là chăm chăm vào nến 5-10 phút.
+ 5-10-30 phút là dành cho Bot nhé.
+Khi zoom out ra bạn sẽ nhìn thấy các chart pattern phổ biến, và các chu kỳ thị trường giống như con VRC/BTC ở trên.
+ Có những chu kỳ nhanh xảy ra, có những chu kỳ châm xảy ra, nhưng mà một trong những quy luật trong phân tích kỹ thuật là: Lịch sử sẽ lặp lại.
+ Ví dụ dưới đây của DOT/BTC:Bạn có để ý là Bollinger Band thắt chặt lại ngay trước khi breakout ko? Và pattern 1-2-3 từ tháng 6/2016 lặp lại trong năm 2017?Còn về ngắn hạn, khi buy-in vào thị trường, sau một quả tăng giá vkl, tôi luôn chờ cho nó bị kéo về lại mới buy-in.
+ Phi vào trong lúc nến đang xanh ngắt thẳng đứng chả khác nào chặt chân của mình khi bạn không biết phải đặt stop-loss thế đéo nào cho phải.
+ Và rất nhiều lần khi tôi mới chơi, tôi đu đỉnh mát rượi rồi sau đó bị dìm mẹ dưới nước.
+ Sặc phải biết.
+Để buy-in khi giá bị kéo về thì tôi thường sử dụng Fibonacci đo giữa đỉnh và đáy của lần pump.
+ Tỉ lệ vàng là 0.
+618.
+ Xem con XEM và ENG ở dưới: Một lần nữa.
+ ZOOM THE FUCK OUT.
+Một điểm nữa tôi nhìn vào chart khi muốn buy-in đó là mức kháng cự nào được “gõ” vào nhiều lần.
+ Thường thì sau khi breakout khỏi mức kháng cự này (đi kèm với volume xác nhận up-trend), thì giá sẽ bị kéo quay trở lại mức kháng cự cũ này 1 lần nữa (mọi người thường gọi là kickback - pullback/ mức kháng cự cũ trở thành mức hỗ trợ mới).
+ Đây cũng là một tín hiệu tốt xác nhận uptrend mới, đặc biệt là khi bạn zoom ra xa, nhìn vào một khung thời gian lớn hơn.
+ Thời điểm này cũng là cơ hội để bạn nhảy vào cuộc chơi.
+ Ví dụ tiếp nào: VIABTC.
+Giai đoạn sideway của VIA từ tháng 7 tới cuối năm 2017 là rất tốt, giai đoạn này cũng nằm trong 1 pattern phổ biến.
+ Dễ dàng cho chúng ta nhảy vào hơn hẳn là lao theo tên lửa xanh ngắt phải không.
+Tất nhiên là trong bộ môn phân tích kỹ thuật này, có rất nhiều các indicators khác mà trader sử dụng để chọn điểm mua vào hợp lý.
+ Ví dụ như là Ichimoku, EMA, MACD, etc.
+ nhưng mà chủ đề đó quá rộng, tôi không thể viết hết ra ở đây.
+ Mà thật ra tôi vẫn đang học và ngâm cứu.
+ Cuối bài tôi sẽ chỉ cho các ông học ở đâu.
+Đm thằng em nào của anh hay nói câu này thì vào đây đọc đi này.
+Nói chung việc bán ra thế nào thì phụ thuộc vào phong cách trade của bạn.
+ Bạn là daytrader hay investor (nhà đầu tư)? bạn muốn nhanh nhanh chóng chóng ăn xổi rồi té hay là thích HODL coins cho lợi nhuận đẫm đi mới té.
+ Tôi sẽ nói cách tôi thường làm, nhưng mà tôi đang mặc định là bạn biết chút đỉnh về PTKT rồi nhé.
+Thật ra hiện tại thì dù long-term hay short-term tôi cũng đang bán na ná nhau.
+ Đặt target bằng Fibonacci và xác nhận việc bán bằng RSI.
+ Điểm khác biệt duy nhất là khung thời gian khi tôi xem chart.
+ Hết!Ví dụ con LINK này nhé:Sau khi breakout khỏi pattern triangle, Tôi check RSI overbought (>70) loanh quanh đó là tôi bán à.
+Nhưng mà nói thật là việc bán không hề dễ nhé.
+Trong lúc phân tích chart, bạn sẽ thấy chi chít chì chịt các loại patterns xuất hiện, và đống này nếu bạn tận dụng được thì sẽ là các cơ hội ngắn hạn, còn không, nó sẽ là nhiễu loạn đánh lạc hướng bạn khỏi phân tích của mình.
+ Tôi thường xuyên bị thế, tới h vẫn thế.
+ Thế mới điên.
+ Chắc vẫn chưa xem đủ chart.
+Cùng nhau xem con NEO dưới đây, nếu chỉ đơn giản là HODL thì cũng sẽ giúp bạn chạm tới target, nhưng trên đường tới target đó xuất hiện rất nhiều pha kéo giật lại.
+Nhưng thỉnh thoảng tôi nói thật là PTKT không thể nào bằng quy luật vàng: Mua lúc thiên hạ sợ hãi (FUD), bán lúc thiên hạ đang tham.
+ Ví dụ điển hình là con XVG, khi các bố đưa tin con này là con xịn vãi lìn, con này là con bảo mật vãi lìn, khắp nơi ham hố thì bán cụ nó đi chứ còn gì nữa.
+Check it out.
+ Something is about to happen bro.
+Tại sao lại học PTKT khi trade Crypto? Vì Phân tích nền tảng (Fundamental Analysis) không thực sự hiệu quả đối với một sản phẩm mới như Crypto.
+ Hiện tại thì PTKT (Technical Analysis) vẫn đang được ưa chuộng hơn.
+Bước 1: HỌC TIẾNG ANH - HỌC TIẾNG ANH - HỌC TIẾNG ANH.
+Vì tôi nói thật, là bọn tây nó đi trước mình cả trăm năm.
+ Môn phân tích kỹ thuật này Charles Henry Dow đẻ ra từ đời mẹ nào rồi.
+ Wallstreet Traders thành công dạy khắp nơi, viết sách bét nhé.
+ Kho con mẹ tàng.
+Tôi cũng không quan tâm lắm là ông nào vào cằn nhằn tôi viết thỉnh thoảng đá tiếng anh vào, vì đm tôi viết theo flow chảy trong đầu ra.
+ Chỗ nào nảy số tiếng anh trong đầu là tôi viết ngay vào thôi.
+ Nhưng tôi sẽ cố gắng hạn chế :))Bước 2: Trong lúc thực hiện bước 1, theo dõi những pro traders trên youtube, mạng xã hội, và trang web của chúng nó.
+Check out ông này xem: https://www.
+youtube.
+com/user/carpenoctomĐây nữa: https://www.
+youtube.
+com/channel/UCBaU9NXRPjkLGgJy-M7RPCwCourse của JC Parets: https://academy.
+investopedia.
+com/products/technical-analysis (Gửi thư tới Investopedia kêu là tao tới từ Vietnam (emerging country) nó discount cho 1 phát sập sàn luôn nhé)Course của https://www.
+babypips.
+com/ có lẽ là one of the bestCộng đồng Trader trên tradingview, lên mà xem thiên hạ vẽ chart.
+Ngoài ra thì các ông nên đọc sách:Wiley Trading Series: Tôi đang đọc quyển Technical Analysis của Ed PonsiInsider Buy Superstocks: The Super Laws of How I Turned $46K into $6.
+8 Million (14,972%) in 28 Months (Ở đây)The Complete TurtleTrader: How 23 Novice Investors Became Overnight Millionaires (Ở đây)Technical Analysis of Financial Markets của John Murphy: Dễ đọc nhất, dễ hiểu nhất.
+ (Ở đây)Market Wizards, Updated: Interviews With Top Traders (Ở đây)Bước 3: CHƠI THẬTĐm có đọc dời mà không vẽ chart thử, bỏ tiền vào thử mua thử bán thì có đến mùa quýt nhé.
+ Mở tài khoản Bittrex, Bitfinex, Binance, Polo.
+ Mua ETH BTC USDT nạp vào.
+ Mở chart vài con top coin lên phân tích.
+ Húc tiền vào.
+Xong rồi cứ thế là thấp thỏm xem chart nhé người anh em.
+Bước 4: Sau một thời gian, lên đập lại ông viết blog theAlchemist.
+CÁC CÂU HỎI PHỤ KHÁC:“CÓ NÊN TIẾP TỤC HOLD KHÔNG ÔNG ƠI”"CÓ NÊN MUA COIN X KHÔNG ÔNG ƠI""BAO H THÌ MOON"Thì từ từ để bài khác hoặc theo dõi www.
+thealchemist.
+io hoặc fanpage chém gió của chúng tôi nhaCheers,theAlchemist
+
+Tác giả: TheAlchemist

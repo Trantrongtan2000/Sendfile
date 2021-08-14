@@ -1,0 +1,58 @@
+Điều khiển tâm trí: Bằng cách nào mà thiết bị điện não đồ có thể đọc được sóng não và thay đổi thế giới của bạn?
+Nguồn: Mind Control: How EEG Devices Will Read Your Brain Waves And Change Your WorldThông tin: Mỗi khi một suy nghĩ hay cảm xúc xuất hiện, bộ não của bạn sẽ sản sinh một tín hiệu điện, dù yếu ớt nhưng vẫn đủ rõ ràng, tương ứng với suy nghĩ hay cảm xúc đó.
+ Quá trình ghi lại và giải mã những tín hiệu này được gọi là điện não đồ - EEG (electroencephalography), nó bắt đầu trở nên khả thi về mặt y khoa từ năm 1924.
+ Chúng ta đều đã từng nhìn thấy những thiết bị điện não đồ cổ điển như thế này: hàng loạt những cục điện cực và đống dây dợ được gắn vào cái đầu trọc lốc, trông thật thiếu thẩm mỹ và bất tiện cho người dùng.
+ Và để sắp đặt được cái hệ thống đó thì cần có sự tham gia của rất nhiều người.
+Philip Low, một sinh viên Toán - Sinh đang thực hiện các thí nghiệm với những loài chim tại Đại học Chicago năm 2007, cho rằng điều hạn chế duy nhất ở thiết bị này chính là sự phiền phức của nó.
+ Trong cuộc phỏng vấn qua điện thoại với The Huffington Post, Low đã chia sẻ về những vấn đề mà anh và cộng sự đang phải đối mặt khi phải cố gắng tìm hiểu xem liệu loài chim có nằm mơ không.
+ Và các bằng chứng chỉ ra rằng, loài chim có lặp lại các bản nhạc trong đầu khi mà chúng đang ngủ.
+ Nhưng kết quả được đưa ra bởi thiết bị điện não đồ này chưa thực sự đáng tin, bởi những chú chim phải được cho dùng thuốc ngủ thì mới có thể gắn những cực điện này lên, mà những liều thuốc này thì lại can thiệp vào giấc ngủ của chúng.
+ Và vì thế, kết quả của Low chưa đưa ra được kết luận cụ thể nào cả.
+Từ đây, Low đã bắt đầu sáng chế ra một loại thiết bị điện não đồ mới, thứ mà sau đó sẽ cách mạng hóa việc đọc tâm trí - một lĩnh vực mà một lần nữa sẽ khiến anh ấy thay đổi hoàn toàn trong 5 năm sắp tới.
+Cho đến năm 2009, Low đã thành công trong sáng chế đầu tiên của mình, và anh nói "toán học đơn giản đến nỗi nó có thể vừa vặn chỉ trong một trang giấy".
+ Thuật toán mà anh ấy tạo ra cho phép các nhà nghiên cứu thu thập các tín hiệu điện từ não các loài chim bằng việc chỉ sử dụng một điện cực duy nhất, kỹ thuật này mang tên "Điện não đồ đơn kênh" (single-channel EEG).
+ Cũng nhờ thiết bị này mà Low đã có thể tốt nghiệp Đại học San Diego bằng bài luận chỉ một trang giấy (anh kể rằng đây là bài luận ngắn nhất trong lịch sử của trường) và cùng với đó là 350 trang phụ lục.
+Và chỉ cho đến cuối năm đó, Low đã sẵn sàng cho việc tiến xa hơn khỏi các loài chim.
+ Anh ấy muốn tạo ra một thiết bị điện não đồ đơn kênh cho loài người.
+ Tuy nhiên, khi gặp phải với những nhà đầu tư khó tính đầy hoài nghi, anh tưởng rằng "như thể mọi cánh cửa đều đóng sập lại trước mặt tôi vậy.
+"Anh ấy kể lại rằng: "Những người làm công nghệ thì cho rằng sản phẩm của tôi hẳn phải đang bán rất chạy, trong khi những CEO thì lại nghĩ về tôi như một đứa công nghệ nghiệp dư không có khả năng điều hành được một công ty.
+"Tuy nhiên, Low đã chấp nhận rủi ro, vừa xin vay tất cả các ngân hàng trong khả năng, vừa [tạm ứng] tối đa tất cả số thẻ tín dụng dưới tên mình.
+ Số tiền mặt mà anh có được đủ để tạo ra một thiết bị điện não đồ đơn kênh cho người (được đặt tên là "iBrain" - nó có trước sự xuất hiện của Iphone) cùng với một công ty nhỏ là "Neuro Vigil".
+ Sau đó, Low cũng có được chút danh tiếng khi tiết lộ rằng anh đang là trợ lý cho Stephen Hawking.
+ Nhưng cho đến lúc đó, các thiết bị anh sản xuất ra "cũng chỉ được dùng cho mục đích y học và nghiên cứu mà thôi" - anh kể lại.
+Nhưng Low không đơn độc khi nhận ra những khả năng mà những thiết bị Điện não đồ đơn kênh này đem lại.
+ Năm 2009, công ty phần cứng Emotiv với nền tảng từ Australia đã bắt đầu sản xuất những chiếc tai nghe (gaming headsets) cho phép điện não đồ, với giá $300 mang thương hiệu EPOC.
+ Không lâu sau, NeuroSky - một công ty đã tuyên bố sẽ tạo ra "những thiết bị cảm biến sinh học dành cho mọi người" - cũng bắt đầu sản xuất những chiếc tai mèo có thể đọc được cảm xúc và điều khiển tâm trí, được gọi là "Necomimi", và đem bán tại các hội chợ Anime.
+ Ngày nay, kể cả những cộng đồng khoa học trước đó đã từng kịch liệt phản đối Low cũng đã để mắt tới điện não đồ đơn kênh của anh.
+ Và họ cũng nhận ra rằng việc đọc tâm trí không chỉ còn là các nghiên cứu nữa rồi, mà trái lại, nó đã có thể được dùng với vô số cách thức, bao gồm cả xấu xa lẫn tốt đẹp.
+Có một người tên Mario Frank đã gửi email cho The Huffington Post.
+ Nhóm của anh nghiên cứu về việc xâm nhập hệ thống máy tính (computer hacking), bao gồm các nghiên cứu về trình theo dõi bàn phím (key-logging) hay tấn công thời gian (timing attacks),.
+.
+.
+ Tuy không phải là những chuyên gia về điện não đồ nhưng họ thấy rất hứng thú với việc thương mại hóa các thiết bị Điền não đồ đơn kênh "đang càng ngày càng phát triển rộng rãi trong các ngành công nghiệp trò chơi và giải trí".
+ Nhóm của họ đã viết một bài báo chỉ ra rằng: sự phát triển của ngành công nghiệp điện não đồ sẽ được xác định bởi những "người chơi" như Công ty Emotiv.
+Liệu những thiết bị này có thể cho phép những hacker với ý đồ xấu truy cập vào tâm trí của chúng ta? Một số người cho rằng hoàn toàn có thể.
+ Bằng việc truy cập vào các phần mềm được sử dụng để ghi lại và đánh giá các tín hiệu điện từ có được bởi điện não đồ, các hacker có thể xây dựng phần mềm "gián điệp não bộ", từ đó dễ dàng lấy được các thông tin cá nhân mà người dùng cung cấp, Gizmodo đã từng viết một câu chuyện về bẫy tâm trí (mind-hacking) như thế.
+ Trong email phản hồi lại cho The Huffington Post, Frank đã nói rằng anh ấy nghĩ các thiết bị điện não đồ có thể sẽ là các vật chủ trung gian cho việc tấn công mạng.
+"Các thí nghiệm đã chứng minh rằng một kẻ tấn công với quyền truy cập vào những tín hiệu điện não đồ thô sơ, có thể đoán được những bí mật của người dùng tốt hơn đáng kể so với việc đoán ngẫu nhiên.
+ Điều đó có nghĩa là, một khi công nghệ này được sử dụng rộng rãi hơn, và một khi có càng nhiều ứng dụng được viết lên bởi bên phát triển thứ ba, thì sẽ càng có nhiều khả năng cho các phần mềm độc hại tấn công sự riêng tư của người dùng.
+" - Frank viết.
+Bất kể những hiểm họa mà việc đọc tâm trí có thể gây ra, các thiết bị điện não đồ cũng có sức mạnh thúc đẩy các công nghệ hiện hành thực hiện những nỗ lực nhân đạo.
+ Christine King, một sinh viên công nghệ Y - Sinh thuộc đại học California ở Irvine đang xây dựng và kiểm tra cặp chân robot điều khiển bằng tâm trí, để có thể giúp các bệnh nhân tê liệt thành công trong việc phục hồi khả năng tự do di chuyển do não bộ thực hiện.
+ Trong một email gửi tới The Huffington Post, King viết rằng cô cảm thấy lạc quan về tiềm năng của thiết bị điện não đồ trong việc "tăng sự độc lập và chất lượng của cuộc sống" cho những người bị chấn thương và giới hạn chuyển động.
+ Những cặp chân này hiện nay vẫn đang phát triển ở những giai đoạn đầu, giới hạn ở những công việc nhàm chán trong nhà, và mới chỉ được thí nghiệm trên những vật thể không bị tê liệt.
+ Nhưng những nghiên cứu mới nhất từ nhóm của King cũng chỉ ra kết quả khả quan rằng những người bị liệt sẽ sớm được thử nghiệm trong tương lai sắp tới.
+Low đang hi vọng có thể tăng tốc độ cải tiến y khoa bằng sản phẩm mới nhất của mình: một thiết bị với kích thước chỉ bằng đồng 25 xu của Hoa Kỳ (khoảng 24,26 mm - chú thích của người dịch) mà anh dự định sẽ công bố vào năm sau.
+ "iBrain" của Low sẽ trở thành thiết bị điện não đồ đầu tiên được thông qua bởi Cục quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) trên thị trường, nghĩa là nó sẽ có thể được sử dụng cho các mục đích y khoa và giải trí.
+ Mục tiêu của Low là giảm chi phí của sản phẩm xuống dưới $100 để có thể "có thật nhiều người được sử dụng nó".
+ Với tất cả những ứng dụng mà thế giới đã tìm ra từ công nghệ điện não đồ: video game, trò chơi điện tử, hội họa, sáng tác, tai mèo điều khiển tâm trí và thậm chí là công cụ giúp con người đi đứng trở lại, thì một thiết bị điện não đồ bé nhỏ trị giá dưới $100 là rất khả thi để khiến việc đọc tâm trí trở thành xu hướng trong tương lai.
+  Nhưng trong tiến trình này, Low có thể sẽ trở thành kẻ thù tệ nhất của chính mình.
+ Trong khi anh hi vọng việc thương mại hóa "iBrain" là khả thi, thì anh đồng thời cũng không hề mong muốn nó được dùng như là "những thiết bị tí hon (gizmo) để người ta mua trong dịp Giáng sinh".
+ Mà thay vào đó, anh hi vọng sản phẩm của mình sẽ được dùng như một công cụ phục vụ cho việc nghiên cứu y học nghiêm túc.
+ Tuy nhiên, anh dự định vẫn sẽ công khai iBrain, đồng nghĩa với việc anh sẽ không còn khả năng điều khiển những gì mà mọi người có thể làm với "vật tí hon" (gizmo) này sau khi mà Neuro Vigil bắt đầu đem nó ra thị trường.
+Và với sự sắp xuất hiện của điện não đồ một kênh, "vật tí hon" (gizmo) này sẽ trở nên ngày càng phổ biến hơn bao giờ hết.
+ Còn nhớ cái đuôi "Shippo" của Neurowear có thể đọc được suy nghĩ không? Và cả ống nhòm phát hiện kẻ thù và đọc tâm trí của DARPA nữa? Với điện não đồ thì giờ đây sẽ trở nên đơn giản hơn bao giờ hết, các thiết bị này mới chỉ là một sự khởi đầu mà thôi!Chú thích số 43.
+ (P57)Bài viết nằm trong series dịch các nguồn thông tin được đưa ra trong cuốn sách Homo Deus, nhằm giúp cho bản thân mình và mọi người có thêm tài liệu để hiểu sâu hơn về những gì được tác giả nêu ra.
+
+
+Tác giả: tyntismee

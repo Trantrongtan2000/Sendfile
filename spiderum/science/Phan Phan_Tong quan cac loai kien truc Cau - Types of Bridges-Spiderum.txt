@@ -1,0 +1,272 @@
+Tổng quan các loại kiến trúc Cầu - Types of Bridges
+Chắc hẳn ở đây có rất nhiều bạn đã từng "đắm chìm" bởi vẻ đẹp của những cây cầu, sự khéo léo tinh tế trong thiết kế, tính hiệu quả trong sử dụng, có không ít cây cầu đã trở thành dấu ấn biểu tượng cho 1 địa phương, trở thành niềm tự hào của cộng đồng bản địa.
+Mình cũng là 1 fan hâm mộ của những cây cầu, đã từng say mê xem các chương trình Discovery về việc các kĩ sư đã vượt qua bao nhiêu thử thách để xây dựng nên các công trình vĩ đại.
+Đó cũng là lí do tổng hợp bài viết này: Tổng Quan các loại kiến trúc Cầu ^^!Lưu ý: Toàn bộ kiến thức trong bài được tổng hợp thuần túy từ Internet, mình chỉ là người chỉnh lý, biên tập lại cho bài viết được thống nhất về mặt nội dung ^^!Mục lục:I) Cầu Dây văng #Cable-stayed bridge
+II) Cầu Cáp treo #Suspension bridge
+
+Phụ lục 1: Cầu Hybrid (kết hợp Cầu dây văng và Cầu cáp treo)
+
+III) Cầu Vòm #Arch bridge
+IV) Cầu Giàn #Truss bridge
+V) Cầu Dầm #Beam Bridges
+
+VI) Một vài sự thật thú vị về những cây cầu ^^!
+VII) Notes ^^!*~*~*I) Cầu Dây văng #Cable-stayed bridge** ĐẶC ĐIỂM:- Cáp nối trực tiếp từ trụ chính tới thẳng dầm cầu (Chữ "stay" ở đây có nghĩa là sợi dây rất to và chắc, được giữ cho thẳng)- Một cấu trúc “cable stayed” có nghĩa là dùng dây cáp để giữ thăng bằng tháp.
+ Cáp chịu sức kéo còn tháp thì chịu sức ép và truyền xuống đất.
+- Sơ đồ bố trí dây văng thể chia ra thành 2 loại cơ bản:Rẻ quạt và Đàn hạc (harp)Chữ “văng” nghe rất lạ, tôi không hiểu sao lại gọi là cầu dây văng.
+ Nó có thể là phiên âm từ một chữ tiếng Nga, có nghĩa là thừng chăng cột buồm, cũng giống như chữ "stay" của tiếng Anh.
+- Rẻ quạt: Các dây cáp được gắn vào cùng một chỗ (hoặc được cải biến thành gắn gần nhau), trên đỉnh của tháp, như hình cánh quạt.
+
+- Đàn hạc: Các dây cáp chạy song song với nhau trông như đàn hạc (harp) (Tính thẩm mỹ tốt hơn so với rẻ quạt nhưng tốn chi phí hơn)- Chiều dài nhịp cầu (khoảng cách giữa 2 trụ cầu) phụ thuộc góc neo cáp, chiều cao trụ và khoảng cách điểm neo đốt cầu vào cáp treo tới trụ tháp.
+- Khái quát về Trụ cầu (xem thêm: Phần VII) Notes #1)** ƯU ĐIỂM:- Thân cầu ít bị biến dạng sau khi xây dựng.
+- Khả năng chịu lực tốt (dây cáp được nối trực tiếp vào tháp trụ cầu)- Tốn ít dây cáp hơn (so với Cầu treo #Suspension bridge)- Không cần 2 mố neo ở 2 đầu (so với Cầu treo #Suspension bridge)** NHƯỢC ĐIỂM:- Lực căng cáp nâng đỡ dầm ở phạm vi giữa nhịp lớn (dây cáp dài nhất ở ngoài cùng), còn lực căng cáp nâng đỡ dầm ở phạm vi gần trụ tháp thì rất nhỏ (dây cáp ngắn nhất trong cùng), điều này dẫn đến độ võng của dầm chủ ở phạm vi giữa nhịp cầu rất lớn.
+-> Khả năng chịu tải của cầu bằng khả năng chịu tải của phần kém nhất - phần giữa các nhịp cầu!- Nếu quy mô, kích thước cầu càng lớn, nhịp cầu càng dài thì yêu cầu rất lớn về khả năng chịu lực lên trụ cầu (yêu cầu cao khi thi công trụ cầu này)- Sẽ yêu cầu rất cao trong trường hợp trụ cầu phải xây dựng dưới nước.
+- Rất nhạy với các lực kích thích động như động đất.
+ Đặc biệt khi động đất diễn biến bất ngờ, nhanh và phức tạp.
+** 1 số cây cầu nổi tiếng ^^!- The Oresund
+-> Cây cầu xuyên biển nối liền hai quốc gia Đan Mạch và Thụy Điển
+
+- Gia Hưng - Thiệu Hưng, Trung Quốc
+
+- Rion-Antirion, Hy Lạp
+
+
+
+** Links tham khảo:https://vi.
+wikipedia.
+org/wiki/Cầu_dây_văng
+https://www.
+nguoi-viet.
+com/doi-song/khkt-cau-day-vong-va-cau-day-vang/
+http://ccu.
+vn/tong-quan-ve-cau-day-vang/
+https://theconstructor.
+org/structures/suspension-cable-stayed-bridges-towers-functions-design/18139/
+http://www.
+historyofbridges.
+com/facts-about-bridges/cable-stayed-bridges/========================================II) Cầu Cáp treo (cầu dây võng/ cầu treo dây võng) #Suspension bridge** ĐẶC ĐIỂM:- Thành phần chính của cầu cáp treo là tháp, cáp chủ, cáp treo, mấu neo và mặt đường-> Là loại cầu có kết cấu dạng cáp treo, thay vì cáp gắn trực tiếp vào trụ (cầu như cầu dây văng #Cable-stayed bridge) thì nó sẽ có 1 cáp chủ (Main cable) dạng "mắc võng", rồi từ đó sẽ có các cáp treo "con" (Suspender cable) được mắc vào, treo rủ xuống với khoảng cách song song đều nhau đỡ lấy từng đốt bản mặt cầu.
+- Cáp chủ thường nằm ở 2 bên thành cầu, được móc liên kết chắc chắn vào đỉnh các trụ cầu.
+-> Do khoảng cách nhịp lớn và chịu tải nặng chúng thường có dạng bị võng xuống ở khoảng giữa nhịp cầu, nên loại cầu này được gọi là cầu dây võng.
+** ƯU ĐIỂM:- Nhịp cầu dài nhất.
+-> Chính nhờ có hệ kết cấu dây cáp treo không phụ thuộc vào góc neo cáp, chiều cao trụ cầu và khoảng cách điểm neo đốt cầu vào cáp treo tới trụ tháp, mà cầu treo dây võng có thể vượt được các nhịp lớn hơn cầu treo dây văng (#Cable-stayed bridge).
+ Những cầu treo nhịp dài nhất trên thế giới là các cầu treo dây võng.
+- Khả năng chịu lực tốt ở phần giữa các nhịp cầu (do có cáp chủ)- Tại vị trí vượt sông mà có khẩu độ thuyền lớn thì lựa chọn cầu treo dây võng ít làm "xáo trộn chế độ dòng chảy tự nhiên của sông suối" (điều mà cầu dây văng #Cable-stayed bridge không làm được), mang lại hiệu quả thiết thực về kinh tế, kĩ thuật.
+- Tính thẩm mỹ.
+-> Độ võng của dây cáp là điểm nhấn tạo nên vẻ đẹp thanh thoát rất phù hợp với công trình qua sông ở các khu đô thị - trở thành biểu tượng của 1 vùng miền!- Kết cấu đơn giản, thích hợp cho việc xây dựng cầu tại địa bàn vùng cao.
+- Dễ bảo trì.
+** NHƯỢC ĐIỂM:- Lực căng của cáp chủ là rất lớn, mô-men dầm chủ 2 bên trụ tháp lớn gây nhiều khó khăn cho việc ổn định trụ tháp trong suốt quá trình thi công.
+- Với kích thước cầu lớn thì việc thi công các mố neo sẽ rất lớn và phức tạp.
+- Tải trọng của cầu được chịu bởi tất cả các sợi cáp, nên khi tải trọng vượt qua khả năng của 1 sợi cáp, nó sẽ đứt và gây nguy hiểm cho cầu (1 cáp đứt và cầu có thể bị phá hủy @@), do đó, thường không sử dụng trong trường hợp tải trọng tập trung (Ví dụ: Ở nơi có tàu hỏa chạy qua! *quá nặng*)- Gió mạnh có thể khiến cho cầu rung, gập, gãy.
+** 1 số cây cầu nổi tiếng ^^!- Akashi Kaikyo - Nhật Bản:
+
+
+
+
+
+- Golden Gate Bridge - Mỹ:
+-> Cầu có chiều dài 2737 mét và sử dụng tới ~130000 km cáp - 1 trong những cây cầu nổi tiếng và đẹp nhất trên thế giới, xuất hiện rất nhiều trong phim ảnh Hollywood.
+
+
+- Clifton Suspension Bridge - Anh: 
+-> Điểm tham quan nổi tiếng nhất của thành phố Bristol - 1 trong 25 cây cầu nổi tiếng nhất Thế giới.
+ Tại đây có thể ngắm nhìn toàn cảnh khung cảnh thiên nhiên rộng lớn và tươi mới!
+** Links tham khảo:https://vi.
+wikipedia.
+org/wiki/Cầu_dây_võng
+http://www.
+historyofbridges.
+com/facts-about-bridges/suspension-bridges/
+https://futureofworking.
+com/8-advantages-and-disadvantages-of-suspension-bridges/ ========================================#Phụ lục 1:
+Cầu Hybrid (kết hợp Cầu dây văng và Cầu cáp treo)Brooklyn Bridge** ĐẶC ĐIỂM:- Như cầu dây văng ở dạng sử dụng trụ cầu đôi, và thêm với 2 cáp chủ (đặc điểm của cầu cáp treo)** ƯU ĐIỂM:-> Đơn giản mục đích là kết hợp Ưu điểm của cả 2 loại cầu trên, vượt trội hơn hẳn kiểu cầu truyền thống, cụ thể:- Khả năng vượt nhịp lớn.
+- Thời gian thi công ngắn.
+- Khả năng ổn định khí động học cao.
+- Khả năng chịu lực rất tốt dàn đều khắp cầu, giữa các nhịp cầu và trụ cầu.
+- Độ võng của cầu được giảm đi đáng kể.
+- Trụ tháp đôi được gắn các dây văng khiến cho lực căng phân bố tốt hơn (so cầu dây văng là dây cáp ở giữa cầu), giảm lực căng trên mỗi cáp.
+- Các cáp văng này cũng làm giảm bớt phản lực mố neo (so cầu cáp treo)- Chiều cao trụ tháp được giảm xuống, dễ thi công.
+** Nhược điểm:- Số lượng cáp tăng 2-3 lần!!!- Trụ tháp nhiều hơn.
+- Phải xây thêm cả mố neo.
+    -> Phân tích lực kéo trên dây cáp của 2 loại cầu này:** Links tham khảo:http://indotech.
+vn/vi/tag/cau-ket-hop-day-vang-va-day-vong/
+https://theconstructor.
+org/structures/suspension-cable-stayed-bridges-towers-functions-design/18139/========================================III) Cầu Vòm #Arch bridgeKintaikyo Bridge - Cầu Vòm gỗ, Nhật Bản** ĐẶC ĐIỂM:- Có mố ở mỗi đầu, có hình vòm cong.
+- Hoạt động bằng cách chuyển trọng lượng của cây cầu và tải trọng của nó dọc theo đường cong của vòm, và truyền lực đẩy ngang tới các mố cầu ở hai bên (tưởng tượng Cầu Vòm cong như cánh cung, trọng lượng của Xe trên cầu truyền xuống sàn cầu như việc dãn "lực" cánh cung về 2 phía đầu cánh cung - 2 đầu cầu)- Thành phần cốt lõi của cầu vòm là mố và trụ, phải được xây dựng chắc chắn vì chúng sẽ mang trọng lượng của toàn bộ cấu trúc cầu và tải trọng.
+- Cầu cạn (hoặc cầu dài) có thể được tạo ra từ một loạt các vòm.
+- Vật liệu:+) Gỗ, đá: Đây là 1 loại cầu rất phổ biến, xuất hiện từ hơn 3000 năm trước, sử dụng vật liệu phổ biến thời kì đó (gỗ, đá)-> Chịu lực nén tốt, nhưng chịu lực kéo kém.
+ Phần mố cầu bắt đầu uốn vòm có thể gây cản trở cho tàu bè giao thông đường thủy.
++) Sắt, thép, bê tông: Cầu hiện đại    - Các loại Cầu vòm (xem thêm: Phần VII) Notes #2)** ƯU ĐIỂM:- Với việc sử dụng vật liệu sắt, thép-> Các nhịp cầu (tương ứng là 1 module độc lập) có thể được đúc sẵn, khiến cho việc thi công lắp đặt rất nhanh chóng và dễ dàng.
+- Phân phối lực nén một cách hoàn hảo-> Chịu tải rất tốt!- Là một thiết kế tiết kiệm chi phí (thậm chí chỉ cần sử dụng các vật liệu tự nhiên ở vùng bản địa, không cần phụ thuộc vào nhập khẩu)- Là 1 trong những cấu trúc siêu kiên cố, chịu tốt mọi lực tác động theo mọi hướng, và gần như không cần phải bảo trì.
+-> Đó là lí do ngày nay vẫn còn có nhiều cây cầu đá nguyên vẹn và đương nhiên là hoạt động tốt (thậm chí còn ngày càng tốt hơn) - Là điều mà các vật liệu như sắt, thép không thể làm được.
+Cầu Chaotianmen ở Trùng Khánh, Trung Quốc** NHƯỢC ĐIỂM:- Để phân phối lực nén 1 cách hoàn hảo như đã nói ở trên, cây cầu cũng yêu cầu sự chính xác tuyệt đối trong việc thiết kế và xây dựng (thiết kế cân đối, cân xứng và cả trong sử dụng vật liệu)- Tốn nhiều công sức, thời gian để xây (đòi hỏi kĩ thuật tay nghề cao)- Bị hạn chế chiều dài 1 nhịp cầu, do đó phải xây nhiều trụ hơn, tốn kém.
+- Yêu cầu nền móng tại địa điểm xây dựng phải đủ cứng và chắc, do đó, 1 số vùng sẽ không thể triển khai được loại cầu này.
+** Links tham khảo:
+
+https://en.
+wikipedia.
+org/wiki/Arch_bridge
+http://www.
+historyofbridges.
+com/facts-about-bridges/arch-bridges/
+https://en.
+wikipedia.
+org/wiki/Through_arch_bridge
+https://vittana.
+org/11-arch-bridge-pros-and-cons========================================IV) Cầu Giàn #Truss bridge** ĐẶC ĐIỂM:- Là loại cầu được xây dựng với giàn nhịp bằng khung xương sắt, thép được nối dài, với cấu tạo của giàn thép gồm các dạng: biên song song, biên parabol, đa giác.
+- Deck (mặt sàn) có thể ở bên trên giàn thép (deck truss); ở giữa giàn thép (through truss); hoặc ở dưới giàn thép.
+- Các thanh sắt trên nhịp cầu được liên kết với nhau bằng đinh tán chặt hoặc bu-lông và ốc to.
+ Những thanh sắt này thường được lắp ghép thành những hình tam giác, với loại thiết kế này sẽ giúp cho giàn cầu dựa vào nhau, liên kết cứng, không làm bị biến dạng, gãy cầu.
+- Phần mặt nền cầu được xây bằng nhiều thanh thép nằm ngang, chéo đối với cầu giàn cho đường ray tàu hỏa.
+ Với đường bộ, sàn cầu được làm đổ bằng bê tông cốt thép và mặt đường rải nhựa như các cầu khác.
+- Thường được dùng cho đường ray tàu hỏa hơn là đường bộ.
+- Có thể kết hợp thiết kế Cầu Giàn với cầu vòm hoặc cầu cáp treo.
+** ƯU ĐIỂM:- Về mặt kỹ thuật, cần giàn thép giúp tiết kiệm vật liệu bởi các thanh trong giàn chỉ chịu lực dọc trục (khả năng chịu lực kéo của sắt, thép)- Cầu nhẹ nhưng vẫn đảm bảo độ khỏe và khả năng chịu tải của cầu.
+-> Các thanh giàn có trọng lượng nhẹ (trong 1 số trường hợp là để rỗng hoặc đục lỗ) giúp giảm bớt lực tải xuống mố trụ, do đó yêu cầu về móng không cao như Cầu dầm #Beam bridges- Diện tích chắn gió thực tế nhỏ.
+- Khoảng cách 2 giàn chủ lớn giúp cho khả năng chịu lực ngang của cầu giàn được đánh giá rất cao.
+- Ngoài ra, cầu giàn thép có có hình dáng đẹp, tính thẩm mỹ cao, công tác thi công đơn giản, có thể chế tạo sẵn dưới dạng module độc lập.
+-> Có thể mở rộng mà không ảnh hưởng tới an toàn của tổng thể cây cầu.
+- Trong quá trình thi công được đánh giá là ít ảnh hưởng tới môi trường xung quanh, dễ giàng cẩu lắp, thi công nhanh.
+- Có thể kết hợp để cho phép cả đường sắt và đường bộ cùng lưu thông (đường sắt ở trong giàn thép, đường bộ ở phía trên dàn thép)** NHƯỢC ĐIỂM:- Cầu giàn đòi hỏi mức độ bảo trì liên tục cao hơn.
+- Khó trong khâu thiết kế, 1 chi tiết nhỏ bị sai có thể làm lãng phí toàn bộ phần còn lại.
+- Cầu Giàn không được thiết kế để chịu tải cho các loại xe siêu trọng.
+- Yêu cầu về chiều rộng tối thiểu sẽ cao hơn so với các loại cầu khác.
+** Các loại Cầu Giàn khác ^^!- Allan truss
+- Bailey truss
+- Baltimore truss
+- Bollman truss
+- Burr arch truss
+- Howe truss
+- K truss
+- Lenticular truss
+- Long truss
+- Parker truss
+- Pegram truss
+- Pratt truss
+- Vierendeel truss
+- Warren truss** Links tham khảo:
+
+https://vi.
+wikipedia.
+org/wiki/Cầu_giàn
+http://www.
+historyofbridges.
+com/facts-about-bridges/truss-bridge
+https://greengarageblog.
+org/14-truss-bridges-advantages-and-disadvantages
+https://navajocodetalkers.
+org/the-pros-and-cons-of-truss-bridges/========================================V) Cầu Dầm #Beam Bridges** ĐẶC ĐIỂM:- Là dạng cầu đơn giản và lâu đời nhất (chỉ với 1 trụ cầu, 1 tấm ván làm sàn cầu là ta đã dựng xong 1 cầu dầm)- Bao gồm 1 hay nhiều nhịp được đặt trên các trụ hoặc mố cầu (được gối liên tiếp lên nhau)** ƯU ĐIỂM:- Cấu trúc siêu đơn giản, phù hợp với gần như mọi địa điểm đường bộ, từ rất ngắn (~10m) đến rất dài (~40km)- Thời gian xây dựng rất nhanh, đặc biệt khi mỗi nhịp cầu (sắt, thép, bê-tông) đều có thể chế tạo sẵn dưới dạng các module độc lập.
+- Chi phí thấp, hiệu quả.
+- Chủ yếu dùng để vượt qua các chướng ngại vật đơn giản (Với những địa hình phức tạp thì đã có các loại cầu "phức tạp" khác xử lý ^^!)Đường vành đai, đường trên cao, cầu vượt bộ, .
+.
+.
+ chính là 1 dạng của cầu dầm, dễ triển khai trên "đường bộ thuần túy" cho nhu cầu giao thông, được sử dụng rộng rãi ở khu vực thành thị và nông thôn.
+Cầu vượt biển của Trung QuốcHệ thống Cầu Dầm trên biển** NHƯỢC ĐIỂM:- Bị hạn chế trong thiết kế (ít sự linh hoạt) về chiều dài nhịp cầu (~100m), độ rộng của cầu, kích thước trụ cầu, .
+.
+.
+ (do thiết kế đơn giản, không có cơ chế support giống như Cầu vòm, Cầu giàn hay dây cáp)- Không có cơ chế phân bổ lực, nên tại những vị trí trên cầu mà thường xuyên chịu tải lớn hơn so với công suất thiết kế, cầu có thể bị hỏng hay tệ hơn là đổ vỡ.
+- Không có tính thẩm mỹ, uyển chuyển (do cầu dầm được thiết kế với chỉ 1 mục đích đơn giản nhất: Lưu thông phương tiện -> Cầu đơn giản, rẻ, hiệu quả, và không hướng đến sự đẹp mắt!)- Yếu đi theo thời gian (~ 10-50 năm), trùng, trũng xuống ở 1 vài vị trí, tuy nhiên cầu dầm luôn cần được thay thế theo nhu cầu phát triển của xã hội (đường bộ, quy hoạch và giao thông)- Chi phí bảo trì lớn.
+- Gió mạnh trên cao thậm chí có thể làm tăng sự hao mòn trên các dầm hỗ trợ của cây cầu, khiến nó có tuổi thọ giảm so với các loại cầu khác (chi phí bảo trì liên tục cho cầu dầm có thể lớn hơn lợi ích lắp đặt theo thời gian của nó)-> Không có khả năng chịu/cản gió (cho phép gió thổi qua mà không tác động quá nhiều tới kết cấu) như các thiết kế cầu khác.
+Các cầu dầm giản đơn khó vượt nhịp lớn do tải trọng bản thân lớn, dầm làm bằng bê tông cốt thép chịu kéo kém, mô-men uốn giữa nhịp lớn, gây độ võng lớn ở giữa nhịp.
+ Giải pháp tăng chiều dài nhịp là sử dụng dầm thép (chi phí đắt hơn) hoặc thép liên hợp bê tông cốt thép, dầm dự ứng lực (loại này nguy hiểm do khi bị phá hoại thì thường không có dấu hiệu trước vì cốt dự ứng lực được căng đến gần giới hạn kéo đứt, khi phá hoại thì cốt dự ứng lực đứt luôn, cốt thép trong bê tông dự ứng lực không bố trí đủ để đảm bảo khả năng chịu tải, không như dầm bê tông cốt thép nếu bị phá hoại thì cốt thép vẫn có khả năng chịu lực.
+ Đây cũng là dấu hiệu để khắc phục, vì thép có khả năng biến dạng tốt hơn, khi bê tông nứt thì thép sẽ chịu lực).
+ 
+
+Các cầu dàn, khung thép thì cần chi phí bảo trì lớn, thường xuyên do thép chịu tác động ăn mòn của môi trường, nhiều khi sơn hết từ đầu này sang đầu kia xong thì cũng quay lại sơn lại luôn :)) Cầu khung thép thì cũng yêu cầu trụ cầu lớn để chịu tải trọng bản thân của cầu (khung thép + dầm + bản mặt cầu) Tuy nhiên do có cả khả năng vượt nhịp lớn nên khoảng thông thuyền lớn, tĩnh không cao, thích hợp xây dựng ở sông, biển có mặt cắt ngang rộng, tối ưu việc bố trí trụ cầu.
+** Các loại Cầu Dầm khác ^^!- Cầu dầm đơn giản #Simple-supported beam bridge
+- Cầu dầm hẫng #Cantilever beam bridge
+- Cầu dầm liên hợp #Composite beam bridge
+- Cầu dầm liên tục #Contiuous beam bridge
+
+
+
+** Links tham khảo:http://www.
+historyofbridges.
+com/facts-about-bridges/beam-bridge/
+https://vittana.
+org/13-beam-bridge-pros-and-cons
+
+========================================VI) Một vài sự thật thú vị về những cây cầu ^^!- Cầu trên cạn dài nhất thế giới (~165 km) là cầu Danyang–Kunshan Grand Bridge (trên đường sắt cao tốc Bắc Kinh - Thượng Hải), đi qua các tỉnh Tương Thành, Tô Châu, Giang Tô của Trung Quốc.
+- Cầu Dầm dài nhất thế giới (~38.
+44 km) là cầu Lake Pontchartrain Causeway nằm ở phía Nam của Louisiana.
+ Nó cũng là cầu vượt biển dài nhất thế giới.
+- Cầu Vòm dài nhất thế giới (~1741 mét) là cầu Chaotianmen ở Trùng Khánh, Trung Quốc.
+- Cầu bằng kính dài nhất (~305 mét) và cao nhất thế giới (~430 mét) là cầu Zhangjiajie Grand Canyon ở tỉnh Hồ Nam, Trung Quốc.
+- Cầu cáp treo có nhịp chính dài nhất thế giới (~2023 mét) là cầu Çanakkale 1915 Bridge ở Thổ Nhĩ KìPS: Đứng thứ 2 là cầu Akashi Kaikyo của Nhật Bản (nhịp chính dài 1991 mét)- Cầu cao nhất thế giới (~343 mét) là cầu Millau Viaduct ở Pháp - cũng là cầu dây văng cao nhất thế giới.
+PS: Chỉ tính chiều cao kĩ thuật của cầu, không phải so với mực nước biển.
+- Cây cầu lâu đời nhất thế giới vẫn đang được sử dụng là cây cầu Triệu Châu (Zhaozhou), uốn cong bằng đá ở Trung Quốc, được xây dựng vào năm 605 trước Công nguyên.
+- Cây cầu "bận rộn" nhất thế giới (tổng phương tiện qua cầu lớn nhất ~103 triệu Xe/năm) là cầu The George Washington Bridge, Mỹ.
+- Cây cầu đắt nhất thế giới là hệ thống cầu Hong Kong-Zhuhai-Macau Bridge (~20 tỷ đô), tổng chiều dài 55 km, bao gồm 3 cầu dây văng, 1 đường hầm dưới biển, và 4 đảo nhân tạo.
+ Đây cũng là tuyến vượt biển dài nhất thế giới.
+** Links tham khảo:https://en.
+wikipedia.
+org/wiki/List_of_longest_suspension_bridge_spans
+https://www.
+lovemoney.
+com/gallerylist/74838/30-of-the-worlds-most-expensive
+https://bridgemastersinc.
+com/9-facts-bridges/
+https://www.
+sciencekids.
+co.
+nz/sciencefacts/engineering/bridges.
+html
+https://www.
+kickassfacts.
+com/bridge-facts/=======================================VII) Notes ^^!#1: Khái quát về Trụ cầu- Vật liệu làm trụ cầu tùy theo: thông số thiết kế, tình hình vật liệu có sẵn, ngân sách, kinh nghiệm của nhà thầu, địa điểm xây dựng .
+.
+.
+* Trụ thép:- Khối lượng nhỏ hơn bê tông nên ít áp lực lên móng trụ-> Giảm chi phí xây dựng móng.
+- Dễ uốn, linh hoạt, dễ chế tạo, thời gian dựng ngắn.
+-> Nhược điểm: Cần bảo trì sơn định kì chống gỉ.
+* Trụ bê tông cốt thép: thường là trụ rỗng để giảm khối lượng và chi phí xây dựng.
+- Các loại trụ cầu:* Tháp trụ đơn #Single Shaft Tower-> Thường là dạng thẳng đứng (hiếm khi ở dạng nghiêng) -> Thường áp dụng cho giao thông 2 chiều.
+* Hai trụ dọc #Two Vertical Shaft Towers-> Hai trụ dọc ở 2 bên thành cầu -> Gấp đôi lượng cáp treo nhưng tăng tính ổn định cho cầu và giảm lực căng trên mỗi cáp.
+* Hai trụ dọc với thanh chống chéo #Two Vertical Shaft Tower Offset Above the Roadway-> Tương tự như Hai trụ dọc, và có thêm 1 thanh nối liền giữa 2 tháp -> Tăng độ an toàn cho tháp!- Từ dạng "Hai trụ dọc với thanh chống chéo" có 4 loại tháp cầu:- Dạng chữ A:
+- Dạng chữ A cách điệu:
+- Dạng chữ H:
+- Dạng chữ U:------------------------------#2: Các loại Cầu vòm* Cầu Đá vòm #Corbel arch bridge-> Loại cầu này không sử dụng chung nguyên lý truyền lực như cầu vòm (chuyển tải trọng theo đường cong của vòm), tuy nhiên nó có thể được xây giống như cầu vòm.
+-> Đá/gạch được xếp theo hình vòng cung -> Gây ra hiện tượng "lèn chặt" giữa chúng, các khối đá/gạch bị "kẹt lại", là cơ sở để chịu tải cho toàn bộ cây cầu.
+ Phía trên có thể là đường đi, hoặc trang trí, tiếp tục chồng tầng (Ví dụ: Đấu trường La Mã)* Cầu vòm dạng Sàn #Deck arch bridge-> Là dạng cầu mà vòm cầu được đặt ở dưới sàn cầu.
+* Cầu vòm dạng Xuyên #Through arch bridge (Tên tương tự: #Half-through arch bridge; #Through-type arch bridge)-> Là dạng cầu mà điểm bắt đầu của mố cầu ở bên dưới sàn cầu, đi vòng cánh cung lên phía trên mặt sàn cầu, vòm cầu có thể được cố định bằng dây cáp hoặc các thanh kim loại.
+* #Tied-arch bridge-> Là dạng cầu có vòm cầu nằm hoàn toàn ở trên sàn cầu.
+Thực tế, việc mố cầu nằm cùng với sàn cầu, hay dưới 1 chút tùy theo thiết kế và ý đồ thực hiện của các Kĩ sư, nên cũng không cần quá rạch ròi phân chia #Through arch bridge và #Tied-arch bridgeNgoài ra, còn có: - Filled spandrel arch bridge
+- Bowstring arch bridge
+- Open spandrel arch bridge 
+.
+.
+.
+
+
+------------------------------#3: Quá trình research bài viết này+) Search Google:- Các loại cầu
+- Ưu nhược điểm của các loại cầu
+- Types of bridges
+- Advantage and disadvantage of bridges+) Search YouTube:  - Advantage and disadvantage of bridges** Links tham khảo:
+ 
+http://www.
+historyofbridges.
+com/facts-about-bridges/types-of-bridges/
+https://www.
+engineeringclicks.
+com/types-of-bridges/
+https://en.
+wikipedia.
+org/wiki/List_of_bridge_types
+https://voer.
+edu.
+vn/m/cau-giao-thong/c492fd16
+http://csc.
+columbusstate.
+edu/summers/NOTES/cs458/chap02/sld001.
+htm
+https://theconstructor.
+org/structures/movable-bridges-advantages-   disadvantages/17946/
+https://www.
+engineeringclicks.
+com/famous-bridges/
+Bridge should be beautiful -> https://www.
+youtube.
+com/watch?v=dKq34EVggjI*~*~*Như vậy chúng ta đã đi tìm hiểu 5 loại cầu phổ biến nhất cũng như khái quát Ưu nhược điểm của chúng.
+Bài khá dài (như các bài Tổng Quan mọi khi, ahihi ^^!) và mình rất cám ơn mọi người đã đọc bài viết của mình ngày hôm nay ạ ^!^From Phan Phan with love ^^!.
+
+
+Tác giả: Phan Phan

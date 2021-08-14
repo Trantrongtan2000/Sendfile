@@ -1,0 +1,118 @@
+Cấu kiện và kỹ thuật kiến trúc thời Lý - Trần
+nhìn từ tư liệu chữ viết đồng đại (P1)
+Bài viết được sưu tầm từ Thông báo khoa học 2015 của Trung tâm nghiên cứu kinh thành thuộc Viện Hàn lâm khoa học xã hội Việt Nam, xuất bản năm 2016.
+ Bài viết được lấy nguyên văn từ bài viết cùng tên của tác giả Phạm Lê Huy nằm trong Thông báo khoa học này, xin đăng lên đây để chia sẻ.
+MỞ ĐẦUTại di tích Hoàng thành Thăng Long, chúng ta đã phát hiện được rất nhiều di cấu và cấu kiện kiến trúc thời Lý - Trần.
+ Nhiều người Việt Nam mong mỏi trong một tương lai không xa, dựa vào những kết quả khai quật khảo cổ học đó, chúng ta có thể phục dựng lại các cung điện thời Lý - Trần tại Hoàng thành Thăng Long, tương tự những gì Nhật Bản đã làm được tại kinh đô Heijo (Nara).
+ Tuy nhiên, thực tế hoàn toàn không đơn giản như vậy.
+ Hình 1.
+ Ngói úp nóc gắn tượng uyên ương.
+ Đất nung, thời Lý, thế kỉ 11-12    Tuy không phải là một chuyên gia kiến trúc, nhưng 5 năm qua, người viết đã may mắn được tham gia chương trình nghiên cứu nêu trên với tư cách là một phiên dịch Nhật - Việt.
+ Những chuyến khảo sát trên nhiều tỉnh thành ở cả Trung Quốc và Việt Nam đã để lại cho cá nhân người viết không chỉ những trải nghiệm khó quên, mà còn rất nhiều băn khoăn về mặt khoa học.
+ Người viết không thể nào quên kỷ niệm một buổi chiều mưa tại di tích Bạch Tháp (Hàng Châu), khi biết họa tết trang trí thời Lý mà Việt Nam chúng ta vẫn giải thích là “sóng lừng”, trên thực tế không phải là “sóng”, mà là “núi” trong tư tưởng “cửu sơn bát hải” bắt nguồn từ Ấn Độ.
+ Đó còn là những khó khăn khi phiên dịch nhiều thuật ngữ của Việt Nam như “ngói mũi sen” hay “ngói mũi hài”… Với cùng một họa tiết trang trí thời Trần, trong khi các chuyên gia Việt Nam gọi đó là họa tiết hình “hoa chanh”, trong mắt các nhà nghiên cứu Nhật Bản, đó lại là trang trí hình “vòng hoa đan xen”.
+ Có những loại vật liệu và cấu kiện kiến trúc mà thuật ngữ của chúng đã định hình trong giới nghiên cứu Trung Quốc và Nhật Bản như “hồng lương” hay “uất đấu ngõa” (ngói lót nóc), nhưng ở Việt Nam lại chưa có thuật ngữ, hoặc đang sử dụng một tên gọi hoàn toàn khác.
+ Tất nhiên, mỗi nền kiến trúc đều có những đặc trưng và hệ thống thuật ngữ riêng.
+ Tuy nhiên, phải thừa nhận một thực tế rằng, có nhiều tên gọi mà chúng ta đang sử dụng hoặc đến từ những quan sát hết sức chủ quan của một số nhà nghiên cứu thời hiện đại, hoặc bắt nguồn từ một thứ “truyền thống” ra đời muộn hơn thời Lý - Trần.
+ Nền kiến trúc Việt Nam thời Lý - Trần chắc chắn đã từng chia sẻ rất nhiều điểm tương đồng với các nước Đông Á như Trung Quốc, Hàn Quốc và Nhật Bản.
+ Tuy nhiên, cùng với thời gian và những biến cố lịch sử, chúng ta đã bị cắt đứt với những truyền thống và nền tảng tri thức mang tính phổ biến đó của khu vực.
+    Thực trạng nêu trên bắt nguồn một phần từ việc những người nghiên cứu tư liệu chữ viết, đương nhiên có cả người viết, đã chưa thực sự làm tròn trách nhiệm nghiên cứu của mình.
+ Bên cạnh các tư liệu “vật chất”, văn bản - chữ viết là một nguồn tư liệu hết sức quan trọng để nghiên cứu kiến trúc thời Lý - Trần.
+ Tuy nhiên, từ trước đến nay, nguồn tư liệu này chưa được khai thác một cách triệt để.
+ Gần đây, học giả Trần Kim Anh đã thử sử dụng tư liệu văn bia thời Lý để tìm hiểu về “kiến trúc Phật giáo” thời kỳ này.
+ Mặc dù trọng tâmcủa bài viết thiên về phân tích bố cục già lam, nhưng đây là một công trình rất đáng chú ý về góc độ tiếp cận (Trần Kim Anh, 2011).
+ Một trong những nguyên nhân dẫn đến tình trạng nguồn tư liệu văn bản và chữ viết chưa được tận dụng một cách đầy đủ là do tại Việt Nam, chúng ta thường có xu hướng sử dụng các bản dịch tư liệu sang chữ quốc ngữ.
+ Tuy nhiên, do một số dịch giả không nắm rõ các thuật ngữ kiến trúc cổ, nên có nhiều chỗ hoặc dịch không chính xác (ví dụ “hồng lương” bị dịch thành “cột xà”, “củng lô” bị dịch thành “ngoài hiên”.
+.
+.
+), hoặc do quá chú ý đến nhịp điệu văn chương trong bản dịch, chúng ta đã làm thất lạc nhiều thông tin so với văn bản chữ Hán.
+    Nhận thức được vấn đề đó, người viết đã thử khảo sát lại các ghi chép liên quan đến kiến trúc trong các nguồn tư liệu chữ viết “đồng đại” thời Lý - Trần, tương đương với giai đoạn thế kỷ 11 - 14.
+ Nhóm tư liệu thứ nhất là 79 kim thạch văn (bao gồm 19 minh văn thời Lý và 60 minh văn thời Trần).
+ Một nguồn tư liệu quan trọng khác là những ghi chép của người Trung Quốc thời Tống - Nguyên có đề cập đến kiến trúc Lý - Trần, tiêu biểu là Quế hải ngu hành chí và An Nam tức sự.
+ Quế hải ngu hành chí là tập bút ký do Phạm Thành Đại (1126 - 1193) thời Tống biên soạn.
+ Phạm Thành Đại từng giữ chức trưởng quan của Quảng Nam Tây lộ - đầu mối thông tin giữa nhà Tống và Đại Việt.
+ Do vậy, mặc dù cá nhân Phạm Thành Đại chưa từng sang Việt Nam, cũng như một số thông tin mà ông tiếp cận mang tính truyền miệng, nhưng Quế hải ngu hành chí vẫn là một nguồn tư liệu đồng đại và có độ tin cậy nhất định khi tìm hiểu về kiến trúc thời Lý.
+ Trong khi đó, Trần Phu (1259 - 1309) - tác giả của An Nam tức sự đã trực tiếp sang Việt Nam năm 1293 với tư cách là sứ giả của nhà Nguyên.
+ Trên đường đi, Trần Phu đã di chuyển bằng đường bộ qua dịch trạm Khâu Ôn (Lạng Sơn), dừng lại vài ngày tại khách quán ở Thái sư phủ (phủ đệ của Trần Quốc Tuấn) ở Vạn Kiếp (Hải Dương), sau đó vào kinh đô Thăng Long.
+ Dọc đường đi, Trần Phu đã có điều kiện quan sát nhiều loại hình kiến trúc, từ nhà dân, khách quán, Thái sư phủ cho đến những công trình cao cấp nhất như điện Tập Hiền.
+ Ghi chép của Trần Phu là một tư liệu “đồng đại” đặc biệt quan trọng để tìm hiểu về văn hóa, đặc biệt là kiến trúc của nhà Trần giai đoạn cuối thế kỷ 13.
+    Các tư liệu nêu trên cung cấp rất nhiều thông tin quý báu như mặt bằng, quy trình xây dựng, các dụng cụ và kỹ thuật kiến trúc được sử dụng dưới thời Lý - Trần… Tuy nhiên, trong khuôn khổ bài viết này, chúng tôi chỉ tập trung xác định tên gọi đương thời của một số loại cấu kiện kiến trúc như “hồng lương”, đấu củng, các loại ngói lợp mái, cũng như mối quan hệ giữa các loại cấu kiện kiến trúc đó với kết cấu bộ vì và đặc trưng bộ mái của kiến trúc thời Lý - Trần.
+ Ngoài ra, đương thời, có tin đồn cho rằng những người sáng lập hai vương triều Lý - Trần đều là người đất Mân (Phúc Kiến), văn hóa thời Lý - Trần có mối quan hệ chặt chẽ với văn hóa khu vực Trung - Nam Trung Quốc.
+ Do vậy, trong bài viết này, chúng tôi cũng tham khảo Doanh tạo pháp thức - bộ sách kiến trúc được biên soạn thời Bắc Tống, để làm rõ hơn đặc trưng kiến trúc thời Lý - Trần trên cơ sở so sánh với kiến trúc Tống.
+I.
+ Kết cấu bộ vì trong kiến trúc Lý - Trần1.
+ Hồng lương 虹梁 - Nguyệt lương 月梁    Phân tích tư liệu minh văn thời Lý - Trần cho thấy trên bộ vì của kiến trúc gỗ thời Lý - Trần tồn tại một loại cấu kiện gọi là “hồng lương” 虹梁 hay “nguyệt lương” 月梁.
+ “Hồng lương” hay “nguyệt lương” là tên gọi của rường cong, ví hình dáng chiếc rường như cầu vồng (“hồng”) hay trăng lưỡi liềm (“nguyệt”).
+ Tại Trung Quốc, tên gọi “hồng lương” đã xuất hiện từ thời Hán, nhưng đến thời Tống, tên gọi “nguyệt lương” được sử dụng phổ biến hơn.
+ Trong Doanh tạo pháp thức có ghi chép cụ thể về các chủng loại và kích thước của “nguyệtlương” (Hình 2).
+ 2.
+ Đấu củng 斗栱    Như chúng ta đã biết, “đấu củng” 斗栱 là một thuật ngữ kiến trúc bắt nguồn từ Trung Quốc.
+ “Đấu củng” là một kết cấu bao gồm hai bộ phận là “đấu” (đóng vai trò là bệ đỡ) và “củng” (giống hình khuỷu tay nên còn được ghi là 肘木, đóng vai trò là tay đỡ), được dùng để đỡ một kết cấu khác bên trên, ví dụ như mái hiên.
+    Trong các nghiên cứu trước đây, dựa trên hai mô hình kiến trúc nhà thời Trần phát hiện tại Nam Định và Thái Bình, cũng như quan sát cấu trúc vì nóc của thượng điện chùa Dâu, Thái Lạc, Bối Khê, Trịnh Cao Tưởng và Hà Văn Tấn đã suy đoán về sự tồn tại của đấu củng trong kiến trúc thời Trần (Trịnh Cao Tưởng, 1978, Hà Văn Tấn, 1993).
+ Nghiên cứu của Tomoda Masahiko - Shimizu Shinichi cũng cho thấy một số mô hình kiến trúc đất nung thời Lý - Trần có thể hiện đấu củng (Tomoda Masahiko - Shimizu Shinichi, 2012).
+ Trong bài viết này, trên cơ sở phân tích các minh văn thời Lý - Trần, chúng tôi muốn bổ sung thêm một số bằng chứng tư liệu chữ viết giúp khẳng định sự tồn tại của đấu củng trong kiến trúc Lý - Trần.
+ Dựa trên những tư liệu này, chúng tôi cũng muốn đưa ra một số nhận định về màu sắc, mô típ trang trí cũng như hoa văn trên đấu củng, xét trong mối quan hệ với các cấu kiện khác.
+    Về cấu kiện “đấu” 斗, trong Minh Tịnh tự bi văn (1090) có câu “huyền tinh tác đấu, yển nguyệt vi lương” 懸星作斗、偃月為梁 tức là “treo sao làm đấu, uốn trăng làm rường”.
+ Trong trường hợp này, đấu được ví là sao, được sử dụng kết hợp với rường cong, được ví là trăng lưỡi liềm.
+ Ngoài ra, Sùng Thiện Diên Linh tháp bi (1121) có câu “lũ trinh mai nhi tác đấu, trác thúy vũ dĩ thành doanh” 鏤貞玟而作斗、琢翠碔以成楹 nghĩa là “chạm đá đỏ làm đấu, mài đá vũ xanh làm hiên”.
+ Do tháp Sùng Thiện Diên Linh được xây băng đá nên trong minh văn này, vật liệu làm “đấu” được miêu tả là “trinh mai” (đá đỏ).
+    Kết cấu “đấu củng” bao gồm hai thành phần “lô” 櫨 (đấu lớn) và “củng” 栱 được thể hiện rõ nhất trong hai tư liệu sau.
+ Trong Tư Lang châu Sùng Khánh tự chung minh (1113) có câu “đan lô phụng nhật, họa củng thừa vân” 丹櫨捧日，画栱承雲.
+ “Lô” trong “đan lô” là đấu lớn (tiếng Nhật gọi là đại đấu 大斗, hiện nay tại Việt Nam chúng ta hay gọi là “đấu vuông thót đáy lớn”) đặt trực tiếp lên cột.
+ Doanh tạo pháp thức ghi rất rõ về cấu kiện này: “phép tạo đấu có 4 loại.
+ Thứ nhất là lô đấu, đặt trên đầu cột” (Hình 3,5).
+ Cấu kiện “lô” này cũng được ghi chép trên Viên Quang tự bi minh (1210), trong câu “triều vân sinh vu lương đống, mộ hà ánh vu củng lô” 朝 雲生於梁棟、暮霞映於栱櫨, nghĩa là “mây sớm sinh tại rường nóc, ráng chiều rọi ở củng lô”.
+    Không chỉ khẳng định sự tồn tại của “đấu củng”, các tư liệu chữ viết đồng đại còn cung cấp thêm một số thông tin quý báu về màu sắc và họa tiết trang trí trên đấu củng.
+ Đấu củng thời Lý - Trần không chỉ là các cấu kiện để nguyên màu gỗ, trong một số trường hợp, nó còn được sơn son.
+ Trong Tư Lang châu Sùng Khánh tự chung minh (1113) (tư liệu dẫn ở trên) có chữ “đan lô”.
+ “Đan” 丹 là màu đỏ.
+ Ví dụ, khoảng sân lát gạch đỏ phía trước chính điện ở kinh đô thường được gọi là “đan trì” hay “đan đình”.
+ Như vậy, “đan lô” cần được hiểu là cấu kiện lô được sơn son.
+    Ngoài ra, đấu củng còn được điêu khắc thành hình “vân” (mây), hoặc có các họa tết trang trí dạng “vân” (mây) hoặc “hà” (ráng chiều).
+ Tư Lang châu Sùng Khánh tự chung minh (1113) dùng chữ “họa củng” 画 栱, tức là củng được vẽ - trang trí.
+ Điều đáng chú ý ở đây là chữ “họa củng” được dùng trong câu “họa củng thừa vân”, nghĩa là “củng vẽ đội mây”.
+ Viên Quang tự bi minh (1210) cũng chép: “triều vân sinh vu lương đống, mộ hà ánh vu củng lô” 朝雲生於梁棟、暮霞映於栱櫨, nghĩa là “mây sớm sinh tại rường nóc, ráng chiều rọi ở củng lô”.
+ Chúng tôi cho rằng đây không đơn thuần là những diễn đạt hoa mỹ trong văn chương, mà chỉ hình dáng, hoặc những họa tiết trang trí hình “vân” (mây) và “hà” (ráng) trên các cấu kiện thực tế.
+ Theo Doanh tạo pháp thức, trong kiến trúc thời Bắc Tống có loại cấu kiện gọi là “vân củng” (Hình 6), cũng như các mô típ trang trí hình “vân” (mây) và “hà” (ráng chiều) (Hình 7).
+ Mặc dù có cách thể hiện tương đối khác biệt với nhà Tống, nhưng họa tiết hình “vân” hay “hà” được thể hiện khá phổ biến trên nhiều đồ án mỹ thuật thời Lý - Trần.
+ Đặc biệt, miêu tả đấu củng trên tháp Bình Sơn cũng cho thấy các họa tiết trang trí hình “vân” (Hình 8).
+    Việc sơn son đấu củng có lẽ để đảm bảo màu sắc tiệp với màu cột.
+ Việc cột thời Lý - Trần được sơn vẽ các họa tiết trang trí có thể thấy trong câu “trụ sắc điểm phương hoa diệu thái, minh châu ánh chiếu sơn hà” 柱色点芳花耀彩、明珠映照山河 nghĩa là “màu cột tô điểm: hoa thơm đua sắc, minh châu chiếu rọi non sông” của Báo Ân thiền tự bi ký (1185 - 1214).
+ Ngoài ra, sắc sơn đỏ của tự viện cũng được nhắc đến trong Thiệu Long tự bi minh (1226) với câu “đan hoạch tân tên nhi huyền thái” 丹雘新鮮而玄彩, nghĩa là “màu son tươi nguyên một màu”.
+ Đặc biệt, sách Quế hải ngu hành chí do Phạm Thành Đại 范成大 (1126 - 1193) soạn vào thế kỷ 12 khi miêu tả về cung điện nhà Lý cũng nhắc đến việc kiến trúc được sơn son, cột được vẽ họa tiết hình “long, hạc, tiên nữ” như sau:    酋居楼四層、上以自居、第二層御宙居之、中人也、第三層箇利就居之、老鈴下之属也、第四層軍士居之、又有水晶宮天元殿等、諸僭擬名字、門別有一楼、猶榜曰安南都護府、屋皆朱漆、柱画龍鶴仙女.
+    Tạm dịch:    Tù trưởng [tức hoàng đế nhà Lý - PLH] ở trong lầu 4 tầng, tự mình ở tầng trên cùng.
+ Tầng thứ hai [từ trên xuống - PLH] khi trị thiên hạ (?), [hoàng đế] ở đây.
+ Có bọn hoạn quan.
+ Tầng thứ ba là mỗi lần bàn việc (?), [hoàng đế] ở đây.
+ Có bọn liêu thuộc lớn tuổi (?).
+ Tầng thứ tư để quân sĩ ở.
+ Lại có Thủy Tinh cung, Thiên Nguyên điện, đều tự tện lấy danh tự [tên cung điện Trung Quốc - PLH] để đặt.
+ Ngoài ra còn có một tòa lầu, bên cạnh có bảng đề tên “An Nam Đô hộ phủ”.
+ Nhà cửa đều sơn son, cột vẽ hình long, hạc, tiên nữ.
+3.
+ Phân tích về bộ vì thời Lý - Trần    Trên đây, thông qua phân tch các tư liệu chữ viết đồng đại, chúng tôi đã chứng minh sự tồn tại của các cấu kiện “đấu”, “lô”, “củng”, kết cấu “củng lô”, “hồng lương” (hoặc “nguyệt lương” - rường cong) trong kết cấu vì kèo thời Lý - Trần.
+ Chúng tôi cũng cung cấp các băng chứng về việc sơn son các cấu kiện cột, đấu củng, trang trí hoa văn hình “vân” (mây), “hà” (ráng chiều) trên rường, đấu củng, trang trí “long”, “hạc”, “tên nữ” trên cột.
+ Trên cơ sở đó, chúng tôi muốn đối chiếu với các kết quả nghiên cứu đi trước, từ đó làm rõ hơn về cấu trúc bộ vì thời Lý - Trần.
+    Trước đây, để tìm hiểu về kết cấu bộ vì các giai đoạn trước thời Lê, chúng ta thường nghiên cứu bộ vì nóc thượng điện của các chùa Dâu, Thái Lạc, Bối Khê.
+ Bộ vì nóc thượng điện của ba ngôi chùa trên chia sẻ những đặc điểm chung, được cho thể hiện quy cách kiến trúc cổ vào “thời Trần” (Hà Văn Tấn, 1993) hoặc một khung niên đại rộng hơn là “thế kỷ 14 - 16” (Oyama Akiko, 2004).
+ Về đặc điểm của các bộ vì này, có thể tổng hợp các phân tích của Hà Văn Tấn và Oyama Akiko như sau (Hình 9):    - Bộ vì làm theo kiểu “chồng rường giá chiêng”.
+ Nó bao gồm một xà lòng (Hà Văn Tấn gọi là “câu đầu”, Oyama gọi là “hồng lương”) tỳ lực lên hai đầu cột cái qua hai đấu lớn (Việt Nam gọi là “đấu vuông thót đáy”, phía Nhật gọi là “đại đấu”).
+    - Phía trên xà lòng = “câu đầu” = “hồng lương” có một cấu kiện dạng ván gỗ.
+ Trên ván gỗ đặt hai trụ giá chiêng (trụ trốn) để đỡ rường cong (cũng là “hồng lương”, Hà Văn Tấn gọi là “rường bụng lợn” hay “con cung”).
+ Hai trụ giá chiêng được chạm khắc tinh xảo.
+    - Ở giữa hai trụ giá chiêng là một tấm ván hình lá đề (“cốn”) được điêu khắc tinh xảo.
+Trong đó, đặc điểm xà lòng = “câu đầu” = “hồng lương” không trực tiếp ăn mộng vào đầu cột cái (xuyên vào hai cột cái), mà tỳ lực lên cột cái qua trung gian là hai đấu lớn được các chuyên gia Nhật Bản đặc biệt chú ý.
+ Tomoda Masahiko - Shimizu Shinichi - Ota Shoichi chỉ ra rằng trên một số phù điêu và mô hình tháp đất nung thời Lý - Trần cũng thể hiện cấu trúc tương tự, cho thấy kết cấu cột - đấu lớn - rường, không có xà đầu cột (xà/rường ăn mộng trực tiếp vào cột), cũng được sử dụng trên bộ khung kiến trúc thời Lý - Trần, và có thể là một đặc trưng kiến trúc “giai đoạn sớm” của Việt Nam.
+Phân tích tư liệu minh văn thời Lý trong bài viết này cho thấy nhiều khả năng kết cấu cột - đấu lớn - rường trên đã xuất hiện từ thời Lý.
+ Các loại cấu kiện như đấu (“đấu” - “lô”) và rường cong (“hồng lương”) đã được miêu tả trong minh văn thời Lý.
+ Đặc biệt, trong Minh Tịnh tự bi văn (1090), rường cong và đấu được miêu tả thành một bộ, được ví như trăng và sao.
+ Điều này cho thấy: nhiều khả năng tại chùa Minh Tịnh được xây dựng cuối thế kỷ 11, rường cong được bắc trên đấu, chứ không ăn mộng trực tiếp vào cột.
+ Đó là vì nếu chốt rường ăn trực tiếp vào mộng cột, sẽ không cần cấu kiện đấu.
+ Nói cách khác, kết cấu cột - đấu lớn - rường tương tự như những gì chúng ta đang thấy trên vì nóc thượng điện chùa Dâu, Thái Lạc, Bối Khê có thể đã xuất hiện từ thời Lý.
+Chúng tôi cũng muốn chú ý đến câu “lương yển phân hình, ngộ hồng song khóa” 樑偃分形、誤虹 双跨.
+ Chữ “khóa” ở đây nghĩa là “nhịp” trong nhịp cầu.
+ Vì vậy, câu này có thể hiểu là “rường xếp phân hình, tưởng như cầu vồng đôi nhịp”.
+ “Đôi nhịp” có thể có 2 ý nghĩa: (1) hoặc nó chỉ kết cấu “chồng rường” với 2 rường cong như ta thấy ở vì nóc thượng điện các chùa Dâu, Thái Lạc, Bối Khê; (2) hoặc nó chỉ kết cấu 2 nhịp vì sử dụng rường cong như có thể thấy trong Doanh tạo pháp thức (Hình 10).
+(Còn tiếp)
+
+Tác giả: Lượng Minh

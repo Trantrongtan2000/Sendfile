@@ -1,0 +1,56 @@
+Clinton và Trump sử dụng ngôn ngữ như thế nào?
+Khoa học dữ liệu được áp dụng rất nhiều vào các ngành khoa học khác, trong đó có ngành Semantics (ngữ nghĩa học), đây là một bộ môn phân tích các thành tố trong ngôn từ, rất có ích trong việc định hướng truyền thông.
+ Hôm nay, chúng ta không đi sâu vào các tweet, bình luận trên facebook mà về chính trị.
+ Cụ thể, nghiên cứu này sẽ tậo trung vào ba đặc tính chính: từ vựng, phong cách, nhịp điệu của hai ứng cử viên nổi tiếng nhất trên đường đua đến nhà Trắng Hillary Clinton và Donald Trump.
+Vốn từ vựngMột cách để đánh giá xem ai là người có số vốn từ nhiều hơn là xem xét họ dùng bao nhiêu từ đơn nhất.
+ Để làm điều này, chúng ta cần phải loại bỏ những từ thông dụng nhất trong tiếng Anh là (the, a , an, of…) vì chúng là những từ chỉ để hoàn thiện cấu trúc ngữ pháp chứ không mang nghĩa.
+ Thứ hai, những dạng số ít, dạng phân từ của cùng một từ sẽ tính chung vào một từ.
+Người ta nhận thấy rằng các bài phát biểu của Trump có 13% là những từ hoàn toàn riêng biệt (965 từ có nguồn gốc riêng biệt trong một văn bản dài 7460 từ.
+ Mỗi từ, trung bình được lặp lại 7.
+7 lần.
+ Trong đó, các bài phát biểu của Clinton có 17% các từ hoàn toàn khác nhau và tỉ lệ lặp từ là ~6 lần.
+Điểm khác biệt rõ ràng là: chỉ cần dùng 480 từ để viết được 80% các bài phát biểu của Trump, trong khi Clinton dùng 665 từ.
+ Đó là tỉ lệ khác biệt lên tới 38%.
+Sự hiệu quả của một bài phát biểu một phần dựa trên phong cách của người diễn thuyết.
+ Trong trường hợp này, chúng ta sẽ đi tìm những từ mà được hai ứng cử viên yêu thích.
+ Để tìm được những từ vựng thuộc Trump (Trumpian) và thuộc Clinton (Clintonian), chúng ta phải tìm ra những từ mà cả hai người đều dùng, nhưng một từ xuất hiện nhiều nhất trong lời của người này nhưng ít nhất trong lời của đối thủ.
+ Ví dụ từ “really” được tìm thấy 15 lần trong bài phát biểu của Trump nhưng chỉ một lần trong bài của Clinton.
+ Một trong những cách xác định là tính toán tỉ lệ chênh lệch trong mỗi từ - tạm gọi là “odds ratio”.
+ OR (odds ration) được tính bằng công thức sau:Và đây là kết quả của chúng ta:Điều đầu tiên có thể nhận thấy là Trump sử dụng các từ ngắn và thông dụng, và cố ý lặp lại chúng: “really”, “nice”, “great”, “problems”.
+ Ngoài ra, chúng ta có thể ghi nhận mối bận tâm của ứng cử viên của đảng Cộng hòa này qua các từ: “Mexico”, “China”, “Iran”.
+ Tổng quát mà nói, những mối bận tâm của Trumps có vẻ tập trung vào các vấn đề quốc tế hơn Clinton.
+ Những điều ông ta đề cập nhắm đến việc truyền nỗi sợ hãi và đổ lỗi cho các nước khác.
+Về phía Hillary, phạm vi từ rộng hơn.
+ Các từ “clintonian” mang xu hướng hiếm gặp hơn của Trump.
+ Hillary thích nhắc đến nước Mỹ  (America) nhiều hơn Trum: 27 lần (Trump chỉ có 5 lần).
+ Bộ từ vựng của Clinton cho thấy bà tập trung vào các vấn đề nội bộ quốc gia.
+ Những từ thường thấy là “together”, “campaign” và “hard”.
+ Donald Trump cũng được nhắc đến nhiều lần trong những bài phát biểu.
+Những người quan sát tốt sẽ nhận ra rằng từ “Trump” không xuất hiện trong bộ từ vựng phía trên, bởi vì chính Trump cũng đề cập đến họ của mình nhiều lần, làm tỉ lệ chênh lệch giảm xuống.
+ Hơn nữa, từ “wants” mà Clinton dùng thường để chỉ trích đối thủ (“He wants to divide us…”, “He wants us to fear the future and fear each other.
+”) Điều cho thấy rõ ràng Clinton nói về Trunp và Trump nói về chính ông ta.
+Chúng ta có thể nhìn vào những từ mà cả 2 ứng cử viên đều dùng  như nhau.
+ Họ trình bày những mối quan tâm chung.
+ Không ngạc nhiên, đó là các từ “job”, “country”, và “thinking”.
+ Họ dùng từ “thank(s)” nhiều lần, nhưng  ở một cách khác nhau: trong khi Clinton tập trung cảm ơn một nhóm hay một cá nhân, từ “thank(s)” mà Trump dùng khi đám đông tán thưởng ông ta.
+Về nhịp độMỗi ứng cử viên có nhịp độ riêng, tùy vào bối cảnh của họ.
+ Đầu tiên chúng ta sẽ phân tích nhịp điệu bên trong của họ: có thể tách mỗi bài phát biểu thành các nhóm câu, và các câu thành nhóm các từ.
+ Người ta nhận thấy rằng Trump có bài phát biểu dài hơn với 625 câu và 7460 từ, trong khi Clinton có 405 câu và 6088 từ.
+ Có nghĩa là,bài phát biểu của trăm có 54% câu nhiều hơn so với đối thủ nhưng chỉ dài hơn 23%.
+Độ dài trung bình câu của Trump là 12 từ/câu.
+ Clinton viết những câu hơi dài hơn với trung bình 15 từ/câu.
+ Hầu hết các câu của Trumps ngắn hơn: hơn 21% bài diễn thuyế của Trump là những câu dài 5 hay 6 từ.
+ Còn tần suất xuất hiện nhiều nhất trong những bài diễn thuyết của Clinton là những câu có độ dài 12 từ.
+Chúng ta có thể nhận ra sự khác biệt giữa hai ứng cử viên: Bài phát biểu của Trump đơn giản và ngắn, của Clinton phong phú và lạnh lùng.
+ Obama, trong diễn văn bổ nhiệm đầu tiên, sử dụng trung bình 25.
+7 từ/câu, gần bằng tổng cộng cả hai ứng viên cộng lại.
+ Obama cũng lặp từ ít hơn Clinton 24% và với Trump là 42%.
+ Có nghĩa làm trong khi nhịp điệu nói của Clinton chậm hơn và cấu trúc câu phức tạp hơn một chút, bài phát biểu của bà cũng tương đương với đối thủ.
+Lời cuốiTiến trình ngôn ngữ không phải một môn khoa học chính xác.
+ Nó chỉ ra cho chúng ta các dấu hiệu và thành tố mà qua đó lời nói được biểu đạt.
+ Nhưng chúng ta biết gì từ phân tích trên:Trumps nghĩ mọi thứ “really” “great” and “nice” và Clinton nói về cách mà mọi người “work” “together” cho “America”.
+Trumps nói về bản thân, Clinton nói về Trump.
+ Trong khi Clinton sử dụng từ vựng rộng hơn và những câu phức tạp hơn, Clinton có vẻ đang thích ứng theo phong cách của TrumpTheo medium.
+com
+
+Tác giả: Truê

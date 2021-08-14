@@ -1,0 +1,84 @@
+Phải chăng bạn đang hiểu sai về vật lý lượng tử?
+Dịch từ: https://motls.
+blogspot.
+com/2018/12/the-word-salad-interpretation-of.
+htmlMichael Nielsen, một nhà nghiên cứu về thông tin lượng tử có tiếng tăm, vừa viết một bài tiểu luận thú vị:Trạng thái lượng tử nghĩa là gì? (cognitivemedium.
+com)Tôi đồng ý với hầu hết quan điểm của ông ấy, mặc dù ông ấy "hoài nghi" về ý nghĩa của trạng thái lượng tử hơn tôi rất nhiều.
+Bài tiểu luận bắt đầu bằng một trích dẫn của Feynman rằng ông ấy vẫn cảm thấy bất an về sự thiếu trực quan rằng tại sao cơ chế lượng tử lại nhất quán - nhưng cũng mường tượng rằng sau 2 thế hệ, con người sẽ cảm thấy thoải mái hơn về cơ chế lượng tử, nhận ra rằng sự nhất quán đó là hiển nhiên.
+ Chắc chắn là tôi đã hiểu được điều đó.
+Giờ thì, như những gì tôi đã từng làm rất nhiều lần trước đây, Nielsen không đồng ý với việc khẳng định rằng "sự chồng chấp lượng tử của 2 trạng thái có nghĩa là vật thể đồng thời tồn tại ở 2 trạng thái đó".
+ Trong ví dụ nổi tiếng nhất, con mèo của Schrödinger thường được hiểu rằng nó "vừa sống vừa (và) chết".
+ Đó là thứ mà Nielsen gọi là "cách hiểu kiểu salad từ về cơ chế lượng tử", một cụm từ mà gây ra thiệt hại còn lớn hơn cái giá phải trả để bạn có thể đọc được bài viết của ông ấy.
+Trong thực tế, con mèo của Schrödinger vẫn chỉ "sống HOẶC chết", từ "HOẶC" (OR) vẫn chính xác hơn nhiều so với từ "VÀ", trong khi đó cơ chế lượng tử giúp chúng ta dự đoán được xác suất của "sống" và "chết" cũng như các giá trị khác có thể quan sát được mà không liên quan tới lượng tử nhị nguyên sống/chết.
+ "HOẶC" chính xác hơn "VÀ" - nhưng bạn phải loại bỏ cái suy nghĩ rằng việc sử dụng từ "HOẶC" đồng nghĩa với sự tồn tại của một thực tế khách quan (và câu trả lời khách quan cho câu hỏi về sống/chết) trong mọi khoảnh khắc.
+Thay vào đó, "HOẶC" là một dạng phép cộng logic nào đó, một phép tính có khuynh hướng cộng thêm giá trị sự thật (0/1) hoặc xác suất (xác suất chỉ là giá trị kỳ vọng của giá trị sự thật).
+ Khi có một số giá trị có xác suất khác 0, điều đó có nghĩa là người quan sát không biết câu trả lời chính xác.
+Cụ thể là, Nielsen đã nhận định chính xác rằng cách hiểu thông dụng kia thường được diễn giải cho người mới nhập môn nhưng ngay cả những nhà vật lý học chuyên nghiệp cũng hiểu diều đó theo "đúng nghĩa đen", mặc dù cách hiểu đó không chính xác cũng như không đúng về mặt đạo đức.
+ Cách hiểu không chính xác ở đây có nghĩa là sự không chính xác của những kết luận cụ thể được đưa ra thông qua cách nghĩ đó.
+--- Phần nặng lý thuyết, bạn đọc có thể bỏ qua (ND) ---Cụ thể, nhiều người tưởng rằng trạng thái của định dạngvới tổng trên x đi qua tất cả các nhánh đường của "người bán hàng" cho phép cơ chế lượng tử giải "bài toán người bán hàng" (bài toán chọn đường đi ngắn nhất đi qua tất cả các thành phố: tham khảo kaggle.
+com để tìm hiểu về một cuộc thi đang diễn ra có dạng như vậy) một cách nhanh chóng.
+Theo cách này, những người hiểu theo kiểu salad từ tưởng rằng, trạng thái lượng tử chứa "nhiều thông tin cổ điển hơn" trạng thái cổ điển của chính vật đó.
+ Và một người có thể sử dụng ít phép tính hơn - ví dụ, nếu f(x) được chọn theo độ dài của nhánh đường, chúng ta có thể nhấn mạnh những thành phần của hàm số sóng tương đương với con đường ngắn nhất - và do đó giải bài toán người bán hàng với tốc độ nhanh lũy thừa cứ như thể máy tính lượng tử giống như máy tính song song.
+Nhưng Nielsen rất hiểu về tính toán lượng tử - đó là vì sao ông ấy không chỉ có thể nói bạn rằng điều đó là bất khả thi mà còn cho bạn một bài nghiên cứu cực kì chi tiết diễn giải sự bất khả thi của việc "sử dụng máy tính lượng tử như một hệ thống máy tính song song".
+Những bài nghiên cứu nặng chuyên môn như vậy có thể sẽ rất thú vị nhưng tôi tin rằng sai lầm của những người hiểu theo kiểu salad từ có tính chất cơ bản hơn rất nhiều.
+ Họ đơn giản là tưởng rằng hàm số sóng là sóng cổ điển - vì vậy tất cả biên độ xác suất phức (hệ số của các số hạng khác nhau trong hàm số sóng) là một dạng "dữ liệu cổ điển khách quan" nào đó.
+ Có một số lượng lũy thừa các số hạng như thế - với N qubits, bạn có 2^N biên độ phức - và chúng có thể được biến đổi như thể một số lượng lũy thừa các dữ liệu cổ điển.
+ Và đó là vì sao bạn có thể thử tất cả các nhánh đường cùng một lúc và giải quyết bài toán một cách hiệu quả.
+Ngoại trừ việc là bạn không thể làm điều đó.
+ Đơn giản là việc cho rằng biên độ xác suất phức là "dữ liệu cổ điển khách quan" hoặc, tương đương rằng, hàm số sóng là một sóng cổ điển, là sai lầm.
+ Cụ thể là, theo định nghĩa của chúng, những biên độ xác suất đó gần gũi với những xác suất bình thường trong phân phối xác suất mà đã tồn tại trong vật lý cổ điển hơn rất nhiều, khi mà có sự bất định tồn tại.
+Và việc xác suất mã hóa sự thiếu thông tin của chúng ta về trạng thái của một vật hoặc một hệ thống vật lý rất khác so với "dữ liệu cổ điển mà chúng ta nắm rõ".
+ Cụ thể là, sự khai triển của dữ liệu cổ điển dường như hoàn toàn là chủ quan.
+ Nếu như bạn mô tả một hành tinh theo hàm số tọa độ của chúng x_j(t), thì có thể hiểu được rằng vũ trụ đã khai triển hàm số theo thời gian đó theo phương trình vi phân, gần như không phải tuyến tính, tổng quát nhất - sự khai triển đó còn thậm chí có thể tổng quát hơn cả thứ được gọi là phương trình vi phân.
+Mặt khác, hệ số c_i thuộc C mô tả vector trạng thái |ψ> có thể khai triển từ một phương trình tổng quát tuyến tính - phương trình của Schrödinger với tất cả những tham số tùy chọn của việc khai triển được mã hóa trong toán tử tuyến tính Hermit H, toán tử Hamilton.
+ Vì vậy hàm số sóng không thể được khai triển theo cách "tổng quát".
+ Cụ thể là, bạn không thể có một thiết bị khai triển hàm số sóng để cho biên độ c_i được bình phương - để cho chúng có thể trở thành |c_i|^2, ví dụ như vậy.
+ Đó không phải tuyến tính và là điều cấm.
+Sự khai triển tuyến tính của hàm số sóng bắt buộc bạn phải khai triển tất cả biên độ theo một cách tương quan.
+ Và sự tuyến tính đó ngăn cản việc bạn có thể bình phương hoặc các phương thức biến đổi phi tuyến tính khác - vốn đồng nghĩa với việc sao chép lượng tử và điều đó là bất khả thi.
+Ngoài ra, những biên độ xác suất phức c_i thuộc C trong hàm số sóng |ψ> không thể nào được đo đạc một cách riêng rẽ như cách x_i được đo đạc trong vật lý cổ điển, ví dụ như việc quan sát các hành tinh một cách cẩn thận.
+ Thay vào đó, bạn chỉ có thể đo đạc được một giá trị của một toán tử tuyến tính Hermit - và bạn nhận được một kết quả mà xác suất của nó có thể được tính toán từ những biên độ c_i theo định luật Born.
+ Một tập con đơn giản của việc đo đạc đó trông giống như bạn đang không đo đạc biên độ c_i - thay vào đó, bạn đang xác định chỉ số i và bạn có một kết quả ngẫu nhiên với xác suất được xác định bởi c_i.
+Một lần nữa, có những mặt của cơ chế lượng tử mà hoàn toàn mới - cụ thể, x và p rất giống với các cặp toán tử không tương tác với nhau là cơ sở toán học đằng sau của nguyên lý bất định - nhưng ý nghĩa của phương trình Schrödinger thì gần gũi với ý nghĩa của phương trình Liouville về không gian pha trong cơ chế cổ điển Hamilton hơn nhiều.
+ Phương trình đó chắc chắn là tuyến tính.
+ Ngoài ra, bạn cũng không thể đo đạc ρ(p, q) trực tiếp được bằng cách đo từng điểm được tham số hóa bởi tọa độ p, q.
+ Thay vào đó, bạn chỉ có thể đo được p hoặc q hoặc các hàm số khác của chúng.
+Không cần phải nói rằng, sự so sánh giữa ρ(p, q) trong vật lý cổ điển và |ψ> có thể chặt chẽ hơn: nếu bạn thay thế vector trạng thái thuần |ψ> bằng ma trận mật độ ρ, bạn có cách thể hiện trạng thái lượng tử hoàn chỉnh tương đương với ρ(p, q).
+ Ý nghĩa đạo đức của phương trình (giống như phương trình) Schrödinger đối với ma trận mật độ (nó được gọi là phương trình von Neumann, nhưng tôi không nghĩ rằng tên gọi là thứ thực sự quan trọng hay thực tế) cũng giống như ý nghĩa của phương trình Liouville tuân theo ρ(p, q; t) trong vật lý cổ điển.
+ Bạn có thể tìm ra được mối liên hệ giữa hai đối tượng toán học này trong giới hạn cổ điển ħ→0.
+--- Hết phần nặng lý thuyết, phew (ND) ---Vì vậy quan điểm hàm số sóng là một sóng cổ điển là sai - ngang ngửa với độ sai của cái meme rằng máy tính lượng tử là một số lượng lũy thừa máy tính song song.
+ Vật lý lượng tử chỉ đơn giản không phải là một lý thuyết cổ điển nào khác.
+ Rõ ràng là Nielsen đồng ý với những câu phủ định này.
+ Và ông ấy có vẻ như khuyến khích cách diễn giải hoài nghi, ngậm-mồm-vào-và-tính-đi như là một nền tảng tối ưu cho những người làm việc với nhiều "bài toán nhỏ" được xác định rõ ràng , đủ nhiều (trong trường hợp này và các trường hợp khác) để khiến những bài toán lớn "bốc hơi".
+Tôi không đồng ý lắm với quan điểm của ông ấy rằng "cách diễn giải khẳng định của hàm số sóng" là một thứ mà những nhà vật lý giỏi không thể cùng đồng ý.
+ Những câu "phủ định" (negative) trên nghe có vẻ tiêu cực (negative) nhưng đó chỉ là cách phân loại cảm tính về ý nghĩa của chúng.
+ Chúng là "phủ định" bởi vì chúng cho ta biết hàm số sóng không phải là cái gì.
+ Chúng là một cảnh báo ngăn người nghe tiếp thu những kết luận sai lầm nghiêm trọng như kia.
+Nhưng chúng cũng là những thông tin "tích cực" (positive).
+ Chúng ta có thể học được từ tự nhiên thông qua những câu tích cực và tiêu cực - sau cùng thì chẳng có cách nào thực sự rõ ràng để phân loại những câu mang nghĩa tích cực và tiêu cực.
+ Vì vậy những câu tiêu cực đó là để bảo vệ chúng ta khỏi những sai lầm về khái niệm.
+ Nhưng chúng cũng có thể được hiểu là những mô tả tích cực về hàm sóng (ở trong những đoạn này, "positive" có thể được hiểu là "tích cực" hoặc "khẳng định", cũng như "negative" có thể được hiểu là "tiêu cực" hoặc "phủ định"; phải chăng đó là sự tồn tại của sự lưỡng tính trong ngôn ngữ? - ND).
+ Hàm số sóng là một thành phần của một không gian tuyến tính đa chiều phức (thường là vô số chiều) mã hóa lượng kiến thức tối đa của người quan sát về một hệ thống vật lý được quan tâm.
+ Sự khai triển của nó được thể hiện bằng phương trình Schrödinger, độ kiểm chứng được đảm bảo bởi sự đo đạc được đánh dấu bởi các toán tử tuyến tính Hermit, kết quả của nó được xác định theo xác suất dựa trên định luật Born và hiệu ứng kèm theo của nó là sự điều chỉnh hàm số sóng được gọi là "sự sụp đổ".
+Bởi vì hàm số sóng không phải là một sóng cổ điển, "sự sụp đổ" không tương đương với sự sụp đổ của bất kì vật thể cổ điển nào mà chúng ta có thể quan sát được trong thời gian thực.
+ Thay vào đó, "sự sụp đổ" lượng tử là một sự khái quát hóa phức tạp của định lý Bayes cho chúng ta biết rằng xác suất trước khi đo đạc (prior) nên được thay thế bởi xác suất sau khi đo đạc (posterior) như thế nào.
+ Đơn giản là vậy hoặc gần như vậy.
+ Vấn đề này có thể được bàn bạc kĩ hơn.
+ Và tôi đã làm điều đó hàng trăm lần rồi.
+ Nhưng sẽ chẳng có gì đáng kể có thể thay đổi điều này cả.
+Hãy để tôi nói về mặt tích cực của những câu "tiêu cực" này.
+ Sự phát hiện của vật lý lượng tử đại diện cho một cuộc cách mạng sâu sắc về nền tảng của vật lý, có thể gọi nó là "siêu lý thuyết" (meta-theory) chứ không chỉ đơn thuần là "lý thuyết" mà một số kẻ chỉ muốn chỉnh sửa những chi tiết của các lý thuyết đúng của vật lý cổ điển.
+ Cụ thể, cơ chế lượng tử xác định lại những câu hỏi nào thì có nghĩa và cần làm những gì để dự đoán hoặc kiểm nghiệm chúng.
+ Cũng như thuyết tương đối nhưng còn rộng hơn thế, cơ chế lượng tử nói rằng rất nhiều những câu hỏi mà con người đặt ra về tự nhiên vô nghĩa về mặt vật lý.
+ Đây là một nhận định tiêu cực về cách nghĩ của một số người nhưng có rất nhiều chứng cứ hỗ trợ nhận định này (và rất nhiều sự liên kết nội bộ trong toàn bộ logic).
+ Nếu như một vài người không sẵn sàng chấp nhận "siêu lý thuyết" này, thật đáng tiếc.
+ Nhưng sự từ chối ngay cả việc xem xét nó như là một lý thuyết khả thi là lỗi của mấy người đó, không phải lỗi của cơ chế lượng tử.
+Có vẻ hiển nhiên với tôi rằng tất cả salad từ và những cách hiểu sai liên quan về cơ chế lượng tử đều muốn tìm hoặc quảng bá nhận định để khiến hàm số sóng trông giống như (hoặc hoàn toàn là) một sóng cổ điển.
+ Nhưng quan điểm này là sai lầm, như tôi đã nói, và câu khẳng định "quan điểm này là sai lầm" thực sự là kết luận cuối cùng về tất cả sự nỗ lực của mấy người kia - và vì vậy là câu trả lời cuối cùng cho những câu hỏi có liên quan tới sự diễn giải có-vẻ sâu hơn về cơ chế lượng tử mà ai cũng đưa ra ngoài kia!Nếu bạn tiếp thu cách nghĩ đúng đắn hơn, cách nghĩ theo cơ chế lượng tử, vấn đề về ý nghĩa của hàm số sóng được giải đáp hoàn toàn.
+ Ít nhất là khi chúng ta tập trung vào tất cả những câu hỏi và ý tưởng đã được đặt ra và thảo luận như thể việc "đào sâu hơn" một cách khả thi về nền tảng của cơ chế lượng tử, "nỗ lực đào sâu hơn" và "giới thiệu những ý tưởng sai lầm cơ bản và rõ ràng" là không thể tách rời!Điều đó có nghĩa là nếu bạn không muốn mắc sai lầm, bạn cũng sẽ phải đồng ý rằng mô tả "của tôi" về hàm số sóng ở trên là câu trả lời đúng và đủ nhất.
+ Có thể ai đó sẽ tìm ra một số câu hỏi hoặc câu trả lời mà có khả năng không sai nhưng điều đó vẫn chưa xảy ra sau 93 năm đầu tiên kể từ khi cơ chế lượng tử ra đời, mặc dù đã có hàng nghìn trang nghiên cứu được cho là có liên quan mà chỉ toàn salad từ trong đó.
+Nói cách khác, một số câu hỏi hoặc đề xuất sâu hơn mà đi quá cách diễn giải truyền thống hoặc cách diễn giải Copenhagen (hoặc tương tự) về cơ chế lượng tử có thể có giá trị trong tương lai, giả sử là như vậy.
+ Nhưng tập con của những câu hỏi, đề xuất và nỗ lực đó đã xảy ra cho tới tháng 12 năm 2018 đều vô giá trị: tất cả những nỗ lực đó đều chỉ là sự khái quát hóa của salad từ.
+
+
+Tác giả: loveless

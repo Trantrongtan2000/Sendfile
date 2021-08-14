@@ -1,0 +1,552 @@
+Chuyện chưa kể: Nguồn gốc bí mật của chiếc iPhone
+Tháng Sáu này Apple sẽ kỷ niệm 10 năm từ khi ra mắt chiếc iPhone đầu tiên, thiết bị đã làm thay đổi căn bản cách mà chúng ta tương tác với công nghệ, với văn hóa và với chính chúng ta.
+ Để chào mừng dịp đặc biệt này, biên tập viên Brian Merchant của trang Motherboard đã bắt tay vào điều tra và cho ra mắt một cuốn sách có tên “The One Device: The secret history of the iPhone” sẽ ra mắt vào ngày 20 tháng 6 tới.
+ Cuốn sách kể về cuộc hành trình từ những khu mỏ ở Kenya cho tới những nhà máy lắp ráp ở Trung Quốc.
+ Bài viết dưới đây là đoạn trích tóm tắt và biên tập lại của cuốn sách.
+Nếu bạn làm việc tại Apple vào giữa những năm 2000, bạn sẽ thấy một hiện tượng kì lạ diễn ra: mọi người cứ dần dần biến mất.
+Đầu tiên mọi thứ xảy ra một cách chậm chạp.
+ Mỗi ngày sẽ có một chiếc ghế trống tại nơi mà một kĩ sư hàng đầu vẫn thường ngồi làm việc.
+ Một nhân vật chủ chốt của nhóm biến mất mà không ai biết họ đã đi đâu.
+“Tôi đã nghe phong thanh một tin đồn rằng có một thứ gì đó đang được tạo ra, và hầu hết các kĩ sư tốt nhất từ tất cả các đội đã tham gia vào nhóm bí ẩn đó”, Evan Doll, một kĩ sư phần mềm ở Apple kể lại.
+Và đây là điều đã xảy ra với những kĩ sư “siêu sao” đó.
+ Đầu tiên, một cặp quản lý sẽ xuất hiện không báo trước tại bàn làm việc của họ và đóng cửa lại.
+ Thường là các quản lý cấp cao như Henri Lamiraux, giám đốc mảng công nghệ phần mềm và Richard Williamson, giám đốc mảng phát triển phần mềm.
+Họ đến gặp một kĩ sư hàng đầu mới chỉ làm việc ở Apple vài tháng - Andre Boule.
+ Williamson kể lại: “Tôi và Henri bước vào phòng làm việc của anh ta, và chúng tôi nói: Andre, có thể anh không biết chúng tôi là ai, nhưng chúng tôi được nghe kể về anh rất nhiều lần và biết rằng anh là một kĩ sư xuất sắc.
+ Chúng tôi muốn anh làm việc cùng chúng tôi ở một dự án mà chúng tôi không thể nói với anh.
+ Và chúng tôi muốn anh làm điều đó ngay bây giờ.
+ Ngay hôm nay.
+”Boule tỏ vẻ hoài nghi trước hai người đàn ông.
+ Anh nói: “Tôi có thể có thêm chút thời gian để suy nghĩ không?”.
+ Williamson nói: “Không.
+ Chúng tôi không được phép tiết lộ cho anh thêm bất kì thông tin nào nữa.
+” Nhưng vào cuối ngày, Andre Boule vẫn đồng ý tham gia.
+ Williamson và Henry đã lặp đi lặp lại điều này khắp công ty.
+ Một vài kĩ sư yêu vị trí của họ lúc đó đã nói không và tiếp tục làm việc tại Cupertino.
+ Những người đồng ý như Boule ra đi để tạo nên chiếc iPhone.
+Và cuộc sống của họ không bao giờ giống như trước đây - ít nhất là trong vòng 2 năm rưỡi sau đó.
+ Họ không chỉ làm việc tăng ca để cùng nhau “rèn” ra một sản phẩm có tầm ảnh hưởng lớn nhất trong thời đại của chúng ta.
+ Cuộc sống cá nhân của họ biến mất, và họ không được nói gì về thứ mà họ đang tạo ra.
+ Steve Jobs “không muốn bất kì ai làm lộ thông tin nếu họ rời khỏi công ty” Tony Fadell, một trong những nhân vật cấp cao của Apple tham gia thiết kế iPhone cho biết.
+ “Ông ấy (Steve Jobs) không muốn ai nói bất kì điều gì.
+ Chỉ đơn giản là như vậy.
+ Có thể ông ấy hơi bị hoang tưởng.
+”Jobs nói với Scott Forstall, trưởng nhóm phụ trách mảng phần mềm của iPhone rằng anh không thể hé ra một lời nào về chiếc điện thoại với bất kì ai, trong hay ngoài Apple, những người không thuộc về nhóm của anh quản lý.
+ Forstall kể lại: “Vì lí do bảo mật, ông ấy không muốn tôi thuê ai ngoài Apple thiết kế phần giao diện người dùng.
+ Nhưng ông ấy nói tôi có thể thuyên chuyển bất cứ ai trong công ty để tham gia vào nhóm này.
+” Vì thế Forstall cử các quản lí như Henri và Richard đi tìm những ứng viên tiềm năng nhất.
+ Và những người này sẽ phải biết mình sắp đương đầu với những thử thách gì.
+ Forstall nói với mọi người: “Chúng ta đang khởi động một dự án mới.
+ Nó bí mật tới nỗi mà tôi không thể nói cho các anh biết nó là gì.
+ Tôi không thể nói cho anh rằng anh đang làm việc cho ai.
+ Điều duy nhất tôi có thể nói là nếu các anh chấp nhận công việc này, các anh sẽ phải làm việc cật lực hơn tất cả những gì anh đã làm từ trước đến nay.
+ Mọi người sẽ phải từ bỏ các cuộc đi chơi ban đêm và kì nghỉ cuối tuần trong vài năm khi chúng ta làm ra sản phẩm này.
+”Và “thật ngạc nhiên” là một vài tài năng hàng đầu của công ty đã đồng ý tham gia.
+ “Phải thành thực mà nói mọi người ở đó đều là những người giỏi nhất.
+” Nhóm tạo ra chiếc iPhone bao gồm các designer kì cựu, các lập trình viên, các quản lý đã làm việc với Jobs nhiều năm, cho tới những kĩ sư chưa bao giờ được gặp ông ấy - cuối cùng đã trở thành một trong những thế lực sáng tạo vĩ đại nhất thế kỉ 21.
+Một trong những sức mạnh to lớn nhất của Apple là công nghệ của nó khiến người dùng có cảm giác dễ sử dụng.
+ Nhưng để làm ra chiếc iPhone thì không hề dễ dàng chút nào, mặc dù những người phát minh ra nó nói rằng quá trình làm việc của họ thường khá thú vị.
+“Chiếc iPhone là lí do tôi li dị vợ.
+”Lời tiên đoán của Forstall nói với nhóm chế tạo iPhone đã ứng nghiệm.
+Andy Grignon kể lại với tôi: “Chiếc iPhone là lí do tôi li dị vợ.
+” Và tôi đã nghe lại câu này trong vài cuộc phỏng vấn khác với những kĩ sư chủ chốt của iPhone.
+ “Đúng rồi, cái iPhone hủy hoại không chỉ vài cuộc hôn nhân đâu,” một vài người khác lên tiếng đồng tình.
+“Đó thực sự là một công việc căng thẳng và có lẽ là thời gian tồi tệ nhất trong cuộc đời tôi”, Grignon nói.
+ “Bởi vì anh đã tống tất cả những người thông minh nhất vào một cái nồi hầm áp suất với một deadline bất khả thi, một nhiệm vụ bất khả thi và anh biết rằng tương lai của cả công ty trông chờ vào nó.
+ Tất cả giống như một nồi súp toàn những kẻ khốn khổ”.
+ “Anh sẽ không có thời gian để đạp tung cái bàn làm việc của mình và nói, “Một ngày nào đó cái điện thoại này sẽ trở nên tuyệt-con-mẹ-nó-vời.
+” Nó giống như: “Chết tiệt, chúng ta chết cả đám rồi.
+” Mỗi khi bạn quay lại đầu nhìn lại luôn có cảm giác như cái chết bất ngờ đang rình rập ở các góc tối.
+”TẠO RA CHIẾC IPHONEChiếc iPhone bắt đầu được khởi động khi Steve Jobs phê duyệt dự án này ở Apple vào cuối năm 2004 nhưng ý tưởng về nó đã xuất hiện trước đó từ lâu.
+Williamson nghĩ rằng rất nhiều người nhìn bề ngoài và nói rằng nó không giống như bất kỳ chiếc máy tính nào, nhưng thực sự thì nó không khác gì bất kỳ chiếc máy tính nào.
+ Trong thực tế, về mặt phần mềm thì nó phức tạp hơn rất nhiều máy tính vào thời điểm đó.
+ Hệ điều hành của nó có thể sáng ngang với máy tính hiện đại bây giờ.
+ Đó là một bước tiến dài của hệ điều hành mà chúng tôi đã phát triển trong vòng hơn 30 năm.
+Giống như nhiều sản phẩm công nghệ mang tới lợi nhuận cao được đón nhận rộng rãi, iPhone có rất nhiều đối thủ cạnh tranh khi đang được phát triển.
+ Có ít nhất năm dự án điện thoại hoặc có liên quan đến điện thoại - từ những nghiên cứu bé xíu cho tới các công ty đang phát triển mạnh đều sôi sùng sục trước Apple vào giữa những năm 2000.
+ Nhưng điều mà tôi học được trong nỗ lực mổ xẻ chiếc iPhone (về cả nghĩa đen lẫn nghĩa bóng), đó là hiếm có sản phẩm hay công nghệ nào có khởi đầu vững chắc - chúng tiến hóa từ vô số ý tưởng và phát minh được chỉnh sửa và hoàn thiện hành một sản phẩm hoàn toàn mới qua những bộ óc không biết mệt mỏi.
+ Ngay cả khi những người điều hành công ty tuyên thệ trước mặt tòa án liên bang, họ cũng không thể chỉ ra đâu là điểm khởi đầu của chiếc iPhone.
+Ông Phil Schiller, phó giám đốc mảng kinh doanh toàn cầu của Apple nói rằng có rất nhiều thứ dẫn tới sự ra đời của chiếc iPhone.
+ “Đầu tiên Apple đã nổi tiếng nhiều năm vì là nhà sản xuất ra máy tính Mac, nhưng nó chỉ chiếm một phần nhỏ của thị phần.
+ Và sau đó chúng tôi có một cú hit lớn là iPod với phần cứng iPod và phần mềm iTunes.
+ Điều này đã làm thay đổi hoàn toàn cái nhìn của mọi người về Apple, cả trong nội bộ và bên ngoài công ty.
+ Và mọi người bắt đầu hỏi, nếu các người có thể làm ra sản phẩm đỉnh như iPod, thì các người có thể làm gì khác nữa? Và mọi người bắt đầu đưa ra đủ các loại ý tưởng như sản xuất xe hơi, camera, hay vài thứ điên rồ khác.
+”Và dĩ nhiên là chế tạo một chiếc điện thoại.
+MỞ CHIẾC KÉN IPODKhi Steve Jobs quay trở lại Apple vào năm 1997, gánh trên vai một công ty đang trên đà xuống dốc, ông đã được ghi nhận bằng cách cắt giảm dây chuyền sản xuất và đưa việc kinh doanh máy tính Mac của công ty này trở lại đường đua.
+ Tuy nhiên lúc đó Apple không phải là một thế lực tài chính lớn cho đến khi ra mắt iPod, thiết bị đánh dấu nguồn lợi nhuận đáng kể đầu tiên của Apple khi bước chân vào ngành hàng điện tử tiêu dùng.
+ Nó đã trở thành một bản thiết kế mẫu và bàn đạp cho quá trình làm ra chiếc iPhone.
+Tony Fadell, người đã tham gia chế tạo cả hai sản phẩm tuyên bố: “Sẽ không có iPhone nếu thiếu đi iPod.
+” Fadell, người được giới truyền thông gọi là “Podfather” có vai trò quan trọng trong việc sản xuất các thiết bị gây sốt của Apple trong nhiều năm, và chính ông cũng là người đã có tầm nhìn xa trong định hướng phát triển phần cứng của iPhone.
+ Vì thế nên chẳng có mấy người giải thích được cầu nối giữa hai sản phẩm thành công này tốt hơn Fadell.
+ Chúng tôi gặp ông ở Brasserie Thoumieux, một nhà hàng sang trọng nằm ở quận 7 thành phố Paris, nơi ông đang sống hiện tại.
+Tony là một nhân vật mờ nhạt trong những câu chuyện “dân gian” tại Thung lũng Silicon, và ông nằm ngoài biên niên sử của Apple.
+ Brian Huppi và Joshua Strickon, hai thành viên chủ chốt của nhóm kĩ sư nghiên cứu đầu vào của Apple - những người đặt nền móng cho bản phác thảo iPhone đầu tiên - đều tôn sùng ông vì sự táo bạo và phong cách quản lý quyết đoán.
+ Ông là một trong một nhóm nhỏ những người đủ mạnh mẽ sánh ngang với Steve Jobs.
+ Những người khác châm chọc vì những ảnh hưởng của ông trong việc đưa iPod và iPhone ra thị trường; họ gọi ông là “Tony Dớ Dẩn”, và một cựu quản lí của Apple khuyên tôi rằng “đừng tin bất kì điều gì mà Tony Fadell nói.
+” Sau khi rời Apple vào năm 2008, ông sáng lập ra Nest, một công ty sản xuất thiết bị cho nhà thông minh như máy điều hòa nhiệt độ tự động.
+ Công ty này sau đó đã được Google thâu tóm với giá 3.
+2 tỉ USD (khoảng 72 nghìn tỉ VNĐ).
+Lần đầu tiên gặp mặt, tôi thấy một người mặc một chiếc áo len ấm áp với cái đầu cạo trọc và đôi mắt xanh lạnh lùng.
+ Ông nổi tiếng với phong cách cyberpunk chuyên công kích người khác, một kẻ nổi loạn với tính cách nóng nảy chẳng kém gì Jobs.
+ Quả đúng là “tiếng dữ đồn xa”, vẫn với phong cách như thế, nhưng ở đây ông có thể nói tiếng Pháp một cách trôi chảy với nhân viên phục vụ trong lúc đập rầm rầm xuống một tờ giấy in một sơ đồ Venn của hai công ty Mannered Parisian Elite và Brash Tech Titan.
+Fadell nói về nguồn gốc của iPhone bắt đầu từ sự thống trị của iPod.
+ “Nó chiếm 50% doanh thu của Apple.
+” Nhưng khi iPod ra mắt lần đầu vào năm 2001, gần như chẳng ai thèm để ý đến nó.
+ “Phải mất đến hai năm.
+ Nó được làm ra chỉ cho máy tính Mac và chiếm ít hơn 1% thị phần trên toàn nước Mỹ.
+” Người dùng cần phần mềm iTunes để tải nhạc và quản lí các bài hát, và phần mềm này chỉ chạy được trên các máy tính Mac.
+“Muốn đưa iTunes lên PC thì phải bước qua xác tôi trước đã,” Steve Jobs nói với Fadell khi ông có ý tưởng đẩy iTunes lên Windows.
+ Tuy nhiên Fadell đã có một nhóm thầm lặng xây dựng phần mềm iTunes để nó tương thích với Windows.
+ “Phải mất hai năm với những con số tụt dốc không phanh trên thị trường mới có thể khiến Steve Jobs thức tỉnh.
+ Và cuối cùng chúng tôi cũng bắt đầu triển khai, và sau đó iTunes cuối cùng đã trở thành một sản phẩm thành công.
+” Thành công này khiến iPod ở trên tay hàng trăm triệu người - nhiều hơn cả những người sở hữu máy Mac.
+ Hơn thế nữa, iPod trở thành một trào lưu thời trang chính thống mở đường cho các sản phẩm khác của Apple.
+ Fadell được thăng chức và bắt đầu phát triển sản phẩm mới.
+Được tung ra vào 2001 và trở thành hit năm 2003, iPod trở nên yếu thế vào đầu năm 2004 bởi những chiếc điện thoại di động đã trở thành một mối nguy cơ khi chúng có thể chơi nhạc định dạng MP3.
+ “Vậy nếu như chỉ có thể mang một thiết bị thì bạn sẽ chọn cái nào?” Fadell nói.
+ “Và đó là lí do tại sao Motorola Rokr ra đời.
+”SỰ RA ĐỜI CỦA ROKRVào năm 2004, Motorola đang sản xuất một trong những chiếc điện thoại thông dụng nhất trên thị trường, điện thoại gập siêu mỏng Razr (Razor, hay V3).
+ CEO mới của hãng, Ed Zander, là một người bạn của Jobs.
+ Ông rất thích thiết kế của chiếc điện thoại này, và họ cùng tìm cách để Apple và Motorola có thể hợp tác với nhau.
+ (Năm 2003 các nhà điều hành của Apple đã từng cân nhắc chuyện mua lại Motorola nhưng rồi dừng lại vì thương vụ này quá đắt đỏ.
+)  Và như thế chiếc “điện thoại iTunes” đã ra đời.
+ Apple cùng Motorola đã hợp tác với nhà mạng viễn thông Cingular và chiếc điện thoại mang tên Rokr đã ra đời vào mùa hè đó.
+Trước giới truyền thông, Jobs một mực phủ nhận giả thuyết rằng Apple đang sản xuất một chiếc điện thoại.
+ Steve Jobs tuyên bố vào năm 2005 với lí do là Apple không giỏi trong việc vượt mặt qua các nhà mạng như Verizon và AT&T để tiếp cận được người dùng đầu cuối, những đơn vị có tiếng nói đáng kể trong việc quyết định dòng điện thoại nào sẽ được tiếp cận mạng viễn thông của họ.
+ Các nhà mạng hiện tại đang nắm đằng chuôi trong mối quan hệ với các hãng sản xuất thiết bị cầm tay.
+ Các hãng sản xuất luôn phải nhận những cuốn sách thật dày từ các nhà mạng bắt họ phải sản xuất ra chiếc điện thoại như thế này thế kia.
+ Và chúng tôi không giỏi trong việc nghe lời người khác.
+”Thế nhưng ở bên trong, Steve Jobs có những tính toán của riêng mình.
+ Một cựu nhân viên của Apple tiếp xúc với Jobs hàng ngày nói rằng câu chuyện với các nhà mạng không phải là vấn đề lớn nhất cần được giải quyết.
+ Ông quan tâm nhiều hơn tới sự thiếu tập trung trong công ty và "không tin rằng smartphone sẽ trở thành sẽ trở thành sản phẩm dành cho tất cả mọi người, mà nó chỉ dành riêng cho các "tín đồ công nghệ".
+ Bắt tay với Motorola là một cách đơn giản để vô hiệu hóa nguy cơ mà iPod đang phải đối đầu.
+ Motorola sẽ sản xuất phần cứng, còn Apple làm phần mềm iTunes.
+ “Nó giống như kiểu, chúng ta sẽ làm thế nào để người ta có thể trải nghiệm một chút, nhưng họ sẽ vẫn phải mua một chiếc iPod? Cho họ nếm thử mùi vị của iTunes và biến nó trở thành một chiếc iPod Shuffle khiến họ muốn nâng cấp lên iPod thực sự.
+ Đó là chiến lược đầu tiên được đưa ra.
+ Đừng vội tiêu diệt iPod bởi vì nó đang làm rất tốt nhiệm vụ của mình” - Fadell nói.
+ Steve Jobs nói về điện thoại và iTunes năm 2005: Khi sự hợp tác của hai công ty được công khai, các tin đồn từ phía dư luận về sự tham lam của Apple đã nổi lên nhanh chóng.
+ Với một chiếc điện thoại iTunes còn chưa được ra mắt, các blog đã thi nhau dự đoán về một thiết bị di động mang tính đột phá mới đang trong quá trình phát triển.
+Tuy nhiên trong nội bộ Apple thì hi vọng vào chiếc điện thoại Rokr đã xuống tận đáy vực thẳm.
+ “Chúng tôi đều biết nó tệ hại đến mức nào.
+” Fadell nói.
+ “Chúng vừa chậm, chẳng có tính năng gì mới mẻ, lại còn giới hạn số bài hát.
+” Fadell cười lớn trong khi nhắc lại hồi ức về Rokr.
+ “Tất cả những thứ trên đến cùng lúc để đảm bảo rằng nó sẽ là một trải nghiệm siêu tệ hại.
+”SỬA CHỮA NHỮNG THỨ NGƯỜI TA GHÉTTừ Steve Jobs, Jony Ive (giám đốc phụ trách thiết kế của Apple), Tony Fadell cho tới các kĩ sư, chuyên gia thiết kế, quản lý của Apple đều tồn tại một thông điệp ngầm mà tất cả mọi người đều đồng tình là: Trước khi có iPhone, tất cả mọi người đều nghĩ rằng điện thoại di động là một thứ tồi tệ kinh khủng.
+ “Một đống rác rưởi.
+”“Apple giỏi nhất trong việc sửa lại những thứ khiến người ta chán ghét” Greg Christie, trưởng nhóm phát triển giao diện người dùng vào thời điểm đó cho biết.
+ Trước khi có iPod, chẳng ai biết cách dùng một máy chơi nhạc kĩ thuật số: như kiểu khi Napster, ứng dụng chia sẻ nhạc MP3 bùng nổ, mọi người bắt đầu bỏ các máy chơi nhạc bằng đĩa CD vào sọt rác.
+ Và trước khi có Apple II, các máy tính bị coi là quá phức tạp và kém thân thiện với người dùng bình dân.
+Theo lời của Nitin Ganatra, trưởng nhóm thiết kế mail của Apple thì cho tới một năm trước khi khởi động dự án iPhone, ngay cả trong nội bộ Apple cũng thường xuyên bàn tán về việc các điện thoại ngoài kia đều là những thứ rác rưởi tồi tệ.
+ Nhưng nó phản ánh một suy nghĩ đang dần lớn lên trong công ty: nếu Apple đã có thể cải tiến và thay đổi để thống trị một dòng sản phẩm, thì nó hoàn toàn có thể làm thế với những sản phẩm khác.
+Vào lúc đó, Ganatra nói, “cả công ty đều có chung một ý nghĩ: ‘Lạy chúa, chúng ta phải dọn dẹp lại thị trường này thôi - tại sao Apple không làm một chiếc điện thoại?”LỜI KÊU GỌI TOÀN BỘ CÔNG TYAndy Grignon dường như không nghỉ ngơi chút nào.
+ Người kĩ sư nhanh nhẹn này ở Apple vài năm, làm việc trong nhiều phòng ban khác nhau với vô số dự án, từ phần mềm của iPod cho tới một chương trình hội họp qua video và iChat.
+ Anh trở thành người bạn thân với ngôi sao mới nổi Tony Fadell khi họ cùng nhau tạo ra camera iSight.
+Sau khi thu vén một dự án lớn khác - viết ra tính năng Dashboard của Mac (một ứng dụng chạy trên màn hình có máy tính và lịch) mà anh nó là “đứa con” của mình, anh tìm kiếm một điều gì đó mới mẻ để làm.
+ “Fadell đến và nói, ‘Anh có muốn tham gia vào iPod không? Chúng tôi có vài thứ hay ho.
+ Tôi cũng có một dự án khác rất muốn làm nhưng mà để tôi thuyết phục Steve đã.
+ Tôi nghĩ anh rất phù hợp với nó.
+”Grignon là một người lắm mồm và chăm chỉ.
+ “Tôi đã rời bỏ vị trí hiện tại của mình để tham gia vào dự án bí ẩn này.
+ Đầu tiên chúng tôi chỉ làm mấy thứ vớ vẩn như loa không dây hay mấy thứ đại loại thế, nhưng rồi dần dần mọi thứ bắt đầu thành hình.
+ Dĩ nhiên cái dự án mà Fadell nói đến chính là chiếc iPhone.
+” Fadell biết rằng Jobs đã bắt đầu lên ý tưởng từ lâu và muốn nó phải được chuẩn bị thật kĩ.
+ “Chúng tôi có ý này: Cho một chiếc iPod có tính năng kết nối WiFi không phải thật tuyệt vời sao?” Trong suốt năm 2004, Fadell Grignin và cả team đã cố tìm cách kết hợp iPod và Internet vào làm một.
+ “Đó là một trong những phiên bản đầu tiên mà tôi cho Steve xem.
+ Chúng tôi rút ruột chiếc iPod và chế thêm cho nó một thiết bị thu sóng WiFi và chỉnh sửa lại phần mềm.
+ Có một cái nút cuộn ở iPod để bạn có thể lướt web vào đầu năm 2004.
+ Bạn có thể bấm vào nút đó, cuộn trang web lên xuống, và nếu như có một đường link ở trang đó thì bạn có thể bấm vào đó và nhảy sang trang khác.
+” Grignon cho biết.
+Đó cũng là lần đầu tiên Steve Jobs được nhìn thấy Internet hoạt động trên iPod, và ông ấy tỏ vẻ như: “Cái thứ này thật nhảm nhí, dẹp nó đi.
+ Tôi không muốn thấy nó.
+ Tôi biết nó hoạt động rồi, cảm ơn nhưng đây là một trải nghiệm vớ vẩn.
+”“Trong khi đó đội quản lí vẫn cố gắng thuyết phục Steve rằng sản xuất ra một chiếc điện thoại là một ý tưởng tuyệt vời với Apple.
+ Ông ấy vẫn chưa nhìn thấy con đường dẫn đến thành công.
+”Một trong những người làm điều này là Mike Bell, một nhân viên kì cựu đã làm việc ở Apple 15 năm và khi tham gia vào mảng di động không dây của Motorola, Bell đã nghĩ rằng máy tính, thiết bị chơi nhạc và điện thoại di động đang dần tiến đến một điểm hội tụ.
+ Trong nhiều tháng liền, ông đã vận động Jobs làm một chiếc điện thoại giống như ông đã làm với Steve Sakoman, phó giám đốc phụ trách dự án “yểu mệnh” Apple Newton.
+ “Chúng tôi đã dành hết thời gian để đưa các tính năng của iPod vào điện thoại Motorola,”.
+ Bell nói.
+ “Đó dường như là một bước giật lùi với chúng tôi.
+ Nếu chúng tôi chỉ đơn giản đưa vào trải nghiệm người dùng và một vài thứ khác đang trong quá trình phát triển thì có lẽ là đã thắng lớn trên thị trường.
+” Hàng loạt những chiếc điện thoại có thể nghe nhạc MP3 trở thành đối thủ của iPod và nhiều thỏa thuận thay thế đã được đưa ra với các nhà mạng.
+ Trong khi đó, Bell đã nhìn thấy thiết kế mới nhất của chiếc iPod từ Jony Ive.
+Mùng 7 tháng 12 năm 2004, Bell gửi cho Jobs một e-mail vào đêm muộn.
+ “Steve, tôi biết anh không muốn làm ra một chiếc điện thoại, nhưng đây là lí do tại sao chúng ta nên làm: Jony có một thiết kế tuyệt vời cho chiếc iPod mà chưa ai từng nhìn thấy.
+ Chúng ta nên lấy một trong những mẫu thiết kế này, cho vào đó vài phần mềm của Apple và tự làm ra cho mình một chiếc điện thoại thay vì cứ phải chạy theo và cho thứ này thứ kia vào điện thoại của người khác.
+”Jobs gọi lại cho Bell ngay lập tức.
+ Họ đã tranh luận qua lại hàng giờ liền.
+ Bell trình bày cụ thể lý thuyết của ông về sự hội tụ giữa các thiết bị trong tương lai và không quên đề cập đến việc thị trường điện thoại sẽ nhanh chóng lan ra toàn cầu.
+ Cuối cùng thì Steve Jobs cũng chịu nhượnng bộ.
+“Okay, tôi nghĩ chúng ta nên làm điều này.
+” Jobs nói.
+Sau đó Steve Jobs, Mike Bell, Jony và Sakoman đã ăn trưa cùng nhau trong ba, bốn ngày tiếp theo để thực hiện dự án iPhone.
+HỒI SINH APPLE TABLETTại trụ sở Apple, một dự án nghiên cứu máy tính bảng màn hình cảm ứng vẫn đang được tiến hành.
+ Bas Ording, Imran Chaudhri và nhiều người khác vẫn đang tìm tòi để cho ra một giao diện người dùng tập trung vào cảm ứng.
+Một ngày nọ, Bas Ording nhận được một cuộc gọi từ Steve.
+ Ông nói: “Chúng ta sẽ làm một chiếc điện thoại.
+”Vài năm trước đó, một nhóm kĩ sư và chuyên gia thiết kế chủ chốt đã cho ra đời mẫu chạy thử đầu tiên của một chiếc máy tính bảng cảm ứng đa điểm, dựa theo dự án Q79, một mẫu vật giống iPad thời kì đầu.
+ Nhưng nó đã bị tạm ngưng vì một vài khó khăn, trong đó có lý do là nó quá đắt.
+ (“Anh phải làm cho tôi cái gì mà bán được ấy” - Jobs nói với Imran.
+) Nhưng với một màn hình nhỏ hơn và cấu hình hạ thấp xuống, Q79 có thể được dùng như một chiếc điện thoại.
+“Nó sẽ có màn hình cảm ứng nhỏ hơn, và nó sẽ không có nút nào hết và nó phải chạy được mọi thứ.
+” Jobs nói với Ording.
+ Ông yêu cầu nhóm thiết kế giao diện người dùng phải làm một bản demo tính năng trượt lên-xuống một danh bạ với cảm ứng đa điểm.
+ “Lúc đó tôi vô cùng kích động.
+ Tôi nghĩ rằng, yeah, nó gần như là bất khả thi nhưng chúng ta hãy thử xem sao.
+” Ording ngồi xuống và chọn một vùng to bằng cỡ màn hình điện thoại trên máy Mac của mình và dùng nó để thiết kế nên bề mặt của chiếc iPhone.
+ Ông và một vài chuyên viên thiết kế khác đã dành hàng năm trời để thử nghiệm giao diện người dùng tập trung vào tính năng cảm ứng - và những năm tháng đó nay đã được đền đáp xứng đáng.
+Những chi tiết nhỏ bé mà chúng ta đang được thừa hưởng ngày nay là sản phẩm của những cố gắng sửa đổi không biết mệt mỏi từ các thí nghiệm thử-và-sai.
+ Cũng như tính năng trượt theo quán tính, một loạt các hiệu ứng âm thanh và hình ảnh khác được làm ra để bạn có được trải nghiệm như đang lướt trong thế giới thực.
+Tôi đã phải thử tất cả những thứ này và tính toán ra một vài khả năng.
+” Ording nói.
+ Không phải mọi thứ đều phức tạp nhưng bạn phải tìm cách kết hợp đúng, và đó mới là điều khó nhất.
+ Cuối cùng thì Ording cũng đã làm cho mọi thứ trông có vẻ tự nhiên hết mức có thể.
+Vài tuần sau, Ording gọi lại cho Jobs để thông báo rằng tính năng cuộn theo quán tính đã hoạt động.
+ Steve Jobs kể rằng: “Khi nhìn thấy chiếc dây chun và một vài thứ khác có khả năng cuộn theo quán tính, tôi nghĩ “Chúa ơi, chúng ta có thể làm ra một chiếc điện thoại bằng mấy thứ này" Scott Forstall tới phòng làm việc của Greg Christie vào cuối năm 2004 và thông báo với ông rằng Job muốn làm một chiếc điện thoại.
+ Ông ấy đã chờ cả thập kỷ để nghe những từ này.
+Christie là một người luôn căng thẳng và cục tính; ông có thân hình đồ sộ và đôi mắt sắc đầy năng lượng.
+ Ông gia nhập Apple vào những năm 1990, khi công ty đang trên đà tụt dốc, để thực hiện dự án Newton.
+ Sau đó ông cố gắng thúc đẩy Apple làm một chiếc điện thoại Newton.
+ “Tôi chắc rằng mình đã đề xuất ý kiến này vô số lần.
+” Christie kể lại.
+ “Internet đang bùng nổ và đây sẽ là một vụ làm ăn lớn: di động, internet, điện thoại.
+”Vào thời điểm đó, đội giao diện người dùng của ông đang tham gia vào một trong những thách thức lớn nhất.
+ Các thành viên tụ tập tại tầng 2 trụ sở Apple, ngay phía trên phòng thí nghiệm người dùng cũ để nghiên cứu mở rộng các tính năng cũng như kiểu dáng của dự án máy tính bảng ENRI.
+ Các nhà thiết kế và kĩ sư tài năng cùng ở trong một văn phòng tồi tàn với nội thất cũ kĩ, tấm thảm bạc màu và một phòng tắm rò nước bên cạnh, vài cái bảng trắng và tấm áp-phích in hình một con gà không biết từ đâu ra.
+Cuộc tranh luận diễn ra thường là về cách hòa nhập một giao diện người dùng cảm ứng với các tính năng của một chiếc smartphone.
+Thật may mắn là họ đã có một khởi đầu từ trước nhờ những bản chạy thử của nhóm nghiên cứu dự án ENRI.
+ Nhưng Imran Chaudhri cũng đang điều hành dự án thiết kế Dashboard, một ứng dụng với đủ các chức năng như thời tiết, chứng khoán, máy tính, giấy nhớ, lịch - các tính năng lí tưởng cho một chiếc điện thoại.
+ “Ý tưởng lúc đầu cho chiếc điện thoại là có những chức năng trên trong túi của bạn.
+” Do đó họ đã chuyển chúng sang iPhone.
+Thiết kế nguyên gốc với rất nhiều các icon ở trên được thực hiện chỉ trong một đêm, trong khi Dashboard vẫn còn trong quá trình hoàn thiện.
+ “Đó là một trong những deadline điên rồ của Steve,” Imran nói, “khi ông ấy nói muốn thấy bản demo của tất cả mọi thứ.
+” Và ông cùng Freddy Anzures, một người mới trong đội HI (Human Interface) đã dành cả đêm để cho ra thiết kế hình vuông của các công cụ - và sau đó nhiều năm vẫn được sử dụng để tạo ra các icon ứng dụng của iPhone.
+ “Điều buồn cười là hình dạng các icon trên smartphone được sử dụng trong cả một thập kỉ được tạo ra chỉ trong vài tiếng đồng hồ ngắn ngủi”.
+Và họ phải tính đến những thứ cơ bản nhất; Mọi thứ sẽ trông như thế nào khi bạn bật chiếc điện thoại lên? Một ô lưới các ứng dụng có vẻ là cách hữu hiệu nhất để sắp xếp các chức năng của một chiếc smartphone.
+ “Chúng tôi cũng đã thử một vài kiểu khác, ví dụ như một danh sách các icon với tên ở bên cạnh, nhưng từ trước đó giao diện hiển thị kiểu Springboard đã trở thành một tiêu chuẩn.
+ Về cơ bản thì nó giống như một hộp kẹo Chiclet nhỏ, và nó trông cũng khá bắt mắt.
+Chaudhri và đội thiết kế công nghiệp đã làm một vài mẫu iPhone bằng gỗ để có thể tối ưu kích cỡ của các icon cho vừa với một cú chạm bằng ngón tay.
+Bản demo của tính năng cảm ứng đa điểm cũng được hứa hẹn, và kiểu dáng cũng đã hoàn thành.
+ Nhưng cả đội thiếu một thứ, đó chính là sự gắn kết - một ý tưởng thống nhất về tạo hình của một chiếc điện thoại cảm ứng.
+“Mọi thứ lúc đó chỉ là các bản phác thảo,” Christie kể lại.
+ “Những mảnh ghép “rời rạc như kẹo lạc không đường” chỗ này một ít, chỗ kia một tí.
+ Lúc thì là một phần của Danh bạ, khi thì là một mảnh nhỏ của Safari.
+”  Dĩ nhiên là đống “có thể được coi là kẹo lạc” kia sẽ không làm hài lòng Jobs, ông ấy muốn một bản hoàn chỉnh.
+ Và đó là khi Jobs bắt đầu bực bội với cả nhóm.
+“Vào tháng Một, ngay trong những ngày đầu năm mới, Steve Jobs đã hết sức chịu đựng và bắt đầu “bùng nổ”.
+ Christie kể lại.
+ Các mảnh ghép có thể khá ấn tượng nhưng chẳng có định hướng rõ ràng nào để ghép tất cả các phần lại với nhau.
+ Nó là một thứ hổ lốn dở ông dở thằng gần như chẳng có gì đáng kể.
+“Giống như bạn gửi một câu chuyện tới người biên tập và nó là một vài câu của phần mở đầu, một ít ở phần thân bài và thêm vài câu ở giữa đoạn kết nhưng không hề có phần kết thúc thực sự”.
+Rõ ràng là mọi thứ không đủ cho một chiếc điện thoại.
+ “Steve Jobs cho chúng tôi một tối hậu thư.
+” Christie nhớ lại.
+ “Ông ấy nói, Các anh có hai tuần.
+ Đó là vào tháng Hai năm 2005 và chúng tôi bắt đầu một cuộc chạy đua 2 tuần với Thần chết.
+” Christie đã tập hợp đội HI để tất cả mọi người có thể cùng đồng hành với nhau.
+Đó là tháng Hai năm 2005, và chúng tôi có một cuộc chay đua với “tử thần".
+“Làm ra một chiếc điện thoại là điều mà tôi luôn mong ước, và tôi nghĩ các anh cũng thế.
+ Nhưng chúng ta chỉ có cơ hội cuối cùng trong hai tuần để làm điều này.
+ Và tôi thật sự muốn làm được điều này.
+”Christie không hề nói đùa.
+ Trong cả một thập kỉ, ông đã tin rằng máy tính di động sẽ có thể hòa làm một với điện thoại.
+ Đây không chỉ là cơ hội để ông chứng tỏ rằng mình đã đúng, mà còn là một bước ngoặt của cả công ty.
+Một nhóm nhỏ đã được thành lập: Bas, Imran, Christie, 3 chuyên viên thiết kế - Stephen LeMay, Marcel van OS và Freddy Anzures cùng một quản lí dự án, Patrick Coffman.
+ Họ cùng nhau làm việc, chạy đua với thời gian để gắn các mảnh vào thành một sản phẩm đầy đủ tính năng.
+“Chúng tôi thực sự bước vào một cuộc chiến đấu” mỗi nhà thiết kế đều được giao một mảnh để phân tích, một ứng dụng để mổ xẻ và cả đội đã dùng hai tuần không ngủ để hoàn thiện và cho ra đời một chiếc iPhone.
+ Và vào cuối của kì hạn “chết chóc”, một thứ như được ghép lại từ những cố gắng không biết mệt mỏi của đội HI.
+“Tôi chắc chắn rằng nếu tôi có thể hồi sinh được bản demo đó ở đây và cho anh xem, anh sẽ dễ dàng nhận ra đó là một chiếc iPhone,” Christie nói.
+ Nó có một nút Home, tính năng cuộn lên xuống và thao tác cảm ứng đa điểm.
+“Chúng tôi cho Steve xem dàn ý của toàn bộ câu chuyện.
+ Cho ông ấy xem màn hình chính, một cuộc gọi đến, cách sử dụng danh bạ và trình duyệt Safari.
+ Nó không còn là một vài câu trích dẫn nữa, nó đã trở thành một câu chuyện.
+Và một “biên tập viên” như Steve Jobs rất thích những câu chuyện hay.
+“Đó là một thành công vang dội.
+ Bất cứ ai nhìn thấy nó đều phải trầm trồ thán phục.
+ Nó thực sự là một sản phẩm tuyệt vời.
+” Christie nói.
+Điều đó có nghĩa là dự án này ngay lập tức đựa đưa vào hàng tuyệt mật.
+ Sau màn trình diễn vào tháng hai, các dải băng niêm phong được dán khắp nơi, cả ở tầng hai của trụ sở Apple.
+ Tòa nhà đã bị phong tỏa.
+ Và cả đội của Christie đã bị giam trong đó.
+Nhưng họ còn rất nhiều việc phải làm.
+ Nếu như giao diện cảm ứng là lời mở đầu, kiểu dáng là chương đầu tiên, thì câu chuyện về chiếc iPhone vẫn còn rất nhiều thứ để viết.
+ Và lúc đó, khi Steve Jobs đã đầu tư vào câu chuyện này, ông ấy muốn trình diễn nó trước toàn bộ công ty.
+ Steve muốn nó xuất hiện tại hội nghị 100 người đứng đầu tập đoàn Apple.
+ Cuộc họp như thế này thỉnh thoảng mới diễn ra, với tất cả những người quan trọng nhất, để quyết định hướng đi cho công ty.
+ Jobs sẽ mời những người mà ông nghĩ là đứng trong top 100 người quan trọng nhất tới một địa điểm bí mật, và ở đó họ sẽ bàn về sản phẩm cũng như chiến lược cho công ty, Với những nhân viên đang nổi lên, nó sẽ là một cơ hội “được ăn cả, ngã về không”.
+ Với Steve Jobs, buổi thuyết trình cần phải được cân nhắc cẩn thận như khi tung ra sản phẩm trước công chúng.
+Chúng ta sẽ có những ứng dụng gì? Một cuốn lịch trên điện thoại trông như thế nào? Thế còn email thì sao? Từ lúc đó cho đến tháng Năm, mọi thứ lại là một chặng đường gian khổ khác.
+ “Ok, bây giờ chúng ta nên có ứng dụng gì? Một cuốn lịch trên điện thoại trông như thế nào? Email thì sao? Mọi bước trên cuộc hành trình này khiến mọi thứ càng chặt chẽ và dần hiện thực hoá.
+ Nghe nhạc ngoài ứng dụng iTunes, một ứng dụng mở các file đa phương tiện.
+ Các phần mềm của iPhone bắt đầu từ một dự án thiết kế với đội của tôi.
+ Christie đã hack mẫu iPod mới nhất để các nhà thiết kế có thể cảm nhận được một ứng dụng trông như thế nào trên điện thoại.
+ Bản dùng thử bắt đầu thành hình.
+ Bạn có thể chạm vào ứng dụng mail hay trình duyệt để xem nó hoạt động như thế nào.
+ “Lúc đầu thì nó không hoạt động ổn lắm, nhưng đủ để bạn nắm được ý tưởng.
+”Christie đã mô tả về quá trình làm việc của họ là “đầy khắc nghiệt và mệt mỏi".
+ “Tôi thậm chí đã phải cho mọi người nghỉ ở khách sạn bởi tôi không muốn họ phải lái xe về nhà.
+ Nhưng trong lúc đó, mọi thứ cũng rất tuyệt".
+Steve Jobs hoàn toàn bị thuyết phục bởi kết quả đạt được.
+ Và mọi người khác cũng vậy.
+ Bài thuyết trình của ông trước Top 100 diễn ra thành công rực rỡ.
+ Hình mẫu của một chiếc iPodKhi Fadell biết đến một dự án chế tạo điện thoại đang dần thành hình, ông đã gom tất cả các thiết kế mẫu nguyên bản của chiếc điện thoại iPod và tới buổi họp điều hành.
+ Ở trên giấy thì mọi thứ trông có vẻ hoàn hảo.
+ iPod là sản phẩm thành công nhất của Apple, và những chiếc điện thoại thì chỉ cần đánh chén bữa ăn đã được dọn sẵn của iPod, vậy tại sao không làm một chiếc điện thoại iPod? “Hãy lấy những ưu điểm tốt nhất của iPod và cho nó vào trong một chiếc điện thoại.
+” Fadell nói.
+ “Và thế là người dùng có thể vừa giao tiếp di động vừa nghe nhạc, và chúng ta cũng không mất đi sự nhận diện thương hiệu đã xây dựng cho iPod, nửa tỉ đô la mà chúng ta đã đầu tư để cả thế giới biết đến nó.
+” Chỉ đơn giản vậy thôi.
+Hãy nhớ rằng vào lúc đó, mọi người trong nội bộ Apple biết rõ rằng họ đang theo đuổi một chiếc điện thoại, nhưng chẳng ai biết được nó sẽ trông như thế nào và trải nghiệm ra sao.
+ Hay thậm chí họ còn chẳng cần biết nó sẽ hoạt động như thế nào.
+Nhóm làm iPod cũng không biết là nhóm HI đã làm được những gì.
+“Chúng tôi đã tạo ra một thứ mà tất cả mọi người đều nghĩ đến.
+ Hãy ghép một chiếc điện thoại vào một chiếc iPod,” Andy Grignon nói.
+ Và đó là những gì họ bắt tay vào làm.
+CHUYỆN GÌ XẢY RA TIẾP THEO?Richard Williamson đang ở trong văn phòng của Steve Jobs.
+ Ông tới đây để thảo luận một việc mà không ai muốn nói với Jobs - rời khỏi Apple.
+Trong nhiều năm, Richard đã phụ trách nhóm phát triển một framework gọi là WebKit, thứ làm nên nền móng cho Safari.
+ Một số fun fact về WebKit: thứ nhất, không giống như hầu hết các sản phẩm sản phẩm được phát triển và vận hành bởi Apple, WebKit là nền tảng mã nguồn mở.
+ Thứ hai, trình duyệt Chrome của Google cũng sử dụng WebKit cho tới tận năm 2013.
+ Nói vậy để bạn hiểu nó thực sự là một phần mềm “nặng ký".
+ Và như Forbes đã miêu tả, Williamson thực sự là một “ngôi sao đình đám" ở thung lũng Silicon.
+ Nhưng ông đã thực sự chán ngấy việc cứ mãi ngồi nâng cấp một nền tảng cũ.
+ “Chúng tôi đã đi qua 3 hoặc 4 phiên bản WebKit, và khi đó tôi đang nghĩ tới chuyện chuyển sang Google.
+ Và đó là lúc Steve mời tôi làm việc".
+ Richard nói.
+  Và Steve đương nhiên là không vui một chút nào với việc này.
+  Khi bạn nghĩ tới khái niệm “một kỹ sư máy tính thành công", thì ngay lập tức một hình ảnh sẽ hiện ra - một gã đeo kính, đam mê công nghệ, thông minh và mặc áo sơ mi cài khuy - và hình ảnh này trùng khớp với Williamson.
+ Chúng tôi đã gặp nhau trong một cuộc phỏng vấn tại một quán sushi ở Palo Alto - nơi “đúng chuẩn" phong cách công nghệ: họ sử dụng dịch vụ gọi món tự động thông qua những chiếc iPad thay vì những người phụ vụ.
+  Williamson có giọng nói nhỏ nhẹ, đậm chất Anh.
+ Ông có vẻ là một người nhã nhặn, có một chút bẽn lẽn, song vô cùng sắc sảo.
+ Ông có khả năng tuôn ra một tràng những ý tưởng - thứ là tổng hoà của kiến thức lập trình uyên thâm, sự nhạy cảm với ngành, cũng như những triết lý công nghệ sâu sắc.
+ Vào giữa những năm 80, một người bạn thuyết phục Williamson mở một công ty phần mềm cho chiếc máy tính Commodore Amiga - một trong những máy tính đời đầu.
+ “Chúng tôi đã viết một chương trình gọi là Marauder nhằm lưu trữ sao lưu dữ liệu của những đĩa mềm được bảo vệ bản quyền.
+ Thực ra đó là cách nói văn vẻ thôi" - ông cười lớn - “và chúng tôi đã có được dòng lợi nhuận đều đặn từ việc đó".
+ Nếu bạn đã hiểu, thì thực tế họ tạo ra một công cụ để “xài chùa" các phần mềm.
+ Vào năm 1985, công ty NeXT của Steve Jobs khi đó vẫn còn nhỏ và đang vô cùng khan hiếm nguồn nhân lực.
+ Tại đây, Williamson đã gặp gỡ hai nhân viên của NeXT và Steve Jobs.
+ Ông cho họ thấy những gì mình đã làm được với Amiga, và họ ngay lập tức thuê ông.
+ Chàng lập trình viên trẻ sau đó đã dành ¼ thế kỷ tiếp theo làm việc trong quỹ đạo của Jobs và đội ngũ của NeXT, chế tạo ra phần mềm là cốt lõi của chiếc iPhone sau này.
+ “Đừng đi.
+ Ở đây chúng ta có một dự án mới mà chắc chắn ông sẽ cực kỳ hứng thú” Williamson nói rằng Jobs đã đề nghị ông như vậy.
+ Williamson đòi xem ý tưởng đó.
+ Vào thời điểm đó, từ góc độ một dự án phần mềm thì vẫn chưa có ai thực sự bắt tay vào làm nó cả, và mọi thứ vẫn chỉ là một ý tưởng xuất hiện trong đầu Steve.
+ Điều này đương nhiên không thể là một lý do thuyết phục để Williamson ở lại, trong bối cảnh Google cũng đang đưa ra những lời đề nghị rất hấp dẫn với ông.
+ “Đó là khoảnh khắc quyết định" - ông chia sẻ.
+   Williamson nói với Steve rằng ông chưa thấy được chiếc màn hình cũng như công nghệ hiển thị mới mẻ này.
+ Nhưng Steve đã thuyết phục được ông, rằng con đường đã ở đó.
+  “Steve luôn đúng" - Williamson mỉm cười sau khi dừng lại một giây.
+ “Tôi đã ở cùng Steve suốt thời gian tại NeXT, và rất nhiều lần bị khuất phục bởi ánh hào quang của ông ấy".
+ Điều này có nghĩa là gì? Đương nhiên là Williamson ở lại.
+ “Và từ lúc đó, tôi đã trở thành một người ủng hộ ý tưởng tạo ra một thiết bị để lướt web".
+ CHIẾC ĐIỆN THOẠI NÀO ĐÂY?Williamson cho biết Steve muốn tạo ra một chiếc điện thoại, và việc đó phải được thực hiện nhanh nhất có thể.
+ Nhưng nó là kiểu điện thoại như thế nào? Có 2 lựa chọn: (a) biến chiếc iPod vốn đã quá phổ biến và được yêu mến trở thành một chiếc điện thoại (cách này dễ hơn về mặt công nghệ, và trong định hình của Jobs thì iPhone không nhất thiết phải là một thiết bị máy tính cầm tay, mà là một chiếc điện thoại được cải tiến để tinh gọn và hiệu quả hơn); hoặc (b) biến hoá chiếc Mac trở thành một loại máy tính bảng cảm ứng, có kích cỡ nhỏ và có khả năng gọi điện (đây là một ý tưởng cực kỳ “kích thích", song cũng đi kèm với một tương lai mơ hồ).
+ Theo Ording, sau khi ý tưởng demo được trình bày, tất cả kỹ sư đều nghiên cứu nó và tự hỏi phải làm sao để biến thứ này thành hiện thực? Không chỉ là phần cứng ở bên ngoài, mà còn cả phần mềm nữa.
+ Tất cả họ đều hoài nghi về tính khả thi của dự án này, và nói “Trời ơi, nó chắc chắn sẽ cần rất nhiều công sức, và chúng tôi thậm chí không chắc là bao nhiêu nữa!”Cần vô vàn việc phải làm để biến chiếc Mac cảm ứng đa điểm trở thành một sản phẩm với quá nhiều công nghệ mới chưa được kiểm chứng.
+ Thực sự quá khó để đưa ra một lộ trình và kết nối tất cả các yếu tố lại với nhau.
+ CÂU CHUYỆN CỦA “ROCKER”Trong suốt năm 2005, công cuộc phát triển Rokr vẫn tiếp tục được thực hiện.
+ Williamson nói rằng họ đã nghĩ rằng Rokr chỉ là một trò đùa.
+ Vị CEO khét tiếng của chúng ta thậm chí còn không nhìn thấy chiếc điện thoại Rokr hoàn chỉnh cho tới tận đầu tháng 9 năm 2005, ngay trước thời điểm ông phải công bố nó với toàn thế giới.
+ Và ông đã bị sốc.
+ Fadell kể lại rằng Jobs đã hỏi mọi người liệu có cách nào để cứu vớt chút đỉnh không.
+ Ông ấy hiểu nó là một sản phẩm dưới mức kỳ vọng, nhưng không hề hay biết rằng nó thực sự rất tệ.
+ Khi chiếc điện thoại này được hoàn thành, Jobs thậm chí còn không muốn giới thiệu nó trên sân khấu: ông quá xấu hổ về nó.
+ Trong suốt buổi thuyết trình, Jobs cầm chiếc điện thoại như thể đang cầm một chiếc tất bẩn thỉu.
+ Và khi mà Rokr xảy ra trục trặc khi chuyển từ chế độ gọi điện sang chơi nhạc, người ta thấy rõ khuôn mặt bối rối của ông.
+ Vào khoảnh khắc mà Jobs giới thiệu “chiếc điện thoại di động đầu tiên có iTunes” với giới truyền thông, ông quyết định biến nó trở nên lạc hậu bằng cách tung hô chiếc iPod Nano lên hàng “thần thánh”, biến nó trở thành ngôi sao của buổi ra mắt và để mặc cho những người điều hành của Motorola phải “phát điên lên.
+”Khi rời khỏi sân khấu, ông ấy tỏ vẻ như “Hừ, tệ quá đi mất.
+” Fadell kể lại.
+ Rokr là một chiếc điện thoại thảm họa tới mức mà nó xuất hiện trên bìa tạp chí Wired với dòng tít “Các Người Gọi Thứ Này Là Chiếc Điện Thoại Của Tương Lai Hay Sao?”, và nó mau chóng bị người dùng trả lại với tốc độ cao gấp 6 lần so với mức trung bình của ngành này.
+ Sự “ngớ ngẩn” của sản phẩm này đã làm Jobs cảm thấy ngạc nhiên - và cơn giận dữ này đã khích lệ ông tạo ra một chiếc điện thoại hoàn toàn do Apple thiết kế.
+ “Rokr đã thất bại ngay từ khi được ra mắt.
+” Fadell nhận xét.
+ “Nó sẽ chẳng tiến xa được đâu.
+ Tôi phát bệnh vì phải làm việc với đám hề này rồi” -  Jobs nói với Fadell ngay sau buổi trình diễn.
+ “Nó là thứ cuối cùng được làm theo kiểu này.
+ Chết tiệt, chúng ta sẽ phải làm một chiếc điện thoại của riêng mình".
+ “Steve triệu tập một cuộc họp hội đồng quản trị.
+ Mọi người đều có mặt ở đó, kể cả Phil Schiller hay Jony Ive.
+” Ông nói “Nghe này.
+ Chúng ta sẽ thay đổi kế hoạch… Chúng ta sẽ làm cả sản phẩm dựa trên chiếc iPod, biến nó trở thành một chiếc điện thoại vì nó là một dự án khả thi hơn nhiều.
+” Đó chính là dự án của Fadell.
+ Nỗ lực để tạo ra màn hình cảm ứng không hoàn toàn bị loại bỏ, nhưng trong khi các kĩ sư đang cố làm việc để cho nó thành hình, Jobs chỉ đạo Ording, Chaudhri và các thành viên của đội thiết kế giao diện người dùng (UI - User Interface) tạo ra một bộ mặt thực sự cho một chiếc “điện thoại iPod”, thiết kế trải nghiệm quay số, chọn tên liên lạc và lướt web một cách dễ dàng nhất có thể.
+Và thế là từ đó có hai dự án chạy đua để trở thành chiếc iPhone.
+ Hai dự án điện thoại chia làm hai nhánh khác nhau, với mật danh P1 và P2.
+ Cả hai đều thuộc vào hàng tuyệt mật.
+ P1 là chiếc điện thoại iPod và P2 là dự án đang trong quá trình thử nghiệm công nghệ cảm ứng đa điểm và phần mềm như trên máy Mac.
+Có quá nhiều mâu thuẫn nội bộ mang nguy cơ nhấn chìm toàn bộ dự án, và quyết định sáng suốt nhất có lẽ là chia mọi người thành hai nhóm và ép họ hoàn thành ý tưởng của mình.
+ Nhóm “điện thoại iPod” của Fadell khi đó vẫn đang phải chịu trách nhiệm cập nhật dòng sản phẩm iPod này bên cạnh việc lên ý tưởng cho mẫu điện thoại mới.
+ Nhóm thứ hai là đội Mac OS của Scott Forstall.
+ Chỉ có những designer phụ trách mảng giao diện người dùng thì vẫn làm việc ở cả P1 và P2.
+  Cuối cùng thì những nhân viên chịu trách nhiệm giám sát những yếu tố quan trọng nhất cấu thành nên chiếc iPhone như phần mềm, phần cứng, và thiết kế này cũng đã chịu ngồi lại với nhau trong cùng một căn phòng.
+ Có người đã bỏ cuộc, có người bị sa thải, và có người đã xuất hiện đầy kiên cường để trở thành một nhân tốt mới trong đội ngũ những thiên tài của Apple thời đại hậu Steve Jobs.
+ Trong suốt hành trình đó, dù có những mâu thuẫn trong nội bộ, những designer, kỹ sư và coder đã làm việc không mệt mỏi để biến các dự án “P” trở thành những thiết bị hoạt động được bằng bất cứ giá nào.
+ NGƯỜI LÃNH ĐẠO CỦA DỰ ÁN “MÀU TÍM"“Chúng tôi đã khoá trái một trong những toà nhà mà chúng tôi sở hữu ở Cupertino”.
+ Scott Forstall, người điều hành mảng phần mềm Mac OS X đồng thời quản lý toàn bộ chương trình phần mềm iPhone sau này cho biết.
+ “Chúng tôi bắt đầu với một tầng (đây là nơi nhóm giao diện người dùng của Greg Christie làm việc), và rồi khoá trái toàn bộ những tầng bên dưới nó.
+ Chúng tôi cho lắp đặt những cánh cửa ra vào có khả năng đọc thẻ cùng với camera, và để đi tới những phòng lab ở đây bạn sẽ phải quẹt thẻ khoảng 4 lần”.
+ Scott gọi nơi này là “Purple Dorm" - “Ký túc xá Tím", vì giống như những ký túc xá, mọi người dường như sống ở đây toàn thời gian".
+ 1st rule.
+Cũng theo Forstall, họ đã đặt ở đây một tấm biển đề chữ “Fight Club”.
+ Đây là tên một bộ phim mà nguyên tắc số một trong đó là không được nói gì về Fight Club.
+ Tương tự như vậy, nguyên tắc tối thượng của dự án Purple là bạn không được tiết lộ gì về nó khi bước chân ra ngoài những cánh cửa này.
+ Tại sao lại đặt tên là Purple? Không nhiều người nhớ được lý do.
+ Một giả thuyết là cái tên xuất phát từ một con kangaroo đồ chơi màu tím mà Scott Herz, một trong những kỹ sư đầu tiên làm việc tại dự án iPhone, đã đặt làm linh vật của Radar.
+ Radar là hệ thống mà các kỹ sư của Apple sử dụng để rà soát các lỗi phần mềm của toàn công ty.
+ Tất cả các lỗi này được theo dõi bên trong Radar, và rất nhiều người có quyền truy cập nó.
+ Theo Richard Williamson, nếu bạn là một kỹ sư tò mò, bạn có thể khám phá hệ thống này và tìm hiểu về những gì mọi người đang làm.
+ Và nếu bạn đang ở trong một dự án tuyệt mật, bạn phải nghĩ cách che đậy những dấu vết của bản thân ở đây.
+ Scott Forstall nằm lòng tất cả những gì tại Apple như thể đã tải xuống toàn bộ mọi thông tin ở đây vào.
+.
+.
+ não bộ của ông suốt cả cuộc đời mình.
+ Nhờ có khả năng về toán và khoa học vượt trội, ngay từ thời trung học, chàng trai sinh năm 1969 này đã được nhận vào một khoá học cao cấp liên quan tới máy tính Apple IIe.
+ Forstall đã học code và nhanh chóng code thành thạo.
+ Tuy nhiên anh không phải là kiểu “mọt công nghệ" cổ điển: Forstall tham gia đội tranh biện, biểu diễn ở các chương trình âm nhạc của trường, và thậm chí còn đóng vai chính trong vở kịch Sweeney Todd.
+ Forstall tốt nghiệp Đại học Stanford năm 1992 với bằng cử nhân Khoa học máy tính và có được một công việc tại NeXT.
+ NeXT đã thất bại trong mảng phần cứng khi ra mắt dòng máy tính đắt đỏ nhắm tới thị trường những người có học vấn cao, nhưng vẫn trụ được nhờ vào việc bán bản quyền hệ điều hành NeXTSTEP.
+ Năm 1996, Apple mua lại NeXT và đưa Jobs quay lại ví trí của ông, và họ đã quyết định sử dụng NeXTSTEP để cải tiến cho hệ điều hành đã cổ lỗ sĩ của Mac khi đó.
+ NeXTSTEP đã trở thành nền tảng để các máy Mac và iPhone hoạt động trơn tru như ngày nay.
+ Trong Apple dưới thời Jobs, Forstall nhanh chóng thăng tiến.
+ Ông cũng bắt chước phong cách quản trị và gu thẩm mỹ đặc biệt từ thần tượng của mình.
+ Một cựu đồng nghiệp của Forstall đã khen ngợi ông là người thông minh và khôn khéo, nhưng dường như đã thần tượng Jobs hơi… quá đà: “Nhìn chung ông ấy là một người rất tuyệt, nhưng bạn biết đấy, đôi khi cũng cần phải là chính mình".
+ Forstall nắm giữ vai trò đầu tàu trong nỗ lực đưa phần mềm Mac tương thích với một chiếc điện thoại cảm ứng.
+ Dù có những đồng nghiệp cũng phê phán rằng Forstall là người có cái tôi lớn với một tham vọng lộ liễu, luôn luôn thích được nịnh nọt và tâng bốc lên tận mây xanh - song không ai hoài nghi về trí tuệ cũng như đạo đức trong công việc của ông.
+ Henri Lamiraux, một đồng nghiệp khác của Forstall thì cho rằng “Tôi không rõ người khác nói gì về Scott, nhưng anh ấy thực sự là một người cộng sự dễ chịu".
+ Forstall đã lãnh đạo nhiều kỹ sư hàng đầu từ những ngày còn làm việc ở NeXT cho tới khi thực hiện dự án P2, trong đó có cả Henri Lamiraux và Richard Williamson.
+ Williamson từng nói đùa rằng đội ngũ của họ là “mafia của the NeXT".
+ Cái tên này phản ánh đúng tính chất tổ chức của họ - với những hoạt động hết sức chặt chẽ, bí mật, và đương nhiên là hiệu quả.
+ P1Tony Fadell là đối thủ chính của Forstall.
+ Theo Grignon, Tony muốn nắm trong tay toàn bộ công việc của dự án này.
+ “Một khi mọi người trong công ty đã nhận ra dự án này có tầm quan trọng tới mức nào đối với Apple, họ đều muốn nhúng tay vào, từ phần mềm, phần cứng… tất cả mọi thứ.
+ Và đó là thời điểm cuộc chiến nổ ra giữa Fadell và Forstall”.
+Grignon có cơ hội để tương tác với cả hai nhóm khi cũng làm việc cùng với Forstall về Dashboard.
+ “Từ quan sát của chúng tôi, Forstall và nhóm của ông ấy luôn tự cho rằng mình là những kẻ thua thiệt.
+ Như thể họ luôn phải cố gắng để chen chân vào.
+ Chúng tôi hoàn toàn tự tin rằng nhóm mình sẽ thành công bởi vì đây là dự án của Tony, và Tony mới là người chịu trách nhiệm cho hàng triệu chiếc iPod được bán ra".
+Và thế là team “điện thoại iPod" nỗ lực để tạo ra một sản phẩm từ chiếc máy nghe nhạc đình đám của Apple đã quá đỗi quen thuộc với người dùng.
+ Ý tưởng của họ là tạo ra một chiếc iPod có hai chế độ riêng biệt: máy nghe nhạc và điện thoại.
+ Khi nói về thiết bị này, Grignon cho rằng họ sẽ tạo ra một sản phẩm mới.
+ “Nó sẽ được làm bằng một vật liệu thú vị… nó sẽ vẫn có vòng tròn cảm ứng của chiếc iPod với những những nút Play/Pause/Next/Previous hiển thị trên đèn nền xanh.
+ Và khi bạn điều chỉnh nó sang chế độ điện thoại, đèn nền xanh sẽ biến mất và chuyển sang màu da cam.
+ Các số từ 0 đến 9 sẽ ở vị trí của vòng tròn cảm ứng giống kiểu điện thoại quay số cổ, và các chữ ABCDEGF ở xung quanh các cạnh”.
+ Khi thiết bị này ở trong chế độ nghe nhạc, đèn nền xanh sẽ hiển thị vòng tròn điều khiển của iPod.
+ Màn hình khi đó sẽ hiện ra các ký tự và danh mục theo phong cách iPod, và nếu bạn chuyển nó sang chế độ điện thoại, nó sẽ phát sáng màu cảm và hiển thị số giống như kiểu điện thoại quay số thời xưa.
+ Tupman nói họ cũng đưa một radio vào bên trong máy, một chiếc iPod mini đa năng với loa và tai nghe, và vẫn sử dụng giao diện cảm ứng với vòng tròn điều khiển.
+ “Và khi bạn nhắn tin thì nó sẽ quay số - và nó thực sự hoạt động được! Vì thế chúng tôi đã làm demo vài trăm chiếc".
+ Grignon nói.
+ Tuy nhiên, vấn đề là thiết bị này thực sự khó để sử dụng với tư cách một chiếc điện thoại.
+ Sau vòng lặp đầu tiên của quá trình lập trình, Fadell nhận thấy họ sẽ thực sự không đi tới đâu cả.
+ “Giao diện vòng tròn điều khiển sẽ không phù hợp cho một chiếc điện thoại, bởi chẳng ai muốn quay số kiểu cổ trên di động cả".
+ Nhóm thiết kế đã cố gắng hết sức để giải quyết vấn đề này.
+ Bas Ording chia sẻ anh đã nghĩ ra một vài ý tưởng về việc hiển thị tiên đoán ký tự.
+ Sẽ có một bảng chữ cái mở ra ở phía cuối màn hình, và người dùng sẽ sử dụng vòng tròn điều khiển dể lựa chọn các ký tự.
+ “Tôi sẽ xây dựng một cơ sở dữ liệu từ vựng có thể hoàn thiện dần khi bạn sử dụng”.
+ Thế nhưng, quy trình này vẫn quá ư là buồn tẻ.
+ Grignon nói rằng có vẻ như họ đã bị ám ảnh quá mức với vòng tròn điều khiển.
+ “Tất cả đống ký tự và số điện thoại là một mớ hổ lốn.
+ Chúng tôi đã cố gắng tất cả mọi cách" Fadell chia sẻ.
+ “Steve liên tục thúc chúng tôi hoàn thiện nó, mặc dù công việc này như thể đẩy đá lên đỉnh đồi.
+ Tôi nghĩ ông ấy biết việc này sẽ chẳng đi tới đâu, nhưng ông ấy vẫn muốn có một sản phẩm hoạt động được".
+ “Cố lên nào, sẽ có cách mà" - Jobs nói với Fadell như vậy.
+ “Ông ấy chỉ không muốn chúng tôi từ bỏ.
+ Vì thế ông ấy đã ép tới cái mức không thể làm gì hơn được nữa thì thôi" Fadell chia sẻ.
+ Họ thậm chí còn đăng ký sáng chế cho thiết bị yểu mệnh này, và những toà nhà ở Cupertino chứa hàng tá những chiếc “điện thoại iPod".
+ Grignon nói “Chúng tôi thậm chí đã gọi những cuộc điện thoại bằng thiết bị này".
+ Những cuộc trò chuyện đầu tiên được thực hiện từ chiếc điện thoại này hoá ra lại được thực hiện trên màn hình quay số xưa như trái đất, chứ không phải trên giao diện cảm ứng, thứ đích thị là tương lai.
+ “Chúng tôi đã đạt tới rất gần, chúng tôi đã gần như hoàn thiện nó và đưa ra một sản phẩm, thế nhưng tôi ngờ rằng sẽ có một ngày Steve thức dậy và nhận ra rằng thứ này không thú vị như những món đồ cảm ứng”.
+ David Tupman thì nói rằng đây thực sự là một trải nghiệm tuyệt vời đối với đội ngũ phụ trách phần cứng.
+ “Chúng tôi từng phải xây dựng bảng đo tần số radio, việc đó buộc chúng tôi phải lựa chọn những nhà cung cấp, và làm mọi thứ đến tận cùng.
+” Thực tế là, những bộ phận của chiếc điện thoại iPod sau này đã góp phần tạo ra chiếc iPhone hoàn chỉnh, và theo lời Tupman nó giống như phiên bản 0.
+1 vậy.
+ Ví dụ như, hệ thống radio từng được đưa vào chiếc điện thoại iPod về sau đã được đưa vào chiếc iPhone.
+ CẢM ỨNG HAY BÀN PHÍM VẬT LÝ?Lần đầu tiên khi nhìn thấy máy tính bảng cảm ứng của nhóm P2 đi vào hoạt động, Fadell cảm thấy bị choáng ngợp và lúng túng.
+ “Steve kéo tôi vào một căn phòng đầy những thứ liên quan đến điện thoại iPod và nói, ‘Vào đây đi, anh cần nhìn thấy cái này.
+” Jobs mang ra mẫu cảm ứng đa điểm đầu tiên.
+ “Họ đã âm thầm làm cho máy Mac cảm ứng hoạt động.
+ Nhưng mọi thứ không chỉ đơn thuần là Mac cảm ứng, đó là một căn phòng với một cái bàn chơi bóng bàn, một cái máy chiếu và một thứ gì đó có màn hình cảm ứng lớn.
+” Fadell kể lại.
+“Đây là chính là thứ mà tôi muốn ở một chiếc điện thoại,” Jobs nói.
+Fadell trả lời: “Nó không phải một sản phẩm hoàn chỉnh.
+ Nó chỉ là một mẫu vật, một sản phẩm nghiên cứu mới chỉ hoàn thành 8%.
+”David Tupman tỏ ra lạc quan hơn.
+ “Lúc đó tôi chỉ đơn giản có ý nghĩ là, ‘À, bây giờ chúng ta phải tìm ra cách để khiến nó hoạt động.
+’ Ông tin rằng các vấn đề kỹ thuật có thể được giải quyết.
+ Việc mọi người cần làm là ngồi xuống tính toán và tìm ra giải pháp.
+Chiếc điện thoại iPod thì mất dần sự ủng hộ.
+ Những người điều hành đã tranh luận với nhau về việc nên theo đuổi dự án nào, nhưng Phil Schiller, Trưởng bộ phận Marketing của Apple đã có câu trả lời.
+ Không theo đuổi cái nào cả.
+ Ông ta muốn một chiếc điện thoại có bàn phím vật lí.
+ Chiếc điện thoại BlackBerry được cho là smartphone thành công đầu tiên.
+ Nó có dịch vụ mail và một bàn phím cứng nhỏ.
+ Sau khi tất cả mọi người, kể cả Fadell đều đồng ý rằng cảm ứng đa điểm là bước cải tiến tiếp theo, thì Schiller là người duy nhất giữ ý kiến của mình.
+Fadell miêu tả Schiller “ngồi đó, khư khư giữ lấy ý kiến của mình: ‘Không, chúng ta phải có bàn phím cứng.
+ Không.
+ Nhất định là bàn phím cứng’.
+ Và ông ta không nghe bất kì lí do gì chúng tôi đưa ra”.
+Schiller không có sự am hiểu về công nghệ giống các nhà điều hành khác.
+ “Phil không phải một tay rành công nghệ.
+” Brett Bilrey, cựu lãnh đạo mảng Công nghệ cao của Apple nhận xét.
+ “Có những lúc tôi phải giải thích cho ông ta như đang dạy cho một đứa học sinh cấp 2.
+” Jobs thích Phil bởi ông ta có cái nhìn về công nghệ giống như tầng lớp bình dân ở Mỹ, như các ông già bà cả.
+Khi cả nhóm quyết định tập trung phát triển cảm ứng đa điểm và bàn phím ảo thì Schiller bắt đầu rút lui.
+ “Vào một cuộc họp mà sau cùng tất cả đều cùng chung một hướng đi, thì Schiller bùng nổ cơn tức giận và quát tháo vào mặt mọi người rằng họ đã đưa ra một quyết định sai lầm!”.
+ Fadell nói.
+ Steve nhìn ông ta và nói "Tôi phát ốm vì những việc này rồi.
+ Chúng ta bỏ qua chuyện này được không?’ Và Steve đẩy Phil ra khỏi phòng họp.
+ Sau đó, Steve và Phil ra hành lang và nói chuyện gì đó.
+ Steve đã bảo ông ta rằng "Hoặc anh hợp tác với mọi người, hoặc anh cút-con-mẹ nhà anh đi".
+ Và cuối cùng Phil đã hoàn toàn sụp đổ.
+Rất rõ ràng là chiếc điện thoại phải được làm ra dựa trên một màn hình cảm ứng.
+ "Chúng ta đều biết rằng đây là thứ mà chúng ta muốn làm," Jobs nói trong một cuộc họp khác và chỉ tay vào cái màn hình cảm ứng.
+ "Vậy hãy cùng nhau tìm cách khiến cho nó hoạt động.
+"Một một cựu thành viên trong ban điều hành của Apple kể lại với tôi rằng đã có một "cuộc chiến tín ngưỡng" nổ ra giữa đội iPod và nhóm Mac OS.
+Khi vòng tròn điều khiển của iPod bị thay thế bằng màn hình cảm ứng, câu hỏi mới đặt ra là người ta sẽ xây dựng hệ điều hành cho nó như thế nào.
+ Đây là một điểm nối mấu chốt - nó quyết định iPhone sẽ trở thành một phụ kiện hay một chiếc máy tính di động.
+Tony và nhóm của ông cho rằng họ nên phát triển hệ điều hành theo hướng của iPod - thứ còn khá thô sơ.
+ Còn Richard Williamson, Henri và Scott Forstall muốn đi theo hướng sử dụng OS X - hệ điều hành chính của Apple trên laptop lẫn máy tính bàn, rồi "thu nhỏ" nó.
+Đã có những cuộc chiến về công nghệ và cả triết lí để quyết định xem họ cần làm gì.
+Những mafia từ hãng máy tính NeXT đã từng thấy một cơ hội để tạo ra thiết bị máy tính di động và muốn nhồi nhét hệ điều hành Mac vào một chiếc điện thoại, với tất cả ứng dụng của Mac.
+ Họ hiểu hệ điều hành này tới chân tơ kẽ tóc - nó dựa trên những dòng code họ đã nghiên cứu trong cả một thập kỉ.
+ Williamson biết rằng họ có đủ khả năng tạo ra một hệ điều hành hiện đại, và ông tin rằng Apple có thể sử dụng một bộ vi xử lí ARM bản rút gọn có cấu trúc tiết kiệm điện của Sophie Wilson để tạo ra một chiếc máy tính cấu hình thấp trên điện thoại.
+Đội iPod nghĩ rằng đây là một tham vọng hão huyền và chiếc điện thoại chỉ nên dùng một phiên bản của Linux mà thôi.
+ Linux là hệ điều hành nguồn mở phổ biến với các lập trình viên và có rất nhiều người ủng hộ, và nó vốn đã chạy trên các vi xử lí ARM tiêu thụ ít điện năng.
+ Andry Grignon muốn xây dựng nó cho iPhone nhưng họ đã có một cuộc tranh luận nảy lửa về việc nên tạo ra chiếc điện thoại trên hệ điều hành nào, vì ngay từ đầu họ làm nó dựa trên chiếc iPod.
+ Chẳng ai quan tâm đến hệ điều hành của một chiếc iPod cả.
+ Nó chỉ là một thiết bị phụ kiện.
+ Đừng xếp chiếc điện thoại vào ngang hàng với nó.
+Hãy nhớ lại sau khi chiếc iPhone được tung ra, Steve Jobs vẫn mô tả nó "giống như một chiếc iPod" hơn là một cái máy tính.
+ Tuy nhiên nếu ai đã từng tham gia vào trải nghiệm giao diện cảm ứng đều thấy kích thích bởi nó giống một chiếc máy tính cá nhân và là sự cải tiến trong giao diện tương tác giữa người và máy.
+"Những cuộc tranh luận đã gây ra rất nhiều mâu thuẫn trong nhóm iPod bởi vì họ nghĩ rằng đội mình hiểu rõ hơn về phần mềm trên các thiết bị nhỏ.
+ Còn chúng tôi thì luôn tin rằng nó là một chiếc máy tính.
+ "Henri Lamiraux nhớ lại.
+"Vào thời điểm đó chúng tôi chẳng quan tâm gì đến chiếc điện thoại.
+ Nó vẫn còn là một thứ mơ hồ.
+ Vấn đề quan trọng hơn là hệ điều hành của nó trông như thế nào và cơ chế tương tác của nó ra làm sao?" Bạn sẽ thấy nguồn gốc cuộc xung đột trong triết lí xây dựng nên chiếc điện thoại ở đây: Các kĩ sư phần mềm ở P2 không chỉ coi nó là một chiếc điện thoại, mà là một cơ hội để biến một thiết bị mang-hình-dáng-điện-thoại thành một con ngựa thành Troy chứa một chiếc máy tính di động phức tạp bên trong.
+Khi hai hệ điều hành "so găng" với nhau vào thời kì đầu, chiếc "máy tính di động" tỏ ra yếu thế hơn hẳn.
+"À, ờ thời gian tải của nó là một điều đáng cười".
+ Andy Grignon nói.
+ Lựa chọn Linux của Grignon nhanh và đơn giản hơn nhiều.
+ Nó chỉ kêu prrrrt là đã khởi động xong.
+ Trong khi đó nhóm Mac lập trình ra một hệ điều hành vừa chậm vừa đầy lỗi: nó cứ đơ ra đó rồi khiến bạn phát điên lên được.
+Và đó là lúc để nhóm của Williamson chứng tỏ rằng có một phiên bản OS X có thể hoạt động trên thiết bị này.
+ Nhóm mafia lao vào việc, và cuộc cạnh tranh ngày càng khốc liệt.
+ "Chúng tôi muốn biến tầm nhìn của mình về chiếc điện thoại thành sự thật" - Nitin Ganatra nói.
+ "Chúng tôi không muốn đội iPod làm ra được một chiếc điện thoại mang phong cách iPod và tung ra trước".
+Một trong những yêu cầu đầu tiên về mặt kinh doanh là phải chứng tỏ được rằng trải nghiệm kéo màn hình - thứ đã khiến Jobs kinh ngạc - phải ăn khớp hoàn hảo với hệ điều hành đã được tinh giản.
+ Williamson nói chuyện với Ording để tìm ra giải pháp.
+ "Nó hoạt động và trông thật kì diệu.
+ Khi bạn chạm vào nó, nó sẽ di chuyển theo ngón tay của bạn một cách hoàn hảo, bạn kéo xuống thì màn hình cũng trôi xuống.
+Theo lời của Williamson thì đó chính là cái đinh cuối cùng đóng xuống cỗ quan tài của chiếc điện thoại chạy Linux.
+ "Khi chúng tôi chuyển được OS X và những thao tác cuộn cơ bản hoàn thiện, thì mọi thứ đã được định đoạt.
+ Chúng tôi sẽ không làm theo nhóm iPod mà chọn hệ điều hành OS X.
+Phần mềm cho chiếc iPhone sẽ được xây dựng bởi Scott Forstall - gã "mafia" đến từ công ty NeXT, phần cứng thì thuộc quyền quản lí của nhóm Fadell.
+ Chiếc iPhone sẽ được trang bị màn hình cảm ứng và mang sức mạnh của một chiếc máy tính di động.
+Và điều đó sẽ chỉ xảy ra khi họ kết hợp lại và khiến cho nó hoạt động.
+ Nó thực sự đã xảy ra, như chúng ta đều biết.
+Đây là bài mình viết trên Genk (với design đẹp hơn) tại: http://genk.
+vn/chuyen-chua-ke-nguon-goc-bi-mat-cua-chiec-iphone-20170627180309406.
+chn nhân dịp kỉ niệm 10 năm chiếc iPhone đầu tiên ra đời.
+
+
+Tác giả: Truê

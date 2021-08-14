@@ -1,0 +1,21 @@
+Hiệu ứng cánh bướm
+Sự ra đời của thuyết "Hiệu ứng cánh bướm""Một cánh bướm đập ở Brazil có thể tạo ra một cơn lốc ở Texas"Đó là nội dung bài nói của Edward Norton Lorenz giới thiệu trước Hiệp hội phát triển khoa học Hoa Kỳ.
+ Trước đó vào năm 1961, do nhập sai dữ liệu từ 0,506127 thành 0,506, Lorenz đã thu được một kết quả dự đoán thời tiết khác hoàn toàn so với kết quả ban đầu.
+ Và từ đấy, Lorenz đề cập đến mối quan hệ vô cùng chặt chẽ của hệ vật lý đối với các hệ điều kiện ban đầu.
+ Theo đấy, một chuyển động của cánh bướm bé nhỏ có thể thay đổi điều kiện  gốc hệ vật lý và có thể tạo ra cơn bão cách nơi con bướm hàng vạn cây.
+ Nhưng, cũng theo Lorenz, tỉ lệ động ăng của con bướm quá bé nên một cánh bướm đập có thể tạo ra cơn bão thì việc một cái đập cánh khác cũng có thể triệt tiêu nó đi.
+  Ứng dụng của "Hiệu ứng cánh bướm" trong khoa họcHiệu ứng cánh bướm  là một cụm từ dùng để mô tả khái niệm trong lý thuyết hỗn loạn về độ nhạy cảm của hệ đối với điều kiện gốc.
+ Vậy nên lý thuyết này được áp dụng ngành khoa học khác như địa chất, cơ khí, sinh thái học, kinh tế học và tâm lý học.
+ Trong lĩnh vực dự báo thời tiết, phát hiện của Lorenz cũng dẫn đến những thay đổi đột phá.
+ Các dữ liệu được thu thập đầy đủ hơn để đảm bảo sự chính xác của các con số.
+Đồng thời, các nhà khí tượng học đã công nhận hiện tượng “hỗn loạn” trong nghiên cứu của mình.
+ Họ cho chạy nhiều mô hình thời tiết khác nhau trên máy tính, trong đó mỗi mô hình có sự khác nhau rất nhỏ về dữ kiện đầu vào.
+ Dự báo cuối cùng chỉ được đưa ra sau khi so sánh và tổng hợp kết quả thu được của các mô hình.
+  "Hiệu ứng cánh bướm" trong cuộc sốngCòn dưới góc nhìn của quan hệ nhân quả, hiệu ứng cánh bướm được diễn giải có phần giống với quan niệm “gieo nhân nào gặp quả nấy”.
+Hiện tượng với một thay đổi nhỏ của điều kiện ban đầu đưa đến sự biến đổi lớn chính như trong tục ngữ có câu “một đốm lửa có thể đốt cháy cả cánh đồng" hoặc "sai một li đi một dặm”.
+Từ quan điểm đó, vũ trụ là một hệ đồng nhất, mỗi hành động của chính ta là một sự tác động dù lớn hay nhỏ đều có thể ảnh hưởng đến toàn hệ thống và gây những ảnh hưởng nhất định.
+ Vì vậy không có những hành động nào là "vô nghĩa" cả.
+ Chúng ta thường đánh giá thấp hành động của bản thân nhưng hay nhớ, vũ trụ là một thể thống nhất và qua đó ý nghĩa và hành động của bạn có thể thay đổi cả thế giới.
+  Đó không phải là "ngẫu nhiên"
+
+Tác giả: VVesper

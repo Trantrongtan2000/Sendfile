@@ -1,0 +1,39 @@
+Explain Like I'm Five
+Okay, xin chào mọi người.
+ Vì thấy thằng bạn cũng tham gia viết lách trên spiderum nên mình cũng nổi hứng góp tí cỗ.
+ Có điều nó viết ở bên Truyện ngắn còn mình thì viết ở đây :))Trên reddit có rất nhiều mục(subreddit) rất hay để nâng cao kiến thức bản thân, ví dụ như AskScience, Whatisthisthing, (các bạn có thể tìm hiểu thêm ***downloadcenter, Kpop*** (▀̿Ĺ̯▀̿ ̿) ), nhưng mục mình hay đọc và comment trả lời nhất đó là ExplainLikeImFive.
+ Đây là 1 subreddit mà người hỏi sẽ đặt ra vấn đề, và chờ cộng đồng giải đáp.
+ Có gì thú vị ở subreddit này như vậy? 1.
+ Thứ nhất, đó là tiêu chí của subreddit này, E is for Explain - merely answering a question is not enough.
+LI5 means friendly, simplified and layman-accessible explanations - not responses aimed at literal five-year-olds.
+Perform a keyword search, you may find good explanations in past threads.
+ You should also consider looking for your question in the FAQ.
+Người trả lời phải giải thích được vấn đề của người hỏi, câu trả lời phải ngắn gọn, xúc tích và dễ hiểu, đó là ý nghĩa của cụm Explain, và LikeIm5.
+2.
+ Thứ hai, đó là nội dung các câu trả lời trong subreddit này mình đánh giá khá cao, có nhiều vấn đề khá phức tạp, như cách chip máy tính hoạt động, đều được trả lời gãy gọn và dễ hiểu.
+Từ lúc mình bắt đầu tham gia giải đáp, thêm nhiều vấn đề đã nảy sinh khi mình viết 1 câu trả lời:Đơn giản thế nào là đủ?Ngắn gọn thế nào là đủ?Nói đích xác ra, thì 2 câu hỏi trên đều trả lời cho một thứ: Cốt lõi của vấn đề là gì?Câu trả lời đơn giản quá mức, sẽ phải sử dụng đến các ví dụ gần gũi với đời sống, đã là ví dụ thì không phải lúc nào cũng chính xác hoàn toàn, có thể dẫn đến sai lầm về mặt ý tưởng trong tương lai của người nhận được câu trả lời.
+ Câu trả lời ngắn gọn quá mức, có thể dẫn đến thiếu thông tin cho người đọc, tạo ra một bức tranh không hoàn chỉnh, thiếu chỗ nọ, thiếu chỗ kia.
+ Và nhìn chung, khi không nói bật được ra cốt lõi của vấn đề, mọi điều chúng ta nói ra, đều trở nên khô khan và khó hiểu.
+Nhìn rộng ra mà nói, tìm ra được cốt lõi của vấn đề, và diễn giải nó cho người khác là 1 điều không hề đơn giản.
+ Nó không chỉ đòi hỏi bạn am hiểu, thông thạo về 1 vấn đề, mà còn phải có tích lũy, kinh nghiệm riêng của bản thân, để có thể truyền tải nó đến người khác.
+Lấy bản thân là 1 thằng ở ngành Hóa, cũng mất khá nhiều kinh nghiệm xương máu, ở cấp học phổ thông, việc tiếp thu kiến thức có thể coi là khá đơn giản, do kiến thức được giới hạn trong khuôn khổ của quyển sách.
+ Nhưng việc học, đối với mình, chỉ thực sự bắt đầu khi vào đại học.
+ Khi đọc các quyển sách dày đến hàng nghìn trang mà vẫn cảm thấy không ổn, đi tìm thêm tài liệu để đọc, và mình cảm thấy như đang bơi trong đống kiến thức đó, mình cố gắng học các định nghĩa, các công thức, để cố gắng qua những bài thi.
+ Và bùm, khi đi thi toàn những câu hỏi đơn giản, mà mình không ngờ đến được.
+ Những giây phút như thế, làm mình ngộ ra rằng, đọc nhiều sách vở, tài liệu, không quan trọng bằng việc có nắm được Cốt lõi vấn đề của nó hay không.
+ Mình đọc những chương sách về Instrumental Analysis, Atomic Emission, Atomic Absorption, Schrodinger Equation, Vibrational Spectroscopy, etc.
+(đừng quan tâm bọn nó là cái gì (▀̿Ĺ̯▀̿ ̿)), trong lúc cứ chăm chăm vào việc tính cái này, cái nọ như thế nào, mình đã quên mất 1 điều, đó là người ta không đặt nặng quan tâm việc bọn nguyên tử, electron hoạt động như thế nào lắm đâu.
+ Cái quan tâm của những người làm khoa học thực nghiệm, đó là:Đo được cái gì - hay nói cách khác là tính chất thể hiện ra ngoài của nó như thế nào.
+ Những cái gì ảnh hưởng đến cái mình đo được?Từ cái đo được, sẽ suy ra được những cái gì.
+ Từ kiến thức phổ thông, nếu chúng ta có 3 biến số độc lập của 1 vật, thì chúng ta cần biết 3 yếu tố mới tính được chúng.
+ Tương tự với thực nghiệm, bạn cần biết bao nhiêu thứ, bạn cần ngần ấy phép đo.
+Thế bây giờ, đo được nó rồi, biết được tính chất rồi, vậy dùng nó để làm gì?hoặc, biết được tính chất của nó rồi, thế có thay đổi được nó theo ý mình muốn hay không?Nếu thay đổi nó rồi, thì quay lại bước 1, bắt đầu đo lại.
+Tự thấy với ngu ý của bản thân, 4 câu hỏi trên bao gồm được gần đủ những vấn đề đặt ra khi làm thực nghiệm.
+ Để ngộ ra được 4 câu hỏi trên, mình đã phải trả giá không chỉ bằng điểm số mà còn là thời gian làm việc trên lab.
+ Làm khoa học, hay bất cứ thứ gì thực nghiệm, cứ phải "hand on" rồi mới khôn lên được.
+ Đây chính là yếu tố thứ 2 của Cốt lõi vấn đề mình nhắc đến ở trên: tích lũy riêng của bản thân.
+Trong quá trình đi học, làm việc, hẳn các bạn đã trải qua cảm giác có người hướng dẫn mình chỉ cần nói sơ qua 1 chút là mình nắm được vấn đề, có người thì nói hết từ buổi này, sang buổi khác, mà vẫn không hiểu được người ta đang làm cái gì.
+ Những lúc như vậy, các bạn hiểu phải đặt ra câu hỏi cho bản thân như nào rồi đó.
+
+
+Tác giả: LucisK

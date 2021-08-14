@@ -1,0 +1,170 @@
+Robb Stark - Phân tích chiến thuật và tài năng quân sự
+Robb Stark vốn là một nhân vật được khá nhiều người yêu thích.
+ Về nhân vật này, có hai luồng ý kiến chính: 1.
+ Robb là một thiên tài quân sự và 2.
+ Robb là một chiến lược gia non nớt và yếu kém.
+ Trong một bài viết về Robb Stark trước đây, tôi đã từng nói rằng quả thật Robb có tài năng về quân sự, nhưng tài năng của Robb chỉ dừng ở mức có tác dụng trong từng trận chiến riêng lẻ, còn về đại cục - toàn bộ cuộc chiến thì Robb lại tỏ ra khá kém cỏi và non nớtBởi vậy, đánh giá cô đọng về Robb Stark, đó là: một vị tướng trẻ có tài về quân sự, nhưng một người có tầm nhìn chiến lược yếu kém.
+ Như chính bản thân Robb đã từng phải cay đắng thốt lên:"Ta thắng từng trận chiến mà ta tham gia, nhưng ta đang thua cả cuộc chiếnTrong khuôn khổ bài viết này, chúng ta hãy cùng đi sâu vào phân tích chiến thuật cũng như chiến lược của Robb trong toàn Cuộc Chiến Năm VuaBài viết được viết và dịch dựa theo loạt bài về Robb Stark ở trên RedditĐầu tiên, điều cần làm rõ khi phân tích về Robb ở hai mặt chiến thuật và chiến lược, thì ta cần hiểu, chiến thuật và chiến lược khác nhau thế nào?- CHIẾN THUẬT (TACTICS): Tactics is the art and science of winning engagements and battles- CHIẾN LƯỢC (STRATEGY): Strategy is the employment of battles to gain the end of warChúng ta có thể hiểu đơn giản ở đây, chiến thuật là cách đánh, cách triển khai quân đội để thắng một trận chiến còn chiến lược là toàn bộ kế sách, phương hướng ở nhiều mặt khác nhau (không chỉ nằm ở các trận chiến) để có thể thu được kết quả có lợi nhất khi cuộc chiến kết thúc.
+ Như vậy, thắng các trận chiến không đồng nghĩa với việc bạn thắng một cuộc chiến, bởi vì có những cuộc chiến không thắng bằng các cuộc quyết đấu, các trận chiến đẫm máu, mà thắng bởi lời nói, bởi câu từ, bởi các quyết sách và phương hướng.
+ Hiểu được điều này, chúng ta sẽ dễ dàng phân tích được hai mặt chiến thuật và chiến lược của Robb trong toàn cuộc chiến hơn.
+1.
+ Giai đoạn đầu của cuộc chiến - trận chiến ở khu rừng Whispering WoodsChúng ta hãy nói vắn tắt một chút về tình hình trước trận chiến tại Whispering Woods.
+ Sau khi vua Robert Baratheon băng hà và lãnh chúa Eddard Stark bị bắt giữ và khép tội phản nghịch, vương quốc bắt đầu rơi vào rối loạn.
+ Thực chất thì mầm mống của nó đã được gieo từ trước rồi chứ không phải đến khi vua Robert chết mới bắt đầu xuất hiện.
+ Để đáp trả lại hành động bắt giữ lãnh chúa Eddard, con trai cả của ông - Robb Stark, tạm quyền lãnh chúa Winterfell bắt đầu tập hợp quân chư hầu của các gia tộc phương Bắc và bắt đầu tiến quân về Moat Cailin - chốt chặn sống còn của phương Bắc - với khoảng 12000 quân.
+ Ở đây Robb có thêm quân đội từ các gia tộc vùng Neck nữa, nâng tổng số quân lên 18000.
+ Ngoài ra họ còn nhận được sự trợ giúp từ em trai lãnh chúa Hoster Tully - Ser Brynden Tully với biệt danh là Cá Đen.
+ Về phía địch thủ của họ - nhà Lannister thì hiện tại quân đội Lannister đã chia làm hai đội quân.
+ Một do Ser Jaime Lannister chỉ huy, đội quân này đã đánh bại quân của các lãnh chúa Piper và Vance - các gia tộc Riverlands - tại Goldentooth, rồi kế tiếp đánh bại quân của Edmure Tully - con trai lãnh chúa Hoster tại Riverrun và bao vây lâu đài.
+ Đội quân Lannister thứ hai do lãnh chúa Tywin Lannister chỉ huy, đã chiếm được Harrenhal và tiến quân theo hướng bắc dọc bờ sông Green Fork.
+Vấn đề với lực lượng phương Bắc của Robb bây giờ, đó là nên tiến quân về đâu? Harrenhal hay Riverrun? Đối đầu với Ser Jaime Lannister hay lãnh chúa Tywin Lannister? Hướng đi nào cũng có lợi và hại.
+ Tiến quân về Riverrun để giải vây cho nhà Tully, tranh thủ sự giúp đỡ của các gia tộc Riverlands là một cách hay để tăng thêm sức mạnh cho đội quân, nhưng như thế sẽ bỏ ngỏ một đội quân hùng mạnh của lãnh chúa Tywin.
+ Nhưng tấn công thẳng vào Harrenhal cũng không ổn, vì thứ nhất, binh lực của Robb không đủ và cũng không mạnh để tấn công Harrenhal và thứ hai, lãnh chúa Tywin là địch thủ đáng gờm.
+ Vì vậy, xem chừng tấn công quân của Ser Jaime để giải vây Riverrun là bước đi đúng đắn hơn, nhưng có một rủi ro ở đây: nếu như lúc tấn công quân của Ser Jaime mà lãnh chúa Tywin bất thần đem quân quay lại đánh ập vào mặt sau của quân phương Bắc thì sao? Kết quả không thể tránh khỏi là toàn quân sẽ bị tiêu diệt.
+Chính điều này đã dẫn đến một mưu mẹo mà Robb đặt ra: cần một đội quân đóng vai trò "mồi nhử hạng sang" - nghĩa là sao? Thường thì khi nhử quân địch, một đội quân nhỏ sẽ được tung ra, nhưng ở đây, Robb dùng hẳn mồi nhử hạng sang, cho hẳn đội quân lớn của mình tấn công lãnh chúa Tywin.
+ Robb cần phải lừa được lãnh chúa Tywin rằng quân phương Bắc sẽ dồn toàn lực tấn công ông, trong khi mục đích thật sự của Robb là đột kích quân của Ser Jaime để giải vây cho Riverrun.
+ Sau khi đặt ra một số thỏa thuận với nhà Frey, đội quân của Robb được bổ sung thêm quân nhà Frey, nâng tổng số quân lên hơn 2 vạn người, tại Song Thành, Robb bắt đầu chia đại quân làm hai đạo: bộ binh và kỵ binh.
+ Đạo bộ binh, do lãnh chúa Roose Bolton chỉ huy sẽ tiến quân tiếp tục dọc bờ sông Green Fork để tấn công lãnh chúa Tywin, còn đạo kỵ binh sẽ tấn công và giải vây cho Riverrun.
+ Mấu chốt của kế hoạch này là phải làm sao để khiến lãnh chúa Tywin thực sự tin rằng mình đang tham chiến với đại quân của Robb, chứ không phải một đội quân mồi nhử nhỏ bé.
+ Cách mà Robb giải quyết vấn đề, là đưa bộ binh - đội quân chiếm phần lớn binh lực tấn công lãnh chúa Tywin, bộ binh của Robb lên tới 16000 quân, trong khi kỵ binh chỉ là gần 6000 (sau khi có thêm quân từ nhà Frey).
+ Bộ binh của Robb đóng vai trò làm mồi nhử, đánh lạc hướng lãnh chúa Tywin, nhưng dĩ nhiên không chỉ có như vậy.
+ Bởi vì nếu chỉ đơn thuần làm mồi nhử, thì cần gì phải dùng phần lớn binh lực? Lẽ dĩ nhiên là đạo quân này còn một vai trò nữa, đó là ngăn không cho quân của lãnh chúa Tywin hợp với các đội quân Lannister khác, và cũng ngăn không cho quân của lãnh chúa Tywin tiến quân lên đánh úp phương Bắc.
+ Nói cách khác, đạo quân của Roose Bolton đóng vai trò là lá chắn và là lực lượng dự bị cho Robb.
+ Còn về phần Robb, anh dẫn toàn bộ đạo kỵ binh với gần 6000 quân gấp rút tiến về Riverrun để thực hiện một cuộc đột kích - trận chiến Whispering Woods.
+Lược đồ trận chiến tại Whispering WoodsRiverrun là một tòa thành được xây dựng ở một vị trí khá đặc biệt - nằm tại nơi giao nhau của hai con sông: Tumblestone và Red Fork.
+ Vị trí đặc biệt này đã khiến Ser Jaime Lannister phải chia quân làm ba doanh trại để có thể bao vây mọi mặt của Riverrun, và các trại lại nằm ở các bờ khác nhau của sông, cho nên vô hình chung, nó gây khó khăn cho việc tập hợp toàn bộ lực lượng.
+ Trong đội quân của Robb có Cá Đen - Ser Brynden Tully, ông không lạ gì địa thế nơi đây, đó là một lợi thế lớn cho Robb.
+ Chính Ser Brynden và Theon Greyjoy đã dẫn một đạo quân nhỏ để tìm hiểu vị trí của các trại.
+Vị trí của Riverrun và các hướng tấn công trong trận chiếnTrước khi tấn công, Robb đã cử người tìm và hạ sát tất cả những kỵ sĩ cảnh giới của quân Lannister - vốn không khó khăn gì khi quân Lannister đã mỏi mệt khi vây thành nhiều ngày.
+ Điều này đã giúp quân của Robb áp sát được hai trong số ba trại của Lannister mà không bị phát hiện (trại thứ ba nằm ở mặt sau của trận chiến, bờ bên kia dòng Red Fork).
+ Robb quyết định sẽ tấn công hai trại kia, trại phía bắc anh giao cho Ser Brynden tấn công, đích thân Robb tấn công trại phía tây.
+ Khi trận chiến bắt đầu, Ser Brynden đột ngột tấn công vào khu trại đang say ngủ của Lannister.
+ Khu trại bắt đầu náo động và trở nên hỗn loạn nhanh chóng dù sau đó Ser Jaime Lannister đã cố tập hợp lại để phản công.
+ Ở trại phía tây, lãnh chúa Brax - chỉ huy trại này - nhận thấy cuộc đột kích và bắt đầu đem quân vượt sông để chi viện, nhưng bị lực lượng ở trong Riverrun ngăn trở và đẩy lùi bằng tên và đá.
+ Lãnh chúa Brax tử trận khi cố vượt sông, khiến cho trại phía tây cũng bắt đầu hỗn loạn.
+ Ngay lúc này, đạo quân của Robb tấn công thẳng vào khu trại, ở trong Riverrun, lãnh chúa Tytos Blackwood cũng dẫn quân xông ra để tiếp ứng.
+ Trận chiến nhanh chóng chuyển sang hướng có lợi cho Robb dù quân của anh cũng chịu thiệt hại khá nặng.
+ Nhưng quân Lannister đã dần bị đẩy lùi và tan rã, nhất là sau khi Ser Jaime - tổng chỉ huy bị bắt sống.
+ Ở khu trại còn lại, sau khi nhận thấy 2/3 lực lượng đã tan rã, chỉ huy khu trại - Ser Forley Prester không còn cách nào khác ngoài rút quân ngay lập tức.
+ Trận chiến tại Whispering Woods là một thắng lợi hoàn toàn cho Robb, tiêu diệt phần lớn quân Lannister ở đây, bắt sống Ser Jaime Lannister.
+ Mặc dù về phía đạo bộ binh của Roose Bolton thì họ thất bại và phải lùi quân, thì lực lượng cũng không suy suyển hay mất mát quá nhiều.
+ Nhìn chung, giai đoạn ban đầu của cuộc chiến rất thuận lợi cho Robb, và nếu anh có một chiến lược hợp lý thì việc đánh bại quân chủ lực Lannister của Tywin là hoàn toàn có thể.
+ Khi ấy, nếu Robb tập hợp tổng lực quân của mình cùng các lãnh chúa Riverlands và lệnh cho Roose Bolton đem quân trở lại và mở một cuộc tấn công chớp nhoáng nữa vào hai mặt quân Lannister của Tywin thì có lẽ cuộc chiến đã kết thúc rồi.
+Nhưng không, thay vì đó, Robb án binh bất động để xem xét tình hình, bởi vì ở phía nam xa xôi, Renly Baratheon đã tập hợp lực lượng của Stormlands và vùng Reach để xưng vương.
+2.
+ Robb xưng vương và xúc tiến thực hiện chiến dịch WesterlandsTình hình sau trận Whispering Woods đã chuyển sang hướng có lợi cho Robb: một lượng lớn quân Lannister bị tiêu diệt trong trận chiến, Robb có thêm lực lượng từ các gia tộc Riverlands, đại quân của lãnh chúa Tywin nằm ở thế bị bao vây từ nhiều mặt và buộc phải rút về Harrenhal.
+Vậy thì câu hỏi đặt ra bây giờ, rằng tiếp theo Robb sẽ làm thế nào? Tấn công Tywin là một hướng, nhưng thật sự không khả dĩ lắm, vì lực lượng bộ binh chính của Roose Bolton không về hội quân với Robb ở Riverrun.
+ Thêm nữa là từ phía nam, tin tức về việc Renly xưng vương đã đến Riverrun.
+ Liên minh với Renly để cùng chống lại Lannister là một hướng đi tốt, nhưng vấn đề ở chỗ Renly không có tính chính danh theo luật pháp: Joffrey trên danh nghĩa vẫn là trưởng nam của vua Robert, và cứ cho là Joffrey không phải con của vua Robert, thì vẫn còn đó Stannis - anh trai của Renly, nếu về phe Renly thì nó trái với mục đích của Robb là minh oan cho cha mình.
+ Nhưng không thể bàn cãi là Renly nắm trong tay một lượng quân khổng lồ (10 vạn đại quân, nếu tập trung tổng lực của Stormlands và vùng Reach).
+ Tuy nhiên, Robb vẫn không đồng ý, anh tiến quân xuống phía nam là để đòi công bằng cho cha, và giờ nếu theo phe Renly - một kẻ phản bội rõ rành rành thì có khác gì tự đâm mình? Phu nhân Catelyn cũng đề xuất hòa bình với nhà Lannister để họ trao trả Sansa và Arya, nhưng dĩ nhiên các lãnh chúa phương Bắc không hề đồng tình, nhất là lãnh chúa Rickard Karstark, người có hai con trai chết dưới tay Ser Jaime và người con thứ ba bị lãnh chúa Tywin bắt giữ.
+Cuối cùng, các lãnh chúa phương Bắc và Riverlands đi đến một quyết định: tôn xưng Robb làm Vua Phương Bắc, một lần nữa tự mình cai trị, một lần nữa tự mình đứng lên và độc lập với đế chế.
+ "Vua Joffrey và Thái hậu nhiếp chính phải chấp nhận sự độc lập của phương Bắc.
+ Từ nay trở đi, chúng ta không còn là một phần của đế chế, mà là một vương quốc riêng độc lập như ngày xưa.
+ Lãnh thổ của chúng ta sẽ bao gồm mọi vùng đất của nhà Stark ở phía bắc của Neck, cùng với vùng lãnh thổ ven sông Trident, bao bọc bởi Goldentooth ở phía Tây và vùng Núi Mặt Trăng ở phía Đông" - lời tuyên bố của Robb Stark gửi cho triều đình sau khi xưng vươngTuy nhiên, từ nay, trách nhiệm đặt lên đôi vai của Robb ngày càng nặng nề.
+ Lãnh chúa Winterfell và Vua Phương Bắc là hai danh xưng rất khác nhau.
+ Hơn nữa, Robb còn được tôn xưng là Vua Sông Trident, có nghĩa là cai quản cả vùng Riverlands - thêm nhiều trách nhiệm hơn nữa, quá nhiều với một chàng trai trẻ 16 tuổi, một chàng trai trẻ khao khát báo thù không kém gì so với lãnh chúa Karstark.
+ Nhưng chúng ta không bàn đến vấn đề này nữa, mà hãy bàn đến chiến lược của Robb sau khi xưng vương ra sao.
+Mọi việc có vẻ rất thuận lợi cho Robb, nhà Lannister đang ở thế thua trận, Robb giờ đây có cả sự ủng hộ của các lãnh chúa Riverlands.
+ Nhưng chỉ như thế thì chưa đủ, Robb nhận ra anh cần thêm đồng minh để hoàn toàn áp đảo nhà Lannister, và tại đây, Robb bắt đầu đưa ra những quyết định sai lầm và khá là tệ hại.
+Đầu tiên, anh cho phép các lãnh chúa Riverlands đem quân của mình về lãnh thổ để phòng thủ trước sự tàn phá của quân Lannister.
+ Binh lực của Robb vốn đã hao hụt sau trận chiến, bộ binh của Roose Bolton thì không đến, thành ra Robb cũng chẳng có thêm được bao nhiêu quân.
+Thứ hai, để mong liên minh với nhà Greyjoy nhằm có được sức mạnh từ thủy quân của họ để quấy rối hậu phương nhà Lannister, Robb cử chính Theon Greyjoy trở về Pyke để thuyết phục lãnh chúa Balon kết đồng minh.
+ Việc này giống như "thả hổ về rừng" vậy, à quên, trong trường hợp này thì là "thả thủy quái về biển".
+ Chúng ta nên biết lãnh chúa Balon chưa bao giờ thôi ý định muốn xưng vương, nhưng ông ta còn ngần ngại chưa tiếp tục xưng vương là vì một lẽ: người thừa kế duy nhất của ông ta là Theon vẫn đang nằm trong tay nhà Stark (cho dù Balon thật sự không hy vọng nhiều về việc Theon được trả về, ông đã có ý định cho Asha, con gái mình làm người thừa kế rồi).
+ Việc Robb trả Theon lại là một con dao hai lưỡi, anh tin tưởng Theon, nhưng Theon vẫn là người nhà Greyjoy, không thể mong rằng Theon sẽ tuyệt đối trung thành.
+ Dĩ nhiên trong việc này, không thể hoàn toàn trách Robb, vì dù Theon có trở về Pyke hay không thì Balon cũng sẽ xưng vương và cho quân đi cướp phá, nhưng Robb đã góp phần đẩy nhanh hành động đó.
+ Hơn nữa, ở đây chúng ta có thể nói là Robb.
+.
+.
+ gặp vận xui khi chả biết Balon ăn phải cái quỷ gì mà nằng nặc đòi cướp phá phương Bắc nghèo đói, trong khi rõ rành rành nếu làm theo lời Robb là cho quân cướp phá Lannisport thì sẽ có lợi hơn.
+ Chung quy vẫn là do Balon thù nhà Stark, cho nên mới quyết đánh chiếm phương Bắc, cái này quả thật do Robb xui xẻo khi gặp phải thằng cha điên điên dở dở như Balon Greyjoy.
+Dù sao, sau sự phản bội bất ngờ của Theon Greyjoy, phương Bắc gặp nguy, nhưng Robb không rút về - nhà Lannister với 2 vạn quân vẫn đang nằm chình ình ở Harrenhal, một đội quân mới do Ser Stafford Lannister đang tập kết tại Oxcross, hơn nữa sự cướp phá của Greyjoy vẫn chưa thật sự nguy cấp, ít ra là trong lúc này (còn sau này khi Deepwood Motte, Moat Cailin và nhất là Winterfell thất thủ thì vấn đề nó đã nghiêm trọng hơn, nhưng đó là chuyện của sau này).
+Vì thế, Robb bắt đầu xúc tiến việc thực hiện chiến dịch Westerlands để dần dần cắt bớt vây cánh của nhà Lannister, tiêu hao binh lực của họ.
+Lược đồ thể hiện vị trí và hướng đi của các lực lượng trước, trong và ngay sau trận chiến Whispering WoodsRobb để chú của mình là Edmure Tully ở lại Riverrun, anh cùng Ser Brynden dẫn theo phần lớn đạo kỵ binh của mình tiến về phía tây.
+ Họ đột kích đội quân Lannister của Ser Stafford đang đóng ở Oxcross và một lần nữa thắng lớn.
+ Trận thắng này lại một lần nữa nói lên tài năng của Robb trong việc chọn đúng thời điểm để đột kích.
+ Con đường dẫn đến Oxcross đi qua Goldentooth, nằm giữa hai dãy núi cao bao bọc xung quanh khiến một đội quân lớn như của Robb khó có thể đi qua mà không bị chú ý.
+ Tuy nhiên, con sói tuyết của Robb - Gió Xám đã tìm được con đường có thể đi qua Goldentooth mà không bị phát hiện.
+ Chính điều này đã giúp Robb dễ dàng đánh đột kích thẳng vào doanh trại của Ser Stafford và làm quân Lannister một lần nữa thảm bại, bản thân Ser Stafford bị lãnh chúa Karstark giết chết.
+ Thành quả của chiến thắng này còn hơn những gì Robb mong đợi, đầu tiên là đánh tan được đội quân của Ser Stafford, đoàn quân của Robb cướp được rất nhiều gia súc và của cải, quan trọng nhất là họ chiếm được mỏ vàng ở Castamere - mà những mỏ vàng lại là nguồn sống và là thứ tối quan trọng với Tywin.
+Tuy nhiên, ta hãy xem xét mục đích thực sự của cuộc hành quân này: Robb định sẽ tấn công và cướp bóc Westerlands khi nó đang rơi vào hỗn loạn và yếu ớt - chỉ thế thôi, hay mục đích thật sự của chiến dịch này là một mục đích khác?Như đã nói ở trên, kể cả sau khi thắng trận Whispering Woods, quân của lãnh chúa Tywin vẫn còn gần như nguyên vẹn, và so với con trai ông thì Tywin là một kẻ nguy hiểm hơn rất nhiều.
+ 2 vạn quân của ông ta ngồi ở Harrenhal như một con dao kề cổ tất cả các đồng minh của Robb, và thực sự thì ông cũng đã cử vài ba đội kỵ sĩ đi tàn phá, cướp bóc vùng đất ven sông.
+ Dù có làm gì thì mục tiêu cao nhất và quan trọng nhất vẫn là ép lãnh chúa Tywin phải đem quân quay về phương Tây càng sớm càng tốt.
+ Đó là lý do Robb hành quân về phía tây với đội quân kỵ binh của mình.
+ “Cậu nghĩ tụi cháu ở lại để cướp bóc sao?” Robb đầy hoài nghi.
+ “Cậu ạ, cháu muốn Lãnh chúa Tywin đến phương tây.
+”“Tất cả chúng ta đều cưỡi ngựa,” Ser Brynden nói.
+ “Còn quân Nhà Lannister chủ yếu đi bộ.
+ Chúng ta có kế hoạch rượt đuổi Lãnh chúa Tywin tới lui dọc bờ biển, rồi nhanh chóng rút lại phía sau để tạo vị trí phòng vệ mạnh mẽ tại vị trí mà lính biệt kích của ta tìm được, đó là vị trí rất thích hợp cho chúng ta.
+ Nếu ông ta hành quân đến đúng điểm đó, ông ta sẽ phải trả giá đắt.
+ Nếu không, ông ta cũng sẽ bị giăng bẫy ở phương tây, cách xa nơi lẽ ra ông ta cần đến cả nghìn dặm.
+ Trong khi đó chúng ta có thể chiếm đất của ông ta, thay vì để ông ta chiếm đất của chúng ta.
+”“Lãnh chúa Stannis đã định tấn công Vương Đô,” Robb nói.
+ “Lẽ ra ông ta đã tống khứ Joffrey, thái hậu và gã Quỷ Lùn khỏi chúng ta chỉ bằng một cú đòn.
+ Khi đó, chúng ta đã có thể đem lại hòa bình.
+”Như vậy, mục đích của chiến dịch này chỉ có một: làm cách nào để bắt lãnh chúa Tywin phải quay lại Westerlands, thứ nhất là để các lãnh chúa Riverlands có thể ổn định lại vùng đất của họ và khi ấy, lực lượng của Robb sẽ tăng lên, đạo bộ binh của Roose Bolton cũng có thể quay lại hợp binh với Robb, thứ hai, hãy nhớ rằng chiến dịch này xảy ra trước khi vua Stannis hành quân đến Vương Đô một chút.
+ Cuộc tấn công của Robb, những thiệt hại của Westerlands có thể sẽ khiến lãnh chúa Tywin buộc phải quay lại phương Tây.
+ Đến lúc ấy thì ông sẽ không thể kịp hội quân với nhà Tyrell và dẫn quân đánh úp Stannis trong trận Xoáy Nước Đen được.
+ Nên nhớ là Stannis đã gần như chiếm được Vương Đô, nhưng lại bị đội quân Lannister - Tyrell đánh úp phút cuối.
+ Nếu Stannis chiếm được Vương Đô, nhà Lannister sẽ càng thêm bất lợi.
+ Mục đích của chiến dịch này là như vậy, nhưng đáng tiếc thay lãnh chúa trẻ Edmure Tully lại phá hỏng hết khi hành quân đến khúc cạn sông  Red Fork gần cối xay gió Stone Mill để tấn công nhà Lannister.
+ Khi ấy, lãnh chúa Tywin bị cầm chân đủ lâu để nghe tin về cuộc tấn công Vương Đô, và sau đó chuyện gì xảy ra chúng ta đều đã rõ.
+ “Khi cháu chặn Lãnh chúa Tywin ở Red Fork", Cá Đen nói, “cháu đã khiến hắn phải dừng lại đủ lâu để các hiệp sĩ chạy khỏi Bitterbridge đến với ông ta để báo tin về sự việc xảy ra ở phương đông.
+ Lãnh chúa Tywin quay hướng ngựa chạy ngay lập tức, gia nhập ngay cùng Mathis Rowan và Randyll Tarly gần thượng nguồn vịnh Xoáy Nước Đen, và hành quân về Tumbler’s Falls, và đến đó, ông ta gặp Mace Tyrell và hai con trai của gã đang đứng đợi với đội quân tiếp đón khổng lồ và một đội thuyền.
+ Bọn họ giong thuyền xuôi dòng sông, lên bờ một nửa ngày và tấn công Stannis từ phía sau.
+”Chung quy lại, chiến dịch này có thành công một phần, nhưng mục tiêu quan trọng nhất thì lại thất bại toàn tập.
+ 3.
+ Giai đoạn cuối của cuộc chiến - sự phản bội của Roose Bolton và Walder Frey, Đám Cưới Đỏ đẫm máuTuy nhiên, sự thất bại của chiến dịch không hoàn toàn do lỗi của Edmure, một phần lỗi là do Robb khi 1.
+ không nói với Edmure về kế hoạch và 2.
+ chỉ đưa ra mệnh lệnh trấn giữ Riverrun cho Edmure mà không giải thích gì.
+ Robb cũng có lỗi trong thất bại của chiến dịch.
+"Nếu mệnh lệnh đưa ra tối nghĩa và khó hiểu, vì thế dẫn đến mệnh lệnh không được hiểu đúng và tuân theo, thì lỗi thuộc về người chỉ huy.
+ Nếu mệnh lệnh đã đủ rõ ràng mà vẫn không được tuân theo đúng, thì lỗi thuộc về người sĩ quan" - Tôn TửMệnh lệnh của Robb đưa ra cho Edmure chỉ là "Giữ vững Riverrun", nó có thật sự sáng nghĩa không? Có nhiều cách để bảo vệ và giữ vững Riverrun, Edmure có thể đóng chặt cổng thành phòng thủ, nhưng như thế thì anh sẽ để mặc quân Lannister cướp bóc và tàn sát dân chúng - điều này trái với tính cách của Edmure.
+ Hơn nữa, tấn công cũng là một cách phòng thủ, như vậy thì Edmure đã làm đúng theo lệnh - giữ vững Riverrun.
+ Mệnh lệnh của Robb không đủ rõ ràng, Edmure làm sao mà hiểu nổi thâm ý của chiến dịch? Thêm nữa là Robb cũng hoàn toàn không nói cho Edmure về kế hoạch thực sự, hỏi sao mà Edmure có thể theo đúng ý muốn của Robb cho được? Cho nên, chiến dịch thất bại, lỗi của Edmure 1 thì lỗi của Robb 5.
+Một thất bại nữa của chiến dịch là việc Robb gặp và yêu Jeyne Westerling - con gái lãnh chúa Gawan Westerling, một gia tộc thề trung thành với nhà.
+.
+.
+ Lannister thành Casterly Rock! Nào, chúng ta xem xét sự việc này: hoàn toàn là trùng hợp sao, khi Robb tấn công, chiếm được thành Crag của nhà Westerling và sau đó gặp được Jeyne? Rõ ràng tin tức về chiến thắng của Robb ở Oxcross đã lan rộng, không lý gì mà nhà Westerling lại không biết, và họ quá hiểu rằng thành Crag ở gần Oxcross - Crag sẽ là mục tiêu tiếp theo của Vua Phương Bắc.
+ Theo lẽ thường tình, lãnh chúa Gawen sẽ 1.
+ gửi quạ đến các gia tộc đồng minh xin cứu viện và 2.
+ đưa con cái, những người thừa kế đi lánh xa.
+ Nhưng không, không có việc nào trong hai việc này được thực hiện, và ngay sau khi Crag bị hạ, nhà Westerling vội vã quỳ xuống thề trung thành với Robb, và cử cô con gái Jeyne - xinh đẹp, dịu dàng, chắc chắn rồi - đến chăm sóc Robb.
+ Có mùi "âm mưu" ở đây, cứ như thể đó là một kịch bản đã được sắp sẵn để Robb gặp và yêu Jeyne, rồi sau đó phá bỏ hôn ước với nhà Frey vậy.
+ Có mùi của Tywin Lannister trong vụ này.
+Rõ ràng, việc này đã phá vỡ liên minh giữa nhà Stark với nhà Frey.
+ Robb đã không nghĩ đến điều này, anh đã để tình yêu lấn át và hủy đi cái liên minh vốn đã mỏng manh của anh với nhà Frey.
+ Lòng tự tôn của lãnh chúa Walder Frey cao hơn anh nghĩ nhiều, và hành động này của Robb giống như vả thẳng vào mặt nhà Frey vậy, và đừng nghĩ vì anh được tôn là Vua Sông Trident mà lãnh chúa Walder phải nuốt cục đắng này, không, ông ta chẳng thèm quan tâm đâu.
+ Việc này là một sự sỉ nhục với ông ta, và cho dù Robb có hứa sẽ sửa chữa thế nào, thậm chí là để cho Edmure thực hiện hôn ước thay mình, thì cũng không thể hàn gắn nổi quan hệ giữa Stark và Frey nữa.
+ Nhà Frey phản bội Robb là điều đương nhiên sẽ diễn ra.
+Và cuối cùng, sự phản bội mấu chốt dẫn tới cuộc thảm sát tại Đám Cưới Đỏ, là sự phản bội của Roose Bolton, lãnh chúa thành Dreadfort.
+Nhà Bolton với nhà Stark vốn đã chẳng bao giờ ưa nhau, họ đã là tử địch cả ngàn năm.
+ Dreadfort và Winterfell chiến tranh liên miên, thậm chí Bolton cũng đã từng là vua, cho đến khi bị Vua Phương Bắc đánh bại thì mới quỳ gối trung thành.
+ Nhưng dĩ nhiên Bolton chưa bao giờ thật sự trung thành.
+ Ngay từ đầu khi tiến quân xuống phía nam, Robb đã từng nói với mẹ là anh chưa bao giờ tin tưởng Roose Bolton và luôn cảm thấy có gì đó đáng sợ ở con người này.
+ Robb đã cử Roose Bolton cùng 16000 quân đi chặn đánh quân Lannister ở Green Fork và sau khi lui quân, lãnh chúa Bolton cứ ở lỳ tại đó mà không đem quân về hội binh với Robb ở Riverrun cho đến mãi sau khi chiến dịch Westerlands chấm dứt.
+ Nhưng kể từ ban đầu, dường như Roose Bolton đã có ý phản, chúng ta xem xét một vài chi tiết sau:- Thứ nhất, mệnh lệnh Robb đưa ra cho Roose Bolton không phải là tấn công Tywin Lannister bằng được - nhiệm vụ của Bolton là mồi nhử, khiến Tywin nghĩ rằng đại quân phương Bắc đều tập trung ở Green Fork, và chặn không cho quân của Tywin tiến về Riverrun.
+ Nhưng Roose Bolton đã liều mạng cho quân tấn công Lannister, và kết quả là thua trận và mất khá nhiều quân và các tướng lĩnh cao cấp bị bắt - Harrion Karstark, con trai lãnh chúa Rickard là một ví dụ.
+ Nhưng người nhà Bolton thì gần như không mất ai cả- Thứ hai, khi Tywin đã rút khỏi Riverlands, Roose Bolton làm theo lệnh Edmure là chiếm lại Harrenhal, nhưng ông ta cũng thu nhận nhóm Dị Nhân Khát Máu - những kẻ dưới quyền lãnh chúa Tywin.
+ Và khi Brienne cùng Ser Jaime đi qua đây, ông ta cũng không bắt họ lại hay báo tin cho Robb, mà cứ thể thả Ser Jaime đi - chứng tỏ ông ta đã có thư từ qua lại với lãnh chúa Tywin từ trước, và có lẽ đã bị Tywin lôi kéo ngay sau khi trận chiến Green Fork kết thúc rồi.
+ Tywin biết rõ Bolton không hề trung thành với Stark, và cái giá mà Tywin trả cho sự phản bội của Bolton là gì? Còn gì khác hơn ngoài thành Winterfell và chức danh Người Bảo Hộ Phương Bắc?Sự phản bội của Walder Frey và Roose Bolton là nguyên nhân trực tiếp dẫn tới thất bại của Robb và vụ thảm sát Đám Cưới Đỏ, nhưng dĩ nhiên bên cạnh đó, còn nhiều nguyên nhân nhỏ lẻ khác khiến lực lượng của Robb bất ổn và tan rã dần dần.
+Robb được tôn là Vua Phương Bắc và Vua Sông Trident, nghĩa là trách nhiệm anh phải gánh còn nặng hơn các Vua Phương Bắc khi xưa.
+ Và Robb cũng không đủ cứng rắn hay nghiêm khắc vào những lúc cần thiết, chính xác thì Robb chỉ quanh quẩn chỉ huy hay đưa ra các mệnh lệnh với các lãnh chúa thân tín phương Bắc, còn các lãnh chúa Riverlands thì lại gần như không quan tâm mà để họ làm gì tùy ý.
+ Và nhất là một con người nguy hiểm như Roose Bolton mà Robb lại không đưa ra mệnh lệnh nào, không biết được ông ta đang làm gì và định làm gì, nói ngắn gọn là không thể kiểm soát nổi - đó là một sai lầm chết người, trong khi Roose Bolton nắm giữ quá nhiều quân lực của Robb.
+Với các lãnh chúa phương Bắc, mặc dù Robb giành được lòng tin của họ, nhưng rồi việc Theon phản bội, người của Quần Đảo Sắt đánh phá, cướp bóc phương Bắc mà Robb không hề lui về đánh đuổi giữ yên hậu phương đã khiến lòng tin có phần bị sứt mẻ.
+ Và thậm chí Robb còn đánh mất nhà Karstark khi anh chặt đầu lãnh chúa Rickard - một hành động quá thiếu sáng suốt khi có nhiều lựa chọn hơn là việc chặt đầu một trong những lãnh chúa quyền lực nhất phương Bắc.
+Cho đến cuối cùng, Robb đánh mất phương Bắc, đánh mất Karstark, đánh mất nhà Frey, đánh mất Roose Bolton, cuối cùng là đánh mất cả mạng sống của mình ở Song Thành, trong Đám Cưới Đỏ đẫm máu.
+4.
+ Tổng kếtVậy thì chung quy lại, nên đánh giá về Robb Stark như thế nào? Chúng ta nên gọi anh là thiên tài quân sự, hay nên gọi anh là một chàng trai trẻ dại dột và thiếu tầm nhìn? Hay Robb Stark có cả hai phần - giỏi giang và kém cỏi?Đánh giá công bằng nhất cho Robb Stark, có lẽ là đúng như trên đã nói, trong anh có cả hai phần, giỏi giang và kém cỏi.
+ Anh chiến thắng Ser Jaime Lannister một cách vẻ vang, áp đảo.
+ Anh khiến lãnh chúa Tywin cũng phải đau đầu.
+ Những trận chiến của Robb đều nhanh, mạnh, bất ngờ và gây tổn thất lớn cho quân địch, nhưng chúng dựa nhiều vào yếu tố bất ngờ, còn tính chiến thuật hay bày binh bố trận thì chúng ta chưa được thấy Robb Stark thể hiện rõ lắm.
+ Về mặt chiến thuật thì công nhận là đúng, Robb có tài, anh là một tướng tài trẻ tuổi, không phải ai cũng làm và làm tốt như Robb ở tuổi 15, nhưng về chiến lược cho cả cuộc chiến hay tầm nhìn dài hạn, anh còn quá kém cỏi.
+ So với Tywin Lannister hay Stannis Baratheon, Robb Stark quả thật vẫn chỉ là một cậu bé trẻ tuổi mà thôi.
+ Không phải là anh không giỏi, nhưng giỏi như thế chưa đủ để đối đầu với con sư tử già mưu mô như Tywin Lannister.
+Tóm gọn lại, Robb Stark, anh rất tốt nhưng đời rất tiếc, quá đen cho anh khi phải làm địch thủ của con sư tử già thành Casterly Rock Tywin Lannister.
+ Và sự non nớt của anh đã khiến anh phải trả giá bằng nước mắt và máu, cùng sự sụp đổ (tạm thời) của nhà Stark.
+"Ta thắng từng trận chiến mà ta tham gia, nhưng ta đang thua cả cuộc chiến" - Robb Stark
+
+Tác giả: Hải Stark

@@ -1,0 +1,46 @@
+Big Data thay đổi cách chúng ta tư duy như thế nào.
+ Màu sơn nào có thể cho bạn biết một chiếc xe đã qua sử dụng vẫn còn trong tình trạng tốt? Làm thế nào các công chức ở thành phố New York có thể xác định các hố ga nguy hiểm nhất trước khi chúng phát nổ? Và làm thế nào những cuộc tìm kiếm của Google dự đoán được sự lây lan của dịch cúm H1N1? Chìa khóa để trả lời những câu hỏi này, và nhiều câu hỏi khác, là dữ liệu lớn.
+ “Dữ liệu lớn” đề cập đến khả năng đang phát triển của chúng ta để nắm giữ các bộ sưu tập lớn thông tin, phân tích, và rút ra những kết luận đôi khi sâu sắc đáng ngạc nhiên.
+ NĂM 2009 MỘT VI-RÚT CÚM mới được phát hiện.
+ Kết hợp các yếu tố của các vi-rút gây cúm gà, chủng mới này, được gọi là H1N1, đã lây lan nhanh chóng.
+ Trong vài tuần, các cơ sở y tế khắp thế giới lo sợ một đại dịch khủng khiếp đang xảy ra.
+ Một số nhà bình luận đã cảnh báo về một dịch bệnh có quy mô của dịch cúm Tây Ban Nha vào năm 1918, lây nhiễm cho nửa tỷ người và làm chết hàng chục triệu người.
+ Tồi tệ hơn là không hề có vắc-xin nào để chống lại vi-rút mới này.
+ Hy vọng duy nhất của cơ quan y tế là giảm mức lây lan.
+ Nhưng để làm điều đó, họ cần biết bệnh đã lan tới đâu.
+Ở Mỹ, Trung tâm Kiểm soát và Phòng chống Bệnh dịch (CDC) đã yêu cầu các bác sĩ thông báo về các ca bệnh cúm mới.
+ Nhưng bức tranh thật về đại dịch vẫn luôn bị chậm trễ một hoặc hai tuần.
+ Nhiều người có thể bị bệnh vài ngày rồi mới đi gặp bác sĩ.
+ Việc chuyển tiếp thông tin về các cơ quan trung ương đòi hỏi thời gian, và CDC chỉ xử lý các con số mỗi tuần một lần.
+ Với một bệnh dịch lây lan nhanh, hai tuần chậm trễ cũng giống như dài vô tận.
+ Sự chậm trễ này đã hoàn toàn vô hiệu hóa các cơ quan y tế tại những thời điểm gay cấn nhất.
+Lúc việc đó xảy ra, vài tuần trước khi vi-rút H1N1 xuất hiện rầm rộ trên các phương tiện truyền thông, các kỹ sư của công ty Internet khổng lồ Google đã đăng một bài đáng chú ý trên tạp chí khoa học Nature.
+ Nó đã tạo một chuyện giật gân trong giới chức y tế và các nhà khoa học máy tính, nhưng ngoài ra thì ít được quan tâm.
+ Các tác giả lý giải Google có thể “dự đoán” sự lây lan của bệnh cúm mùa đông ở Mỹ như thế nào, không chỉ ở mức độ toàn quốc, mà còn chi tiết tới mức vùng và thậm chí tới mức tiểu bang.
+ Google có thể đạt được điều này bằng cách xem xét những gì người sử dụng đã tìm kiếm trên Internet.
+ Bởi Google nhận được hơn ba tỷ câu hỏi tìm kiếm mỗi ngày và lưu giữ tất cả chúng, nên nó có vô số dữ liệu để phân tích.
+Google lấy 50 triệu cụm từ được tìm kiếm phổ biến nhất của người Mỹ và so sánh chúng với dữ liệu của CDC về sự lây lan của bệnh cúm mùa giữa các năm 2003 và 2008.
+ Ý tưởng là để xác định các khu vực bị lây nhiễm vi-rút cúm thông qua những gì người ta tìm kiếm trên Internet, và không ai khác có nhiều dữ liệu, năng lực tính toán và hiểu biết về thống kê như Google.
+Dù các chuyên viên của Google phỏng đoán các lệnh tìm kiếm có thể nhằm thu lượm thông tin về cúm - gõ các câu đại loại như “thuốc ho và sốt” - nhưng không phải vậy: họ không biết, và họ đã thiết kế một hệ thống không quan tâm tới điều đó.
+ Tất cả những gì hệ thống của họ làm là phát hiện mối tương quan giữa tần suất của một số câu hỏi tìm kiếm và sự lây lan của bệnh cúm theo thời gian và không gian.
+ Tổng cộng, họ xử lý một lượng đáng kinh ngạc 450 triệu mô hình toán học khác nhau để kiểm tra các điều kiện tìm kiếm, so sánh các dự đoán của họ với các trường hợp bệnh thực tế từ CDC trong năm 2007 và 2008.
+ Và họ đã vớ được vàng: phần mềm của họ tìm thấy một sự kết hợp của 45 điều kiện tìm kiếm mà khi sử dụng cùng với một mô hình toán học, có một mối tương quan mạnh mẽ giữa phỏng đoán của họ và các số liệu chính thức trên toàn quốc.
+ Giống như CDC, họ có thể cho biết cúm đã lây lan tới đâu, nhưng khác với CDC, họ có thể nói điều đó gần như trong thời gian thực, chứ không phải trễ một hoặc hai tuần.
+Do vậy, khi dịch bệnh H1N1 tấn công vào năm 2009, hệ thống của Google đã chứng tỏ là một chỉ báo có ích hơn và nhanh hơn so với các số liệu thống kê của chính phủ thường chậm trễ.
+ Các quan chức y tế đã được trang bị những thông tin có giá trị.
+Điều gây ấn tượng là phương pháp của Google không liên quan gì đến việc phân phối gạc miệng hoặc liên hệ với các phòng khám.
+ Thay vào đó, nó được xây dựng trên “dữ liệu lớn” - khả năng của xã hội khai thác thông tin theo những cách thức mới để đưa ra những kiến thức hữu ích hay những sản phẩm và dịch vụ có giá trị đáng kể.
+ Với nó, khi đại dịch kế tiếp xảy ra, thế giới sẽ có sẵn một công cụ tốt hơn để dự đoán và do đó ngăn chặn sự lây lan.
+Là con người, chúng ta đã được định vị để đi tìm kiếm các nguyên nhân, mặc dù việc tìm kiếm quan hệ nhân quả thường rất khó khăn và có thể dẫn chúng ta lạc đường.
+ Trong một thế giới dữ liệu lớn, ngược lại, chúng ta sẽ không phải gắn chặt vào quan hệ nhân quả; thay vào đó chúng ta có thể khám phá các khuôn mẫu và mối tương quan trong các dữ liệu để thu được những hiểu biết mới lạ và vô giá.
+ Các mối tương quan có thể không cho chúng ta biết chính xác tại sao  một cái gì đó xảy ra, nhưng chúng cảnh báo chúng ta rằng cái đó đang  xảy ra và xảy ra như thế nào.
+Và trong nhiều tình huống thì điều này là đủ tốt.
+ Nếu hàng triệu hồ sơ y tế điện tử cho thấy những bệnh nhân H1N1 hoặc kể cả ung thư nếu dùng một kết hợp nào đó của aspirin và nước cam thì thấy bệnh của họ thuyên giảm, thì nguyên nhân chính xác cho việc cải thiện sức khỏe có thể ít quan trọng hơn so với thực tế là họ sống.
+ Dữ liệu lớn là về cái gì, chứ không về tại sao.
+ Chúng ta không luôn luôn cần biết nguyên nhân của một hiện tượng, thay vào đó, chúng ta có thể để cho dữ liệu tự nói.
+ Khi thế giới chuyển từ quan hệ nhân quả sang tương liên, làm sao chúng ta có thể tiến một cách thực dụng về phía trước mà không làm suy yếu những nền tảng của xã hội, nhân loại, và tiến bộ dựa trên nhân-quả? Nhưng điều này không có nghĩa là chúng ta chỉ nên quan tâm đến cái gì (What) đang xảy ra mà bỏ qua tại sao (Why) điều đó xảy ra.
+ Nó giống như cách để nắm được một lý thuyết lớn và khó nhằn về Vật Lý thì việc nắm chắc lý thuyết bằng cách chỉ ngấu nghiến, nghiền ngẫm nó rồi sau đó với bắt tay vào giải quyết các vấn đề theo các trình tự quen thuộc giống như các lý thuyết đơn giản khác gần như là việc không thể và vô cùng tốn thời gian, thay vào đó ta chỉ cần đọc qua lý thuyết và công thức rồi sau đó bắt tay vào giải quyết các vấn đề hay bài tập sẽ giúp chúng ta nhận ra 2 vấn đề: Công thức này được sử dụng khi nào và công thức này giúp giải quyết vấn đề nào trong một bài tập lớn.
+ Qua đó việc nắm vững lý thuyết sẽ đơn giản hơn nhiều.
+ Big Data: A Revolution That Will Transform How We Live, Work, and Think
+
+Tác giả: Froggen

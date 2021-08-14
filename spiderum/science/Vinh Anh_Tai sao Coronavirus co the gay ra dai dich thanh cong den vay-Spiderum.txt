@@ -1,0 +1,98 @@
+Tại sao Coronavirus có thể gây ra đại dịch thành công đến vậy
+Nguồn ảnh: ISID Bài viết dịch từ Atlantic của tác giả Ed Yong, ngày 20 tháng 3 năm 2020.
+ Bạn đọc có thể tìm đọc bài viết gốc ở đây: https://www.
+theatlantic.
+com/science/archive/2020/03/biography-new-coronavirus/608338/Chúng ta đã biết về đại dịch SARS-CoV-2 chỉ trong vòng ba tháng, nhưng các nhà khoa học có thể đưa ra một số phỏng đoán có cơ sở về nguồn gốc của nó và lý do tại sao nó diễn tiến theo cách quá mức như vậy.
+Một trong số ít những niềm an ủi trong cuộc khủng hoảng này: về bản chất, các coronavirus riêng lẻ dễ dàng bị tiêu diệt.
+ Mỗi cấu trúc chứa một bộ gen nhỏ, được bao bọc bởi một khối cầu phân tử lipid béo và do vỏ lipid dễ bị phá vỡ bởi xà phòng, 20 giây rửa tay kỹ có thể hạ gục nó tức khắc.
+ Lớp vỏ lipid cũng dễ bị tổn thương bởi nhiều tác nhân; một nghiên cứu gần đây cho thấy coronavirus mới, SARS-CoV-2, tồn tại không quá một ngày trên bề mặt cứng (cardboard) và khoảng hai đến ba ngày trên thép và nhựa.
+ Những virus này không thể chịu đựng tồn tại đơn độc trên thế giới này.
+ Chúng cần cơ thể người để tồn tại lâu.
+Nhưng nhiều điều về Coronavirus vẫn chưa rõ ràng.
+ Susan Weiss, thuộc Đại học Pennsylvania, đã nghiên cứu về chủng Coronavirus trong khoảng 40 năm.
+ Cô cho biết trong những ngày đầu, chỉ có một số các nhà khoa học cùng mối quan tâm với mình và con số đó chỉ tăng nhẹ sau khi dịch SARS năm 2002 diễn ra.
+ “Cho đến lúc xảy ra dịch SARS, mọi người xem các nghiên cứu và mối quan tâm của chúng tôi như thể một lĩnh vực lạc hậu,  chẳng đóng góp lớn lao gì đối với sức khỏe con người " Nhưng với sự khởi phát của SARS-CoV-2 -nguyên nhân gây ra đại dịch COVID-19, có lẽ sẽ không ai lặp lại sai lầm đó một lần nữa.
+Cần nói rõ là SARS-CoV-2 không phải bệnh cúm.
+ Nó gây ra căn bệnh với các triệu chứng khác nhau, lây lan và gây tử vong dễ dàng hơn, và thuộc về một họ virus hoàn toàn khác.
+ Họ Coronavirus, chỉ bao gồm sáu thành viên khác lây nhiễm cho con người.
+ Bốn trong số đó là OC43, HKU1, NL63 và 229E, từng là tác nhân gây bệnh cho con người trong hơn một thế kỷ, gây ra một phần ba chứng cảm lạnh thông thường.
+ Hai loại MERS và SARS khác (hay SARS-classic - SARS cổ điển, như cách một số nhà virus học đã bắt đầu dùng để  gọi) đều gây ra căn bệnh nghiêm trọng hơn nhiều.
+ Tại sao chủng Coronavirus thứ bảy này lại dẫn đến đại dịch? Đột nhiên, những gì chúng ta biết về coronavirus trở thành vấn đề quốc tế.
+Cấu trúc của virus cung cấp một số manh mối về sự “thành công” của nó.
+ Về hình dạng, cơ bản nó là một quả cầu gai.
+ Những gai này nhận diện và liên kết với thụ thể protein tên là ACE2, được tìm thấy trên bề mặt tế bào của chúng ta: Đây là bước đầu tiên dẫn đến phản ứng nhiễm trùng.
+ Sự tương thích các gai bên ngoài của chủng SARS-CoV-2 với ACE2 cho phép nó gắn kết chặt chẽ hơn so với SARS cổ điển, và "có lẽ đây là điều cực kỳ quan trọng đối với việc lây nhiễm từ người sang người", theo lời Angela Rasmussen thuộc Đại học Columbia.
+ Nói chung, gắn kết càng chặt chẽ thì càng cần ít số lượng virus hơn để bắt đầu phản ứng nhiễm trùng.
+Cấu trúc của virus Corona.
+ Nguồn ảnh: Kurzgesagt Còn có một đặc tính quan trọng khác.
+ Các gai của virus Corona bao gồm hai nửa gắn liền và các gai được kích hoạt khi hai nửa này tách ra, nhờ đó virus mới có thể xâm nhập vào tế bào chủ.
+ Ở SARS cổ điển, sự tách rời này gặp một số khó khăn.
+ Nhưng trong SARS-CoV-2, cầu liên kết hai nửa có thể dễ dàng bị cắt đứt bởi một loại enzyme gọi là furin, vốn được tạo ra bởi các tế bào cơ thể người, và quan trọng là nó có thể được tìm thấy trên nhiều mô.
+ "Đây có lẽ là điều quan trọng cho một số điểm thực sự khác thường mà chúng ta thấy ở loại virus này" , Kristian Andersen thuộc Scripps Research Translational Institute (Viện Nghiên cứu Giải Mã Scripps) cho biết.
+ Ví dụ, hầu hết các virus đường hô hấp có xu hướng lây nhiễm đường hô hấp trên hoặc đường hô hấp dưới (đường hô hấp trên: từ mũi, họng, thanh quản; đường hô hấp dưới: khí quản, phế quản, phế nang - đơn vị cấu tạo bên trong của phổi).
+ Nhìn chung, nhiễm trùng đường hô hấp trên lây lan dễ dàng hơn, nhưng có xu hướng nhẹ hơn; trong khi nhiễm trùng đường hô hấp dưới khó lây nhiễm hơn, nhưng nghiêm trọng hơn.
+ SARS-CoV-2 dường như lây nhiễm trùng cả đường hô hấp trên và dưới, có lẽ vì nó có thể khai thác protein furin có ở khắp nơi trong cơ thể người.
+  Tình huống khó xử kép này cũng có thể giải thích một cách dễ hình dung được tại sao virus có thể lây lan từ người sang người trước khi các triệu chứng xuất hiện - một đặc điểm khiến nó rất khó kiểm soát.
+ Có lẽ nó lây truyền khi vẫn bị giới hạn ở đường hô hấp trên, trước khi tiến sâu hơn và gây ra các triệu chứng nghiêm trọng.
+ Tất cả những điều này có thể hợp lý nhưng hoàn toàn là giả thuyết, virus chỉ mới được phát hiện vào tháng 1 và hầu hết bản chất sinh học của nó vẫn còn là một bí ẩn.
+Mặc dù có nguồn gốc từ động vật, chủng virus mới dường như lại hiệu quả trong việc lây nhiễm cho con người.
+ Họ hàng hoang dã gần nhất của SARS-CoV-2 (SARS cổ điển) được tìm thấy ở loài dơi, cho thấy nó có nguồn gốc từ một con dơi, sau đó lây truyền trực tiếp sang người hoặc thông qua trung gian một loài khác.
+ (Một loại coronavirus khác được tìm thấy trong tê tê hoang dã cũng tương tự SARS-CoV-2, nhưng chỉ một phần nhỏ các gai có thể nhận ra ACE2; hai loại virus này không giống nhau và tê tê không có khả năng là ổ chứa virut mới.
+) Khi SARS cổ điển lần đầu thực hiện bước nhảy vọt này, một khoảng thời gian ngắn để đột biến là cần thiết giúp nó nhận ra ACE2.
+ Nhưng SARS-CoV-2 có thể làm điều đó ngay từ ngày đầu.
+ "Nó đã tìm thấy cách tốt nhất để trở thành một loại virus [ở người]", Matthew Frieman thuộc Đại học Y Khoa Maryland cho biết.
+Sự phù hợp đến mức lạ lùng này  chắc chắn sẽ khuyến khích những người tin vào thuyết âm mưu: khả năng nào mà virus từ một con dơi ngẫu nhiên lại có sự kết hợp chính xác các đặc điểm để lây nhiễm một cách hiệu quả các tế bào của con người ngay từ đầu, và sau đó nhảy sang một người không ngờ tới? "Rất thấp", Andersen nói, "nhưng có hàng triệu hoặc hàng tỷ loại virus ngoài kia.
+ Những loại virus này phổ biến đến mức những điều thực sự khó xảy ra lại diễn ra.
+"Từ lúc bắt đầu đại dịch, virus chưa có bất kỳ thay đổi quan trọng rõ ràng nào.
+ Nó đột biến theo con đường giống như mọi virus khác.
+ Nhưng trong số hơn 100 đột biến đã được ghi nhận, không có đột biến nào chiếm ưu thế, điều này cho thấy không có đột biến nào đặc biệt quan trọng.
+ "Virus đã ổn định (stable) một cách đáng kể dựa trên mức độ lây truyền mà chúng ta thấy", Lisa Gralinski thuộc Đại học Bắc Carolina cho biết.
+ "Điều đó hợp lý, bởi vì không có áp lực tiến hóa nào đối với virus để lây lan tốt hơn.
+ Hiện nó đang làm rất tốt trong việc lan rộng ra khắp thế giới.
+"Có thể có một ngoại lệ.
+ Một vài virus SARS-CoV-2 được phân lập từ các bệnh nhân COVID-19 ở Singapore bị thiếu một đoạn gen vốn cũng đã biến mất khỏi SARS cổ điển trong giai đoạn cuối của dịch.
+ Sự thay đổi này được cho là làm cho virus ban đầu ít độc lực hơn, nhưng hiểu biết này còn quá sớm để biết liệu điều tương tự có áp dụng cho virus mới hay không.
+ Thật vậy, không rõ tại sao một số coronavirus gây tử vong còn một số khác thì lại không.
+ "Thực sự không thể hiểu rõlý do tại sao SARS hoặc SARS-CoV-2 lại tệ đến vậy; nhưng OC43 chỉ khiến chúng ta bị sổ mũi", Frieman nói.
+Tuy nhiên, các nhà nghiên cứu có thể đưa ra mô tả sơ bộ về những gì coronavirus mới gây ra cho những người bị lây nhiễm.
+ Một khi ở trong cơ thể, coronavirus có khả năng tấn công các tế bào chứa thụ thể ACE2 phân bố dọc đường thở.
+ Các tế bào chết rơi rụng dần, lấp đầy đường thở và mang virus vào sâu trong cơ thể, xuống đến phổi.
+ Khi phản ứng nhiễm trùng tiến triển, phổi bị tắc nghẽn với các tế bào chết và dịch lỏng, khiến việc thở trở nên khó khăn hơn.
+ (Virus cũng có thể lây nhiễm các tế bào mang ACE2 ở các cơ quan khác, bao gồm cả ruột và mạch máu.
+)Hệ miễn dịch đánh trả lại và tấn công virus, đây là nguyên nhân gây viêm và sốt.
+ Nhưng trong những trường hợp diễn tiến nguy hiểm, hệ thống miễn dịch trở nên mất kiểm soát, gây ra nhiều thiệt hại hơn so với virus thực sự gây ra.
+ Ví dụ, các mạch máu có thể giãn ra (open up) cho phép các tế bào phòng thủ đi đến vị trí nhiễm trùng; điều đó thật tuyệt vời, nhưng nếu các mạch máu rò rỉ quá mức, phổi sẽ càng bị lấp đầy hơn bởi chất lỏng.
+ Những phản ứng quá khích này được gọi là bão cytokine.
+ Chúng chịu trách nhiệm lịch sử cho nhiều trường hợp tử vong trong đại dịch cúm năm 1918, dịch cúm gia cầm H5N1 và dịch SARS năm 2003.
+ Và chúng có thể đứng sau các trường hợp nghiêm trọng nhất của COVID-19.
+ "Những con virus này cần thời gian để thích nghi với vật chủ con người”, theo lời Akiko Iwasaki thuộc Trường Đại học Y khoa Yale.
+ "Khi chúng lần đầu thử thách chúng ta, chúng không biết mình đang làm gì và có xu hướng gợi ra những phản ứng này.
+"Trong bão cytokine, hệ thống miễn dịch không chỉ vượt quá tầm kiểm soát mà còn thường phá luật chơi của nó, tấn công tùy ý mà không đánh đúng mục tiêu.
+ Khi điều này xảy ra, con người trở nên nhạy cảm với vi khuẩn truyền nhiễm hơn.
+ Các cơn bão cũng có thể ảnh hưởng đến các cơ quan khác ngoài phổi, đặc biệt là nếu những người đã mắc các bệnh mãn tính.
+ Điều này có thể giải thích tại sao một số bệnh nhân COVID-19 sau đó gặp phải các biến chứng như các vấn đề về tim và nhiễm trùng thứ cấp.
+Nhưng tại sao một số người mắc COVID-19 lại bị bệnh nặng, trong khi những người khác hồi phục với các triệu chứng nhẹ hoặc không có triệu chứng? Tuổi tác là một yếu tố.
+ Người cao tuổi có nguy cơ bị nhiễm trùng nghiêm trọng hơn, có thể là do hệ thống miễn dịch không thể tổ chức phòng vệ ban đầu một cách hiệu quả, trong khi trẻ em ít bị ảnh hưởng hơn vì hệ thống miễn dịch ít có khả năng tiến triển tới bão cytokine.
+ Nhưng các yếu tố khác - hệ gen của một người, sự khó đoán trong hệ thống miễn dịch, tải lượng virus mà họ đã tiếp xúc, các vi khuẩn khác ngụ trú trong cơ thể cũng có thể đóng một vai trò nào đó.
+ Nói chung,"tại sao một số người mắc bệnh nhẹ, ngay cả trong cùng một nhóm tuổi là một điều bí ẩn”, Iwasaki nói.
+Coronavirus, giống như cúm, có xu hướng là virus mùa đông.
+ Ở không khí lạnh và khô, các lớp chất lipid mỏng  phủ bên ngoài phổi và đường thở của chúng ta trở nên mỏng hơn, và những lông chuyển (beating hair) còn sót lại trong các lớp đó vật lộn để đánh đuổi virus và các hạt lạ khác.
+ Không khí khô dường như cũng làm yếu đi một số khía cạnh của phản ứng miễn dịch đối với những virus bị mắc kẹt này.
+ Trong cái nóng và độ ẩm của mùa hè, cả hai xu hướng đều đảo ngược và virus đường hô hấp phải vật lộn để sống sót.
+ Thật không may, điều đó có thể không phải là vấn đề đối với đại dịch COVID-19.
+ Hiện tại, virus đang xé toạc một thế giới của những người có ngây thơ về mặt miễn dịch (immunologically naive - hệ miễn dịch chưa bao giờ tiếp xúc với kháng nguyên đặc trưng nào) và lỗ hổng đó có thể gây nên bất kỳ biến thể theo mùa nào gây bệnh theo diện rộng (do cơ thể không sản sinh kháng thể.
+ Đến hiện tại, virus mới này đang lây lan dễ dàng ở các quốc gia như Singapore (vùng nhiệt đới) và Úc (vẫn còn đang trong mùa hè).
+ Và một nghiên cứu mô hình gần đây đã kết luận rằng, SARS-CoV-2 có thể sinh trưởng bất cứ lúc nào trong năm.
+ "Tôi không có sự tự tin đủ lớn để nghĩ rằng, thời tiết sẽ gây ra tác động như mọi người hy vọng", Gralinski nói.
+ "Nó có thể đánh bại mọi thứ một ít, nhưng có rất nhiều sự lây truyền từ người sang người đang diễn ra đến nỗi sẽ cần nhiều thứ hơn cả thời tiết .
+" Trừ khi mọi người có thể làm chậm sự lây lan của virus bằng cách tuân thủ các khuyến nghị về giữ khoảng cách người với người, chỉ mình thời tiết mùa hè không thể cứu nổi chúng ta.
+"Phần đáng sợ là chúng ta không thể biết được có bao nhiêu người nhiễm coronavirus bình thường mỗi năm", theo Frieman.
+ "Chúng ta không có mạng lưới giám sát đối với các loại coronavirus như đã làm với cúm.
+ Chúng ta không biết tại sao chúng đi xa vào mùa đông, hay chúng đã đi đâu.
+ Chúng ta không biết những virus này đột biến qua từng năm như thế nào".
+ Cho đến bây giờ, nghiên cứu về dịch bệnh bị trì trệ.
+ Trớ trêu thay, hội nghị ba năm một lần mà tại đó các chuyên gia về coronavirus trên thế giới gặp ở một ngôi làng nhỏ thuộc Hà Lan vào tháng 5 đã bị hoãn lại vì đại dịch coronavirus.
+"Nếu chúng ta không nhận ra từ đại dịch này một điều rằng, chúng ta cần hiểu về những virus này nhiều hơn, thì chúng ta sẽ rất, rất kém cỏi trước  COVID-19", Frieman nói.
+Dịch, sưu tầm ảnh và chú thích: Ann
+
+Tác giả: Vĩnh Anh

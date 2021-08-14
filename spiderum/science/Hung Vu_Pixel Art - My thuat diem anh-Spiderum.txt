@@ -1,0 +1,135 @@
+Pixel Art - Mỹ thuật điểm ảnh
+Farmland - by Telemachus Stavropoulos (2012)Nếu nói về một cái nghề mà ở đó tôi tự nhận diện chính mình, thì tôi không hẳn sẽ gọi mình là một họa sĩ, mặc dù đã từng có một khoảng thời gian nó là cần câu cơm chính thức và duy nhất của tôi.
+ Chuyên ngành của tôi nằm ở chỗ khác, và cái tôi quan tâm hơn cả cũng nằm ở chỗ khác.
+ Nói vậy để biết rằng tôi chưa và sẽ không bao giờ trở thành một họa sĩ hay một nghệ nhân với tay nghề và năm kinh nghiệm dày dạn.
+ Tuy vậy thì khả năng cao là để giới thiệu về môn mỹ thuật này ở đây, nếu không phải tôi, thì chắc cũng chẳng còn ai.
+ Qua bài viết này, hy vọng mọi người sẽ hiểu biết hơn một chút về môn mỹ thuật điển hình của kỹ thuật số này.
+Pixel Art là gì?Để biết Pixel Art là gì, chúng ta cần hiểu và đi đến khái niệm của nó thông qua hai thứ: Pixel và Art.
+Diamond Grid Face - bởi Calvin 'Calv' (2011)Ví dụ này cho thấy một hình ảnh với một phần trong đó được zoom lên rất nhiều lần, qua đó cho các hạt pixel được hiện raPixelPixel - viết tắt và kết hợp bởi cụm từ Picture Element - gọi là một điểm ảnh.
+ Pixel là đơn vị vật lý nhỏ nhất để hiển thị màu trên một màn hình, nhằm xây dựng nên một hình ảnh kỹ thuật số.
+ Một đơn vị pixel trên màn hình sẽ được máy tính gán cho một màu (mang 4 giá trị Red, Green Blue và Gray), và hình ảnh chỉ có thể được dựng lên nhờ sự kết hợp của rất nhiều các đơn vị pixel trên màn hình lại với nhau.
+ Nếu bạn cảm thấy những cụm số như 800 x 600, 1024 x 768 hay 1920 x 1200 nghe có vẻ quen thuộc, thì đó chính là độ phân giải của màn hình, hay nói cách khác là số lượng pixel tính theo chiều dài và chiều rộng của màn hình đó.
+Với tiêu chuẩn phổ biến hiện nay, mỗi đơn vị pixel vật lý sẽ có hình vuông trên màn hình.
+ Tuy nhiên, trên một số màn hình của các hệ máy đời cũ hơn, ví dụ như Atari 2600 hay Commodore 64, một đơn vị pixel lại mang hình chữ nhật có chiều ngang dài hơn chiều dọc (hay còn gọi là fat pixel).
+Một ví dụ của fat pixel trên máy Commodore 64 (A Distant Sound - Ilija 'iLKke' Melentijevic - 2016)ArtTấm mosaic tại Pompeii có tên 'Cave Canem' (Beware the dog,) thế kỷ thứ I sau CNTrên lý thuyết, pixel art chỉ được công nhận rộng rãi trong thời đại kỹ thuật số.
+ Tuy nhiên phương thức làm mỹ thuật cơ sở của pixel art thì đã được thực hiện từ những thế kỷ Trước Công Nguyên.
+ Những bức tranh của thời đại này được gọi là các tấm mosaic, với tấm đầu tiên được tìm thấy tại Mesopotamia, và càng ngày càng được phổ biến và thịnh hành với người Hy Lạp cổ đại từ thế kỷ thứ IV TCN.
+Tranh thảm thêu lần đầu xuất hiện tại thế kỷ thứ III TCN, và là sản phẩm của Hy Lạp thời đại Hellenistic.
+ Như hình dưới là một phần trong tấm tranh thảm thêu cũ nhất hiện còn của châu Âu - tấm Överhogdal - ra đời vào khoảng giữa năm 800SCN và 1100SCN, trong thời kỳ Viking.
+Một phần tấm tranh thêu Överhogdal -  ra đời vào khoảng giữa năm 800SCN và 1100SCNThời điểm xuất hiện kỹ thuật thêu chữ thập đầu tiên là thế kỷ thứ II TCN.
+Mẫu tranh thêu chữ thập Nazca, Peru.
+ Thuộc BST Bảo tàng Nghệ thuật Metropolitan, New YorkTừ thế kỷ thứ XV SCN, các đai lưng Wampum được ra đời tại các bộ tộc miền rừng phía đông của Bắc Mỹ.
+ Các bức tranh được làm từ các chuỗi vỏ ốc được dùng làm quà tặng hoặc để biểu thị quyền lực, sau đó được người châu Âu sử dụng như một dạng tiền tệ.
+Đai lưng Wampum tái chế tại Kho dự trữ Sáu nước (Six Nations Reserve) gần Brantford, OntarioKhoảng những năm 1875, đồ nội thất tại nước Mỹ sử dụng kỹ thuật trang trí rất gần với pixel art hiện đại.
+Hoa văn khảm gỗ nhuộm trên tủ nhạc nội thất Mỹ thuộc circa 1875, nay thuộc BST của Học viện Nghệ thuật DetroitKhoảng những năm 1886, với sự xuất hiện của trường phái Tân Ấn tượng (Neo-Impressionism) được khởi đầu bởi  Georges Seurat, các kỹ thuật như  Pointilist hay Divisionist được ra đời.
+ Trong kỹ thuật Pointilist, được xây dựng bởi Georges Seurat và Paul Signac, bức tranh được dựng nên bởi những chấm màu nối liền nhau trên vải bố.
+ Với pixel art thì gần như chỉ là sự thay thế các chấm với các ô vuông trên màn hình.
+‘La Tour Eiffel’ bởi Georges SeuratNăm 1910, một bức tranh được làm nên bởi một lượng lớn các sinh viên trường đại học UC Berkeley trong một trận bóng bầu dục trước Trường ĐH Stanford, với mỗi sinh viên cầm trên tay một tấm bảng màu.
+ Năm 1922, cũng với kỹ thuật này, các sinh viên của trường ĐH California, Santa Cruz đã làm nên một bức tranh có chuyển động bằng cách sử dụng cả hai mặt của tấm bảng màu.
+Năm 1929, từ chuyên ngành pixel ra đời trong những cuốn sách của H.
+ Horton Sheldon và Edgar Norman Grisewood, đồng thời được sử dụng trong nghiên cứu bởi nhà nghiên cứu Alfred N.
+ Goldsmith.
+Năm 1962, bảng pegboard, một loại đồ chơi trẻ em sử dụng các miếng nhựa màu nhỏ để xếp thành các bức tranh được đăng ký bằng sáng chế, và loại đồ chơi này vẫn còn được thịnh hành cho tới ngày nay.
+PegboardPixel ArtPixel art được sinh ra từ giới hạn bộ nhớ máy tính tại thời điểm đó.
+ Ví dụ như hệ máy 8-bit NES (hay chúng ta vẫn gọi là điện tử 4 nút) đặt ra rất nhiều giới hạn: họa sĩ chỉ có thể lựa chọn màu trên một bảng 54 màu.
+ Và trên cùng một màn hình, chỉ có thể hiển thị được 25 màu cùng một lúc (một màu background, 4 thanh 3 màu cho môi trường, và 4 thanh 3 màu cho các sprite).
+ Kích cỡ mặc định của các sprite chỉ có 8x8 pixel hoặc 8x16 pixel, và độ phân giải của màn hình chỉ có 256x240 pixel.
+Mặc dù với sự phát triển liên tục của công nghệ, máy tính giờ đây đã có thể xử lý tới hàng triệu màu cùng một lúc, thì pixel art vẫn tồn tại khá mạnh mẽ như một môn mỹ thuật tách biệt.
+ Nó là loại mỹ thuật ‘sắc bén’ và ‘giòn’ nhất mà bạn có thể nhìn thấy được trên màn hình máy tính.
+ Bởi bản chất sử dụng màu rất tiết kiệm của nó, mà pixel art vẫn được tin dùng để tối ưu hóa đồ họa cho các máy chơi game cầm tay, giúp làm animation số lượng lớn dễ dàng hơn, đồng thời cũng được sử dụng để làm các biểu tượng GUI dễ đọc hơn trong các chương trình và trang web hiện đại.
+Giống như ngôn ngữ lập trình bậc thấp Assembly, công sức người họa sĩ pixel art phải bỏ ra cũng tỷ lệ thuận với độ phân giải của màn hình và kích cỡ của bức tranh.
+ Tuy nhiên đổi lại, người họa sĩ pixel art cũng nắm giữ quyền điều khiển bức tranh trên cấp độ pixel, sâu hơn các loại hình digital art khác.
+ Ngoài ra, mặc dù bản thân nó không phải là một loại hình art ‘dễ làm’, nhưng nó vẫn được khá nhiều người mới ưa chuộng bởi tính dễ tiếp cận (accessibility) của nó: bạn chỉ cần một chương trình chỉnh sửa ảnh đơn giản như MS Paint, và làm pixel art cũng gần giống như việc bạn chơi với các mảnh Lego vậy.
+Cũng bởi những giới hạn hiện hữu của pixel art hay ít nhất cho đến nay là sự vất vả để làm ra được một bức tranh pixel chất lượng, nên quá trình làm pixel art qua đó cũng gần như trở thành một quá trình giải quyết vấn đề (problem solving) cho người họa sĩ.
+ Người họa sĩ giỏi là người nhìn vào màn hình giống như một họa sĩ mosaic, còn người họa sĩ không giỏi cho lắm sẽ nhìn vào màn hình giống như một phiến đá và trên tay họ chỉ có một con dao làm bếp để khắc hình.
+Ví dụ, trong Mighty Final Fight (hình bên trái), mắt của nhân vật Guy được vẽ với mục đích cụ thể là tạo ra ảo giác.
+ Bằng cách gộp các nhóm pixel (đen, trắng, vàng cam) lại với nhau một cách có tính toán, đồng thời quan sát mối liên hệ của chúng, các hình dạng, các khối phức tạp hơn được ngụ ý, thay vì được hiện ra cụ thể , bởi không gian không cho phép.
+ Việc sử dụng màu da (màu vàng cam) bên dưới lông mi và con ngươi thậm chí cũng ngụ ý những màu khác.
+Các pixel trong Mighty Final Fight có chứa thông tin thực sự.
+ Bằng chứng là nếu bạn vẽ ngoại suy lên độ phân giải cao hơn dựa trên những thông tin được bao gồm trong bản gốc, bạn sẽ thấy là chúng ta vẫn thu về được một lượng lớn chi tiết.
+ Ngược lại, cũng với đúng số lượng pixel như thế, nhưng với bên Rambo thì lượng chi tiết chúng ta nhận được khi ngoại suy gần như là không có.
+Một ví dụ của kỹ thuật DitheringMột ví dụ khác.
+ Vào khoảng đầu những năm 80, máy tính của IBM chỉ có thể hiện tổng cộng 4 màu trên một bức tranh (đen, trắng, xanh cyan và tím magenta).
+ Như đã nhắc ở trên, vì mỗi pixel chỉ có thể hiện được đúng một màu tại mỗi thời điểm, nên việc pha màu là không thể.
+ Vì thế, các họa sĩ pixel đã nghĩ ra phương án đó là checkerboard.
+ Giống như trên bàn cờ có các ô đen và trắng xếp so le nhau, ở đây người ta cũng “pha” màu bằng cách đặt so le các pixel của 2 màu khác nhau lại, và nếu mắt người nhìn lướt qua thì sẽ cảm thấy hai màu đó gần như đã pha vào với nhau.
+ Đây cũng là một kỹ thuật ảo giác khác của pixel art, mà người ta vẫn gọi là dithering.
+ Tuy rằng kỹ thuật này được sinh ra với tư cách là một phương pháp giải quyết tạm thời cho vấn đề giới hạn lượng màu và pha màu, và ngày nay với công nghệ hiện đại, máy tính đã có thể xử lý được thêm một thông số màu sắc nữa là độ trong suốt (transparency), thì vẫn có những họa sĩ pixel tiếp tục sử dụng kỹ thuật dithering này và đưa nó trở thành một kỹ thuật mỹ thuật, thay vì một kỹ thuật thuần túy.
+Chip & Dale 3 Mockup - by Simon S.
+ Anderssen (2014)Hình dung & Phân biệtNghe qua cái tên pixel art, người nào không biết rất có thể sẽ cho rằng tất cả những thứ gì có chứa pixel đều được coi là pixel art.
+ Tuy vậy, không phải bức tranh hay ảnh nào hiển thị trên màn hình máy tính cũng là pixel art.
+ Bức ảnh dưới đây được hình thành bởi pixel, nhưng không phải pixel art.
+Rồi.
+ Ảnh không được tính là pixel art.
+ Vậy nếu tôi làm art trên máy tính, thì liệu đó đã là pixel art chưa?Vẫn chưa.
+ Pixel art là một phân loại phụ rất cụ thể của digital art.
+ Pixel art không được xác định bởi cái vật chất hay nội dung hình thành nên nó, mà pixel art được xác định bởi cách nó được hình thành.
+Ví dụ, bức digital painting này được làm trên máy tính, và nó cũng được cấu thành bởi pixel, nhưng nó không phải là pixel art.
+Nếu một bức tranh pixel art đánh mất đi giá trị quan trọng của những pixel cấu thành nó, thì tôi không nghĩ đó là pixel art.
+ Chỉ khi từng hạt pixel đơn lẻ đều nắm giữ một vai trò quan trọng đối với bản chất của tác phẩm, pixel art mới được định nghĩa đúng.
+Không phải loại hình Digital Art nào cũng là Pixel ArtPixel Art được tách biệt với các loại hình digital art khác bởi sự nhấn mạnh của nó lên quyền điều khiển (control) và độ chuẩn xác (precision).
+ Người họa sĩ pixel phải nắm giữ quyền điều khiển bức tranh tới tận cấp độ pixel, và tất cả pixel phải được đặt xuống một cách có chủ đích.
+Khi pixel art được thực hiện một cách có chủ đích, việc thay đổi một vài pixel sẽ gây hiệu ứng đáng kể lên bức tranh.
+Đặc điểm của con vẹt thay đổi đáng kể, mặc dù chỉ khác có một vài pixelCác loại hình digital art khác sử dụng rất nhiều các công cụ mà pixel art không cho phép.
+ Lý do các hoạ sĩ pixel không sử dụng các công cụ này là bởi chúng đặt các pixel xuống theo một cách mà người hoạ sĩ không thể xác định được trước.
+ Các công cụ tự động này có thể làm mờ, bôi, hay pha lẫn các pixel vào với nhau.
+ Bất kỳ công cụ nào mà đặt các pixel xuống một cách tự động (có nghĩa là máy tính sẽ quyết định xem các pixel nên được đặt ở đâu và ra sao chứ không phải là người hoạ sĩ) thường không được tin dùng (tuy nhiên mệnh đề này gần đây đã bị thách thức bởi một số hoạ sĩ; tôi sẽ nhắc đến chuyện này trong một số bài sau).
+ Hãy nhớ rằng, pixel art có nghĩa là bạn phải nắm được quyền điều khiển toàn bộ bức tranh.
+Một công cụ tự động đã làm mờ  các cạnh của khối màu xám nàyBạn sẽ thường nghe thấy người ta kêu ca rằng “bức này nhiều màu quá, không phải pixel art!” Việc này không phải bởi vì có một loại luật bất thành văn nào đó trong pixel art bắt buộc người ta phải sử dụng X số màu thì mới được coi là pixel art.
+ Bạn hoàn toàn có thể sử dụng bao nhiêu màu tuỳ thích.
+ Lý do chính mà người ta kêu ca về số lượng màu là bởi một lượng màu lớn thường có nghĩa rằng người hoạ sĩ đã sử dụng các công cụ ‘bẩn’ (bẩn theo nghĩa làm mất đi sự tinh khiết của pixel chứ không phải theo nghĩa xúc phạm.
+) Các công cụ ‘bẩn’ tự động tạo ra rất nhiều các màu mới để đạt được các hiệu ứng làm mờ, pha màu hay trong suốt.
+ Người ta cũng nhắc đến số lượng màu bởi một bảng màu (palette) lớn cũng tỷ lệ thuận với độ khó khi điều khiển bức tranh.
+ Chúng ta sẽ bàn về vấn đề này sau.
+Công cụ cũng không xác định Pixel ArtVậy nếu tôi không sử dụng bất kỳ bộ lọc hay công cụ làm mờ nào, thì đó là pixel art, phải không? Bất cứ thứ gì tôi vẽ ra trong MS Paint cũng là pixel art? Không hề.
+ Công cụ cũng không phải thứ xác định nên pixel art, mà phải là cái cách bức tranh được tạo ra.
+Ví dụ, bức tranh dưới đây được làm trong MS Paint, và không sử dụng bất kỳ một công cụ hiện đại nào cả.
+Nhưng đây lại không phải là pixel art.
+ Đây là cái mà người ta gọi là oekaki.
+ Nếu bạn làm pixel art mà lại không phải zoom vào sâu trong bức tranh, thì khả năng cao đó không phải là pixel art.
+ Nếu hầu như bạn chỉ sử dụng các công cụ line và bucket để đổ màu, thì có nghĩa là bạn không đặt quá nhiều sự tập trung vào giá trị của từng pixel riêng lẻ, mà bạn chỉ quan tâm đến những đường nét và những hình thể mà các pixel tạo thành.
+ Tương tự với những bức phác hoạ sơ sài sử dụng các công cụ pencil hay brush.
+ Các phương thức vẽ này hầu như bỏ qua tầm quan trọng của việc sắp đặt các pixel riêng lẻ một cách cẩn thận và có chủ đích.
+Tất nhiên, mặc dù đa phần những sự hiểu lầm về pixel art thường đến từ việc định nghĩa pixel art một cách quá quá lỏng lẻo, thì cũng có một số người định nghĩa pixel art một cách chặt chẽ đến cực đoan, dẫn đến làm giới hạn tính sáng tạo của các hoạ sĩ trẻ.
+Bạn không nhất thiết phải tự đặt thủ công từng pixel mộtViệc của người hoạ sĩ pixel không phải là đặt thủ công từng pixel một trong một bức tranh có đến hàng trăm nghìn pixel.
+ Không ai đòi hỏi bạn phải click từng pixel một trên một khu vực lớn như một con robot.
+ Công cụ bucket không sao.
+ Công cụ line cũng không vấn đề.
+ Điều quan trọng ở đây là người hoạ sĩ phải nắm giữ được quyền điều khiển bức tranh ở cấp độ pixel mọi lúc mọi nơi, chứ không phải là bạn phải click từng pixel một.
+Pacific Grove, CA - by Tony 'slym' Redmer (2014)Tương lai nào cho Pixel Art?Pixel Art là một môn mỹ thuật đã có một chút tuổi đời, bởi đa phần các thành viên trong cộng đồng pixel art đều là những hoạ sĩ đã ngoài 30.
+ Cũng vì thế mà cộng đồng pixel art nhìn chung khá trưởng thành, do đó ít có những vụ lùm xùm như các cộng đồng hoạ sĩ digital trẻ hơn.
+ Tuy vậy, năm 2015 có một vụ khá ‘chấn động' đã xảy ra, nguyên do là bởi nó đã chạm tới câu hỏi triệu đô rất khó trả lời đó là ‘tương lai nào cho pixel art?’, và đã gây ra nhiều những sự phản hồi cả tích cực lẫn tiêu cực khác nhau.
+Tham vọng HD (High Definition) đối với người hoạ sĩ đồ hoạ vốn đã tồn tại từ rất lâu—Pixel art được ra đời không phải với tư cách một lựa chọn mang tính phong cách (stylistic choice), mà nó được ra đời như một công cụ cho các hoạ sĩ tại thời điểm đó có thể đạt được các hiệu ứng thị giác hoành tráng nhất có thể, với hiệu suất phần cứng rất bị giới hạn.
+ Nói một cách khác, các hoạ sĩ những năm 80-90 hay kể cả đầu 2000 lựa chọn pixel art không phải vì họ thích nó, mà là bởi nó là lựa chọn duy nhất mà họ có để có thể làm đồ hoạ ấn tượng nhất mà không phải đánh đổi giá trị nào khác.
+“Đẹp đấy, nhưng nhìn hơi kiểu bị pixelated .
+.
+.
+”—đa phần người dùng phản hồi lại phong cách mỹ thuật này đều sử dụng từ ‘pixelated' theo một nghĩa mang tính hơi ‘xúc phạm.
+’ Điều này là bởi người dùng đa phần không biết và không quan tâm phong cách mỹ thuật của bạn là gì.
+ Miễn là nó trông có vẻ chưa ‘hoàn chỉnh', vẫn có những chỗ gai góc và răng cưa thô ráp, thì có nghĩa đó là xấu.
+ Và đây không phải là lỗi của họ, mà là lỗi của người hoạ sĩ.
+ Lỗi của người hoạ sĩ là đã thất bại trong việc truyền tải thứ ngôn ngữ đồ hoạ mà họ muốn truyền tải tới cho người dùng, khiến cho họ cảm thấy khó hiểu, qua đó không thể thực sự trân trọng được giá trị trong cái lựa chọn phong cách mỹ thuật của bạn.
+Nếu như việc các hoạ sĩ ngày trước sử dụng pixel art như một cách để đón nhận lấy phương tiện truyền tải nghệ thuật (medium), thì bằng việc sử dụng pixel art trên một màn hình điện thoại retina, người hoạ sĩ đã không thực sự chấp nhận cái bản chất tự nhiên của phương tiện truyền tải nghệ thuật mới này.
+ Bởi đối với pixel art, ưu tiên hàng đầu vẫn luôn là giữ nguyên được độ sắc nét và ‘giòn' thuần khiết của các pixel.
+ Vì mobile có rất nhiều các loại màn hình với kích cỡ và hình dáng khác nhau, nên khả năng rất cao là pixel art sẽ bị co lại hoặc kéo giãn, qua đó làm mất đi vẻ đẹp đặc trưng của nó.
+Chase - by Yes-I-Do (2017)Lẽ dĩ nhiên, quyết định này của Blake và Dinofarm đã nhận được rất nhiều phản ứng không hoàn toàn tích cực từ phía cộng đồng pixel art.
+ Dưới đây là một số quan điểm phản biện mà theo tôi là những lời hồi đáp có trọng lượng và hợp lý nhất:Vì lý do gì mà các hoạ sĩ ngày nay vẫn sử dụng canvas và sơn dầu? Sơn dầu rất khó sử dụng và rất khó để thành thạo, và một khi đã lên canvas là bạn bắt buộc phải xác định hoặc là sống với nó, hoặc là bỏ đi làm lại cả bức tranh.
+ Bạn có thể đạt được độ chi tiết cao hơn rất nhiều nếu bạn vẽ trên máy tính với Photoshop, và bạn cũng có thể tiết kiệm được rất nhiều thời gian với tổ hợp phím Ctrl + Z để Undo! Ấy thế nhưng con người ta vẫn lựa chọn học vẽ sơn dầu như một môn mỹ thuật thực thụ và nghiêm túc.
+ Cũng giống như vậy, pixel art vẫn tiếp tục tồn tại và phát triển cho đến ngày nay với tư cách một môn mỹ thuật, nghệ thuật của riêng nó.
+ Bởi mặc dù những giới hạn về kỹ thuật mà ngày trước đã giúp cho pixel art lên ngôi nay đã hoàn toàn bị xoá bỏ, bản thân pixel art vẫn giúp cho người hoạ sĩ truyền tải những trải nhiệm thị giác, những cảm xúc mỹ thuật rất đặc biệt của riêng nó.
+ Pixel art là một lựa chọn, dành cho những hoạ sĩ đã thích hoặc quen với một loại mỹ thuật cụ thể, một workflow cụ thể, và một mối liên hệ cụ thể với công việc mà họ vẫn thường làm.
+ Kể cả trong animation hiện đại, vẫn có những sản phẩm được tạo ra từ tranh vẽ tay trên giấy như phim của Studio Ghibli, hay bằng công nghệ stop-motion đã khá cũ như trong Kubo & The Two Strings.
+ Bởi, đến cuối ngày, liệu một hoạ sĩ sơn dầu có từ bỏ cây cọ, hay liệu một nhà điêu khắc sẽ từ bỏ nghề của mình, chỉ đơn giản vì Photoshop hay ZBrush tồn tại hay không? Tôi không tin là thế.
+Auro by Dinofarm GamesNếu như vấn đề được nêu ra của Blake và Dinofarm ở đây là vấn đề về việc đón nhận của công chúng hay nói trắng ra là sales và lợi nhuận, thì câu chuyện lại khác, và chúng ta cần phải có một sự phân tích và mổ xẻ nhiều phương diện.
+ Sẽ là không công bằng nếu đổ tại sự thất bại về mặt tài chính của một sản phẩm game cho loại hình đồ hoạ của nó.
+Pixel art và Mobile gần như không thể hợp tác nếu bạn muốn giữ chất lượng và tính thuần khiết của một trong hai thứ đó.
+ Có nghĩa rằng bây giờ vấn đề nằm ở việc anh ưu tiên điều gì, và sẵn sàng hy sinh điều gì.
+ Đây là câu chuyện của hai thứ không hợp nhau, chứ không phải là ai hiện đại và ai cổ lỗ sĩ hơn ai.
+Bạn có thể đọc thêm những phản hồi khác nữa mà đi sâu hơn vào các chi tiết kỹ thuật (mà tôi không tiện nêu ra tại đây vì mục đích của bài viết) tại các link tham khảo bên dưới.
+A Visitor - by Simon ‘Snake' Andersen (2015)***Dẫn Truyện là một nền tảng kể chuyện trực tuyến, nơi bạn có thể cùng bạn bè viết nên những câu chuyện thần kỳ của riêng mình.
+DẪN TRUYỆN CẦN TÌM BẠN ĐỒNG HÀNHDẫn Truyện là một nền tảng kể chuyện trực tuyến, nơi bạn có thể cùng bạn bè viết nên những câu chuyện thần kỳ của riêng mình.
+www.
+dantruyen.
+com
+
+Tác giả: Hùng Vũ

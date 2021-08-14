@@ -1,0 +1,106 @@
+6. Kết:
+Bất chấp hàng loạt lý thuyết ra đời trong thế kỷ 20 dẫn tới những cuộc cách mạng đảo lộn vũ trụ quan cổ điển, đến nay tư tưởng chủ đạo của khoa học vẫn là chủ nghĩa tất định (determinism) – tư tưởng cho rằng vũ trụ vận hành theo những quy luật xác định và do đó, về nguyên tắc, khoa học phải dự báo được tương lai một cách chính xác.
+Nhưng thực ra Tự Nhiên phức tạp, hỗn độn (chaotic) và khó dự đoán hơn ta tưởng rất nhiều: Tính ngẫu nhiên và bất định không chỉ tác động trong thế giới lượng tử, mà ngay cả trong những hệ phức tạp (complex systems) của thế giới vĩ mô.
+Bản chất bất định và hỗn độn của Tự Nhiên đã được Lý thuyết hỗn độn (Theory of Chaos) mô tả một cách ẩn dụ bởi “Hiệu ứng con bướm” (Butterfly Effect):“Một con bướm vỗ cánh ở Tokyo có thể dẫn tới hậu quả là một cơn bão ở Florida một tháng sau đó”.
+Lý thuyết hỗn độn đang ngày càng trở nên quan trọng hơn bao giờ hết, bởi vì người ta khám phá ra rằng có rất nhiều hệ phức tạp trong tự nhiên và xã hội chịu sự tác động của “hiệu ứng con bướm”: Từ cơ học thiên thể cho tới các chương trình computers, vấn đề dự báo thời tiết, vấn đề môi trường toàn cầu, hệ thống mạch điện, hiện tượng bùng nổ dịch bệnh, bùng nổ dân số, khủng hoảng kinh tế, vấn đề hoạch định chính sách, v.
+v.
+Tuy phải đợi tới những năm 1960 thì hiện tượng hỗn độn mới được nghiên cứu thành những lý thuyết hệ thống, nhưng thực ra nó đã được khám phá lần đầu tiên từ cuối thế kỷ 19 bởi nhà toán học lừng danh Henri Poincaré – người được gọi là “Mozart của toán học” và là một trong những nhà toán học vĩ đại nhất của mọi thời đại.
+1.
+ Henri Poincaré và “bài toán ba vật thể”:“Bài toán ba vật thể” (Three body problem) do Isaac Newton nêu lên từ năm 1687 trong tác phẩm Principia (Nguyên lý) nhằm nghiên cứu chuyển động của các thiên thể trong mối quan hệ tương tác hấp dẫn giữa chúng:Hãy xác định vị trí của 3 vật thể chuyển động trong không gian nếu biết vị trí ban đầu của chúng.
+Henri Poincaré vào năm 1887.
+Thoạt nghe, bài toán có vẻ khá đơn giản, nhưng thực ra lại phức tạp và khó đến mức thách thức những bộ óc siêu việt nhất của nhân loại.
+Các nhà toán học vĩ đại như Euler, Lagrange, … đã từng lao vào giải, nhưng chỉ tìm được lời giải cho những trường hợp đặc biệt.
+ Đến cuối thế kỷ 19 vẫn chưa có ai tìm được lời giải cho trường hợp tổng quát với n vật thể.
+Năm 1887, nhà toán học Gosta Mittag Leffler đã kiến nghị với vua Thụy Điển và Na-uy lúc đó là Oscar II nên mở cuộc thi giải “bài toán ba vật thể” dưới dạng tổng quát để mừng sinh nhật lần thứ 60 của chính nhà vua vào năm 1889.
+ Vua Oscar II chuẩn y và ban bố cuộc thi: Số tiền thưởng không lớn lắm (chỉ bằng khoảng một nửa tiền lương hàng năm của một viện sĩ hàn lâm), nhưng danh dự rất lớn – người thắng cuộc sẽ được coi là người giỏi nhất trong số những người giỏi nhất!Nhà toán học Pháp Henri Poincaré, lúc ấy 33 tuổi, đang nổi lên như một trong những ngôi sao sáng nhất trên bầu trời toán học, đã mất tới 3 năm trời để giải bài toán, để rồi gửi tới hội đồng giám khảo một lời giải dài dòng và phức tạp đến nỗi hội đồng này không hiểu.
+ Họ đề nghị ông giải thích.
+ Poincaré liền gửi tới hội đồng một bản bình luận tiếp theo dài tới 100 trang để giải thích lời giải của ông.
+ Sau khi hiểu được lời giải, hội đồng giám khảo quyết định trao tặng giải thưởng cho Poincaré.
+ Đó là một sự kiện khoa học gây chấn động dư luận cuối thế kỷ 19.
+Nhưng dư luận còn bị chấn động hơn nữa khi lời giải được công bố chính thức trên tạp chí Acta Mathematica (một trong những tạp chí uy tín nhất thời đó), bởi lẽ trong lời giải mới này, Poincaré đã chỉ ra sai lầm của chính ông trong lời giải đã đoạt giải thưởng trước đó:Đó là một sai lầm về hình học – trong số các trường hợp hình học có thể xẩy ra, ông đã bỏ sót một trường hợp mà ông nghĩ rằng không quan trọng.
+Bài toán ba vật thể.
+May mắn làm sao, và thú vị làm sao, khi nghiên cứu lại lời giải để gửi tới tạp chí, ông đã phát hiện ra trường hợp bị bỏ sót này.
+ Càng nghiên cứu kỹ ông càng nhận thấy trường hợp bị bỏ sót này hoá ra lại quan trọng và thú vị hơn rất nhiều so với ông tưởng, bởi nó dẫn tới một kiểu chuyển động vô cùng phức tạp và kỳ lạ: Một trong các vật thể có xu hướng chuyển động hầu như ngẫu nhiên (không tuân theo một hướng xác định nào cả).
+Đó là điều không thể tin được và cũng không thể hiểu được, vì hệ phương trình do ông thiết lập để giải bài toán là một hệ xác định, và do đó kết quả phải xác định, không thể là ngẫu nhiên.
+ Nhưng trước một lời giải tự nó nói lên một sự thật khác thường, Poincaré nhận thấy một điều vô cùng quan trọng mà trước đó chưa ai nhận thấy: Nếu kết quả không phải là ngẫu nhiên thì ít nhất nó cũng không có một cấu trúc rõ ràng!Poincaré dừng lại bài toán ở chỗ đó, rồi thốt lên:“Tôi không biết phải làm gì với kết quả này” (I don’t know what to do with this).
+Lúc Poincaré dừng lại chính là lúc ông đã vô tình khép lại cánh cửa của Chủ nghĩa tất định và mở ra cánh cửa của Lý thuyết hỗn độn, mặc dù phải chờ tới năm 1963 thì Lý thuyết hỗn độn mới chính thức bước lên diễn đàn khoa học, nhờ khám phá ngẫu nhiên của nhà khí tượng học Edward Lorenz.
+2.
+ Khám phá ngẫu nhiên của Edward Lorenz:Năm 1961, nhà khí tượng học Edward Lorenz đã thiết lập một hệ phương trình toán học để mô tả một dòng không khí chuyển động, lúc dâng cao, lúc hạ thấp tuỳ theo mức độ bị đốt nóng bởi ánh nắng mặt trời.
+Sau đó ông mã hoá hệ phương trình này để tạo ra một chương trình chạy trên computer, nhằm nghiên cứu một mô hình dự báo thời tiết.
+Vì chương trình viết cho computer bao gồm những phương trình toán học và những mã lệnh hoàn toàn xác định nên Lorenz nghĩ rằng trong những lần chạy thử chương trình trên máy, nếu “input” (dữ liệu đầu vào của chương trình) hoàn toàn giống nhau thì đương nhiên “output” (kết quả ở đầu ra) cũng phải hoàn toàn giống nhau.
+Nhưng một lần, sau khi nạp vào chương trình những dữ liệu ban đầu mà ông nghĩ rằng giống hệt như những lần trước, rồi sau đó cho chương trình chạy thử, ông sững sờ ngạc nhiên khi thấy kết quả ở đầu ra hoàn toàn khác biệt – khác một cách nghiêm trọng so với những lần chạy trước đó.
+Kiểm tra lại toàn bộ hoạt động của computer một cách kỹ càng, từ phần cứng tới phần mềm, Lorenz không tìm thấy bất cứ một sai sót nào, ngoài một chi tiết mà trước đó ông tưởng là một sai lệch không đáng kể: Đó là một thay đổi vô cùng nhỏ trong một dữ liệu, số 0,506127 được làm tròn thành 0,506.
+Theo quán tính tư duy khoa học trước đó, một sai lệch vô cùng nhỏ ở đầu vào sẽ không có ảnh hưởng gì đáng kể ở đầu ra.
+ Quán tính tư duy này sẽ đúng nếu đối tượng khảo sát chưa đạt tới mức độ đủ phức tạp.
+ Nhưng hệ thống dự báo thời tiết là một hệ thống phức tạp, nên quán tính tư duy nói trên không còn đúng nữa.
+Thật vậy, trực giác đã mách bảo Lorenz rằng một sai lệch vô cùng nhỏ trong dữ liệu ở đầu vào của chương trình dự báo thời tiết của ông có thể dẫn tới một sai lệch khổng lồ ở kết quả đầu ra.
+ Ông lập tức tiến hành nhiều thử nghiệm tương tự để đi tới khẳng định kết luận của mình, rồi công bố khám phá trên các tạp chí khoa học.
+ Một loạt các nhà khoa học khác trong nhiều lĩnh vực nghiên cứu khác nhau lập tức tiến hành những thử nghiệm tương tự, và cuối cùng đều đi tới chỗ xác nhận quan điểm của Lorenz.
+ Từ đó, Lý thuyết hỗn độn chính thức bước lên diễn đàn khoa học.
+Edward Norton Lorenz (1917 - 2008).
+Năm 1975, Benoit Mandelbrot cho ra đời cuốn “The Fractal Geometry of Nature” (Hình học fractal của Tự Nhiên), được đánh giá là một lý thuyết kinh điển về hỗn độn.
+Tháng 12 năm 1977, Viện hàn lâm khoa học New York (New York Academy of Sciences) lần đầu tiên tổ chức hội nghị về lý thuyết hỗn độn, tập hợp các nhà nghiên cứu lý thuyết hỗn độn xuất sắc nhất trên toàn thế giới, như:David Ruelle, nhà toán học-vật lý người Bỉ-Pháp, chuyên về vật lý thống kê và các hệ động lực học,Robert May, nguyên chủ tịch Hội hoàng gia Anh, giáo sư Đại học Sydney và Đại học Princeton, chuyên áp dụng lý thuyết hỗn độn để nghiên cứu bệnh dịch và tính đa dạng của các quần thể sinh học phức tạp,James York, chủ nhiệm khoa toán thuộc Đại học Marryland ở Mỹ là người đầu tiên gieo thuật ngữ “chaos” (hỗn độn) vào trong thế giới toán học và vật lý,Robert Shaw, nhà vật lý Mỹ đã áp dụng Lý thuyết hỗn độn để nghiên cứu các kết quả ở đầu ra của máy quay roulette tại các sòng bạc, ….
+Chính trong bối cảnh khám phá ra hàng loạt hiện tượng hỗn độn trong các hệ phức tạp của Tự Nhiên và xã hội, các nhà khoa học mới nhận ra rằng ngay từ hơn 60 năm trước, chính Henri Poincaré đã là người đầu tiên khám phá ra bản chất hỗn độn của các hệ phức tạp khi ông giải “bài toán n vật thể”: Thay vì chứng minh tính ổn định động lực của hệ n vật thể, ông đã khám phá ra tính bất ổn định của các hệ động lực phức tạp.
+ Ngày nay khoa học đã biết rằng tính bất ổn định này xuất phát từ tính bất định trong các phép đo dữ kiện ban đầu.
+3.
+ Tính bất định của các phép đo:Một trong những nguyên lý cơ bản của khoa học thực nghiệm là ở chỗ không có một phép đo nào trong thực tế có thể đạt tới độ chính xác tuyệt đối.
+ Điều đó có nghĩa là các phép đo phải chấp nhận một mức độ bất định nào đó.
+ Dù cho công cụ đo lường có hoàn hảo đến mấy thì mức độ chính xác cũng chỉ đạt tới một giới hạn nhất định.
+ Về lý thuyết, muốn đạt tới độ chính xác tuyệt đối thì công cụ đo lường phải đưa ra những con số có vô hạn chữ số.
+ Điều này là bất khả.
+Nhưng người ta cho rằng sử dụng những công cụ đo lường hoàn hảo hơn, có thể giảm thiểu tính bất định xuống tới một mức độ nào đó có thể chấp nhận được, tùy theo mục tiêu của bài toán, mặc dù về nguyên tắc, không bao giờ triệt tiêu được tính bất định đó.
+Khi nghiên cứu chuyển động của các vật thể dựa trên các định luật của Newton, tính bất định trong các dữ kiện ban đầu được coi là khá nhỏ, không ảnh hưởng tới kết quả dự đoán xẩy ra trong tương lai hoặc quá khứ.
+Quả thật, dựa trên các định luật của Newton, Urbain Le Verrier đã tiên đoán chính xác sự tồn tại của hành tinh Neptune (Hải vương tinh).
+ Những sự kiện tương tự như thế đã làm nức lòng người, củng cố niềm tin vào Chủ nghĩa tất định: Vũ trụ vận hành giống như một “chiếc đồng hồ Newton” (Newtonian clock), và do đó có thể dự báo tương lai một cách chính xác.
+Nếu xuất hiện kết quả bất định trong các hệ động lực học, thì chắc chắn nguyên nhân xuất phát từ tính bất định trong các phép đo dữ kiện ban đầu, thay vì các phương trình chuyển động, bởi vì các phương trình này là hoàn toàn xác định.
+ Và từ lâu người ta đã cho rằng nếu giảm thiểu đến mức tối đa tính bất định trong các phép đo thì con người sẽ có thể đưa ra những dự báo chính xác đến mức tối đa.
+Nhưng Chủ nghĩa tất định đã lầm: Những hệ động lực phức tạp mang tính bất ổn định ngay từ trong bản chất của chúng.
+4.
+ Tính bất ổn định động lực học:Trong “Bài toán n vật thể”, hệ phương trình chuyển động của các vật thể do Poincaré thiết lập hoàn toàn dựa trên các định luật Newton, và do đó là hoàn toàn xác định.
+ Cụ thể, nếu biết vị trí, tốc độ của các vật thể tại một thời điểm cho trước, hoàn toàn có thể xác định được vị trí và tốc độ của các vật thể tại một thời điểm khác trong tương lai hoặc quá khứ.
+Nhưng vì không thể xác định vị trí và tốc độ của các vật thể tại một thời điểm cho trước một cách chính xác tuyệt đối nên luôn luôn tồn tại một mức độ thiếu chính xác nào đó trong các dự báo thiên văn dựa trên các định luật Newton.
+Tuy nhiên, trải qua hàng trăm năm kể từ khi các định luật Newton ra đời cho đến trước khi lời giải “Bài toán n vật thể” của Poincaré được công bố chính thức, trong giới vật lý và thiên văn đã tồn tại một “thoả thuận ngầm”: Sự thiếu chính xác tuyệt đối trong các dự báo thiên văn là một vấn đề nhỏ, bởi vì với tiến bộ không ngừng của công nghệ đo lường, sự thiếu chính xác này sẽ được giảm thiếu đến mức tối đa.
+ Nói cách khác, người ta đã ngầm hiểu rằng giảm thiểu tính bất định của dữ kiện ban đầu thì cũng giảm thiểu tính bất định trong kết quả dự đoán.
+ Tiến sĩ Matthew Trump tại Trung Tâm Ilya Prigorine tại Đại học Texas ở Austin gọi đó là quy luật “shrink-shrink” (giảm-giảm).
+ Nhưng Poincaré đã tạo nên một cú shock khi chỉ ra rằng quy luật đó không còn đúng đối với những hệ thiên văn phức tạp!Xin độc giả đọc kỹ ý kiến của Matthew Trump như sau:Những hệ thiên văn điển hình không tuân thủ quy luật nói trên là hệ chứa ba hoặc nhiều hơn ba vật thể có quan hệ tương tác lẫn nhau.
+ Poincaré chỉ ra rằng đối với những hệ loại này, một sai lệch vô cùng nhỏ trong dữ kiện ban đầu sẽ lớn dần lên theo thời gian với một tỷ lệ khổng lồ.
+Do đó đối với cùng một hệ chuyển động, hai tập hợp dữ kiện ban đầu hầu như không phân biệt có thể dẫn tới hai dự đoán kết quả khác nhau một trời một vực.
+Poincaré đã chứng minh một cách toán học rằng hiện tượng “bùng nổ” của những bất định vô cùng nhỏ trong dữ kiện ban đầu thành những bất định khổng lồ trong kết quả dự đoán sẽ vẫn tiếp tục xẩy ra ngay cả khi những bất định ban đầu được thu nhỏ tới kích thước nhỏ nhất có thể tưởng tượng được.
+ Nghĩa là, đối với những hệ này, dù cho bạn có thể thực hiện những phép đo dữ kiện ban đầu chính xác hơn tới hàng trăm hay hàng triệu lần hoặc hơn thế nữa, thì muộn hơn hay sớm hơn, tính bất định trong kết quả không hề giảm đi, mà vẫn vô cùng lớn.
+Những phân tích toán học của Poincaré thực chất đã chứng minh rằng đối với những “hệ phức tạp”, muốn có một dự đoán kết quả chính xác ở bất kỳ cấp độ nào cũng đòi hỏi phải xác định được dữ kiện ban đầu với độ chính xác tuyệt đối.
+Nhưng điều đó là BẤT KHẢ (impossible)!Matthew Trump viết tiếp:Tính chất cực kỳ nhậy cảm của dữ kiện ban đầu được trình bầy một cách toán học trong những hệ thống được nghiên cứu bởi Poincaré được gọi là tính bất ổn định động lực học (dynamical instability), hoặc đơn giản là “hỗn độn” (chaos).
+Đó là lý do vì sao Henri Poincaré được coi là cha đẻ của Lý thuyết hỗn độn, mặc dù mãi đến những năm 1960, lý thuyết này mới thành hình.
+Theo Matthew Trump:Mặc dù công trình của Poincaré được một số nhà vật lý nhìn xa trông rộng đương thời đánh giá là vô cùng quan trọng, nhiều thế kỷ đã trôi qua trước khi những ẩn ý trong các khám phá của ông được toàn thể cộng đồng khoa học hiểu rõ.
+ Một trong các lý do của sự chậm trễ này là vì phần lớn các nhà vật lý thời đó đang lao vào một lĩnh vực mới mẻ của vật lý, đó là Cơ học lượng tử – lĩnh vực vật lý thâm nhập vào vương quốc hạ nguyên tử.
+Nhưng hiện nay, chính các nhà vật lý đang quan tâm tới Lý thuyết hỗn độn hơn ai hết.
+5.
+ Biểu hiện của hỗn độn trong Tự nhiên:Hệ thống thời tiết là một hệ phức tạp điển hình, ở đó bộc lộ rất rõ đặc trưng hỗn độn, như độc giả đã thấy phần nào qua câu chuyện về khám phá của Edward Lorenz năm 1961.
+Matthew Trump cho biết:Thuật ngữ “Hiệu ứng con bướm” ra đời chính từ khoa học dự báo thời tiết: Một cái vỗ cánh của một con bướm ở một nơi nào đó trên trái đất có thể dẫn tới một cơn bão ở một nơi nào khác trên thế giới một năm sau đó.
+Với hiệu ứng đó, hiện nay người ta buộc phải chấp nhận rằng việc dự báo thời tiết chỉ đạt được mức độ chính xác tương đối và ngắn hạn.
+ Dù cho được trang bị những computer thông minh bậc nhất, khoa học dự báo thời tiết vẫn luôn luôn không tốt gì hơn những phỏng đoán.
+Vậy nếu chúng ta thấy những dự báo thời tiết thiếu chính xác hoặc thậm chí sai hoàn toàn với thực tế, có lẽ cũng không nên dễ dàng trách móc các nhà khoa học làm dự báo, mà hãy “đổ tội” cho cái bản chất hỗn độn của những hệ phức tạp trong Tự nhiên.
+Henri Poincaré (1854 - 1912).
+Robert May (đã nhắc tới ở mục 2), cho biết:Trong lĩnh vực nghiên cứu quần thể sinh học còn có những thí dụ phức tạp rắm rối hơn rất nhiều.
+ Chẳng hạn tôi có thể chỉ ra những thí dụ về quần thể ruồi dấm hoặc quần thể bọ chét dưới nước mà tôi nuôi dưỡng chúng trong phòng thí nghiệm.
+ Bạn không thể nào tiên đoán được mức độ  tăng trưởng của chúng trong một số tình huống nhất định.
+ Dưới điều kiện nhiệt độ và sinh trưởng nào đó, chúng phát triển đều đặn và hoàn toàn có thể tiên đoán được, giống như động lực học Newton cổ điển vậy.
+ Nhưng dưới điều kiện nhiệt độ và/hoặc môi trường khác, chúng trở nên vô cùng hỗn độn, và mặc dù những phương trình dùng để mô tả sự tăng trưởng của chúng rất đơn giản, mức tăng trưởng của chúng là không thể dự đoán được.
+ Sự sinh trưởng của chúng tăng hay giảm thất thường tuỳ theo từng nơi chốn.
+Có thể chỉ ra rất nhiều hệ phức tạp khác nhau mà ở đó tính hỗn độn biểu lộ.
+ Theo Bách khoa toàn thư Wikipedia:Lý thuyết hỗn độn đã sử dụng để nghiên cứu tính hỗn độn trong các mạch điện, chùm lasers, các hiện tượng dao động, các phản ứng hoá học, động học chất lỏng, các máy móc cơ học và máy cơ-học-từ-tính.
+Khoa học cũng đã quan sát những ứng xử hỗn độn trong chuyển động của vệ tinh trong hệ mặt trời, sự “tiến hoá của thời gian” (time evolution) trong từ trường của các thiên thể, sự tăng trưởng số lượng của các quần thể sinh học, “tiềm năng tác động” (action potentials) trong các neurons thần kinh, và các dao động của phân tử.
+Hàng ngày chúng ta có thể chứng kiến tính hỗn độn của thời tiết và khí hậu.
+ Và hiện người ta đang tranh luận về tính hỗn độn trong hiện tượng “kiến tạo bề mặt trái đất” (plate tectonics) cũng như trong hệ thống kinh tế.
+Tóm lại, Lý thuyết hỗn độn đã được áp dụng trong nhiều lĩnh vực: toán học, sinh học, khoa học computer, kinh tế học, công nghệ học, hệ thống tài chính, triết học, vật lý, chính trị, động học về mức tăng trưởng của các quần thể, tâm lý học và khoa học robots.
+ Một trong những ứng dụng thành công nhất của Lý thuyết hỗn độn là trong sinh thái học, trong đó mô hình của Ricker đã được sử dụng để chỉ rõ các quần thể sinh học tăng trưởng như thế nào.
+ Lý thuyết hỗn độn cũng được áp dụng trong y khoa để nghiên cứu bệnh động kinh, … và vô số ứng dụng khác nữa.
+6.
+ Kết:Xét cho cùng thì “Hiệu ứng con bướm” và bản chất hỗn độn của Tự nhiên cũng đã được kinh nghiệm dân gian truyền tụng từ lâu.
+ Đó là câu ngạn ngữ “Sai một ly đi một dặm”!Theo Phạm Việt Hưng(Nguồn ảnh: Internet)P/S: Mình đã lược bớt phần hỏi-đáp do thấy nó hơi lan man ra khỏi trọng tâm của bài viết.
+ Bạn nào muốn đọc thì xem bài báo gốc bên dưới nha.
+ :)
+----------
+[Nguồn bài viết từ Vietsciences]
+Hiệu ứng Con bướm
+
+Tác giả: Cheshire

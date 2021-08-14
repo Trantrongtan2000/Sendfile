@@ -1,0 +1,35 @@
+Toán học ứng dụng trong thực tế (phần 1)
+Chúng ta đã quá quen thuộc với toán học, các bài toán từ tiểu học đến phổ thông.
+ Nhưng không phải ai trong chúng ta cũng biết được những ứng dụng thực tế trong đời sống của toán học.
+ Nhưng các bạn có biết không, thế giới này tồn tại là nhờ có toán đó :).
+Từ nay, mình sẽ viết một loạt bài viết về các ứng dụng thực tế (rất rất thực tế) trong đời sống hằng ngày của chúng ta.
+ Nếu các bạn muốn biết toán học thú vị và quan trọng như thế nào, thì theo dõi loạt bài viết này của mình nhé.
+Bài toán phần 1Bài toán đầu tiên mà mình muốn chia sẽ với các bạn đó là bài toán phổ thông: Phương trình đường tròn tâm O(x, y) bán kính R trên tọa độ Oxy.
+ Chắc hẳn chúng ta đã quá quen thuộc với bài toán này, làm rất nhiều nữa.
+ Và ứng dụng thực tế của bài toán này là hệ thống định vị GPS mà chúng ta biết ngày nay.
+ Chắc hẳn chúng ta ai cũng dùng điện thoại và biết GPS là gì.
+ Vậy GPS với bài toán phương trình đường tròn liên quan ra sao?Đầu tiên, ta có bài toán như sau:Cho hệ tọa độ Oxy, đường tròn tâm O bán kính bằng 1 và điểm A trên đường tròn.
+ Làm sao chúng ta xác định tọa độ của điểm A?Bước 1: Ta lấy 2 điểm B và C với tọa độ bất kì.
+ Ta dùng thước đo khoảng cách đoạn AB, AC.
+Bước 2: Ta viết phương trình đường tròn tâm B (tọa độ đã biết) và bán kính AB (đã đo được)Bước 3: Ta viết phương trình đường tròn tâm C với bán kính AC.
+Bước 4: Ta giải phương trình và tìm giao điểm của 3 đường tròn, giao điểm đó chính là điểm A cần tìm.
+Hiểu GPS này:Ta xem đường tròn tâm O là trái đất.
+Điểm A là chúng ta, người cần định vị.
+Điểm B, C là các vệ tinh bay xung quanh trái đất.
+Bởi vì chúng ta sống trên bề mặt trái đất, nên các điểm A sẽ chỉ nằm trên đường tròn tâm O.
+Tọa độ các vệ tinh B, C là hoàn toàn xác định được.
+Khoảng cách AB, AC xác định bằng cách trao đổi sóng giữa vệ tính và thiết bị.
+ Dựa vào thời gian và vận tốc -> khoảng cách.
+Từ đó, các vệ tinh tính toán và xác định tọa độ (kinh độ, vĩ độ) của chúng ta trên trái đất.
+Từ kinh dộ, vĩ độ, thiết bị xác định địa điểm cụ thể mà chúng ta đang ở.
+Trong thực tế thì sao?Trong thực tế là hệ tọa độ Oxyz, nên chúng ta cần ít nhất 3 vệ tinh.
+Nhưng thực tế, để tránh sai sót, người ta dùng đến 4 vệ tinh để xác định chính xác nhất có thể vị trí của chúng ta.
+Rất thú vị phải không nào? Từ bài toán đơn giản phổ thông, toán học phát triển lên thành một công nghệ vô cùng quan trọng và hữu ích ngày nay.
+ Các bạn thấy đấy, GPS nghe thì có vẻ rườm rà (vệ tinh, công nghệ thông tin.
+.
+.
+) nhưng nó là ý tưởng từ bài toán chúng ta học từ cấp 3 đấy :).
+ Mong rằng bài viết này cung cấp thông tin thú vị đến mọi người.
+
+
+Tác giả: Minh Toan

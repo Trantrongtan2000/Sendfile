@@ -1,0 +1,27 @@
+Đường thẳng và hố đen
+Hôm nay mình đọc được một cái post khá thú vị trong Science2vn mà mọi người tranh cãi với nội dung ở cái hình sau:Nhiều người nghĩ rằng đây là tiên đề Euclide, nhưng điều đó chỉ gần đúng thôi.
+ Thực ra đấy là hệ quả suy ra từ 5 tiên đề của Euclide, và nội dung đúng của nó là:Trong một mặt phẳng, tại một điểm nằm ngoài một đường thẳng cho trước có duy nhất một và chỉ một đường thằng đi qua điểm đó và song song với đường thẳng đã cho.
+Đương nhiên là tiên đề Euclide thì sẽ đúng trong trường hợp hình học phẳng Euclide, nhưng thế còn hình học phi Euclide thì sao?Mình thấy vấn đề này khá thú vị nên đã tìm hiểu sâu hơn một chút.
+ Ngạc nhiên là chính khái niệm "đường thẳng" gần như không hề có định nghĩa cụ thể, để tính toán người ta thường dựa vào một số tính chất của chúng, và các tính chất đó thì khác nhau khi xét ở các hệ thống hình học khác nhau.
+ Ví dụ như trong hình học vi phân, đường thẳng có thể coi là đường ngắn nhất nối 2 điểm cho trước, gọi là đường trắc địa; qua 2 điểm thì có thể có nhiều hơn một đường trắc địa.
+Một trong những ứng dụng quan trọng của hình học vi phân chính là thuyết tương đối.
+ Các bạn có thể đã biết rằng, hố đen là một vật thể có khối lượng khổng lồ đến nỗi có thể bẻ cong không - thời gian.
+ Chính vì vậy, không gian ở xung quanh hố đen có thể coi là một trường hợp của hình học vi phân.
+ Điều này khiến mình tò mò: khoảng cách giữa 2 điểm nằm gần hố đen sẽ là bao nhiêu?Giả sử muốn đo khoảng cách của 2 điểm A và B nằm trên quả cầu photonĐịnh nghĩa một chút về quả cầu photon của hố đen: quả cầu photon của hố đen là vùng không gian có trọng lực mạnh đến nỗi các hạt photon sẽ di chuyển theo quỹ đạo khép kín.
+ Điều đó cũng có nghĩa là mọi vật chất có khối lượng lớn hơn photon hay vượt qua quả cầu photon đó từ bên ngoài đều sẽ rơi vào hố đen (theo mình hiểu là thế).
+Nếu xét theo hình học Euclide bình thường thì rõ ràng đường thẳng ngắn nhất đi qua A và B chính là đường thẳng đường kính của quả cầu photon.
+ Nhưng đây là quả cầu photon của một hố đen trong không gian, nghĩa là không gian đã bị bẻ cong.
+ Hơn nữa, nếu coi đường thẳng ngắn nhất qua A và B là đường trắc địa thì phải có cái gì đó thực sự có khả năng di chuyển từ A tới B.
+Và câu trả lời nằm ngay trong chính định nghĩa của quả cầu photon: photon là thứ duy nhất có thể di chuyển từ A tới B mà không bị cuốn vào hố đen vì photon có khối lượng nghỉ bằng 0.
+ Nói cách khác, nếu bạn thực sự muốn di chuyển vật chất từ A tới B thì con đường ngắn nhất là đi theo quỹ đạo của photon và vật chất duy nhất làm được điều đó cũng chính là photon (ít nhất là theo thuyết tương đối hiện tại).
+Nếu như tuổi thơ các bạn gắn liền với bộ truyện Doraemon thì có lẽ các bạn sẽ không xa lạ gì với những lý thuyết khoa học viễn tưởng thú vị trong đó, ví dụ như này:Bước nhảy alpha thần thánh!Một lần nữa, các bạn có thể thấy sự khác biệt khi xem xét hình học Euclide và hình học phi Euclide (ở đây là hình học vi phân).
+ Rõ ràng là nếu thực sự gập tờ giấy lại thì theo hình học Euclide, khi điểm A và B chạm vào nhau thì chúng sẽ gần nhau nhất.
+ Nhưng trong thực tế, nếu coi tờ giấy là một lát cắt của không gian thì không hề có cách nào để có thể di chuyển từ A tới B vượt ra ngoài không gian của mặt giấy được - hay nói cách khác, đường trắc địa vẽ từ A tới B là đường thẳng ngắn nhất khả thi.
+Bây giờ giả sử chúng ta đặt một cái hố đen gần đường trắc địa AB để làm cho vùng không gian gần đó co lại (tác dụng tương tự như việc gập tờ giấy), liệu đoạn AB có thực sự ngắn lại không?Câu trả lời là KHÔNG.
+ Nói cách khác, đường trắc địa AB là con đường ngắn nhất mà photon có thể di chuyển từ A tới B.
+ Cho dù vùng không gian gần đó có bị bóp méo bởi một vật có khối lượng lớn như hố đen, nó vẫn là đường trắc địa và ánh sáng vẫn di chuyển theo đường đó.
+ Điều này tuân theo thuyết tương đối đã được chứng minh.
+ Như vậy, những gì mà trang truyện Doraemon giải thích về bước nhảy không gian ở trên chỉ đơn thuần là khoa học viễn tưởng mà thôi.
+
+
+Tác giả: loveless

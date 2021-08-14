@@ -1,0 +1,76 @@
+
+I, Về #SNếu bạn đang đọc bài trong Science2vn thì chắc hẳn bạn đã nghe danh #S - nhân vật nổi tiếng nhất cộng đồng dota2vn với biệt tài bet đâu thua đó làm hàng triệu bet thủ bán nhà bán thận.
+ Vậy #S liên quan gì đến vật lý hạt nhân? Well, hãy lấy 1 ví dụ như này nhé, chiều nay sẽ có 1 kèo dota khá cân giữa 2 đội A và B, tạm gác các yếu tố như trình độ, kĩ năng, kinh nghiệm.
+.
+.
+ sang 1 bên, chúng ta có xác xuất thắng của 2 đội là 50-50.
+ Nghĩa là sẽ có 2 thực tại có thể xảy ra 1 là đội A thắng 2 là đội B thắng.
+ Tuy nhiên, vào buổi trưa #S lên kèo và ngài khẳng định đội A sẽ thắng #surevkl.
+ Vì hành động lên kèo của #S, thực tại đội A thắng hoàn toàn bị sụp đổ và chỉ còn thực tại là đội B thắng.
+ Trong ngành vật lý hạt nhân cũng có 1 thí nghiệm tương tự việc lên kèo của #S làm bó tay cả Einstein của chúng ta.
+ Bài viết này chúng ta sẽ cùng tìm hiểu về thí nghiệm đó.
+II, The double slit experiment (thí nghiệm khe Young)1, Thí nghiệm của YoungVề thí nghiệm này thì các bạn có thể tìm hiểu thêm ở link wiki này:https://vi.
+wikipedia.
+org/wiki/Th%C3%AD_nghi%E1%BB%87m_khe_YoungCòn bài viết này mình sẽ chỉ nói khái quát về thí nghiệm này thôi.
+ thí nghiệm này được thực hiện bởi Thomas Young và khoảng năm 1805 với mục đính là chứng minh ánh sáng có thể có cả tính chất sóng và tính chất hạt.
+ Thí nghiệm được thực hiện như hình dưới.
+Khe a là nguồn phát sáng.
+ Ánh sáng truyền qua khe b và c sau đó chiếu lên màn f.
+ Kết quả thu được là 1 dải các vạch ánh sáng như hình.
+ Từ đó kết luận, ánh áng truyền qua không gian dưới dạng sóng như thí nghiệm mô tả.
+2, Thực hiện lại thí nghiệm khe YoungHơn 1 thế kỉ sau khi Young công bố thí nghiệm, các nhà khoa học với công nghệ được cải tiến đã thực hiện lại thí nghiệm này nhưng thay khe a bằng 1 súng bắn HẠT electron.
+ Kết quả thu được thực sự làm kinh ngạc mọi người khi HẠT electron cũng cho kết quả hệt như ánh sáng.
+ Nghĩa là electron cũng có tính chất sóng như ánh sáng.
+Ở thí nghiệm trên, khi chùm hạt electron đi qua 2 khe, chúng ta hi vọng sẽ thu được kết quả là 2 vạch sáng trùng khớp với 2 khe hoặc ít nhất cũng bắn tung tóe khắp nơi.
+ Tuy nhiên, thí nghiệm lại cho kết quả khác, hạt electron tập trung thành các vạch trên màn chắn hoàn toàn khớp với thí nghiệm giao thoa của sóng ánh sáng mà Young đã làm 1 thế kỉ trước.
+3, Hạt song sinhVào khoảng năm 1925, Ralph Kronig đã tìm ra được 1 tính chất khác của hạt đó là Spin (tạm dịch là tự xoay).
+ Nôm na cho các bạn dễ hiểu đó là các hạt ngoài mang điện/không mang điện, nặng, nhẹ, không khối lượng.
+.
+.
+ thì chúng còn có tính chất nữa đó là chiều mà chúng tự xoay quanh nó.
+ Ngoài việc tìm ra Spin của hạt, các nhà khoa học còn phát hiện ra là ở 2 hạt song sinh thì chúng cùng điện tích, cùng khối lượng cùng tất cả mọi thứ.
+.
+.
+ nhưng Spin thì LUÔN LUÔN đối lập nhau.
+ Tưởng tượng nó giống như việc 1 hạt luôn quay theo chiều kim đồng hồ và 1 hạt luôn ngược chiều.
+ 2 hạt song sinh sẽ KHÔNG BAO GIỜ có cùng chiều quay.
+ Giống như việc đội A và B có thể có cùng kĩ năng, cùng kinh nghiệm, cùng chiến thuật.
+.
+.
+ nhưng sẽ không bao giờ cả 2 đội cùng thắng hay cùng thua.
+ Lúc đầu, phát hiện này gây rất nhiều tranh cãi và Einstein cho rằng, việc hạt nào quay chiều nào đã được định sẵn từ lúc chúng sinh ra và chiều quay của hạt này hoàn toàn không ảnh hưởng đến chiều quay của hạt kia.
+ Nó không có quy luật nào của vũ trụ bắt buộc hạt này phải quay hướng này và hạt song sinh của nó phải quay hướng khác, chỉ đơn giản là vào lúc chúng sinh ra đã như vậy.
+ 1 phe còn lại của cuộc tranh luận cho rằng, vào đúng thời điểm mà chúng ta xác định chiều quay của hạt, 1 thực tại của hạt sẽ bị sụp đổ.
+ nói như này cho các bạn dễ hiểu nhé.
+ Có 2 cái hộp và có 1 viên bi.
+ viên bi nằm trong 1 trong 2 cái hộp.
+ 1 trong 2 hộp chắc chắn có bi và hộp còn lại chắn chắn không có.
+ Einstein thì cho rằng: việc hộp nào có bi đã được định sẵn bởi người đặt bi vào hộp rồi và chẳng có gì kì bí cả.
+ trường phái còn lại thì cho rằng: việc chúng ta thực hiện hành động mở hộp ra đã làm sụp đổ 1 thực tại của chiếc hộp.
+ ngay vào khoảnh khắc chúng ta mở hộp ra, có 1 sự liên kết thần bí giữa 2 cái hộp và làm cho viên bi xuất hiện hoặc biến mất trong chiếc hộp còn lại.
+ Tranh luận này không có hồi kết vì không bên nào chứng minh được bên còn lại sai cho đến khoảng năm 1960.
+4, Thí nghiệm mang tính lịch sử - The Quantum Eraser Experiment (Đừng hỏi tôi dịch như nào nhé =)))Einstein dành cả phần đời còn lại của mình chứng minh luận điểm của ông nhưng đáng tiếc ông đã chết trước khi hoàn thành.
+ Khoảng năm 1960, thời điểm chiến tranh lạnh giữa Nga và Mỹ đang cực căng thẳng, cả 2 bên đều đầu tư rất nhiều cho các công trình nghiên cứu hạt nhân để cố gắng vượt mặt đối thủ của mình trong cuộc đua hạt nhân.
+ các nhà khoa học đã dựng lại thí nghiệm khe Young nhưng thay vì sử dụng ánh sáng thường, họ chiếu ánh sáng đó qua 1 loại tinh thể pha lê đặc biệt trước.
+ Tinh thể pha lê này sẽ sản sinh ra 2 hạt ánh sáng song sinh có các tính chất giống hệt nhau như ở mục 3 đã nói.
+ họ bố chí thí nghiệm như sau:ở thí nghiệm trên, chúng ta thêm vào Hộp X được cấu tạo bởi gương, các máy cảm ứng.
+.
+.
+ để xác định tia màu tím vừa đi qua khe trên hay khe dưới.
+ nếu tia màu tím đi qua khe trên, 1 tia đỏ sẽ đi vào hộp, nếu tia màu tím đi qua khe dưới, hộp sẽ thu được 1 tia xanh.
+ Khi chúng ta chưa bật công tắc (#S chưa lên kèo) chúng ta không có cách nào biết được là tia laser gốc đi qua khe nào.
+ Trên màn f chúng ta nhận được các vạch ánh sáng như bình thường.
+ Vào khoảnh khắc chúng ta bật công tắc để hộp X vận hành (#S lên kèo), ngay lập tức các vạch ánh sáng trên màn f biến mất và các photon va đập vào màn f 1 cách lộn  xộn và không theo quy luật nào cả.
+III, Kết LuậnThí nghiệm Quantum eraser ở trên đã chứng minh là Einstein sai, 2 hạt song sinh đã bí mật liên lạc với nhau, ảnh hưởng hạt này sẽ ngay lập tức ảnh hưởng hạt kia.
+ Kì bí hơn nữa, vũ trụ như cấm chúng ta biết được hạt ánh sáng đó đi qua khe nào.
+ chỉ cần chúng ta bật công tắc cho hộp X vận hành, ngay lập tức thí nghiệm sụp đổ.
+ các hạt photon không thể hiện tính chất sóng của chúng nữa.
+ giống như 1 kèo dota vậy.
+ 2 đội A và B mỗi đội đều có thể là sóng hay là hạt.
+ nhưng vào khoảnh khắc #S phán đội A là sóng, mọi thứ quy luật trong vũ trụ sụp đổ, đội A hành xử như hạt và không tạo sóng giao thoa trên màn f nữa.
+ Thí nghiệm này cũng mở ra cách để chúng ta truyền dữ liệu nhanh hơn ánh sáng.
+ tưởng tượng chúng ta đặt hộp X ở trái đất và màn chắn ở sao hỏa, chúng ta muốn gửi 1 thông tin nào đó như là" đội A thắng #Surevkl" chẳng hạn.
+ chúng ta chỉ cần nhấp công tắc theo mã nhị phân hoặc mã morse và màn chắn f trên sao hỏa sẽ nhấp nháy NGAY LẬP TỨC theo trình tự đó thay vì phải chờ vài tiếng để gửi thông tin bằng sóng điện từ.
+còn bạn thì sao? bạn có cách giải thích nào cho thí nghiệm trên không? #ChúngMàyCãiĐi
+
+Tác giả: BSGP26cm

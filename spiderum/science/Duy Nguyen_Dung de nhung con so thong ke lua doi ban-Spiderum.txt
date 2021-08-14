@@ -1,0 +1,90 @@
+Đừng để những con số thống kê lừa dối bạn
+Ngày 18 tháng 06 năm 1964, tại thành phố Los Angeles, khi Juanita Brooks đang trở về sau khi đi mua sắm tại siêu thị thì bất chợt có ai đó từ phía sau xô ngã cô, khi Brooks quay đầu lại thì nhìn thấy một người phụ nữ tóc vàng, cột kiểu đuôi ngựa đang bỏ chạy cùng với chiếc ví của cô.
+ Đến gần cuối con hẻm, một người đàn ông tên John Bass nhìn thấy người phụ nữ này nhảy lên chiếc xe hơi màu vàng đã chờ sẵn, bên trong là một người đàn ông da đen có râu quai nón và ria mép.
+ Chiếc xe nhanh chóng phóng đi và biến mất.
+ Đó là tất cả manh mối mà John Bass thấy, một người phụ nữ tóc vàng đuôi ngựa cùng một người đàn ông da đen với bộ râu và ria mép trên chiếc xe màu vàng.
+Không lâu sau đó, cảnh sát đã bắt cặp vợ chồng Janet Louise Collins và Malcolm Ricardo Collins và kết tội họ.
+ Lý do họ bị kết tội ư? Vì họ có tất cả các đặc điểm mà John Bass nhìn thấy.
+ Để vững chắc hơn cho lập luận của mình, tòa án đã mời các nhà toán học để tính toán xác suất một cặp đôi có tất cả các đặc điểm trùng khớp như mô tả.
+Các nhà thống kê đã tính xác suất mà một cặp đôi có đầy đủ 6 đặc điểm với các dữ liệu như sau:Người đàn ông da đen với râu: 1 trên 10Đàn ông với ria mép: 1 trên 4Phụ nữ da trắng tóc vàng: 1 trên 3Phụ nữ cột tóc đuôi ngựa: 1 trên 10Cặp đôi khác chủng tộc (da trắng và da đen): 1 trên 1000Xe màu vàng: 1 trên 10Công thức tính xác suất của các sự kiện độc lập:Giả sử sự kiện A có 50% xảy ra, sự kiện B có 40% xác suất xảy ra, biết sự kiện A và B hoàn toàn độc lập nhau, ta có xác suất để xảy ra cả sự kiện A và B là 50% x 40% = 20%.
+Công thức tổng quát: P(A and B) = P(A) x P(B)Ví dụ: Xác suất hôm nay trời mưa là 50% và xác suất bạn bị rớt mất tiền là 10%, giả sử trời mưa và bị rớt tiền là hai trường hợp không liên quan với nhau.
+ Xác suất để hôm đó trời vừa mưa và bạn bị rớt tiền là 50% x 10% = 5%.
+Dựa trên công thức xác suất độc lập, các nhà thống kê đã tính ra được xác suất một cặp đôi ngẫu nhiên có tất cả các đặc điểm trên là 1 trên 12 triệu (các bạn thử tự tính nhé).
+Ấn tượng với một loạt số 0 đằng sau xác suất tính được, thẩm phán đã ra phán quyết vợ chồng Collins có tội.
+ Khoan bàn về tính công bằng khi dùng toán học để kết tội ở đây, nhưng hình như vẫn có gì đó sai sót ở đây.
+Thẩm phán đã nhầm lẫn giữa các sự kiện khi diễn giải con số xác suất này.
+ 1 trên 12 triệu là xác suất một cặp đôi ngẫu nhiên có 6 đặc điểm của tội phạm, không phải là xác suất họ vô tội là 1 trên 12 triệu.
+ Một nhầm lẫn phổ biến khi sử dụng xác suất có điều kiện.
+Theo công thức Bayes, P(Vô tội| Trùng các đặc điểm) khác với P(Trùng các đặc điểm | Vô tội).
+ Xác suất 1 trên 12 triệu các nhà thống kê tính ở phía trên phải là … Đúng rồi, là P(Trùng các đặc điểm | Vô tội).
+ Như vậy, việc nhầm lẫn 1 trên 12 triệu thành P(Vô tội | Trùng các đặc điểm) đã dẫn thẩm phán đi đến kết luận sai lầm.
+ Nếu muốn tính P(Vô tội | Trùng các đặc điểm) thì thẩm phán phải đi tìm tất cả các cặp đôi ở LA thỏa 6 đặc điểm nhận dạng ở trên trước rồi mới tính được.
+ Giả sử ở LA có 10 cặp đôi thỏa tất cả đặc điểm nhận dạng ở trên, trong 10 cặp này thì có 1 cặp là thật sự có tội, thì khi đó P(Vô tội | Trùng các đặc điểm) = 90%.
+Như vậy P(Vô tội | Trùng các đặc điểm) = 90%, còn P(Trùng các đặc điểm | Vô tội) = 1/12.
+000.
+000.
+Đây là một trong những trường hợp nổi tiếng của việc sử dụng sai các con số thống kê trong tòa án.
+Ngoài việc dễ dàng nhầm lẫn xác suất có điều kiện, chúng hay hay thậm chí nhiều nhà thống kê cũng có thể nhầm lẫn một số điều phổ biến sau.
+1.
+ Nhầm lẫn giữa số tương đối và số tuyệt đốiNếu như mình nói tỷ lệ học sinh đậu ĐH năm 2018 là 10% và tỷ lệ đậu ĐH năm 2019 là 20%.
+ Vậy thực tế tăng bao nhiêu % sau 1 năm?A.
+ 100% (tăng gấp đôi)B.
+ 10%Câu trả lời là tùy thuộc vào bạn đang nói về số tương đối hay số tuyệt đối.
+ Nếu nói về số tuyệt đối thì câu trả lời là tăng 100% nhưng nếu nói về số tương đối thì là 10%.
+Để hiểu tại sao số tuyệt đối tăng 100% thì chúng ta cần phân tích rõ tỷ lệ đậu ĐH 2018 10% và 2019 20%.
+ Giả sử mỗi năm có 1 triệu thí sinh đi thi và cố định qua hàng năm, như vậy với tỷ lệ đậu ĐH năm 2018 là 10% thì rõ ràng là có 100.
+000 thí sinh đậu, còn năm 2019 với tỷ lệ đậu ĐH 20% thì phải có 200.
+000 thí sinh đậu.
+ Vậy rõ ràng là tăng 100% rồi.
+Vậy câu hỏi tiếp theo là con số 10% hay 100% tăng thì thể hiện chính xác hơn những gì đang diễn ra? Để trả lời câu hỏi này thì chúng ta xem thử ví dụ sau.
+Số người chết do tiêm vắc xin năm 2018  là 1 trên 1.
+000.
+000 người, trong khi năm 2019 là 2 trên 1.
+000.
+000 người.
+ Vậy nếu bạn nói số người chết do tiêm vắc xin tăng 100% hay tỷ lệ người chết do tiêm vắc xin tăng 0,0001% đều đúng.
+ Vậy nếu như một tờ báo lá cải giật tít kiểu “Số người chết do tiêm vắc xin trong năm qua tăng gần 100%” và sau đó chèn thêm một vài nghiên cứu cho có vẻ học thuật nhưng biết rằng 99.
+99% người đọc chẳng buồn click vào thì bạn phải tỉnh táo trước những con số này.
+ Hãy nhớ: con số mà không có bối cảnh chỉ là con số chết.
+2.
+ Tương quan hay là nhân quả (Correlation or causation)Đây là một điều nhầm lẫn cũng khá phổ biến trong thống kê.
+ Tương quan là khi hai con số có mối quan hệ cùng chiều hay ngược chiều nhau nhưng không có nghĩa là cái này gây ra cái kia.
+ Đôi khi chúng chỉ là ngẫu nhiên có mối quan hệ với nhau.
+Ví dụ: bỗng một ngày đẹp trời bạn thu thập dữ liệu giá phở bò và thấy chúng tăng qua các năm, đồng thời bạn thấy GDP hàng năm cũng tăng trưởng đều y như giá phở bò và sau đó bạn xuất bản một bài báo khoa học “Giá phở bò thúc đẩy tăng trưởng GDP: Bằng chứng thực nghiệm ở VN” thì đó quả là thảm họa.
+Nếu như với các kiểm định thống kê, bạn hoàn toàn có thể chứng minh được 2 bộ dữ liệu khác nhau có mối quan hệ tương quan với nhau hay không, nhưng để chứng minh được chúng có là nguyên nhân của nhau hay không thì là một câu chuyện khác.
+Chẳng hạn chúng ta chứng minh được mối tương quan giữa Chương trình TV bạo lực và Trẻ em có xu hướng bạo lực, nhưng để nói cái nào gây ra cái còn lại thì cũng khó biết được.
+ Có người cho rằng việc xem nhiều chương trình TV bạo lực -> trẻ em có xu hướng bạo lực nhưng biết đâu lại là trường hợp ngược lại, trẻ em có xu hướng bạo lực thì thích xem chương trình TV bạo lực.
+Xem TV bạo lực -> trẻ em bạo lực hay trẻ em bạo lực -> xem TV bạo lực?Ngoài ra khi kết luận cái nào là nguyên nhân của cái còn lại thì chúng ta cũng cần chú ý đến liệu có còn nguyên nhân thứ 3 bên ngoài nào khác hay không (Third-cause fallacy).
+Quay trở lại ví dụ giá phở bò và GDP, liệu có nguyên nhân nào khác khiến cho giá phở bò và GDP tương quan với nhau? Câu trả lời là lạm phát.
+Hay xem xét một ví dụ khác, hút thuốc và điểm kém có mối quan hệ tương quan với nhau.
+ Vậy liệu hút thuốc -> điểm kém hay điểm kém -> hút thuốc, hay là vì bố mẹ chia tay (nguyên nhân thứ 3) nên mới hút thuốc và bị điểm kém?Đây là lỗi được test khá nhiều trong các bài thi chuẩn hóa như GMAT.
+ Các bạn thử chỉ ra lỗi sai trong câu này nhé.
+"As ice cream sales increase, the rate of drowning deaths increases sharply.
+ Therefore, ice cream consumption causes drowning.
+"(Vì doanh thu bán kem tăng, tỷ lệ người chết đuối cũng tăng theo.
+ Vậy nên việc ăn kem dẫn đến chết đuối khi đi bơi).
+Nghe thì có vẻ hợp lý nhưng lý do thật sự đằng sau cả hai việc này là do mùa hè.
+ Mùa hè thì số lượng kem bán ra tăng, số lượng người đi bơi cũng nhiều hơn, nên tỷ lệ chết đuối tăng cũng là dễ hiểu.
+3.
+ Tổng quát hóaĐây là một lỗi cũng rất thường gặp trong thống kê và các ngành khoa học, đặc biệt là khi chúng ta dùng dữ liệu quá khứ để dự báo.
+ Chúng ta không thể dựa vào kết quả của một mẫu thử để phán xét toàn bộ hệ thống nếu đó không phải là mẫu thử đại diện điển hình cho toàn bộ hệ thống.
+Giả sử bạn đang làm khóa luận về “Xu hướng tiêu dùng sữa của Việt Nam” nhưng bạn toàn gửi link khảo sát cho mấy người bạn chung trường, thì đó không thể gọi là mẫu thử đại diện được.
+ Nếu đó là “Xu hướng tiêu dùng sữa của sinh viên trường A” thì sẽ chính xác hơn một chút, nhưng cũng chưa hẳn là chính xác 100% vì nếu bạn chỉ khảo sát bạn bè cùng khóa với bạn thì kết quả chỉ đúng với “sinh viên trường A khóa X” chứ không đại diện cho toàn trường.
+Việc cả đời bạn chỉ nhìn thấy thiên nga màu trắng không đồng nghĩa với tất cả thiên nga đều lông màu trắng, vì chỉ cần một con thiên nga đen tồn tại ở đâu đó thôi cũng đủ bác bỏ giả thuyết của bạn.
+Chúng ta thường hay mắc lỗi này khi kết luận về một nhóm người khi nhóm người đó không đủ tính đại diện cho tổng thể.
+ Ví dụ như chỉ vì trước giờ bạn gặp dân tỉnh X toàn người xấu không có nghĩa là toàn bộ dân tỉnh X đều xấu, vì nó còn phụ thuộc vào bạn gặp tầng lớp nào của dân tỉnh X, gặp ở đâu (gặp ngoài chợ khác với gặp trong thư viện).
+ Cũng như người Việt ở nước ngoài trộm cắp không có nghĩa là toàn bộ dân Việt đều xấu, vì một vài thành phần không thể đại diện cho cả dân tộc.
+ Tuy nhiên chúng ta thích khái quát hóa lên vì điều đó tiết kiệm năng lượng suy nghĩ cho não bộ.
+ Hãy cẩn thận khi phán xét một người khác vì liệu hành vi đó có đại diện được cho tổng thể là nhân cách của người đó hay không, như xăm mình thì liệu có phải là giang hồ?Trường hợp gà tâyKhi gà tây được sinh ra và cho ăn đầy đủ trong suốt một 1000 ngày, chẳng chú gà nào mảy may nghi ngờ rằng mình sinh ra là để phục vụ cho một nhiệm vụ khác, và con người thì quả thật là những người bạn tuyệt vời nhất hành tinh.
+ Cuộc sống đầy sung sướng như thiên đường, mỗi ngày đều được ăn no và chạy nhảy vui vẻ.
+ Nhưng khi dịp giáng sinh đến, gà tây đã không ngờ được rằng nó đã bị bắt khỏa thân trên dĩa, suốt 1000 ngày niềm tin của nó về con người tốt đẹp vẫn còn đó, nhưng chỉ trong 1 ngày mọi thứ tan biến mất.
+Như vậy dù có cả 1000 ngày trước đó củng cố cho niềm tin của gà tây, nhưng chỉ cần 1 ngày cũng có thể phá tan tất cả.
+ Chúng ta không thể dựa vào dữ liệu của quá khứ để dự đoán tương lai.
+ Không ai có thể đoán được tương lai cả.
+ Tất cả những dự đoán đều phải đi kèm theo xác suất.
+Có những sự kiện chúng ta tận mắt thấy, trải nghiệm nhưng sự thật lại không đơn giản như vậy.
+ Hi vọng bài viết này giúp các bạn tìm ra được nhiều ý nghĩa ẩn đằng sau nó, đặc biệt là khi bạn đang tiếp xúc với những con số thống kê.
+Tham khảo:People v.
+ CollinsThe Professor, the Prosecutor, and the Blonde With the PonytailMisuse of statistics
+
+Tác giả: Duy Nguyen

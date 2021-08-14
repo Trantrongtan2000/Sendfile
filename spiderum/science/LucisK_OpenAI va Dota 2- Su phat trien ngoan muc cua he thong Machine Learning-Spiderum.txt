@@ -1,0 +1,46 @@
+OpenAI và Dota 2: Sự phát triển ngoạn mục của hệ thống Machine Learning
+(Bài viết được dịch từ: https://blog.
+openai.
+com/more-on-dota-2/)Kết quả từ Dota 2 cho thấy quá trình tự học có thể cải thiện khả năng của hệ thống Machine Learning từ dưới ngưỡng người bình thường đến trình độ của siêu việt.
+ Trong vòng 1 tháng, hệ thống từ chỗ không là đổi thủ của player rank cao đã đánh bại những Pro player, và tiến bộ không ngừng.
+ Hệ thống tự học có thể tự cải thiện được cơ sở dữ liệu của nó, thay vì dựa vào cơ sở dữ liệu có sẵn như Deep Learning.
+True Skill của bot, thể hiện trình độ và khả năng tiến bộ của nó theo thời gianTimeline của project.
+ Thông tin bên lề: 15% số player có rank < 1.
+5k, 58% dưỡi ngướng 3k trash và 99.
+99% không biết 7.
+5k là gì01/03: hệ thống tự học cơ bản đã học được cách kite một con ES bằng Drow Ranger.
+08/05: Tester 1.
+5k rank nói rằng anh ta còn tiến bộ nhanh hơn con bot.
+Đầu tháng 6: Tester trên sml.
+30/06: 3k trash tester không còn là đối thủ08/07: chiến thắng vật vã đầu tiên trước 1 semi-pro player có rank 7.
+5k07/08: Blitz(cựu player, MMR = 6.
+2k) thua 3 nháy, Pajkatt thua 2 – 1, CC&C(8.
+9k) 3-0.
+ Mọi người tin rằng Sumail sẽ là cứu thế giả09/08: Trashteezy thua 10 – 0, toàn bộ niềm tin đã được đặt nơi Sumail.
+10/08: Sumail thua 6 – 0 trước bot, thừa nhận rằng không thể đánh bại được con bot này.
+ Trước đó ngày 09/08, Sumail dành chiến thắng 2 – 111/08: Dendi đã ngả mũ 2 – 0 trước khán đài Key Arena.
+ Con bot hiện tại có winrate 60% trước con bot của 10/08Mục tiêu của OpenAIĐưa ra fullscale bot cho 5v5, mặc dù con bot hiện tại chỉ đánh solo mid, nhưng bản thân thuật toán của nó không hề bị giới hạn bởi 1v1.
+Giao diện làm việc của bot:Quan sát: API tầm nhìn của bot hoạt động giống như cách chúng ta nhìn game Dota, nó có thể nhận diện heroes, creeps, địa hình, etc.
+Hành động: APM của bot chỉ ngang trung bình của con người, có thể di chuyển, tấn công, dùng skill, dùng itemHồi đáp: bot sẽ được thưởng khi đạt 1 số tiêu chí như máu và last hitTại OpenAI họ đã cho bot sử dụng 1 vài item build, và đánh giá tính hiệu quả của nó.
+ Cơ chế block creep được huấn luyện riêng, vì điều này diễn ra trước khi kẻ địch xuất hiện.
+Tại The International 2017Phương pháp của OpenAI tại TI 2017 đó là kết hợp giữa việc tự học của bot và 1 số chỉ dẫn của con người đã đạt kết quả khá tốt.
+ Vào tới thứ 2, Pajkatt chiến thắng nhờ lên Magic Wand rất sớm, item này ngay sau đó đã được đưa vào training.
+Vào 1h chiều ngày thứ 4, con bot mất rất nhiều máu vào wave đầu tiên, ban đầu các kĩ sư tưởng rằng đã có sai sót gì đó và chuẩn bị roll back, nhưng họ chợt nhận ra đó chỉ là hành động “baiting” của con bot làm đối thủ aggressive lao lên mà thôi.
+ Kết hợp điều này với con bot của thứ 2, là giới hạn việc bait này chỉ ở wave đầu, họ đã hoàn thành con bot mà chỉ 20p sau đã hành RTZ 10 – 0.
+Sau trận đánh với RTZ, khả năng block creep của con bot lại được nâng cao, và trước trận đánh với Sumail còn được cải thiện hơn nữa.
+ Sumail chỉ ra rằng con bot đã có khả năng cast raze ngoài tầm nhìn của đối phương.
+ Điều này làm các kĩ sư bất ngờ, vì họ chưa biết mechanic của Magic Wand sẽ không hồi charge nếu đối phương cast skill ngoài tầm nhìn.
+RTZ đồng thời test với player 7.
+5k, mặc dù dành chiến thắng áp đảo nhưng RTZ vẫn bị bất ngờ bởi 1 chiến thuật player này học được từ con bot.
+ RTZ nhấn mạnh rằng kĩ thuật này từng được dùng bởi Paparazi nhưng chưa được chau truốt.
+Pajkat đã dụ con bot trade hit từ sớm, sau đó dùng faerie fire và magic wand để regen.
+ Mặc dù con bot được huấn luyện để quyết định có tham gia giao tranh hay không, nhưng nó không quen với việc có người lên magic wand sớm như vậyLợi dụng sơ hở của botMặc dù Sumail gọi con bot là “bất khả chiến bại”, tuy nhiên tại TI, các fan hâm mộ của Dota đã tìm ra nhiều cách để lợi dụng kẽ hở của botCó 3 nhóm chính:Pull creep: kéo creep địch ra ngoài tower 1, điều này khiến creep phe ta đập vỡ trụ của bot.
+Orb of Venom + Wind lace: có tốc chạy cao để kite bot, dành first blood.
+ Sau đó nhờ lợi thế này để chiến thắng.
+Level 1 Raze: một số player có khả năng vẩy Raze 3-5 phát liên tiếp, ngay lập tức giết bot.
+Mặc dù khắc phục những sơ hở này rất đơn giản, nhưng trong 1 trận đấu 5v5, đây không phải là sơ hở nữa, những kĩ sư tại OpenAI muốn phát triển 1 hệ thống để đối phó với những tình huống kì lạ như này.
+Slack à, dùng courier để bait nó không hiệu quả đâu5v5Từ tháng 11 đến nay, OpenAI đã donate cho OpenDota $12k, download về dữ liệu của 5.
+8M games để làm cơ sở cho những con bot 5v5.
+Ohhhh yeaaaahhhh, OpenAI senpai notice my 2k trash game !!!!
+
+Tác giả: LucisK

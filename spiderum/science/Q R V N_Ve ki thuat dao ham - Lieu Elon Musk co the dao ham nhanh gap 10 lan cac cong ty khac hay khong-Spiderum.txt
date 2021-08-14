@@ -1,0 +1,63 @@
+Về kĩ thuật đào hầm - Liệu Elon Musk có thể đào hầm nhanh gấp 10 lần các công ty khác hay không?
+Source: http://qr.
+ae/TUpSaZCâu hỏi gốc: Dựa vào đâu mà Elon Musk cho rằng có thể đào hầm nhanh gấp 5 đến 10 lần so với những gì mà hàng ngàn dự án đào hầm trải rộng ở hàng tá các quốc gia đã làm?Trả lời bởi Ciaran Mahood, giám sát xây dựng, 15/5/2017Là người có cơ hội làm việc cho một công ty xây dựng của Áo chuyên về đào hầm bằng TBM (tunnel boring machine – máy đào hầm) và là người chứng kiến họ chuyên nghiệp như thế nào trong việc chuẩn bị, lập kế hoạch và thực hiện đường hầm, tôi nghi ngờ khẳng định của Musk nói rằng ổng có thể đào nhanh hơn gấp 5 đến 10 lần so với các công ty hiện tại, những người đã dành ít nhất 50 năm để tối ưu hóa kĩ thuật đào.
+ Thậm chí việc đào nhanh hơn gấp 2 lần so với tốc độ đào ngày nay cũng tiềm ẩn nhiều trở ngại lớn.
+Tốc độ đào hầm ngày nay, ở mức 20m mỗi ngày, đã được coi là thực sự nhanh bằng cách sử dụng TBM kiểu như này:Để đào với tốc độ 18m mỗi ngày, bạn cần phải đặt 12 vòng bê tông đúc sẵn mỗi ngày để chống sụp hầm.
+ Trông chúng giống như này:Mỗi vòng bao gồm 7-9 mảnh ghép.
+ Trông chúng như này trước khi được đưa vào đường hầm.
+Tất cả các mảnh ghép này cần phải được vận chuyển vào đường hầm (nên nhớ chỉ có một lối để vào và ra cho nên hầm chỉ cho phép một xe di chuyển trong một thời điểm) bằng cách sử dụng các loại xe có thể lái ở cả hai chiều, trông như thế này.
+ Thông thường người ta cố gắng mang theo đủ mảnh cho một vòng bằng 1 chuyến.
+Khi bạn đã đào được 5km vào trong hầm thì sẽ mất tới 2 giờ cho mỗi chuyến bao gồm cả việc dỡ hàng.
+ Vì vậy, trong 24 giờ bạn có thể chỉ chạy được 12 chuyến, tức 12 vòng trong một ngày.
+Có lẽ sẽ năng suất hơn một chút nếu đội của bạn làm việc trơn tru nhưng đường hầm càng dài thì bạn càng ít có khả năng cải thiện yếu tố này bất kể TBM đào nhanh như thế nào.
+ Do đó việc cung cấp vòng kịp thời sẽ trở thành một yếu tố cản trở cốt lõi.
+Đây cũng là lý do tại sao các trạm tàu điện ngầm có xu hướng cách nhau 3 - 5km.
+ Điều này nhằm tạo điểm cung ứng mảnh ghép bê tông và cho phép TBM bắt đầu lại trên một đoạn đường mới, kéo dài 3 - 5km.
+Tuy nhiên, nếu bạn may mắn và bạn đào hầm trong điều kiện đá lý tưởng, bạn có thể sử dụng TBM “dạng kẹp” mà không cần vòng bê tông để trợ lực cũng như ngăn thấm nước.
+Đây có phải là câu trả lời cho việc đào nhanh hơn không?Không.
+Tại sao?Nhược điểm của máy TBM này là đá tự nhiên rất cứng và làm chậm tiến độ xuống còn 10 - 20m mỗi ngày.
+TBM “dạng kẹp” cũng phải dừng thường xuyên để thay đổi đĩa cắt;Những đĩa cắt này chịu trách nhiệm thực hiện công việc khó khăn nhất, phá đá.
+ Chúng mòn dần và cần dừng thường xuyên để thay thế.
+ Thay thế chúng không dễ dàng vì chúng nằm ở mũi của TBM và nặng tầm 100 kg mỗi đĩa, quá nặng để công nhân có thể mang vác.
+Vậy thì chúng ta có thể tăng tốc độ TBM bằng cách nào? Sử dụng đúc vỏ hầm trượt thay vì các đoạn đúc sẵn ư? Kỹ thuật này được sử dụng cho các tháp cao dạng trụ tròn, như này; [ND: kĩ thuật coffa trượt, lắp coffa - đổ bê tông - trượt coffa lên và đổ tiếp].
+ Tuy nhiên, các tháp trụ tròn chỉ có thể đạt được tốc độ xây 5m mỗi ngày vì vậy đây cũng không phải là câu trả lời.
+Một phương pháp đào hầm khác, được dùng cho hầm đường kính nhỏ (tối đa 3,5m) [ND: đây là loại hầm Musk nhắm tới, đường kính tầm 12 ft ~ 3.
+7 m], đó là đẩy bằng kích thủy lực.
+ Lúc này các vòng bê tông được đẩy vào đường hầm bằng cách sử dụng hệ thống kích thủy lực lớn nhưng nó cũng chỉ hiệu quả trong khoảng 1km.
+ Sau đó thì phải khoan trục khác [ND: trục thẳng đứng trong hình] để kích tựa vào và đẩy tiếp, nếu không sẽ làm hỏng vòng bê tông.
+ [ND: nếu bạn đẩy vòng đi xa thì kích phải mạnh, và quá mạnh thì nó sẽ bóp nát đoạn bê tông nằm gần kích]Đây cũng không phải là câu trả lời.
+ Quá tủn mủn và chả nhanh hơn bao nhiêu.
+Thật lòng là tôi không có câu trả lời khả dĩ để có thể đào nhanh hơn gấp 5 lần vì vậy tôi sẽ không được Musk tuyển vào làm đâu.
+ Nếu có thì câu trả lời đó sẽ cách mạng hóa việc đào hầm luôn rồi.
+Tuy nhiên, trong cuộc phỏng vấn với TED gần đây của Musk về dự án đường hầm Los Angeles, ổng đề cập chắc nịch rằng sẽ giảm chi phí cho việc đào hầm xuống 10 lần hoặc hơn nữa.
+Quy mô lớn luôn là một cách để tiết kiệm tiền.
+ Bằng cách này, các nhà máy có thể giảm chi phí đúc các mảnh ghép bê tông.
+Đất đá đào được có thể được tái chế thành cốt liệu và / hoặc cát để dùng đúc các mảnh ghép bê tông.
+ Điều này tương đối mơ hồ nhưng cũng giúp bạn gỡ được chút tiền nếu may mắn.
+Còn cách nào khác để tiết kiệm tiền không?Khi làm xong hầm, bạn sẽ đào được một ĐỐNG đất đá và tốn kha khá tiền để tiêu hủy đấy.
+Nếu có rất nhiều đường hầm được đào cùng một lúc, bạn có thể xây được thứ đại loại như này ngoài khơi bờ biển Los Angeles và kiếm thêm được ít tiền cho dự án đường hầm.
+ TBM cũng đòi một lượng lớn điện năng để vận hành chúng.
+ Tiền điện có thể giảm bằng cách sử dụng điện sạch, từ gió chẳng hạn.
+Một chi phí khác không được đề cập đó là khi bạn mang đào một cái hầm nghĩa là bạn có một cái lỗ, và nó gây khó khăn trong việc di chuyển.
+Bạn có thấy khối lượng bê tông lót và đường ray ấy không? Rất nhiều công sức (và cả tiền nữa) được bỏ ra để đặt chúng vào hầm đấy.
+ Nên chăng, một phương pháp nào đấy có thể được nghiên cứu để tận dụng đất đào nhằm đúc bê tông tại chỗ trong khi vẫn đang đào hầm, thay vì phải vác đống đất đá ấy ra rồi lại mang chúng vào trở lại.
+Tóm lại, hiện tại không có viên đạn bạc [ND: biện pháp thần thánh] nào để giảm chi phí làm hầm cả.
+ Việc tái sử dụng đất đá đào lên có thể sẽ mở ra một lối thoát thực tế nhất trong việc kiếm thêm doanh thu cho dự án.
+ [ND: trên thực tế, Musk dùng đất đá đào lên để làm gạch xây nhà, lấy tên là Boring Brick, bạn nào quan tâm có thể google thử]Hiệu quả chính là chìa khóa và là điều trăn trở mỗi khi xúc tiến đào hầm.
+ Tôi đồ rằng dự án đường hầm mà Musk kêu gọi ở Los Angeles sẽ phải hứng chịu tổn thất rất nhiều nếu chúng có hiệu suất và hậu cần hỗ trợ kém.
+ Đây là cách nhanh nhất để ném tiền qua cửa sổ.
+Một cách khác để đốt tiền là chọn sai loại TBM, hay thảm họa hơn đó là bị kẹt với các đội thi công thiếu kinh nghiệm.
+Vì vậy, tuyển đúng người chuyên làm việc với TBM và những giám sát có kinh nghiệm trong việc lập kế hoạch và thực hiện các công trình là cách tốt nhất để tiết kiệm tiền.
+Điều này đúng với hầu hết các dự án xây dựng thuộc bất kì kiểu công trình nào nhưng thường xảy ra nhất khi yêu cầu cắt giảm chi phí trở nên khắt khe.
+Từ những gì tôi đọc được, tôi cược rằng Musk không thường xuyên chọn lối tắt hay cắt xén hoặc bỏ qua những nguyên tắc cơ bản với đội ngũ SpaceX.
+ Vì vậy, ổng sẽ lại vận dụng những chiến thuật đơn giản [như đã từng làm với SpaceX] với Công ty Boring nếu ổng thực sự muốn cắt giảm chi phí.
+[ND: Musk đã đào 2.
+7 dặm ~ 4.
+34 km đường hầm, đường kính tầm 12-14ft ở Los Angeles để phục vụ nghiên cứu tiền khả thi cho dự án đào hầm.
+ Đường hầm này dùng máy đào kiểu cũ, nhưng bán kính đào bé nên đào tương đối nhanh (đào từ tháng 4 và hoàn thành tầm đầu tháng 6 năm nay).
+ Sắp tới Musk sẽ cho đào tiếp ở Chicago một đoạn dài tầm 4 dặm.
+Cá nhân mình thì rất mong chờ cuối năm nay hoặc năm sau, khi Musk dùng máy đào mới, được cho là sẽ đào nhanh gấp 2 lần máy cũ.
+ Mình rất tò mò các mà đội ngũ Musk sẽ áp dụng để vừa đào vừa chống hầm (đây là cách Musk và công ty của ổng bảo rằng sẽ giúp đào nhanh, thay vì đào xong ngưng để chống như truyền thống)Bài dịch này cũng liên quan ít nhiều tới dự án metro ở TPHCM khi mà nó cũng đào bằng TBM của Nhật]Bài dịch của Thái Minh Văn tại group Quora Việt Nam.
+
+
+Tác giả: Q R V N

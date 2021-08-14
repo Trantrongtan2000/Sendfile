@@ -1,0 +1,38 @@
+Hiệu ứng Dunning-Kruger( Hiệu ứng ảo tưởng sức mạnh)
+Dunning-Kruger là tên hai thầy trò giáo sư tâm lý học David Dunning và Justin Kruger, người đã đưa ra báo cáo chính thức về hiệu ứng này vào năm 1999 và đạt giải IG Nobel về tâm lý học năm 2000.
+ Tuy nhiên, họ cũng trích dẫn hai câu danh ngôn là những ghi nhận đầu tiên về hiện tượng này: “Ngu dốt thường sinh ra sự tự tin hơn là kiến thức”(Charles Darwin) và “Một trong những điều đau khổ của thời đại chúng ta là những ai cảm thấy chắc chắn lại là những kẻ ngu ngốc, còn người giàu tưởng tượng và tri thức lại lấp đầy bởi sự hoài nghi và lưỡng lự” (Bertrand Russell).
+Hiệu ứng Dunning-Kruger là một lệch lạc nhận thức (cognitive bias) trong đó những người kỹ năng kém đưa ra những quyết định tồi và những kết luận sai lầm, nhưng việc thiếu năng lực lại ngăn cản năng lực nhận thức (metacognitive: nhận thức về nhận thức) về chính những sai lầm đó.
+ Do đó, những người có kỹ năng kém chịu ảnh hưởng của ảo tưởng tự tôn (illusory superiority), đánh giá những kỹ năng của họ trên mức trung bình, trên mức thực tế; trong khi những người có kỹ năng cao lại đánh giá thấp năng lực của họ, chịu ảnh hưởng của ảo tưởng tự ti (illusory inferiority).
+Nguyên nhân gây ra hiệu ứng tâm lý này là vì chúng ta thiếu kinh nghiệm và chưa từng trải qua những công việc đó để đánh giá, nên dẫn đến nhận định sai lầm.
+ Ví dụ như việc lần đầu tiên bạn nấu một món ăn đơn giản, bạn nghĩ rằng điều đó không quá khó và mình có thể làm tốt và tốt hơn nhiều người khác.
+Như vậy, nếu một người chưa từng làm việc nào đó (ví dụ như nấu ăn, sửa điện hay làm startup) thì họ sẽ thường có đánh giá chủ quan một cách sai lầm rằng họ sẽ có thể làm được những việc đó “Cũng OK” (ngay lập tức, khi chưa có training gì).
+ Họ nghĩ mình sẽ làm được 4-5 điểm trên thang 10.
+ Nhưng thực tế thì nếu họ làm thật thì chỉ có 0-2/10.
+Thực tế là mọi người đều dễ trải nghiệm hiện tượng này, và thực sự, hầu hết chúng ta đều có thể đã gặp nó, hơn nữa còn rất thường xuyên là đằng khác.
+ Một chuyên gia trong một lãnh vực có thể nhầm tưởng rằng sự thông thái và kiến thức của mình có thể ‘lan’ luôn sang các lĩnh vực khác mà họ thực sự không hiểu rõ.
+ Ví dụ, một nhà khoa học lỗi lạc có thể viết văn dở tệ.
+ Để nhà khoa học này nhận ra được sự thiếu hụt kỹ năng này thì bản thân ông ta cũng phải sở hữu kiến thức tốt về ngữ pháp và bố cục.
+ Vì thiếu hụt kỹ năng này nên nhà khoa học trong ví dụ cũng thiếu luôn khả năng nhận ra năng lực tệ hại của mình.
+Cụ thể, Dunning & Kruger mô tả quá trình này diễn ra như sau:Khi chưa biết gì về lĩnh vực nào đó thì mức độ tự tin của một người sẽ bằng 0 → điều này dễ hiểu và không có gì để bàn.
+Vấn đề bắt đầu thú vị khi những người bắt đầu biết sơ sài về một lĩnh vực nào đó thì thường có xu hướng lầm tưởng là mình đã rất giỏi trong lĩnh vực ấy.
+ Họ rất tự tin về những phát biểu của mình, hay thậm chí đi chỉ dạy người khác.
+ Giai đoạn này gọi là Peak of Mt.
+ Stupid – Đỉnh cao của ngu ngốc.
+Khi bắt đầu đào sâu nghiên cứu, sự tự tin này ngay lập tức rớt xuống gần như bằng không.
+ Giai đoạn này gọi là Valley of Despair – Thung lũng của sự thất vọng.
+Nếu họ vẫn tiếp tục tìm hiểu, mỗi ngày sự hiểu biết của họ sẽ mỗi tăng – song song đó sự tự tin của họ dần tăng dần trở lại.
+ Giai đoạn này gọi là Slope of Enlightment – Con dốc của sự khai sáng.
+Việc tăng dần này sẽ tiếp tục cho đến khi người đó trở thành một chuyên gia, khi mà họ đã hiểu tường tận từ trong ra ngoài lĩnh vực đó.
+ Lúc này sự tự tin cũng sẽ tăng đến một mức độ ổn định.
+ Giai đoạn này gọi là Plateau of Sustainability – Cao nguyên của sự bền vững.
+ (Tuy nhiên, dù mức độ tự tin ở giai đoạn này có cao thì cũng hiếm khi nào cao bằng Peak of Mt.
+ Stupid).
+Kruger và Dunning đưa ra nhận xét rằng: một người năng lực kém– Sẽ có khuynh hướng đánh giá quá cao năng lực, kỹ năng của họ– Không thể nhận ra kỹ năng, năng lực thật sự của người khác– Không thể nhận ra giới hạn của sự kém cỏi của họ– Vẫn có thể nhận thức về sự yếu kém của mình nếu họ được hướng dẫn để cải thiện thực sựChúng ta có thể nhận ra hiệu ứng này rất dễ dàng trong xã hội: những người chẳng có một tí chuyên môn nào lại phát biểu rất đao to búa lớn về lãnh vực đó; những người chỉ với những kiến thức đầu tư học “mót” lại tự tin sẵn sàng bỏ số tiền dành dụm cả đời vào cuộc chơi đầu tư chứng khoán; những thường dân chỉ biết thông tin như “lá mít” lại sẵn sàng chê bai dè bỉu những quyết sách của những nhà lãnh đạo hàng đầu…Nếu hiệu ứng Dunning-Kruger lại gặp phải đối với một lãnh đạo thì thực sự là một thảm họa “Chính sự kém cỏi lại là nguyên nhân của việc không nhận ra sự kém cỏi.
+ Cái vòng luẩn quẩn đó của các nhà quản lý thiếu năng lực thường gây không ít thiệt hại cho công ty của bạn”.
+ Bởi hiệu ứng này cũng thường đi kèm với hiệu ứng quá tự tin (overconfidence) dẫn đến làm tăng ảnh hưởng của quá trình leo thang cam kết (escalating commitment): khi mà người đưa ra quyết định không chịu thu hồi quyết định của mình khi nó không hợp thời nữa; hay lại tiếp tục tiêu tốn tiền của, công sức, thời gian cho một đầu tư thất bại thay vì phải làm điều ngược lại.
+Vậy bạn có thể làm gì để đánh giá thực tế hơn năng lực của bản thân trong một lĩnh vực nào đó nếu bạn chưa tin vào vào khả năng tự đánh giá của mình?-Hãy không ngừng học hỏi và luyện tập-Hãy nhờ người khác nhận xét về bạn-Luôn hoài nghi cái bạn biếtHiệu ứng Dunning-Kruger là một trong rất nhiều thiên kiến nhận thức có thể ảnh hưởng lên hành vi và quyết định của bạn, từ những cái thường nhật cho đến những vấn đề làm thay đổi cuộc sống của bạn.
+ Con người ta dễ nhận ra hiện tượng này ở người khác nhưng nên nhớ rằng đây là hiện tượng ảnh hưởng lên tất cả chúng ta.
+ Hiểu được nguyên nhân góp phần gây ra thiên kiến tâm lý này có thể giúp bạn xác định được khuynh hướng này ở bản thân và tìm cách để vượt qua nó.
+
+
+Tác giả: Mạnh Chung

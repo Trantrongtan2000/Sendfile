@@ -1,0 +1,51 @@
+Internet of Things| Phần 1: People or Things
+Nhiều người nghĩ rằng Internet of things là việc chiếc lò nướng trò chuyện với chiếc máy giặt.
+ _ Timothy trong cuốn PrecisionTrong thời đại công nghệ, mọi lĩnh vực từ kinh tế, giáo dục, công nghiệp, nông nghiệp, dịch vụ cho đến quốc phòng an ninh đều đang chuyển mình nhanh chóng.
+ Ứng dụng các tiến bộ khoa học công nghệ đem lại hiệu quả cao trong tất cả các mặt của đời sống .
+ Những công ty, doanh nghiệp về công nghệ trong thời đại này đang vươn lên mạnh mẽ hơn bao giờ hết.
+ Việc chạy đua, cạnh tranh nhau của các công ty kể trên đem lại những tiến bộ tích cực cùng những xu hướng công nghệ mới phục vụ đời sống.
+ Kỉ nguyên Internet of People suốt hơn hai mươi năm qua đã đưa những công ty đặc biệt là trong lĩnh vực bán lẻ như Amazon, Paypal hay eTrade, vươn lên mạnh mẽ.
+ Ngày nay, chúng ta còn đang chứng kiến sự phát triển dường như còn mạnh hơn của các công ty công nghệ thời đại mới.
+ Truyền thông đưa tin rất nhiều về cuộc cách mạng công nghiệp 4.
+0, về cơ hội thách thức với các doanh nghiệp.
+ Như một chấm màu chủ đạo trong cuộc cách mạng mà báo đài vẫn đang không ngừng réo tên, Internet of things nổi lên như là một kỉ nguyên công nghệ mới.
+Yêu cầu đặt ra từ nền kinh tếĐộng thái chuyển ứng dụng doanh nghiệp ( ví dụ như tài chính, bán hàng, tiếp thị, thu mua, bảng lương hay quản lí nhân sự ) lên đám mây được thúc đẩy bởi nhu cầu thay đổi lớn của nền kinh tế.
+ Công nghệ điện toán đám mây ( cloud computing ) là một khái niêm rối rắm xong ở mức độ đơn giản, có thể hình dung việc sử dụng phần mềm điện toán đám mây như việc chơi game online mà không cần cài vào máy vậy, bạn sẽ tiết kiệm được dung lượng ổ cứng và có thể chơi ở mọi lúc mọi nơi với một chiếc máy tính kết nói Internet.
+Toàn bộ ứng dụng sẽ được lưu trữ trên 'đám mây'Chi phí thực của các ứng dụng doanh nghiệp không nằm ở giá mua mà thay vào đó là chi phí quản lí, bảo mật.
+ sự thay đổi hỗ trợ ứng dụng trong với phần cứng phần mềm ,.
+.
+.
+ Hình dung đơn giản là chi phí mỗi năm một doanh nghiệp phải trả cho các hoạt động quản lí, bảo mật nhiều hơn  gấp 4 lần chi phí mua bản quyền của ứng dụng.
+Thành phần chi phí cơ bản để quản lí ứng dụng là con người.
+ Việc tìm kiếm nguồn lao động giá rẻ có thể là một giải pháp xong giá cả rồi cũng sẽ chạm sàn trong khi chi phí quản lí ứng dụng vẫn tăng lên.
+ Dịch vụ điện toán đám mây ứng dụng doanh nghiệp có chi phí thấp hơn đáng kể vì các quy trình quản lí, bảo mật, .
+.
+.
+ đã được chuẩn hóa.
+ Việc thay đổi, sửa chữa có thể được tự động hóa giúp ta tiết kiệm được nguồn nhân lực cũng như tăng tính linh hoạt lên rất nhiều.
+Không còn là Internet of PeoplePhần mềm ra đời giúp ích cho hoạt động của doanh nghiệp rất nhiều.
+ Ngày nay ở một vài công ty công nghệ, những phần mềm này còn còn có thể trở thành trung tâm trong hoạt kinh doanh của công ty như Uber, Grab, .
+.
+.
+ Qua từng giai đoạn phát triển của các xu hương công nghệ cũng như yêu cầu của nền kinh tế, các thế hệ phần mềm khác nhau cũng lần lượt ra đời.
+ Trong khi cả hiện tại lẫn trước kia chúng vẫn thường tập trung vào chúng ta - những con người, cá nhân hoặc nhóm; giúp chúng ta  mua sách, tuyển nhân viên hoặc giao tiếp với người khác thì những thiết bị ( things ) không phải là con người.
+ Có vẻ là hiển nhiên xong hay xem thử bạn có thực sự hiểu về sự khác biệt giữa chúng không ?Things nhiều hơn con người.
+ John Chambers , CEO của Cisco System, gần đây tuyên bố sẽ có cỡ 500 tỷ thiết bị sẽ được kết nối đến năm 2024.
+ Dân số thế giới hiện tại đang là 7.
+2 tỷ người.
+Things có thể nói nhiều hơn con người.
+ Chúng ta giao tiếp với ứng dụng thường qua những thiết bị như chuột và bàn phím, đôi khi có thể thêm là microphone và màn hình cảm ứng xong sẽ khó có thể so được với một thiết bị smartphone điển hình với cỡ 14 cảm biến từ máy gia tốc kế, định vị GPS, cảm biến ánh sáng, cảm biến âm thanh, cảm biến vân tay, hồng ngoại, .
+.
+.
+ Những thiết bị, máy móc phức tạp hơn, số lượng cảm biến có thể dễ dàng lớn hơn nhiều.
+Things có thể nói nhiều hơn.
+  Hình dung là chúng ta chỉ sử dụng chuột và bàn phím khi muốn mua vài món đồ online còn một bộ cảm biến lưới điện có thể gửi tín hiệu đi 60 lần mỗi giây.
+Things không phải con người.
+Ngày nay khi đối mặt với quá nhiều luồng thông tin, bằng nhiều cách khác nhau, mỗi người lại xây dựng cho mình một quan niệm riêng về xu hướng công nghệ này.
+ Dưới góc nhìn của các nhà doanh nghiệp, những người làm chính sách hay trong chính những người làm về công nghệ, IoT lại được hình dung theo những cách rất khác nhau.
+ Sự  khập khiễng này khiến cho việc ứng dụng công nghệ IoT vào đời sống gặp rất nhiều khó khăn.
+ Ứng dụng IoT rất phức tạp và không có một khuôn thức chung xong việc hiểu được nguyên lí cơ bản là điều cần thiết.
+ Những bài viết tới đây về IoT sẽ như là một cuộc hành trình của cá nhân tôi trong việc tìm hiểu về bản chất của công nghệ này dưới góc nhìn thực tế và gần gũi nhất.
+
+
+Tác giả: tedsblog

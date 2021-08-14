@@ -1,0 +1,111 @@
+Quantum entanglement
+Nếu là một fan sci-fi, chắc hẳn bạn không còn lạ gì với khái niệm dịch chuyển tức thời (teleport).
+ Đây là một chủ đề phổ biến trong các tác phẩm khoa học viễn tưởng, từ văn học, truyện tranh, phim ảnh cho đến game.
+My life for Aiur!Dịch chuyển tức thời là một khái niệm chỉ sự chuyển dời vật thể từ một điểm này đến một điểm khác trong chớp mắt, bất kể khoảng cách xa thế nào.
+ Hãy tưởng tượng đến viễn cảnh tương lai, ở đó, sau khi trải qua một tuần làm việc vất vả ở Trái Đất, bạn bước chân vào chiếc cổng dịch chuyển, và ngay tức khắc, bạn có mặt ở Sao Hỏa để tận hưởng những ngày nghỉ cuối tuần của mình.
+ Xe cộ, máy bay, tên lửa lúc này trở nên lỗi thời so với phương tiện lưu thông mới này, và vấn nạn kẹt xe ở một số nước, ví dụ như Việt Nam, sẽ hoàn toàn chấm dứt.
+ Quả là một viễn cảnh tuyệt vời! Chúng ta hãy cùng xem xét xem tính khả thi của các ý tưởng giúp hiện thực hóa khả năng dịch chuyển tức thời này thế nào.
+WormholeĐầu tiên phải kể đến lỗ giun (wormhole).
+ Trên lý thuyết, đây là một cấu trúc dị biệt, một ‘cầu nối’ giữa hai điểm riêng biệt, tạo nên lối đi tắt xuyên qua không-thời gian, vật chất có thể đi từ vùng này sang vùng kia bằng cách chui qua lối tắt này.
+ Vào năm 1935, Albert Einstein cùng với nhà vật lý Nathan Rosen đã sử dụng thuyết tương đối rộng để thẩm định ý tưởng và đề xuất sự tồn tại của những ‘cầu nối’ này.
+ Chính vì thế, lỗ giun đôi khi còn được gọi là ‘cầu nối’ Einstein-Rosen.
+Một mô hình không-thời gian bị uốn cong, mô phỏng cách một lỗ giun được hình thành với hai cổng tròn và một đường hầm xuyên không-thời gian kết nối giữa chúng.
+ Credit: edobricLỗ giun thường được hình dung với hai cổng tròn và một đường hầm xuyên không-thời gian kết nối giữa chúng.
+ Trong những câu chuyện khoa học viễn tưởng, một nền văn minh cấp độ III trên thang đo Kardashev, có đủ khả năng sản xuất ra được nguồn năng lượng cực lớn, cũng như sở hữu được những công nghệ tối cao, rất có thể sẽ xây dựng được một hệ thống lỗ giun ngoài không gian.
+ Đó là một hệ thống bao gồm những thiết bị tạo lỗ giun khổng lồ, một cổng đặt ở gần hành tinh mẹ, và một cổng khác đặt ở xa, xa thật xa, cách hàng tỷ năm ánh sáng, gần một hành tinh con xa xăm nào đấy.
+ Và qua đó, các con tàu vũ trụ có thể dịch chuyển tức thời bằng cách di chuyển xuyên qua chúng, du hành vượt qua một khoảng không gian rất lớn trong một khoảng thời gian rất ngắn, gần như tích tắc.
+Credit: Terran Jumpgate by HideyoshiVề mặt lý thuyết, lỗ giun còn làm được nhiều hơn thế, nó có thể giúp chúng ta du hành đến cả những không gian vũ trụ khác.
+ Thậm chí, nếu hai cổng đều đặt cùng một nơi, nhưng được phân cách bởi thời gian thay cho không gian, chúng ta có thể du hành xuyên thời gian trở về quá khứ hoặc đi đến tương lai.
+ Nhưng đó là những câu chuyện khác, về đa vũ trụ, về cỗ máy thời gian và những nghịch lý.
+ Tại đây, chúng ta sẽ chỉ bàn về khả năng du hành trong không gian vũ trụ mà chúng ta đang sống.
+Mặc dù lỗ giun đã được tiên đoán thông qua thuyết tương đối rộng, nhưng cho đến nay, vẫn chưa có bằng chứng thực nghiệm nào về sự tồn tại của lỗ giun; chúng hầu như không tồn tại, tất cả những gì chúng ta có được đều chỉ là lý thuyết, theo lời Stephen Hsu, giáo sư Vật lý lý thuyết tại Đại học Oregon.
+ Và việc du hành xuyên qua lỗ giun trên thực tế lại rất phức tạp, không chỉ bởi chúng ta chưa tìm ra được chúng, mà còn bởi vướng phải rất nhiều trở ngại khác.
+Trước hết, kích thước của lỗ giun quá nhỏ để đi xuyên qua.
+ Theo những tiên đoán trên lý thuyết về lỗ giun nguyên thủy, hình thành ngay sau thời điểm xảy ra Big Bang, sự tồn tại của chúng chỉ ở mức vi mô, khoảng 10^-33 cm.
+ Theo thời gian, trải qua sự giãn nở của vũ trụ, có thể chúng đã được kéo giãn ra đôi chút, nhưng vẫn rất nhỏ để chúng ta có thể chui qua.
+Vấn đề tiếp theo chính là độ ổn định của lỗ giun; chỉ cần một tác động nhỏ, bao gồm việc vật chất chui qua, cũng làm nó sụp đổ, co lại nhanh chóng.
+ Hsu cho rằng, chúng ta cần một vài loại vật-chất-lạ (exotic matter), có một số đặc tính lạ thường như năng lượng âm, khối lượng âm hay áp suất âm để giữ cho lỗ giun này ổn định.
+Một số nghiên cứu gần đây cho thấy, một lỗ giun chứa đựng bên trong nó những vật-chất-lạ này có thể giúp nó giữ được trạng thái ‘mở’ và trở nên ổn định hơn trong một khoảng thời gian nhất định.
+ Tuy nhiên, những loại vật-chất-lạ này hiện nay chỉ có thể tìm thấy trong một số điều kiện rất đặc biệt.
+ Và với những tính chất lạ thường kể trên, sẽ rất nguy hiểm nếu chúng ta tiếp xúc với chúng khi đi xuyên qua lỗ giun.
+Ngay bây giờ, hãy giả sử chúng ta có đủ năng lượng và công nghệ tối tân để có thể tóm được lỗ giun và phóng lớn nó lên hàng nghìn tỷ lần, đủ lớn để con người, thậm chí cả tàu vũ trụ cũng có thể đi xuyên qua được, thì chúng ta vẫn sẽ phải đối mặt với một trở ngại khác.
+ Đó chính là sự phản hồi (feedback).
+Ta có thể dễ dàng thấy được sự phản hồi gây ra những hậu quả như thế nào trong những hệ thống âm thanh.
+ Đầu tiên, tín hiệu âm thanh sẽ được thu bởi micro, truyền theo dây điện đến những bộ khuếch đại rồi đi ra khỏi loa, sau đó tiếp tục được thu bởi micro tạo thành một vòng lặp.
+ Công suất của tín hiệu âm thanh ngày một tăng, dần dần chuyển thành những tiếng rít chói tai.
+ Nếu không ngắt vòng lặp này, hệ thống âm thanh chắc chắn sẽ bị phá hủy.
+Giáo sư Stephen Hawking tin rằng điều tương tự sẽ xảy ra đối với lỗ giun khi chúng ta phóng lớn chúng.
+ Và tác nhân ở đây sẽ là bức xạ điện từ thay vì tín hiệu âm thanh.
+ Các bức xạ điện từ tự nhiên từ các ngôi sao hay bức xạ vi sóng vũ trụ sẽ vào ra trước miệng lỗ giun, tạo thành một vòng lặp được khuếch đại dần dần, và đến lúc nào đó sẽ phá hủy lỗ giun.
+“His passing has left an intellectual vacuum in his wake.
+ But it's not empty.
+ Think of it as a kind of vacuum energy permeating the fabric of spacetime that defies measure.
+ Stephen Hawking, RIP 1942-2018.
+” – Neil deGrasse Tyson.
+Như vậy việc dịch chuyển tức thời bằng cách sử dụng lỗ giun vẫn còn quá xa vời so với nền văn minh nhân loại hiện tại.
+ Sẽ phải còn rất rất lâu nữa loài người mới có thể tiến đến cột mốc văn minh cấp độ III để có thể chinh phục các lỗ giun.
+ Chúng ta phải tìm ý tưởng khác khả thi hơn.
+Quantum entanglementNếu chúng ta không thể dịch chuyển vật thể, vậy hãy tìm cách dịch chuyển thông tin của vật thể và tái tạo lại nó tại nơi tiếp nhận dựa trên những thông tin ấy.
+ Đây là ý tưởng đã từng xuất hiện trong bộ phim Star Trek, và nó khả thi hơn chúng ta tưởng rất nhiều.
+ Chúng ta sẽ phân tách vật thể thành các hạt cực nhỏ đến mức độ lượng tử, đo đạc và chuyển chúng thành dữ liệu – một bộ hướng dẫn bao gồm toàn bộ thông tin và sơ đồ sắp xếp của các hạt – rồi dịch chuyển đi; miễn là nơi nhận có đủ nguyên liệu, chúng ta có để tái tạo lại vật thể như ban đầu.
+Beam me up, Scotty!Dữ liệu sẽ chỉ chứa thông tin chứ không chứa vật chất, đồng nghĩa với việc chúng không mang khối lượng, và vì vậy chúng có thể được vận chuyển với vận tốc ánh sáng thông qua những phương thức truyền tải thông tin thông thường như sóng radio, sóng vi-ba hoặc cáp quang.
+Vấn đề ở đây chính là rất khó để đo đạc chính xác và đầy đủ thông tin của các hạt ở mức độ lượng tử.
+ Nguyên lý bất định Heisenberg (Heisenberg's uncertainty principle) trong cơ học lượng tử không cho phép chúng ta xác định chính xác cả vị trí lẫn động lượng của một hạt cùng một lúc; nếu ta càng biết chính xác thông tin về một đại lượng thì thông tin về đại lượng còn lại càng kém chính xác.
+ Thật là oái oăm, Chúa đang chơi trò xúc xắc ư?!Cũng giống như Newton, luôn mong muốn các phương trình phải đưa ra được những tiên đoán chính xác, Einstein không chấp nhận sự mập mờ (fuzzy), thiếu chắc chắn trong cơ học lượng tử.
+ Ông tuyên bố “Chúa không chơi trò xúc xắc” và lên đường tìm kiếm gót chân Achilles của cơ học lượng tử.
+ Vào năm 1935, Einstein đã tìm thấy thứ gì đó rất lạ, rất mâu thuẫn với tất cả những điều hợp lý về vũ trụ.
+ Dựa trên những phương trình của lý thuyết cơ học lượng tử, ông đã đưa ra tiên đoán kỳ quặc nhất, vô lý nhất, điên rồ nhất, nực cười nhất, đó là vướng víu lượng tử (quantum entanglement).
+ Chúng kỳ lạ đến ngay cả Einstein cũng thấy khó hiểu về chúng và gọi chúng là “sự tác động ma quái từ xa” (spooky action at a distance).
+ Không chấp nhận sự vướng víu phức tạp này, Einstein tự thuyết phục mình rằng các phép tính mới vớ vẩn, chứ đây không phải là thực tế.
+ Ông cho rằng vướng víu lượng tử chính là lỗ hổng của cơ học lượng tử và tin tưởng vào điều này cho đến khi ông mất vào năm 1955.
+ Năm 1972, tại trường Đại học Columbia, John Clauser đã tiếp nối ý chí của Einstein, thực hiện thí nghiệm dựa trên một đề tài nghiên cứu của một nhà vật lý không mấy tiếng tăm người Ireland khi ấy, tên là John Bell, nhằm chứng minh rằng vướng víu lượng tử không tồn tại, hòng phản bác lại lý thuyết cơ học lượng tử.
+ Nhưng trớ trêu thay, kết quả thí nghiệm lại cho thấy Eintein đã sai, cho dù Clauser đã cố thử bao nhiêu lần đi chăng nữa.
+ Ngay sau đó, nhà vật lý người Pháp, Alain Aspect cũng bắt đầu thực hiện chuỗi thí nghiệm tương tự và cũng đạt được cùng một kết quả.
+ Chúa thực sự đang chơi trò xúc xắc với chúng ta!Quay lại vấn đề, dựa vào hiện tượng vướng víu lượng tử mà Einstein đã phát hiện ra, chúng ta có thể dịch chuyển tức thời con người và các vật thể mà không cần phải đo đạc chính xác và đầy đủ thông tin của các hạt.
+ Và như thế sẽ không vi phạm nguyên lý bất định Heisenberg.
+Vướng víu lượng tử là một mối liên kết bí ẩn giữa các hạt, khiến cho mọi sự đo đạc hay tác động trên hạt này ngay lập tức cũng sẽ ảnh hưởng đến hạt còn lại, bất chấp khoảng cách giữa chúng xa thế nào, thậm chí có thể lên tới cả nhiều năm ánh sáng.
+ Giáo sư Christopher Monroe, dẫn đầu nhóm nghiên cứu tại Viện Lượng tử Joint thuộc Đại học Maryland, cho biết, khi cho xung laser có xung động hoàn toàn đồng bộ, đồng thời đập vào các hạt, sẽ làm cho chúng rung động cùng một nhịp, và điều này sẽ tạo nên mối liên kết vô hình giữa các hạt.
+Credit: Mark GarlickBằng chứng thực nghiệm cho thấy ý tưởng dịch chuyển tức thời dựa vào hiện tượng vướng víu lượng tử là hoàn toàn khả thi.
+ Một nhóm các nhà khoa học làm việc trên quần đảo Canary ngoài khơi Châu Phi đã dịch chuyển tức thời thành công hạt photon.
+ Bằng cách tạo ra một cặp photon và cho chúng ‘vướng’ vào nhau; một hạt được giữ lại tại đảo La Palma, hạt photon còn lại được vận chuyển bằng tia laser tới đảo Tenerife cách đó 143 km.
+ Sau đó họ mang photon thứ ba, photon mà họ định cho dịch chuyển tức thời, cho nó tiếp xúc với photon tại La Palma.
+ Nhóm nghiên cứu theo dõi sự tiếp xúc này, so sánh trạng thái lượng tử của hai hạt.
+ Dựa vào kết nối kỳ lạ kia, họ có thể sử dụng kết quả so sánh vừa có được để biến đổi photon trên hòn đảo Tenerife trở thành một bản sao khác của photon thứ ba.
+ Cứ như thể photon thứ ba đã dịch chuyển tức thời xuyên đại dương, từ đảo La Palma sang đảo Tenerife mà không cần ‘di chuyển’ qua khoảng không gian ở giữa.
+ Thậm chí trong một nghiên cứu gần đây, các nhà khoa học Trung Quốc đã dịch chuyển tức thời thành công các hạt photon lên không gian vũ trụ, đạt khoảng cách lên tới 300 dặm (gần 500 000 km).
+Tuy nhiên, để dịch chuyển tức thời con người và vật thể như trong Star Trek, sẽ phải còn rất lâu chúng ta mới có thể thực hiện được.
+ Vấn đề nan giải đầu tiên đó là làm thế nào để tạo ra một số lượng lớn các hạt ở trạng thái vướng víu lượng tử.
+ Đây là một số lượng khổng lồ, tổng số hạt tạo nên cơ thể một con người nhiều hơn cả tổng số ngôi sao khả kiến trong vũ trụ.
+ Và điều này dẫn đến hai vấn đề khác:Thứ nhất, đó là việc lưu trữ và xử lý dữ liệu.
+ Giả sử nếu mỗi hạt tương ứng với một bit thì bản đồ dữ liệu con người cần đến khoảng 35 nghìn tỷ Gigabyte!!!Thứ hai, chúng ta phải tìm ra phương pháp truyền tải dữ liệu tốt hơn.
+ Ở thời điểm hiện tại, với một khối lượng dữ liệu vô cùng lớn như vậy, giả như chúng ta có dùng đến một triệu sợi quang đi chăng nữa, việc truyền dữ liệu của một người từ TP.
+ HCM đến New York thôi cũng sẽ phải mất đến cả năm trời mới truyền tải hết được.
+ Như thế thì đi bộ và chèo thuyền còn nhanh hơn.
+Hơn nữa, dịch chuyển tức thời bằng cách phá hủy và tái tạo lại cơ thể từ dữ liệu thế này dấy lên một câu hỏi mang tính Triết học: Sau khi dịch chuyển tức thời, liệu bạn có còn là chính bạn hay không? Bởi vì mặc dù mọi thông tin của các hạt đều giống hệt ban đầu, nhưng rõ ràng nguồn gốc các hạt để tái tạo lại cơ thể ở đích đến khác hoàn toàn so với các hạt ở điểm xuất phát.
+Mặc dù vậy, chúng ta không thể phủ nhận tính khả thi của ý tưởng này.
+ Thậm chí Michio Kaku – giáo sư Vật lý lý thuyết tại Làng Đại học New York (CUNY), tác giả của hai quyển sách Parallel Worlds và Physics of the Future – cho rằng công nghệ dịch chuyển tức thời dựa vào hiện tượng vướng víu lượng tử này sẽ sớm được hoàn thiện trong vòng vài thập kỷ tới, trước khi chúng ta bước sang thế kỷ 22.
+ Điều này hoàn toàn có cơ sở.
+ Hãy thử nghĩ xem, từ chiếc máy tính điện tử đầu tiên cho đến những sản phẩm công nghệ hiện đại mà chúng ta đang sử dụng chỉ mất khoảng 70 năm để phát triển.
+ Các thiết bị thông minh, robot, AI, VR/AR, … cũng đã từng là những thứ khoa học viễn tưởng.
+ Với tốc độ phát triển của khoa học kỹ thuật ở thời điểm hiện tại, những vấn đề trên sẽ sớm được giải quyết, và trong một tương lai không xa, dịch chuyển tức thời sẽ trở thành hiện thực.
+ Chúng ta hãy cùng đón chờ xem.
+Michio Kaku, giáo sư Vật lý lý thuyết tại Làng Đại học New York (CUNY), và là tác giả của hai quyển sách Parallel Worlds và Physics of the Future.
+Cheshire.
+(Nếu có sưu tầm bài viết thì vui lòng giữ nguyên thông tin tác giả và dẫn nguồn về Spiderum)
+----------
+[Nguồn tham khảo]
+Sci-Fi Science: Physics of the Impossible | Episode 04: How to Teleport (documentary)
+The Fabric of the Cosmos | Episode 02: Quantum Leap (documentary)
+Into the Universe with Stephen Hawking | Episode 02: Time Travel (documentary)
+Will we ever be able to teleport? - Sajan Saini
+What is a Wormhole?
+Quantum Entanglement in Physics
+Beam me up, Scotty! Scientists teleport photons 300 miles into space
+Michio Kaku: "Star Trek-Style Teleportation IS Possible And We Could Be Beaming To Other Planets Within Decades"
+----------
+[Nguồn động lực]
+James Paget - The Hero Within
+Antti Martikainen - Wolves of the Sea
+Thomas Bergersen - Protectors of the Earth
+
+Tác giả: Cheshire

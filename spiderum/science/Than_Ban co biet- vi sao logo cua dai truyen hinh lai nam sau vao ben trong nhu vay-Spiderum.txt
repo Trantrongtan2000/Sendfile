@@ -1,0 +1,37 @@
+Bạn có biết: vì sao logo của đài truyền hình lại nằm sâu vào bên trong như vậy?
+Khi xem tivi trên những chiếc tivi màn hình rộng ngày nay, nếu đễ ý một chút bạn sẽ thấy rằng logo của nhà đài không nằm cân đối ở một góc màn hình mà nó lại nằm sâu vào bên trong.
+ Khoảng cách của logo so với mép màn hình là khá xa, đặc biệt với cạnh bên còn xa hơn cả cạnh trên (hoặc dưới).
+ Đa số mọi người đều không để ý và thấy đây là điều bình thường, nhưng vẫn có một số ít sẽ cảm thấy hơi khó chịu khi logo nằm sâu vào bên trong như vậy.
+ Tại sao họ lại để cái logo sâu bên trong như vậy gây mất tập trung cho người xem?Mình để full screen để các bạn thấy cái logo nó sẽ nằm sâu bên trong thay vì là ở mép màn hìnhSao họ lại không để ở góc như thế này?Câu trả lời chính là để hỗ trợ cho các màn hình cũ có tỷ lệ là 4:3.
+Mặc dù ngày nay những chiếc tivi màn hình siêu mỏng với tỷ lệ 16:9 đã chiếm ưu thế, tuy nhiên những chiếc tivi 21 inch thậm chí là 14 inch với tỷ lệ màn hình 4:3 vẫn còn một số lượng không hề nhỏ.
+ Những chiếc tivi này thường vẫn còn được sử dụng ở nông thôn, hoặc trong các phòng ngủ ở các nhà ở trong thành thị.
+ Khi hiển thị trên những màn hình này, logo sẽ trở nên cân đối một cách kỳ lạ, tại sao vậy?Khi hiển thị trên màn hình 4:3, hình ảnh sẽ không được cắt hai cạnh bên, mà sẽ bị bóp lại cho nó thành tỷ lệ 4:3.
+ Lúc này hình tròn sẽ trở thành hình elip, mặt người cũng từ đó mà dài (hoặc thon gọn) hơn.
+ Và tất nhiên cái khoảng cách của logo với cạnh bên so với khoảng cách giữa logo so với cạnh còn lại sẽ gần bằng nhau hơn.
+Hỉnh ảnh khi hiển thị ở hai tỷ lệ khác nhau, khoảng cách này có vẻ như gần bằng nhau hơnTuy nhiên, chiếc tivi có màn hình tỷ lệ 4:3 lại không lấy hết hình ảnh ở sát mép của khung hình, mà nó lại cắt mỗi bên một chút vào bên trong.
+ Nếu bạn nào đã từng một thời xem tivi trên những chiếc tivi trắng đen đời cũ, các bạn sẽ thấy phía sau sẽ có những nút điều chỉnh vị trí của hình ảnh so với chiều ngang và chiều dọc.
+ Mặc định hình ảnh sẽ được cắt ở ngay giữa, tuy nhiên lại thật sự không đều, mà hai cạnh bên trái và bên phải lại bị cắt mạnh hơn hai cạnh trên và dưới.
+Đây chính là thứ mà bạn sẽ nhìn thấy khi xem trên những chiếc tivi có tỷ lệ màn hình 4:3.
+ Phần màu vàng chính là phần bị cắt bỏChính vì điều này mà các bạn sẽ thấy không chỉ có logo của nhà đài mà những chi tiết khác như phụ đề, những chi tiết trang trí sẽ cách mép màn hình một cách khá xa chứ không nằm quá gần mép.
+ Ngay cả khi quay phim, người ta cũng tránh việc để phần vai của nhân vật ở vị trí sát mép bên và phần đỉnh đầu ở sát mép trên, họ luôn có một khoảng cách đủ để chúng hiển thị được đầy đủ trên màn hình có tỷ lệ 4:3.
+Câu chuyện về bóp hình và cắt hình không chỉ dừng lại ở đó.
+  Ở một số phim điện ảnh (chỉ một số thôi nhé), khi nhà làm phim có chủ ý phim sẽ được chiếu lại trên đài hoặc phát hành đĩa DVD, họ sẽ để các chi tiết chính nằm trong khung hình 16:9.
+ Cụ thể như sau:Phim điện ảnh thường được quay với tỷ lệ 21:9, tỷ lệ này khiến mọi thứ rộng hơn và xem "đã" hơn.
+ Nhưng với những nhà làm phim với chủ ý như trên, họ sẽ đặt các chi tiết chính như mặt nhân vật bên trong một khung hình 16:9, khung hình này nằm bên trong khung 21:9, nghĩa là sẽ bị thừa ra hai bên cạnh một phần không nhỏ.
+ Những chi tiết này thường là phần nền (background) của cảnh phim, hoặc một phần vai của nhân vật chính.
+ Khi chiếu trên đài, vì muốn trải nghiệm xem phim của khán giả được "toàn màn hình" và vì phim cũng đã chuẩn bị sẵn điều này, họ sẽ cắt bỏ 2 mép hai bên để phim có tỷ lệ 16:9 mà vẫn không mất đi những chi tiết cần thiết.
+ Tỷ lệ này lại bị "bóp và cắt" thêm một lần nữa nếu khán giả xem trên những chiếc tivi 4:3 đời cũ.
+ Thế là từ 21:9 đã biến thành 4:3.
+ Ngày xưa mình cũng thắc mắc điều này mãi.
+Tuy nhiên, không phải lúc nào nhà làm phim cũng làm vậy.
+ Phần lớn họ sẽ quay đúng với tỷ lệ 21:9 để trải nghiệm xem được tốt hơn.
+ Nhà đài không thể cắt bỏ 2 bên mép vì sẽ mất đi những chi tiết cần thiết cho phim, vì vậy họ đành chấp nhận có 2 mép đen ở phía trên và phía dưới.
+ Phần khung hình của phim lúc này vẫn là 21:9, còn khi lên màn hình 4:3 thì khung hình lại bị "bóp và cắt" thành 16:9.
+ Ngày xưa, trên những đĩa DVD lậu, lúc đó tỷ lệ khung hình là 4:3 chứ không phải là 16:9 như bây giờ, cho nên để bảo toàn khung hình, họ buộc phải để 2 mép đen rộng gấp đôi, ruốt cuộc là chúng ta sẽ thấy cái hình nó bé xíu trên chiếc tivi đã bé sẵn.
+Mặc dù ngày nay các nhà đài đã phát sóng với khung hình mới là 16:9 (vẫn còn một số ít đài phát theo tỷ lệ cũ), tuy nhiên họ vẫn phải hỗ trợ tỷ lệ màn hình cũ vì những chiếc tivi này vẫn còn được sử dụng trên thị trường.
+ Thế nên để tránh những chi tiết cần thiết bị "cắt" đi (nhất là logo), họ buộc phải để mọi thứ nằm "hơi sâu" vào bên trong như thế.
+ Nếu bạn hỏi bao giờ chuẩn màn hình cũ mới bị khai tử hoàn toàn thì sẽ không có câu trả lời đâu.
+ Còn lâu lắm.
+
+
+Tác giả: Thân

@@ -1,0 +1,87 @@
+News Feed tuần này có gì? - Tuần 1
+Tôi quyết định làm một series những gì mình nhận được từ mạng xã hội, và có vài trang không giống mạng xã hội cho lắm.
+ Bài này đáng lẽ đăng từ hôm qua, nhưng hơi biếng.
+I.
+ TwitterXbox ra mắt Dự án Scarlett.
+ Bao gồm 5 tính năng khá ấn tượng như trong  hình.
+ Một số nâng cấp về phần cứng và ở dưới bình loạn là so sánh PS5 và  Xbox.
+ Nếu bạn để ý avatar của Xbox thì, à, tháng này là Pride Month  đấy.
+ Sự kiện lần này của Xbox có vẻ khá hoành tráng, khi hợp tác với  Keanu Reeves để quảng bá cho game Cyberpunk2077.
+John Wick của tôi, John Wick của tôi.
+Thông tin bên lề khác, AI dự đoán đội tuyển nữ bóng đá Mỹ sẽ vô địch  World Cup bóng đá nữ năm nay ở Pháp với tỉ lệ nâng cup là 28.
+1%Đây là mô hình kết hợp giữa ba phương pháp tiên tiến nhất.
+ Đầu tiên nó  ước tính khả năng của mỗi đội dựa trên kết quả trong vòng 8 năm qua, với  các kết quả gần đây được chú ý hơn.
+ Nó tạo ra ước tính thứ hai cho mỗi  đội dựa trên 18 nhà cái.
+ Cuối cùng, dựa trên văn hóa và tài chính, như  dân số quốc gia và GDP (ủa, liên quan).
+Đây là cơ hội thắng cho mỗi đội trong đợt WWC lần này.
+ Nguồn: NewScientistVà thông tin cuối cùng của chuyên mục Twitter.
+ Đó là:Elizabeth Garrett Anderson (1) là người mở ra cánh cửa ngành y cho phụ nữ Anh.
+ Bà là một bác sĩ và nữ  quyền, và là người phụ nữ đầu tiên ở Anh đủ điều kiện làm bác sĩ y khoa  và bác sĩ phẫu thuật.
+ Cuộc đời bà cũng có khá nhiều lần “đầu tiên ở  Anh”.
+II.
+ LinkedInTin đầu tiên trong chuyên mục LinkedIn là chia sẻ của Bill Gates về ông bạn vong niên - và cũng rất giàu, Warren Buffett.
+ Qua bài của Bill Gates, ta biết được tỷ phú Warren của chúng ta ăn bánh Oreo và kem trong đồ ăn sáng của ông ấy.
+ Và tôi xin trích dẫn một đoạn trong bài, theo tôi là rất đắt giá.
+Every time I get to see Warren, I’m struck by his surprising,  insightful, “upside-down” view of the world.
+ He thinks differently—about  almost everything.
+ For starters, he credits his amazing success to  something anyone could do.
+ “I just sit in my office and read all day,”  he explained.
+In a time when instant gratification is craved in all aspects of life,  Warren is one of the most patient people I know, willing to wait to get the results he wants.
+ As he once said, “Someone’s sitting in the shade  today because someone planted a tree a long time ago.
+”Sự khôn ngoan và kiên nhẫn mà tuổi trẻ hay thiếu!Sony và Microsoft hợp tác tăng cường trải nghiệm game, mặc dù tin đã thiu nhưng nó xuất hiện thì vẫn đăng thôi.
+Trong khi các fanboiz còn đang cãi nhau xem PS4 với Xbox cái nào ngon hơn, thì hai anh đã bắt tay hợp tác về lưu trữ đám mây và dịch vụVà đây là tin cuối của mục LinkedIn.
+ Vợ của Bill Gates chia sẻ về câu chuyện giáo dục của một cô gái ở châu Phi.
+ I believe that every girl, no matter where she is born, deserves a chance to dream, learn, and achieve her full potential.
+III.
+ QuoraCâu hỏi đầu tiên xuất hiện trên Feed: What is the one skill that, if you have it, will completely change your life?Câu trả lời đầu tiên nhận 5.
+8k Upvote, viết rất dài, và túm gọn lại trong 1 câu: No pain, no gain.
+Câu trả lời thứ hai, cũng rất dài, mở đầu bằng câu, "Time heals all wounds", sau một quá trình phản biện, chốt lại: Be kind to yourself.
+ Be compassionate to yourself.
+ Practise emotional hygiene.
+ It will change your life.
+Câu trả lời thứ ba, khá dài và viết rất quy tắc.
+ Viết theo phong cách diễn dịch.
+ Chốt ý của người bình loạn: Willpower to change yourself no matter how hard it looks/ feels.
+Còn theo mình, kỹ năng đó chính là: học cách mở rộng tấm lòng và chấp nhận tất cả.
+Câu hỏi thứ hai: What are your 10 laws of programming?Câu hỏi này có 29 câu trả lời.
+ Và chúng rất bổ ích.
+ Mình có thể tóm gọn lại những ý có vẻ quan trọng và được nhiều người nhắc tới như sau:* Pencil and Paper.
+ Trước khi code, phải giải quyết được vấn đề, chúng ta có thể gọi đây là thuật toán.
+ Nên ghi ra giấy để dễ suy nghĩ hơn là tự nghĩ trong đầu.
+* Take break.
+ Nên thực hiện Pomodoro Technique, khi bí quá thì nên đi dạo một chút để đầu óc thư thái và có thể dễ giải quyết vấn đề hơn.
+ Ngoài ra ngồi lâu không tốt cho sức khỏe.
+* Language is tool.
+ Ngôn ngữ chỉ là công cụ, cái cần thiết phải học là nắm rõ các khái niệm cũng như cách hoạt động của array, loop, function call,.
+.
+.
+ sau này nhảy ngôn ngữ thì rất dễ, chỉ học syntax là được.
+ Không cần thiết phải thánh chiến vì ngôn ngữ này tốt, hay hơn ngôn ngữ nọ.
+ Bọn gà nó mới làm thế.
+* Keep code as simple as possible, but not simplest.
+ Code tối giản là gốc rễ của mọi tội ác, code phức tạp làm nhức nách người sau.
+ Code có nghệ thuật là code dễ bảo trì, không cần còm men cũng hiểu.
+* Always test your code.
+ Luôn luôn kiểm tra và chạy thử sản phẩm của mình, chứ đừng đợi Tester làm điều đó.
+* Never stop improving yourself.
+ Trước khi copy code của người khác, phải hiểu nó.
+ Không ganh tị với thành quả người khác làm, hãy học hỏi nó.
+ Không gắn bó duy nhất với một công nghệ, phải không ngừng học tập, đổi mới.
+ Không được tự mãn với thành quả của bản thân.
+ Hãy chiến đấu với tâm thế của kẻ chiến thắng và luyện tập với tâm thế của kẻ chiến bại.
+ Và đừng, phát minh lại cái bánh xe.
+Toàn những thứ linh ta linh tinh và có thể nhiều người không quan tâm,  nhưng với mình, nó là một phần của cuộc sống.
+ Mình không có Xbox, và  cũng không có nhu cầu xài Xbox, nhưng mình là fangirl của Microsoft, nên  coi như phổ cập kiến thức và đường lối phát triển của công ty.
+ Mình  không quan tâm phong trào nữ quyền, nhưng mình hâm mộ cái cách mà vợ  chồng Bill Gates giúp đỡ châu Phi và toàn thế giới.
+ Mình không quan tâm  những bí quyết, kỹ năng đổi đời.
+ Nhưng mình thấy thú vị khi đọc quan  điểm của nhiều người khác nhau, nó giúp mình học hỏi nhiều hơn, mỗi quan  điểm chứa đựng mỗi câu chuyện về cuộc đời mỗi con người.
+ Đọc để thông  cảm và thấu hiểu nhau.
+ Và vì một ước mơ trở thành game dev, mình đọc  những câu chuyện của những pro khác, để học hỏi kinh nghiệm từ họ.
+Đằng sau mỗi quan điểm, là một cuộc đời.
+Chuyên mục đến đây là kết thúc.
+ Hẹn gặp lại mọi người ở kì sau.
+(1): https://en.
+wikipedia.
+org/wiki/Elizabeth_Garrett_Anderson
+
+Tác giả: Zegeln

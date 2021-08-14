@@ -1,0 +1,131 @@
+Con người đã giành lấy quyền kiểm soát khỏi tay những vị thần, và vận may đã trở thành một công cụ thiết kế có khả năng thay đổi trải nghiệm và suy nghĩ của người chơi.
+Những thử thách & trách nhiệm của vận may được lập trình sẵnMột bài viết của Simon Parkin trên tạp chí khoa học Nautilus.
+ Simon là tác giả của cuốn sách Death by Video Game: Danger, Pleasure, and Obsession on the Virtual Frontline, và là người đã viết rất nhiều những bài luận và bài báo cho các tờ báo lớn như The New Yorker, The Guardian, The New York Times, MIT Technology Review, và tờ New Statesman.
+Vào ngày 16 tháng Chín năm 2007, một Youtuber người Nhật với cái tên “Computing Aesthetic” (Thẩm mỹ Máy tính) đã tải lên một đoạn video dài bốn mươi tám giây, với một tựa đề nhìn đã thấy thật điếc tai.
+ “CÚ BẮN MAY MẮN VĨ ĐẠI SIÊU THẦN SẦU.
+” Video quay cảnh một cú bắn ăn điểm cực cao trong Peggle, một game điện tử rất nổi tiếng, được thiết kế dựa trên các máy chơi game pachinko của Nhật, trong đó có một viên bi lăn và rơi dần từ trên đỉnh máy xuống dưới đáy, trong khi va đập qua lại một rừng những chốt chặn nhiều màu sắc.
+ Viên bi cứ chạm vào chốt nào, là chốt đó sẽ biến mất; chạm càng nhiều, thì điểm càng cao.
+ Mặc dù Peggle cũng đòi hỏi một chút kỹ năng—trước khi bắn viên bi, người chơi phải căn thời gian thật chuẩn xác cho đầu phóng được treo ngược trên đỉnh màn hình—nhưng nhìn chung thì bạn phần lớn sẽ phải nhờ cậy vào những cú chạm may mắn trong game này.
+ Trong đoạn video của Computing Aesthetic, điểm số cứ ngày càng được cộng dồn lên trong khi viên bi cứ thế va đập loạn xạ với các chốt chặn.
+ Như để làm tô đậm thêm sự vi diệu của cú bắn, khúc nhạc “Ode to Joy” của Beethoven đã vang lên một cách đầy phấn khích, cho đến những giây cuối cùng của video, viên bi đã rơi vào chiếc xô ở dưới đáy màn hình và dòng chữ “FEVER SCORE” nhấp nháy lên màn hình.
+ Trong phần mô tả của video này, với lượt view gần lên tới con số 250,000, có viết rằng “Tôi không thể tin nổi chuyện này lúc nó xảy ra!!!!!!!!!”Cheaters, TCN: Các loại xúc xắc, thường được làm từ móng thú vật, đã được tìm thấy tại các lăng mộ, cho thấy dù cho người cổ đại có tin rằng việc gieo xúc xắc là phán quyết của thánh thần, điều đó cũng không có nghĩa là thánh thần không bao giờ muốn ngửa tay giúp đỡ con ngườiVideo của Computing Aesthetic chỉ là một trong số gần 20,000 video trên Youtube được đặt tên bằng những chữ như “Peggle” hay “Lucky,” được tải lên từ những người đang kinh ngạc vì vận may của mình trong game, đến mức họ cảm thấy họ cần phải chia sẻ thành tựu đó của mình với cả thế giới.
+ Nhưng những người chơi này trên thực tế không may mắn như họ vẫn tưởng.
+ “Trong Peggle, sự va đập tưởng chừng như ngẫu hứng của viên bi với các chốt chặn đôi khi cũng có thể bị thao túng nhằm đem lại kết quả khả quan hơn cho người chơi,” Jason Kapalka, một trong số các nhà phát triển của tựa game, đã thú nhận với tôi.
+ “Cú nảy may mắn để đảm bảo rằng viên bi sẽ chạm vào một chốt chặn mục tiêu xác định thay vì rơi vào khu vực bi chết chỉ được sử dụng rất hạn chế.
+ Tuy vậy, chúng tôi cũng có áp dụng yếu tố ‘vận may’ bất ngờ cho người chơi trong khoảng nửa tá những màn chơi đầu tiên của họ để giữ cho họ khỏi bị ức chế trong khi đang học cách điều khiển.
+” Chỉ cần điều chỉnh hướng của bất kỳ cú nảy nào cho nó lệch đi một vài độ—nhưng không quá nhiều để khiến cho viên bi lượn vòng giữa không trung một cách quá phi thực tế—là đủ để khuyến khích những người mới và đồng thời khiến cho game không trở nên quá sức khó tin, Kapalka chia sẻ.
+Tính công bằng là một lời hứa bất thành văn của đa số game điện tử.
+ Điều khiển bởi một người thiết kế toàn năng và toàn tâm, một game điện tử hoàn toàn có đủ khả năng để trở nên công bằng tuyệt đối, và người chơi cũng hy vọng chúng sẽ công bằng như vậy.
+ (Người thiết kế cũng có lý do để nhắm tới sự công bằng: Một game mà cứ liên tục hạ gục người chơi là sớm muộn sẽ chẳng có ma nào muốn chơi nữa.
+) Và dù vậy, kể cả khi các game thực sự chơi đúng theo luật, thì người chơi vẫn có thể có cảm giác rằng mình đang bị chơi xỏ.
+ Sid Meier, nhà thiết kế của tựa game Civilization, một tựa game mà ở đó người chơi đóng vai người lãnh đạo để đưa một quốc gia đi qua lịch sử, chính trị, và chiến tranh đã nhanh chóng nhận thấy rằng ông cần phải điều chỉnh những con số tỷ lệ trong game để chiều lòng sự thiếu sót về mặt tâm lý này.
+ Các thử nghiệm đã cho thấy nếu một người chơi được cho biết rằng họ có 33% cơ hội thành công trong một trận chiến, nhưng sau đó lại thất bại ba lần liên tiếp, thì họ sẽ trở nên ức chế và đâm ra bán tín bán nghi.
+ (Trong Civilization, bạn có thể chơi đi chơi lại một trận chiến cho đến khi bạn thắng, mặc dù bạn sẽ càng ngày càng hao tổn nhiều hơn sau mỗi lần thua.
+) Do đó Meier đã tinh chỉnh game để nó trở nên phù hợp hơn với những định kiến nhận thức (cognitive bias) của con người; nếu khả năng chiến thắng một trận chiến của bạn là 1 phần 3, thì game sẽ đảm bảo chắc chắn rằng trong trường hợp xấu nhất, bạn chắc chắn sẽ thắng ở lần thử thứ ba—hoàn toàn không phản ánh đúng xác suất thực sự, nhưng vẫn tạo ra ảo giác về sự công bằng.
+ Ta tạm gọi nó là Nghịch lý Vận may: May thì vui, nhưng may quá thì thành ảo.
+ Và vì thế, cuộc thương lượng giữa người chơi và người thiết kế game tồn tại cho đến bây giờ vẫn luôn được coi là một trong số những cuộc thương lượng tập thể trừu tượng nhất từ trước đế nay.
+Thời xa xưa, vận may thường được người đời gán với sự can thiệp của những đấng tối cao; các trò chơi đối với các thánh thần cũng giống như một sân chơi để kiểm tra khả năng của con người.
+ Vận may là một yếu tố không thể thiếu trong các trò chơi của người Ai Cập cổ đại, và nữ thần Theuth của họ cũng là đấng sáng tạo ra viên xúc xắc, theo lời của Plato đã nói.
+ Trên thực tế, xúc xắc thường được làm từ xương cựa, xương đùi của các loài thú bốn chân có móng, sau đó được đánh bóng và sử dụng trong các loại trò chơi mặt bàn (board game) của người Ai Cập và trong một loại hình chiêm tinh bói toán được gọi là astragalomancy.
+ Các viên xúc xắc thường xuyên được tìm thấy cùng với các trò chơi mặt bàn trong các lăng mộ cổ; dù cho người Ai Cập cổ đại có tin rằng việc gieo xúc xắc là phán quyết của thánh thần, điều đó cũng không có nghĩa là thánh thần không bao giờ muốn ngửa tay giúp đỡ con người.
+Olaf Haraldsson, một vị vua ở thế kỷ thứ 11 của Na-uy, đã từng có lần đặt cược cả một vương quốc vào một trò chơi xúc xắc thử nghiệm để thử nghiệm niềm tin.
+ Olaf đã vướng vào một cuộc tranh giành lãnh thổ với vua Thụy Điển vì hòn đảo Hising; cuối cùng hai bên đã chấp nhận giải quyết tranh giành với một cú gieo xúc xắc.
+ Vua Thụy Điển đã gieo được hai con sáu, điểm cao nhất có thể, và tuyên bố rằng chẳng có ý nghĩa gì để chơi tiếp nữa.
+ Olaf vẫn yêu cầu được gieo xúc xắc; bản thân là một người mới theo đạo Thiên Chúa, ông tin chắc rằng Chúa sẽ điều khiển kết quả xúc xắc để giúp ông.
+ Và niềm tin của ông đã được bảo vệ với hai con sáu liên tiếp.
+ Hai người đàn ông tiếp tục lần lượt thảy xúc xắc, người này được mười hai và người kia cũng được mười hai.
+ Và câu chuyện chỉ đi đến hồi kết khi, trong lượt thảy cuối cùng của Olaf, một viên xúc xắc đã bị vỡ ra làm đôi, và hai mảnh vỡ hiện ra con số sáu và một, qua đó giúp ông giành được vương quốc với số điểm 13 kỳ diệu.
+Vận may là một yếu tố quan trọng không kém trong game hiện đại, dù cho nó có đến từ viên xúc xắc va đập lách cách trong chiếc cốc hay từ những lá bài Chance đầy nguy hiểm trong trò chơi Cờ tỷ phú.
+ Nhưng vai trò của nó đã thay đổi: Con người đã giành lấy quyền kiểm soát khỏi tay những vị thần, và vận may đã trở thành một công cụ thiết kế có khả năng thay đổi trải nghiệm và suy nghĩ của người chơi.
+ Ví dụ, nó cho phép người chơi có thể chơi cùng nhau và giúp giảm bớt sự khác biệt về mặt trình độ.
+ Nhà thiết kế hiện đang sống ở New York là Zach Gage gần đây đã quyết định tái phát minh trò chơi cờ vua bằng cách đưa vào đó rất nhiều yếu tố may mắn.
+ “Trong lịch sử thì cờ vua là một trò chơi rất cân bằng và phụ thuộc hoàn toàn vào khả năng của người chơi,” anh nói.
+ “Điều đó là tốt, nếu như bạn muốn xem xem ai chơi cờ vua giỏi hơn, nhưng sẽ không thú vị cho lắm nếu bạn muốn chơi một ván game vui vẻ với bạn bè không cùng trình độ với mình.
+”May thì vui, nhưng may quá thì thành ảo.
+Really Bad Chess thì ngược lại, game lại trao cho người chơi một nhóm các quân cờ được lựa chọn ngẫu nhiên ở đầu mỗi ván cờ.
+ Thế cờ của hai bên sẽ không tương đồng nhau, vì thế rất có thể một người chơi sẽ có tới tận năm quân Hậu và người còn lại thì có một đống quân Tốt.
+ “Thiết kế này có hai điểm lợi,” Gage nói.
+ “Nó cho phép người chơi yếu hơn cảm thấy họ vẫn có cơ hội trước đối thủ mạnh hơn bởi họ có thể may mắn nhận được những quân cờ mạnh hơn.
+ Và nó giúp cho sức mạnh tương đối của hai phe trở nên khó phân định hơn, kể cả với một chuyên gia.
+” Trong game này, cũng giống như Poker, chiến thắng được phân định bởi cả kỹ năng của người chơi lẫn vận may của họ khi họ rút quân.
+ Thiết kế này cũng cho phép Gage bí mật cộng dồn xác suất của lần rút quân đầu tiên—có thể qua đó cho phép người mới chơi nhận được nhiều quân cờ mạnh hơn, trong khi người chơi nhiều kinh nghiệm hơn sẽ phải rơi vào tình huống ít lợi thế hơn.
+Trong các game máy móc, vận may luôn là vị cứu tinh của người chơi trước chính bản thân hệ thống máy móc đó.
+ Vào đầu những năm 1950, nhà sản xuất máy game thùng pinball đặt tại Chicago có tên Gottlieb đã nhận thấy rằng những người mới chơi pinball thường xuyên để mất viên bi chỉ trong vài phút đầu tiên.
+ Vì thế họ đã cho ra đời một bức vách bằng sắt hình chữ V ngược.
+ Trong những giây đầu tiên của một ván game, bức vách này sẽ trồi lên nằm giữa hai tấm gạt ở dưới đáy máy để giữ cho viên bi khỏi rơi xuống lỗ.
+ Trong những loại máy pinball mới hơn, thì cánh cổng chặn, hay còn gọi là “ball saver” (cụm từ xuất phát từ chiếc máy pinball Gun Smoke, ra đời năm 1968 của Chicago Coin,) được điều khiển bởi phần mềm; liệu bức vách có trồi lên hay không thì sẽ phụ thuộc vào may mắn, một loại may mắn đã được lập trình vào trong thuật toán của máy.
+CÚ SUÝT-ĂN CÓ TOAN TÍNH: Các loại máy đánh bạc (Slot Machine) thường tận dụng ảo giác của vận may bằng cách khiến cho kết quả hiện ra trông có vẻ như bạn vừa suýt trúng jackpotTrong những game kỹ thuật số, thì vận may lại càng được lồng ghép sâu sắc vào trong trải nghiệm, và phải được tái hiện một cách chủ động.
+ Khi quả bóng đá lăn qua thủ môn trong FIFA, hay khi những chiếc xe đua trong một game đua xe bỗng chốc đồng loạt chậm lại một cách rất khó hiểu để bạn có thể vượt lên, thì đó là khi bàn tay của người thiết kế đã can thiệp vào game.
+ Mục đích của sự can thiệp này đó là làm cho bạn được “phổng mũi” và qua đó giữ chân bạn ở lại.
+ Nhưng đó cũng là một thứ cần phải được thực hiện một cách hết sức tinh tế.
+ Nếu người chơi nhận ra họ đang được game bí mật nâng đỡ sẽ cảm thấy bị xúc phạm; bởi sau tất cả, thì vận may chỉ có thể là vận may khi nó không thể bị đoán định.
+Và đó cũng là nơi vấn đề bắt đầu.
+Khi trách nhiệm của vận may được đặt vào tay những vị thần, thì chúng ta chỉ có thể biết cầu nguyện để mong vận may đến.
+ Giờ đây, những kiến trúc sư vận mệnh của chúng ta trong game đều có thể được tìm thấy trên LinkedIn.
+ Với sự hiểu biết đó, sự nhạy cảm của chúng ta đối với những thứ xác suất có phần “sai sai” ngày càng được tăng cao, và các nhà thiết kế cần phải biết bù lại vào đó.
+“Khi người chơi nhận ra bất cứ sự ngẫu nhiên giả nào, thì khả năng là họ sẽ mất đi niềm vui khi họ nắm được vận may,” Paul Sottosanti—một nhà thiết kế ở Riot Games, nhà phát hành của tựa game League of Legends, game trực tuyến được nhiều người chơi nhất trên thế giới—đã chia sẻ.
+ Những tựa game mà ở đó bạn được trao thưởng một cách ngẫu nhiên thường vận dụng một loại hệ thống thường được gọi là “đồng hồ thương hại,” Sottosanti giải thích, nhằm đảm bảo rằng một thứ gì đó may mắn sẽ đến với bạn sau một khoảng thời gian không may mắn—có thể là 10 phút hoặc có thể là một giờ, tùy thuộc vào tựa game.
+ Trong World of Warcraft, mỗi khi người chơi hạ gục một đối thủ, họ hy vọng sẽ nhận được một vũ khí “Tối thượng”—một trong số những vũ khí mạnh mẽ nhất của game.
+ Các vũ khí Tối thượng có khả năng “rớt” vô cùng, vô cùng nhỏ, nhưng đồng thời cũng được lắp một chiếc “đồng hồ thương hại.
+” “Sự mệt mỏi có thể sẽ hiện rõ khi người chơi chỉ mong cho chiếc đồng hồ thương hại mau mau chóng chóng kích hoạt,” Sottosanti nói.
+ “Cảm xúc của người chơi khi họ cuối cùng cũng nhận được một vũ khí Tối thượng thường không phải là niềm vui, mà là sự giải tỏa, và có lẽ đâu đó còn có cả nỗi buồn nữa.
+”Con người đã giành lấy quyền kiểm soát khỏi tay những vị thần, và vận may đã trở thành một công cụ thiết kế có khả năng thay đổi trải nghiệm và suy nghĩ của người chơi.
+Mặc dù một số yếu tố ngẫu nhiên giả được sinh ra để tạo nên cảm giác công bằng, thì đa phần còn lại được sinh ra vì mục đích lợi nhuận.
+ Với sự thăng tiến gần đây của các game dạng freemium—các game miễn phí nhưng lại thu về tiền thật trong quá trình chơi bằng cách bán các vật phẩm ảo—thì đi cùng đó cũng là sự cám dỗ, để thao túng những gì tưởng chừng như chỉ là một sự kiện ngẫu nhiên, nhằm khuyến khích người chơi bỏ thêm tiền.
+ Sottosanti đã nhắc đến một tựa game thẻ bài ảo rất nổi tiếng có tên là Hearthstone làm ví dụ cho việc sử dụng “đồng hồ thương hại” một cách thuần thục.
+ “Khả năng nhận được một lá bài giá trị sẽ tăng lên với mỗi gói bài mà bên trong không có quân nào giá trị cả,” anh nói.
+ “Bạn gần như chắc chắn sẽ nhận được một lá bài giá trị sau khi đã mở khoảng 40 gói bài.
+” Và những gói bài đó được bán rộng rãi cho người chơi.
+Đó là một kỹ thuật đến thẳng từ nghiên cứu của nhà tâm lý học người Mỹ B.
+F.
+ Skinner những năm 1950.
+ Dù cho đối tượng nghiên cứu có là chim bồ câu, chuột, hay thậm chí là con người, thì Skinner cũng nhận thấy rằng, cách tốt nhất để tạo nên một hành vi thói quen, đó là treo thưởng cho nó theo lịch trình ngẫu nhiên.
+ Những nhà phát triển game free-to-play (chơi miễn phí), bằng cách sử dụng một biến độc lập nhằm liên tục trao những giải thưởng nhỏ, nhận thấy rằng họ có thể giữ cho người chơi tiếp tục chơi—và tất nhiên, là tiếp tục trả tiền—được lâu hơn.
+ Kỹ thuật này đến nay vẫn được gọi là Skinner Box.
+Natasha Schüll là một giáo sư phụ tá thuộc ngành Văn hóa và Truyền thông tại Trường Đại học New York, và là tác giả của cuốn sách Addiction by Design: Machine Gambling in Las Vegas (Nghiện theo Kế hoạch: Đánh bạc bằng máy ở Las Vegas.
+) Khi một người chơi cảm thấy đang được thần may mắn ủng hộ, cô nói, “bạn biết rằng đó là khi một số chất dẫn truyền thần kinh đang trỗi dậy, và sản sinh ra dopamine.
+ Kể cả chính ham muốn cưỡng ép được tái hiện lại cảm giác hưng phấn đó cũng được điều khiển bởi trung tâm tiếp nhận phần thưởng trong não bộ.
+” Sức mạnh có thể biến chúng ta trở thành những người theo đuổi vận may đó của chất dopamine có thể được trông thấy một cách rõ ràng nhất trong hệ quả của một số loại thuốc đặc trị để chữa chứng Parkinson, chứng bệnh mà ở đó, trong việc truyền chất dopamine tới não bộ, cho thấy dường như đã biến những bệnh nhân đó trở thành những con nghiện cờ bạc.
+Và sự thôi thúc để thao túng vẻ bề ngoài của những con số xác suất, nhằm mục đích cám dỗ não bộ của con người, thì không nơi nào phổ biến hơn ngành công nghiệp cờ bạc.
+ Ở đó, kể cả khi game có được tổ chức thông qua Internet hay trong một chiếc máy thật tại một casino đi chăng nữa, thì phần mềm vẫn là thứ điều khiển toàn bộ tính toán.
+ Những kết quả nhận được từ bất kỳ loại máy đánh bạc hiện đại nào đều được dựa trên các hệ thống xuất số ngẫu nhiên bí mật trong một mạng lưới máy tính ẩn, chứ không phải trên mặt bàn hay trên màn hình với ba bánh xe gỗ.
+ Nhưng để thua vì không may mắn như vậy thì sẽ khiến người ta dễ chán nản.
+ Và vì thế, các máy đánh bạc thường sử dụng ảo giác về vận may—bằng cách, ví dụ, làm cho nó trông như thể bạn chỉ thiếu một chút nữa là trúng jackpot.
+ Việc này cuốn hút bạn để bạn tiếp tục đặt cược những khoản tiền lớn vào đó.
+“Những cú suýt-ăn thường gây ra những cảm giác khó giải thích,” Luke Clark, một nhà tâm lý học và là giám đốc Trung tâm Nghiên cứu Cờ bạc tại Trường Đại học British Colombia, đã nói.
+ “Ở một khía cạnh, thì người ta trải qua ác cảm khi thấy một cú suýt-ăn, nhưng cũng đồng thời, cú suýt-ăn đó cũng làm tăng động lực hành động của họ.
+ Trên một chiếc máy đánh bạc, một cú suýt-ăn sẽ khiến cho bạn muốn tiếp tục, bởi nó khiến cho bạn cảm thấy bạn đang tiến bộ dần.
+”Đối với những game dựa nhiều vào vận may, thì việc giữ cho ảo giác về sự tiến bộ và ảo giác về quyền kiểm soát là tối quan trọng.
+ “Cấu trúc não bộ chủ chốt ở đây là thể vân (striatum), một tập hợp các hạt nhân tại trung tâm não bộ, là nơi nhìn chung điều khiển sự di chuyển và cơ cấu phần thưởng,” Clark nói.
+ Khu vực trong não bộ đó có vẻ khá quan trọng đối với cảm giác mà chúng ta có khi chúng ta cảm thấy tự mình đang góp phần làm nên vận may của bản thân.
+ “Chính khu vực não bộ đó cũng được liên kết trong quá trình hình thành các thói quen, và điều đó đương nhiên có liên quan đến chứng nghiện.
+”Khi một người chơi đã bị thuyết phục rằng anh ta đang dần tiến bộ lên trong một trò chơi dựa vào may mắn, anh ta sẽ ngày càng có xu hướng đặt cược vào những cửa khó ăn hơn.
+ “Trong rất nhiều năm qua, ngành công nghiệp cờ bạc đã nắm trong tay khả năng theo dõi từng người chơi đơn lẻ, tạo ra các bản hồ sơ lịch sử đa năng cho mỗi khách hàng, và vận dụng các loại thuật toán có thể phát hiện được khi nào một người chơi có ý định bỏ cuộc,” Schüll nói.
+ Người vận hành các máy đánh bạc kỹ thuật số có khả năng thay đổi tỷ lệ trúng số ngay trong một ván cờ bạc dựa trên những hồ sơ này, bằng cách tặng không cho người chơi một chiến thắng nhỏ để giữ chân họ ở lại.
+ Rất nhiều bang ở nước Mỹ đã cấm không cho thao túng “vận may” bằng cách này.
+ Và để lách qua luật đó, những người vận hành casino đã cử các “nhà đầu tư thiên thần” để đi lòng vòng trong casino và tặng cho những con bạc một khoản tiền mặt để họ có thể tiếp tục chơi.
+ Các tựa game freemium, loại hình game mà hiện nay vẫn chưa bị pháp luật theo dõi khắt khe như ngành công nghiệp cờ bạc, vẫn có thể dễ dàng tặng những khoản tiền “lộc rơi” này cho người chơi trong quá trình chơi game để khiến họ cảm thấy may mắn—và qua đó giữ chân để họ tiếp tục chơi và tiếp tục chi tiền.
+Một số nhà thiết kế đã thề sẽ không bao giờ động tay vào thao túng vận may nữa.
+ Trong suốt một khoảng thời gian dài, Larry DeMar, một nhà thiết kế game pinball khá có tiếng, người đã từng làm việc với Williams, đã tránh không sử dụng bộ phận cổng chặn (ball-saver) trong các thiết kế của công ty, bởi anh tin rằng nó sẽ làm tổn hại đến sự trong sạch của game.
+ Nếu bạn thua,  thì có nghĩa là bạn thua—đáng tiếc cho bạn thôi.
+Không may thay, cách tiếp cận thuần túy đó không phải lúc nào cũng thuyết phục được người chơi.
+ “Ngày nay, người chơi gần như lúc nào cũng nhìn ra được những dấu hiệu của sự thao túng kể cả khi chẳng có sự thao túng nào cả,” Jason Kapalka, nhà phát triển của Peggle, đã nói.
+ “Hồi tôi còn làm các game trực tuyến, việc thuyết phục một số người chơi nhất định, rằng không có bất kỳ sự điều chỉnh hay can thiệp nào trong kết quả của họ, là gần như không thể.
+ Người ta cứ nghĩ ra những giả thuyết rất phức tạp (hay thường gọi là thuyết âm mưu) kể rằng những người mới chơi sẽ dễ dàng nhận được những kết quả tốt hơn để lôi kéo họ trả tiền, hay những người chơi đã lâu sẽ được thưởng nhiều hơn để đền đáp, và tương tự vậy.
+” Đã có lúc Kapalka đã phải đăng một đống văn bản khổng lồ, cho thấy hàng trăm nghìn lượt gieo xúc xắc giả lập, để minh chứng với những người chơi hồ nghi rằng kết quả của họ thực sự là ngẫu nhiên.
+Bản thân người thiết kế game cũng có thể đãng trí.
+ “Kể cả một nhà thiết kế giàu kinh nghiệm, trong một dự án lớn, cũng có thể quên về chi tiết này hoặc chi tiết kia,” Adam Saltsman, một nhà thiết kế giàu kinh nghiệm như vậy đã chia sẻ.
+ “Và kể cả một người chơi lâu năm cũng có thể hiểu nhầm một hệ thống và ngộ nhận trình độ với vận may, hoặc là ngược lại.
+”Nếu chơi là cách để con người luyện tập chuẩn bị cho những vấn đề trong cuộc sống, thì điều hiển nhiên bắt buộc là game của chúng ta cũng sẽ phải mang rất nhiều yếu tố không chắc chắn, những khoảnh khắc bất thường mà ở đó chúng ta sẽ phải học cách thích nghi vị trí cũng như chiến thuật của mình.
+ Nhưng chúng ta đã ngày càng trở nên đòi hỏi hơn với thứ vận may mà game đã đem đến cho chúng ta—không quá nhiều, không quá ít.
+ Một điều chưa bao giờ thay đổi, đó là niềm hứng thú của chúng ta đối với bản chất của thứ vận may mà chúng ta trải nghiệm.
+ “Khi chúng ta trải nghiệm vận may trong một game, chúng ta nhận thấy một cảm giác thật sâu sắc về sự quan sát cũng như sự sắp xếp, cứ như thể chúng ta đã nhìn ra được khuôn mẫu và đã dự đoán được nó vậy,” Schüll chia sẻ.
+Nguồn gốc của thứ vận may này—dù cho đó có là những vị thánh thần hay một kênh phân phối xác suất ngẫu nhiên đi chăng nữa—cũng chỉ là một vấn đề về mặt văn hóa.
+ Nhưng thông điệp ta nhận được sau mỗi lần gặp may trong một trò chơi thì vẫn luôn thật dễ chịu: Chúng ta đã tìm thấy điều mà chúng ta hằng mong ước.
+Theo Nautilus***Những góc nhìn sâu sắc, những chia sẻ khai mở, những câu chuyện chân thực về video game, môn nghệ thuật thứ 8.
+ViNa Ludens | Góc nhìn khác về GameNhững góc nhìn sâu sắc, những chia sẻ khai mở, những câu chuyện chân thực về video game, môn nghệ thuật thứ 8.
+www.
+vinaludens.
+com
+
+Tác giả: Hùng Vũ

@@ -1,0 +1,289 @@
+1 bài viết về du hành thời gian mà em đã cóp nhặt trên mạng.
+Thấy trong gr có 1 vài bài về chủ đề này nên góp vui, bài này k phải của t, nó là 1 bài viết của ad page AR-VH2D và 1 ad bên Vns, với lại bài này cũng khá lâu r, share ae đọc vuiChủ đề du hành thời gian đã, đang và sẽ là chủ đề thôi thúc hấp dẫn người xem bởi những yếu tố kì bí mà ngay đến cả khoa học cũng vẫn đang tìm lời giải đáp.
+ Tuy vậy, người xem vẫn chỉ thường biết qua lý thuyết về các dòng thời gian khác nhau, hiệu ứng cánh bướm hoặc một vài nghịch lý(paradoxes) nào đó.
+ Chính vì vậy, trong bài kì này tôi và ad Atom sẽ khái quát lại thế nào là du hành thời gian dựa trên những kiến thức mới nhất mà khoa học đã nghiên cứu được, từ cơ bản đến nâng cao.
+ Tất nhiên, chúng tôi sẽ chỉ gói gọn lại đến phần khái niệm, chứ ko đi chuyên sâu vì đây chẳng phải là bài viết nghiên cứu khoa học, và cũng sẽ cung cấp thêm các ví dụ trong điện ảnh, A-M để người đọc dễ hình dung.
+ Hy vọng sau bài viết này, kiến thức về time-travel của bạn sẽ vững để có thể dùng làm vũ khí mà chém gió trong các cuộc thảo luận(đắc đíp).
+1/ Trước nhất, thời gian là gì? (v4v)Theo như Neil deGrasse Tyson – nhà vật lí vũ trụ học (astrophysicist) nổi tiếng người Mỹ - đã nói rằng:”thời gian được định nghĩa để làm chuyển động nhìn đơn giản hơn”.
+ Yếu tố cơ bản nhất là bạn không thể miêu tả chuyển động nếu như chúng không có sự liên hệ với thời gian.
+ Do vậy, thời gian được định nghĩa giúp các nhà vật lí học có thể dễ dàng diễn tả chuyển động bằng những phép tính và công thức.
+Về mặt khác, thời gian còn là một tù ngục mà chính bạn lại là tù nhân, bị giam cầm của thứ gọi là “hiện tại”, mãi mãi chuyển tiếp từ quá khứ cho đến tương lai vô định của bản thân.
+ Ở xa xưa, tổ tiên chúng ta đã định nghĩa thời gian bằng sự chuyển động của các vì tinh tú trên bầu trời, thì hiện nay, ta có thể xác định được thời gian bằng sự chuyển động của Trái Đất xung quanh mặt trời (hơn 400 năm trước, loài người vẫn còn tin Trái Đất là trung tâm của vũ trụ cho đến khi Galileo và Newton xuất hiện).
+Và thế là thước đo mang tên “thời gian” ra đời, chúng ta đang trong giai đoạn chạy nước rút để tiến hóa, chưa bao giờ mà lịch sử loài người, trong cả hàng nghìn năm, lại có những bước tiến nhảy vọt về khoa học, công nghệ như thế này.
+ Mà thôi, không dài dòng, những công thức chuyển động của Newton đã giúp cho việc đo đạt thời gian trở nên chính xác hơn bao giờ hết.
+ Nhưng yếu tố quyết định là ở đây, cây kim chỉ giây, chỉ phút, hoặc chỉ giờ không hề đo “thời gian”, mà chúng lại đo sự chuyển động của lẫn nhau.
+Người xưa đã từng nghĩ rằng, thời gian như một mũi tên, luôn bay đi theo đường thẳng, luôn giữ một vận tốc nhất định, luôn làm một hằng số của vũ trụ.
+ Ấy là cho đến khi Newton khám phá ra trọng lực và luật hấp dẫn, và chỉ mãi đến lúc Albert Einstein phát minh ra thuyết tương đối rộng (general relativity), chúng ta mới có cái nhìn toàn diện hơn về thời gian.
+Thơi gian không phải là một hằng số nhất định, mà chỉ mang tính chất tương đối! Thời gian không phải là mũi tên bay thẳng, mà như một dòng chảy trên con song gấp khúc uốn lượn.
+ Có lúc, con song chảy chậm, gấp khúc, nhưng cũng có lúc, dòng nước lại chảy ào ạt hơn.
+ Thuyết tương đối thực chất là lý thuyết hình học vi phân của trọng lực, dùng để làm rõ trọng lực có vai trò như thế nào đối với không gian(space) và thời gian(time), hay còn gọi tắt là không-thời gian (spacetime).
+ Và sự xuất hiện của sóng trọng lực (gravitational waves) lẫn không gian “lõm”(curvature of spacetime).
+ Nếu spacetime như một mặt hồ bằng phẳng, thì gravitational waves sẽ như những lằn sóng nhỏ xuất hiện trên mặt hồ mỗi khi bạn ném một hòn đá xuống(hòn đá có thể xem như một hành tinh, trọng lực của hành tinh “uốn cong” spacetime xung quanh nó, cũng giống như thể tích của viên đá trên mặt hồ chiếm lấy chỗ khiến các phân tử nước trượt trên bề mặt).
+ Điểm khác biệt ở đây, thay vì gợn sóng chỉ lan tỏa trên mặt hồ phẳng, thì gravitational waves sẽ lan tỏa khắp mọi hướng trong không gian 4 chiều.
+À, nhắc đến không gian 4 chiều, thật ra đây cũng chả phải là phạm trù mới mẻ gì.
+ Chúng ta đang sống trong không gian 4 chiều, dù bạn có tin hay không.
+ Vd đơn giản nhất trong đời sống là bạn thể tiến lùi, hoặc bước lên, đi sang trái, phải, hoặc trèo lên tầng thứ n của tòa nhà chọc trời chẳng hạn.
+ Chúng ta có thể dễ dàng vẽ thành không gian 3 chiều với các trục x, y, z xác định vị trí ta đang ở.
+ Vậy còn chiều thứ 4 đâu? Để gặp gỡ một người, bạn cần biết con đường, tòa nhà và số tầng của điểm hẹn.
+ Nhưng như thế vẫn chưa đủ, bạn sẽ chẳng thể gặp được người này dù có đến đúng vị trí nếu như bạn không biết thời điểm của cuộc gặp mặt, tạm thời hãy cứ gọi thời gian là trục t.
+ Và thế là chiều không gian thứ 4 ra đời.
+ Tuy nhiên, có bao giờ bạn đã đặt câu hỏi rằng tại sao ta lại có thể di chuyển ngược ở các trục x, y, z nhưng lại không thể ở trục t? Ta sẽ làm rõ hơn trong phần sau.
+2/ Thuyết tương đối-Tổng quan và một số liên hệ thú vị (Atom)Khái niệm:Thuyết tương đối (Theory of Relativity) là lý thuyết vật lý miêu tả cấu trúc của không gian (space) và thời gian (time) trong một thực thể thống nhất, gọi là không-thời gian (space-time).
+Bao gồm 2 phần:Thuyết tương đối đặc biệt/ thuyết tương đối hẹp (Special relativity) được Albert Einstein trình bày vào năm 1905 và Thuyết tương đối tổng quát tổng quát/ thuyết tương đối hẹp (General relativity) được nhà vật lý thiên tài này phát triển từ năm 1907 đến 1915.
+Chúng ta sẽ bàn về một số khái niệm sau của thuyết tương đối:+Tính tương đối của thời gian:Khác với quan điểm của Newton cho rằng thời gian đối với tất cả mọi người là như nhau, Einstein cho rằng, tùy vào hệ quan sát, thời gian có thể nhanh hoặc chậm.
+ Hay nói cách khác, thời gian đối với mỗi người là tương đối.
+ Tính tương đối đó phụ thuộc vào thứ gọi là chuyển động.
+Vd:Tenma và Johan đang chơi trò ném bóng trên một toa xe lửa đang chạy với tốc độ 100km/h.
+ Đối với bản thân Tenma và Johan, do cùng ở trên 1 hệ quan sát với toa xe có vận tốc 100km/h nên tốc độ của quả bóng là bình thường, chả khác gì khi họ chơi trong nhà hay trên sân bóng cả.
+ Giờ ta đặt vào người quan sát thứ 3, xem nào, gã Friend chẳng hạn.
+ Friend sẽ ở dưới mặt đất và quan sát 2 người kia chơi bóng với nhau và nghĩ trong đầu rằng “tụi bây muốn làm bạn với tau không?”.
+ E hèm, với góc nhìn của Friend, 2 người kia đang chơi bóng với một tốc độ kinh khủng, vì tốc độ của họ lẫn quả bóng sẽ được cộng thêm 100k/h từ đoàn tàu.
+ Tại thời điểm đó, thời gian của Johan và Tenma sẽ trôi chậm hơn so với thời gian của Friend vì 2 người kia chuyển động nhanh hơn Friend.
+ Khó hình dung quá hả?+Có một nghịch lí vô cùng nổi tiếng tên là nghịch lý sinh đôi (twin paradox).
+Giả sử ta có một cặp anh em sinh đôi.
+ Ta đặt người anh ở Trái Đất, còn người em thì trên một con tàu vũ trụ có vận tốc vô cùng cao, gần với vận tốc ánh sáng chẳng hạn.
+ Kết quả là sau chuyến đi, khi trở về Trái Đất thì người em lại trẻ hơn nhiều so với người anh.
+Sau này người ta cũng dùng nhiều thí nghiệm thực tế để chứng minh cho nghịch lý này.
+ Tiêu biểu nhất là thí nghiệm đặt 2 cái đồng hồ giống hệt nhau, một cái dưới mặt đất, một cái trên chuyên cơ.
+ Sau thí nghiệm thì người ta thấy rằng cái trên chuyên cơ chạy chậm hơn hẳn cái dưới mặt đất.
+ Đây gọi là sự giãn nở thời gian (time dilation).
+Ở phía trên mình có nhắc đến khái niệm Eternalism.
+ Vậy Eternalism là gì? Hiện nay có 2 cách diễn giải thời gian phổ biến nhất: Presentism (chủ nghĩa hiện tại) và Eternalism (chủ nghĩa vĩnh cửu).
+Presentist tin rằng thời gian là một dòng chảy thẳng tắp, kéo dài từ quá khứ tới hiện tại rồi đến tương lai, gọi là “the flow of time” hay “dòng chảy thời gian”.
+ Kế tiếp, họ cho rằng quá khứ là việc đã qua, không thể sữa chửa, tương lai là vô định, không thể biết trước, chỉ có hiện tại là có thực, là có giá trị.
+ Những việc ở hiện tại sau một khoảnh khắc liền trở thành quá khứ và tương lai chúng ta, ngay lập tức trở thành hiện tại.
+ Việc chỉ chấp nhận hiện tại là có thực đem lại cho ta nhiều suy nghĩ về cách diễn giải thời gian này.
+Trong One Piece, Dr.
+ Hiruluk có một câu nói rất ấn tượng:“ Các người nghĩ con người sẽ chết đi khi nào?Khi ăn phải nấm độc? KHÔNG!Khi bị đại pháo bắn vào? KHÔNG!Con người chỉ chết đi khi họ bị lãng quên”Thực vậy, thử liên tưởng qua thế giới thực.
+ Làm sao bạn có thể nhận biết được sự tồn tại của một nhân vật từ quá khứ? Qua những tác động của họ đến hiện tại và tương lai ư? Nhưng làm sao để biết họ là tác giả của những tác động đó? Bạn sẽ trả lời: qua trí nhớ của thế hệ cha ông truyền lại cho bạn, qua các văn tự, sách vở.
+ Chính xác.
+ Vậy… sẽ ra sao nếu tôi xóa sạch kí ức của bạn và tất cả những người xung quanh bạn bằng sự giáo dục dối trá? Sẽ làm sao nếu tôi đốt hết mọi văn kiện lịch sử rồi tạo ra một bản mới? Sự tồn tại của nhân vật đó sẽ bị xóa sổ! Dĩ nhiên, họ vẫn tồn tại trong dòng chảy khách quan của lịch sử.
+ Adam Smith, J.
+R.
+R Tolkien hay Osamu Tezuka vẫn sinh ra và chết đi, chả có gì thay đổi.
+ Nhưng nếu tôi đốt hết The Wealth of Nations, The lord of the rings, Astroboy, Phoenix,… Đối với cái nhìn chủ quan của con người, những vị trên sẽ không hề tồn tại.
+Trong kiệt tác 1984 của nhà văn Geogre Orwell có một câu khẩu hiệu làm tôi vô cùng ám ảnh:“ Kẻ nào kiểm soát được hiện tại sẽ kiểm soát được quá khứ, kẻ nào kiểm soát được quá khứ sẽ kiểm soát được tương lai”.
+Khác với Presentist, những người ủng hộ chủ nghĩa vĩnh cửu lại có cách nhìn nhận khác về thời gian.
+ Nếu Presentist cho rằng chỉ có hiện tại là thực, là tồn tại thì Eternalist khẳng định rằng: quá khứ, hiện tại, tương lai đều cùng tồn tại một cách bình đẳng! Nếu ở Presentism, thời gian được diễn giải là “is/was/will” thì đối với Eternalism, nó sẽ là “is/is/is”.
+ Giả sử cuộc đời bạn là một cuốn phim.
+ chuyện gì xảy ra nếu tôi trải đều tất cả thước phim lên một mặt phẳng? Dưới góc nhìn của tôi, tất cả sự kiện, tất cả khoảnh khắc trong đời bạn, dù chỉ là nhỏ nhất, đều xảy ra cùng một lúc.
+ Chúng sẽ mãi ở đó, tồn tại vĩnh cửu.
+Hai cách diễn giải thời gian trên thường xuất hiện trong các tác phẩm giả tưởng dưới góc nhìn triết học hơn là vật lý.
+ Ở các tác phẩm về chủ đề Dystopia hay History, người ta hay sử dụng Presentism để tạo ra mâu thuẫn triết học giữa cái nhận thức chủ quan và sự thật khách quan.
+ Quả thông não mà O’Brien dành cho Winston ở “Room 101” trong tác phẩm 1984 là một ví dụ điển hình.
+ Trong manga, nhiều mangaka sử dụng Eternalism để nói về sự mâu thuẫn giữa số phận và ý chí con người trong các tác phẩm của họ.
+ Những manga đó thường có chất hiện sinh vô cùng mãnh liệt.
+ Tiêu biểu có thể kể đến Phoenix của Osamu Tezuka hoặc Billy bat của Naoki Urasawa.
+3/ Khả năng “thực tế” của du hành thời gian(v4v):Trước khi bàn về những khái niệm giả sử trường hợp time-travel tồn tại, chúng ta cũng nên bàn về tính khả thi và logic của time-travel dưới góc độ khoa học – công nghệ ngày nay.
+ Vậy làm thế nào để du hành thời gian?a/ Du hành đến tương lai.
+Thuyết tương đối ở trên sẽ giúp bạn trả lời vấn đề này.
+ Càng chuyển động nhanh gần tốc độ ánh sáng, thời gian của bạn(đối với những người khác) sẽ như ngưng động lại, và 1 giây của bạn có thể bằng 10, thậm chí bằng 100 năm thời gian của người khác.
+Mặt khác, trọng lực cũng ảnh hưởng ko nhỏ đến sự giãn nở thời gian (time dilation).
+ Trên thực tế, những nhà phi hành gia đã là những nhà du hành thời gian! Sergei Krikalev là phi hành gia giữ kỷ lục với 803 ngày trong không gian, và theo tính toán của Universe Today, khi đặt chân trở về trái đất thì ông đã già hơn mọi người 0,02 giây.
+ Đồng nghĩa với việc ông đã “du hành” 0,02 giây đến tương lai của chính mình.
+ Trọng lực càng lớn, thì thời gian trôi qua đối với bạn sẽ càng chậm, nếu so với người khác chịu trọng lực nhỏ hơn.
+ Đây là một nguyên lý được áp dụng trong tác phẩm Interstellar khi hai nhân vật chính bị mắc kẹt ở hành tinh có trọng lực rất lớn, vài phút trôi qua như thể là hàng chục năm với những người ở bên ngoài hành tinh (nơi ko bị trọng lực ảnh hưởng).
+b/ Du hành ngược về quá khứ.
+Đến đây mới là bài toán học búa mà giới khoa học hiện nay vẫn đang tìm lời giải đáp.
+ Dựa vào vật lí và khoa học lượng tử, chúng ta sẽ có 2 cách thức tiếp cận để hiện thực hóa việc trở về quá khứ.
+Cách thức đầu tiên liên quan đến vận tốc.
+ Những nhà thiên văn, vũ trụ học thường hay quan sát những vì sao sáng trên bầu trời để hiểu biết rõ thêm về vũ trụ.
+ Như ta cũng biết, vận tốc ánh sáng là một hằng số của vũ trụ, vậy điều này giúp ích cho ta cái gì?Để nhìn thấy một hành tinh, chúng ta cần phải thấy ánh sáng của hành tinh đó.
+ Ánh sáng mặt trời mất 8 phút và 20 giây để đến được hành tinh chúng ta.
+ Đến đây bạn có nhận ra chưa? Ánh sáng mà chúng ta đang thấy thực chất là ánh sáng từ 8 phút và 20 giây trước đó của mặt trời! Và điều này tương tự đối với các hành tinh chúng ta quan sát được.
+ Nếu muốn biết một hành tinh ở độ tuổi “sơ khai”, mới được kiến tạo là như thế nào, chúng ta phải với tầm ra và nhìn xa hơn trong vũ trụ, ra khỏi dải Milky Way.
+ Hành tinh càng xa thì càng mất nhiều thời gian hơn để ánh sáng của hành tinh ấy đến được trái đất cho chúng ta quan sát được, những hình ảnh bạn quan sát ở một hành tinh chỉ là những hình ảnh của hành tinh ấy trong quá khứ.
+ Và với cách làm như thế, chúng ta có thể quan sát vũ trụ qua từng khoảng thời gian lên đến cả tỉ năm, thậm chí là từ lúc vũ trụ được tạo thành!Vậy nên, giả sử trường hợp, chúng ta có thể di chuyển “nhanh hơn” vận tốc ánh sáng, thì nghĩa là chúng ta có thể quay ngược lại thời gian! Vd, ánh sáng 1 hành tinh mất 1 triệu năm để đến Trái Đất.
+ Nhưng chúng ta du hành đến hành tinh đó chỉ trong 500 nghìn năm, thì nghĩa là khi đến hành tinh ấy chúng ta đã quay ngược lại quá khứ 500 nghìn năm trước, rất hợp logic phải ko?Nhưng vật lí và khoa học được con người phát triển nên là để áp đặt giới hạn, để biết được điều gì không thể và có thể.
+Einstein đã chứng minh rằng, vận tốc ánh sáng là vận tốc giới hạn của vũ trụ(cosmic speed limit) mà một “vật” có khối lượng(mass) có thể đạt được [ công thức nổi tiếng là E=mc^2 ].
+ Trong môi trường chân không, một photon luôn di chuyển với hằng số vận tốc 300k km/s.
+ Và photon có 0 “rest mass”, hãy cứ hiểu đơn giản là 0 khối lượng ở trạng thái nghỉ.
+Như vậy, đối với bất kì vật chất nào có khối lượng ở trạng thái nghỉ, khi di chuyển, vận tốc càng nhanh thì khối lượng của chúng cũng sẽ tăng lên (vật thể càng nặng, càng mất nhiều năng lượng hơn để gia tốc cho vận tốc).
+ Và khi càng gần đến vận tốc ánh sáng, khối lượng của chúng càng trở nên “vô hạn” nhanh chóng, đòi hỏi năng lượng để tiếp tục gia tốc cho chúng cũng phải trở nên “vô hạn”.
+ Đến một chừng mực nào đó, để gia tốc dù chỉ một electron (có khối lượng 9.
+1*10*-31 kg) đạt ngưỡng vận tốc ánh sáng, thậm chí bạn có lấy toàn năng lượng của vũ trụ đắp vào cũng vẫn là không đủ! Do vậy, một vật có khối lượng (dù chỉ là một hạt electron) cũng vẫn không thể di chuyển bằng, chứ đừng nói là nhanh hơn tốc độ ánh sáng.
+Nói như thế thì du hành về quá khứ không khả thi? Không hẳn, chúng ta sẽ bàn về cách tiếp cận thứ 2.
+Michio Kaku(nhà vật lý nổi tiếng người Mỹ gốc Nhật), trong quyển sách “Vật Lý Của Những Thứ Bất Khả Thi”, đã liệt time-travel vào mức độ 2.
+Trên thang “khả thi” có 3 mức độ, mức độ đầu tiên là những điều tưởng như không thể mà khoa học đã thực hiện được rồi.
+ Vd như “dịch chuyển tức thời” đã được mô phỏng thành công qua hiện tượng “quantum entanglement”(rối lượng tử) trong vật lý lượng tử.
+ Mức độ thứ 2, đó chính là time-travel, là những điều “chưa thể” thực hiện được trong giới hạn khoa học kỹ thuật hiện đại mà chúng ta vẫn đang trong giai đoạn tìm hiểu (dù trên lý thuyết, chúng có khả năng sau này).
+ Mức thứ 3, cho những ai tò mò, là những điều viễn vông – đích thực là không thể - như việc tái tạo vật chất từ hư vô.
+Khái niệm “wormhole” và “blackhole” ra đời.
+ Để đơn giản hóa vấn đề, hãy thử hình dung, để đi từ điểm này đến điểm khác ở nửa vòng địa cầu, bạn sẽ phải đi cả chặng đường vòng khá dài.
+ Tuy nhiên, nếu đục 1 lỗ thông qua tâm trái đất đến thẳng ngay điểm cần đến, bạn sẽ tiết kiệm được thời gian và quãng đường đi được đáng kể (hoặc trong Doraemon của 3F, lấy tờ giấy gặp lại và đục thủng 1 lỗ, nó là hình ảnh tượng trưng cho wormhole đấy).
+ Một wormhole uốn cong không-thời gian(spacetime), kết nối spacetime này với spacetime khác.
+ Về một mặt, bạn có thể đi ngược thời gian, hoặc thậm chí là đi đến các chiều thế giới, vũ trụ khác nhau nếu chui qua một wormhole (giả sử trường hợp bạn vẫn còn “một mảnh” khi thoát ra ở đầu kia).
+ Có một giả thuyết của Michio Kaku cho rằng năng lượng tái tạo ra Big Bang thực chất đến từ một wormhole! Để tạo ra 1 wormhole uốn cong và kết nối 2 space-time với nhau, bạn cần xây một máy gia tốc hạt lớn hơn cái máy đặt tại thành phố Geneva của Thụy Sĩ gấp một triệu tỉ lần với năng lượng tương ứng.
+ E hèm, máy gia tốc hạt ở Geneva do tổ chức CERN sở hữu (cảm giác Steins;Gate quá nhỉ).
+Mọi dường trở nên thú vị hơn tại đây, Stephen Hawking đã từng đưa ra “chronology protection conjecture” (phỏng đoán về bảo vệ dòng thời gian), rằng luôn có một luật lệ trong vật lý ngăn cản thực hiện việc du hành ngược dòng thời gian.
+ Nhưng rất nhiều nhà khoa học lượng tử không đồng ý với nhận định trên.
+ Trên thực tế thì ngay cả Hawking cũng phải thừa nhận rằng ông không thể chứng minh time-travel là hoàn toàn bất khả thi.
+Trong tạp chí “Nature Communications Experiment”, số xuất bản vào 2014, các nhà khoa học đã thực hiện được thí nghiệm mô phỏng du hành thời gian trong điều kiện “closed timelike curves” (nôm na là dòng thời gian uốn cong được đóng kín, gọi tắt là CTC).
+ Trong thí nghiệm này, các nhà khoa học đã mô phỏng một lỗ wormhole siêu nhỏ, đủ để hạt photon có thể chui qua và tương tác với bản thể trước đó của chính nó trong cùng một lúc.
+ CTC là một khám phá mới của vật lí học hiện đại nói chung, và của giới vật lí lượng tử nói riêng khi thỏa mãn các “công thức” của Einstein, tuân thủ theo thuyết tương đối, nhưng vẫn cho phép time-travel mà không xảy ra bất kì vấn đề gì về nghịch lý.
+ Nói cho dễ hiểu, CTC là một “vòng lặp hệ quả”(causal loop) trong spacetime kết nối một điểm với chính nó, vật thể ở một điểm chui vào wormhole và thoát ra ngay tại điểm đấy.
+Ở mục sau, hãy cứ cho rằng time-travel được “hiện thực hóa”, vậy chúng ta sẽ phải đối mặt với những vấn đề nào?4/Một số khái niệm căn bản về các thuyết du hành thời gian(Atom):+Thuyết nhân quả và phản nhân quả (causality & retrocausality): Bất kì một quá trình, sự việc gì trong cuộc sống đều có 2 thành phần cơ bản: Nguyên nhân và kết quả.
+Thuyết nhân quả nói rằng một kết quả ở hiện tại có thể bao gồm vô số nguyên nhân từ quá khứ.
+ Và mỗi kết quả này, bản thân nó lại trở thành nguyên nhân cho những kết quả khác ở tương lai.
+ Cứ thế quá trình này lặp đi lặp lại đến vô hạn.
+ Hiểu một cách đơn giản, những gì bạn làm trong quá khứ sẽ quyết định tương lai của bạn ra sao.
+Vậy còn phản nhân quả (retrocausality) ?Nếu 1 quá trình bình thường sẽ đi theo hướng “nguyên nhân→ kết quả” thì phản nhân quả sẽ ngược lại: “kết quả → nguyên nhân”.
+ Nghe có vẻ khó hiểu nhưng khái niệm này xuất hiện rất nhiều trong các loại nghịch lý du hành thời gian.
++Nghịch lý ông nội (grandfather paradox).
+ Đây có thể xem như nghịch lý nổi tiếng nhất trong du hành thời gian.
+Nghịch lý ông nội có thể tóm gọn như sau: Giả sử có một người đàn ông dùng máy thời gian quay lại quá khứ để giết ông nội mình trước khi ông ấy gặp bà nội của người đàn ông.
+ Lúc này xảy ra 1 nghịch lý: Nếu ông nội chết trước khi gặp bà nội thì cha người đàn ông sẽ không chào đời.
+ Và nếu cha ổng không chào đời thì làm sao ổng được sinh ra… để quay về quá khứ giết ông nội? Tiếp tục, nếu ông ta không quay về quá khứ giết ông nội thì ông nội vẫn còn sống, đồng nghĩa với cha ông ta vẫn còn sống và đồng nghĩa với việc ông ta vẫn được đẻ ra.
+ Nhưng nếu ông ta vẫn được đẻ ra thì ông ta vẫn có thể quay ngược về quá khứ để giết ông nội mình.
+Hai mệnh đề phủ định lẫn nhau tạo ra một nghịch lý gần như không thể hóa giải một cách trực tiếp.
+ Nhưng chuyện gì xảy ra nếu người đàn ông đó giết ông nội mình sau khi cha ông chào đời? Liệu ông ta có vi phạm nghịch lý ông nội? Hãy qua phần tiếp theo: Thuyết hỗn mang.
++Thuyết hỗn mang (Chaos theory)Thuyết hỗn mang hay gần gũi hơn là hiệu ứng cánh bướm (butterfly effect) là thuyết nói về việc 1 nhân tố dù rất nhỏ bé và tưởng chừng không liên quan cũng có thể có ý nghĩa vô cùng quan trọng đến các sự kiện trong tương lai.
+ Vd: một cái vỗ cánh của con bướm trong quá khứ liệu có thể gây ra cơn lốc xoáy trong tương lai?Ta lấy ví dụ người đàn ông trên.
+ đúng là nếu ông ta giết chết ông nội của mình sau khi bố ổng ra đời thì sự tồn tại của ổng vẫn được đảm bảo.
+ Nhưng như thế vẫn chưa thể phá vỡ nghịch lý ông nội.
+ Lí do rất đơn giản: cái chết của ông nội ổng sẽ dẫn đến vô số biến động không thể lường trước được ở quá khứ và những biến động này có thể ảnh hưởng lớn đến quyết định quay về quá khứ giết ông nội của người đàn ông ở tương lai.
+Tôi sẽ lấy 1 ví dụ gần gũi hơn.
+ Chắc ai từng đọc qua Doraemon cũng nhớ như in cái nguyên nhân mà cháu chắt của Nobita là Sewashi Nobi gửi con mèo ú về quá khứ để giúp Nobita kết hôn với Shizuka thay vì Jaiko, để vận mạng của Sewashi được thay đổi.
+Tuy nhiên, Nobita có hỏi Sewashi thế này: “Nếu số phận tớ được thay đổi, có thể cậu sẽ không được sinh ra mất”.
+Sewashi trả lời: “Cụ đừng lo, chỉ là thay đổi về khu vực thôi mà.
+ Kể cả là dòng chảy lịch sử có thay đổi đi chăng nữa thì cháu vẫn được ra đời.
+ Ví dụ nhé, nếu cụ đi từ Tokyo đến Osaka thì có rất nhiều cách để đi.
+ Nhưng bất kể cụ chọn cách nào mà chỉ cần đích đến giống nhau thì cuối cùng cụ vẫn đến được Osaka”Ở đoạn này, 3F-sensei khá khéo léo khi lách “nghịch lý ông nội” bằng việc cho Sewashi bằng cách nào đó (mà tôi thực tình cũng không biết là bằng phép màu nào nữa) vẫn được sinh ra dù vợ của Nobita bị thay đổi.
+ Giả định của 3F là vì đích đến, tức việc chào đời của Sewashi không thay đổi, nên cách đi, tức đổi vợ từ Jaiko thành Shizuka dù có khác biệt thì nghịch lý ông nội, tức việc Sewashi không thể chào đời nếu thay đổi quá khứ, sẽ không xảy ra, du hành thời gian sẽ thành công.
+Ở đây xảy ra 2 giả thiết:-Sewashi… nói xạo.
+ Việc nói xạo đó là để Nobita dễ dàng chấp nhận Doraemon, nó là một phần của dòng chảy thời gian, một timeloop (cái này sẽ đề cập ở phần dưới).
+-Sewashi nói thật.
+ Nếu thế thì tôi không chắc là Sewashi sau khi thay đổi quá khứ thành công sẽ giống hệt với Sewashi đang nói chuyện với Nobita bây giờ hay không.
+ Khoan bàn tới khía cạnh vô cùng hiển nhiên là di truyền học, nội cái việc Nobita lấy Shizuka thay vì Jaiko sẽ tạo ra vô số biến động thời gian có khả năng thay đổi hoàn toàn tương lai.
+ Ví dụ Nobita lấy Jaiko thì hắn sẽ lười biếng, không chịu lao động dẫn đến thế hệ sau sẽ nghèo khó.
+ Bây giờ hắn lấy Shizuka, có khả năng Nobita sẽ chí thú làm ăn, thế hệ tương lai sẽ khá giả hơn.
+ Câu hỏi đặt ra là nếu tương lai đã khá giả thì Sewashi liệu có còn động cơ để thay đổi quá khứ nữa hay không?Bạn thấy đấy, rất khó để “lách” được nghịch lý ông nội nếu chưa giải quyết được bài toán thuyết hỗn mang.
+Tiếp theo là một nghịch lý cũng hại não không kém: Nghịch lý tiền định.
++Nghịch lý tiền định (Predestination paradox) thường được diễn tả dưới dạng các vòng lặp nhân quả (casual loop).
+ Trong các vòng lặp nhân quả, ta không thể xác định đâu là nhân, đâu là quả hoặc cái gì gây ra cái gì.
+ Vì lý do này mà đôi khi người ta gọi nó là nghịch lý bản thể (Ontological paradox ).
+VD: Trong tập truyện dài “Nobita và pho tượng khổng lồ”, ở vương quốc của peko có lời tiên tri rằng sẽ có 10 người hùng đến cứu vương quốc khỏi tay của tên quốc vương độc tài.
+ Tuy nhiên, khi trận chiến đang đến hồi nguy cấp mà lại chẳng thấy bóng dáng của 5 người còn lại đâu.
+ Thế là Shizuka nhớ đến lời tiên tri và dùng máy điện thoại yêu cầu có điều kiện để triệu hồi 5 người kia.
+ Thật bất ngờ khi 5 người được triệu hồi đến lại chính là… nhóm Nobita ở tương lai.
+ Vậy là nhóm Nobita hiện tại được cứu bởi nhóm Nobita ở tương lai.
+ Để rồi sau này, nhóm Nobita này lại du hành thời gian… để cứu chính mình ở quá khứ.
+ Câu hỏi đặt ra ở đây là: Vậy ai cứu ai? Ai là nguyên nhân và ai là kết quả? Đây là một trong những vòng lặp nhân quả kinh điển của seires truyện dài Doraemon.
+Hãy cũng đến với một ví dụ phức tạp hơn: vòng lặp vô hạn trong Hi no tori arc Strange beings.
+Tóm tắt vòng lặp: Sakonsuke, con gái 1 lãnh chúa ở Nhật.
+ Cha cô bị bệnh nên đã triệu tập một vị nữ tu nổi tiếng.
+ Sakonsuke vì không muốn cha khỏi bệnh nên đã tìm đến ngôi đền vị nữ tu để giết bà ta.
+ Do phạm tội giết người nên Chim lửa- hiện thân của vũ trụ, đã trừng phạt Sakonsuke: cô phải thay vị nữ tu tiếp tục công việc chữa trị cho vô số sinh linh trong vũ trụ, và cứ mỗi 30 năm sau, sẽ lại có một Sakonsuke khác tìm đến giết cô, rồi lại tiếp tục thay cô làm công việc này, vòng lặp này kéo dài đến vô hạn.
+ Tuy nhiên chim lửa cho Sakonsuke 1 lối thoát.
+ Vào trước thời khắc định mệnh, sẽ có thời điểm mà cô có thể ra khỏi vòng lặp nếu cảm thấy bản thân đã rửa sạch mọi tội lỗi.
+ Điểm thú vị ở đây là trong quá trình chữa trị cho vô số sinh linh, Sakonsuke đã phát sinh lòng yêu thương mọi sinh vật và cô quyết định không rời khỏi, tiếp tục công việc dù biết rằng điều đó sẽ đẩy bản thân rơi vào vòng lặp vô hạn.
+ Chính lòng yêu thương vạn vật đã đẩy Sakonsuke đến chỗ chết.
+ Nhưng cũng vì cái chết đấy mà Sakonsuke mới có được lòng yêu thương vạn vật.
+ Trong Hi no tori không thiếu các vòng lặp nhân quả vĩnh viễn nhưng ấn tượng và ý nghĩa nhất có lẽ là vòng lặp trong Strange beings.
+(v4v cont….
+)Nguyên lý “tự kiên định” của Novikov(self-consistency principle).
+Để giải quyết những nghịch lý diễn ra đối với du hành thời gian ngược về quá khứ, Igor Novikov (nhà vật lý học người Nga) đã đề xuất nguyên lý “tự kiên định” như sau: nếu một sự kiện tạo ra nghịch lý, hoặc làm thay đổi quá khứ, thì khả năng xảy ra sự kiện đấy là con số 0.
+ Căn bản nhất, bạn có thể hiểu rằng, những vòng lập tạo ra nghịch lý không thể được tạo thành, mà chỉ có thể tái tạo nên những vòng lập mang tính kiên định.
+ Chính vì vậy, sẽ không có chỗ cho những nghịch lý xảy ra nếu du hành thời gian tuân theo nguyên lý self-consistency.
+Vd như, bạn có thể quay về quá khứ và thay đổi một sự việc, nhưng dù bạn có thay đổi sự việc thế nào, kết quả cuối cùng sẽ vẫn kiên định trước sau như một.
+ Lấy vd, bạn là điệp viên bí mật quay về quá khứ để ám sát Hitler khi hắn còn là đứa trẻ nhằm ngăn chặn WW2 diễn ra.
+ Nhưng có tổ chức khác lại cử một điệp viên ngăn chặn bạn, vì Hitler là “nhân tố” tạo nên sự thay đổi lớn, chia cắt lại bản đồ thế giới giúp tạo nên hiện tại.
+ Và thế là dù bạn có cố gắng đến thế nào, WW2 vẫn diễn ra.
+ Từ đó, “Close Time Curves” ra đời, cho phép việc du hành thời gian vì những sự kiện trong CTC luôn kiên định với chính nó.
+ Nguyên lý “tự kiên định” suy đoán rằng chỉ tồn tại một dòng thời gian duy nhất, hoặc những dòng thời gian khác nhau không thể tiếp cận được.
+Nguyên tắc tự kiên định được sử dụng rất nhiều trong các tác phẩm phim ảnh (Final Destination là vd chẳng hạn), và trong anime thì Steins;Gate là tác phẩm xuất sắc nhất áp dụng thành công nguyên lý này.
+ Nguyên lý “tự kiên định” được biểu hiện qua “Attractor Field”, khi mà mọi hành động, mọi timeline đều luôn dẫn đến một kết quả có sẵn, cứ như thể số mệnh, cả vũ trụ chống lại Okabe.
+(Atom cont….
+)Như các bạn đã thấy, nếu nhìn dòng chảy thời gian là 1 chiều thẳng tắp thì việc du hành thời gian là một ước mơ xa vời bởi vì kiểu gì thì việc du hành cũng rơi vào các nghịch lý thời gian.
+ Tuy nhiên, có một thuyết giải quyết được vấn đề nan giải này: Thuyết đa vũ trụ.
+Thuyết đa vũ trụ (Multiverse theory):Là thuyết cho rằng tồn tại nhiều vũ trụ song song khác bên cạnh vũ trụ của chúng ta.
+ Trong cơ học lượng tử, có một thí nghiệm tưởng tượng vô cùng kinh điển: Con mèo của Schrodinger (Schrodinger’s cat).
+Tóm tắt thí nghiệm:Đặt con mèo vào một cái hộp đóng kín.
+ Trong hộp là một thiết bị hẹn giờ.
+ Sau 1 giờ thì thiết bị sẽ có xác suất 50% xả ra khí độc giết chết con mèo.
+ Bây giờ con mèo có tỷ lệ sống và chết đều là 50%.
+ Dĩ nhiên nếu bạn mở cái hộp ra, bạn sẽ thấy con mèo sống hoặc chết.
+ Nhưng chuyện gì xảy ra nếu bạn không mở cái hộp? Giả sử con mèo chết nhưng vì không mở cái hộp, người quan sát không thể biết được trạng thái thực sự của con mèo, thế nên với góc nhìn bản thân con mèo, nó đã chết.
+ Nhưng với góc nhìn của người quan sát, con mèo tồn tại giữa 2 trạng thái sống và chết.
+ Thật kì lạ, trạng thái của con mèo giờ không còn phụ thuộc vào sự thật khách quan và lại phụ thuộc vào góc nhìn của người quan sát.
+Chúng ta, trong cuộc sống hằng ngày, chính là con mèo đó.
+ Ví dụ nếu tôi quyết định mình sẽ trở thành fanboi Osamu Tezuka thì bản thân tôi, tức con mèo, sẽ “quan sát” thấy trạng thái của mình là “fanboi Tezuka”.
+ Tuy nhiên, với thuyết đa vũ trụ, sẽ tồn tại nhiều vũ trụ song song khác , mà ở đó, sẽ có vũ trụ mà trạng thái của tôi sẽ là “fanboi Naoki Urasawa” hoặc “fanboi Fujiko F Fujio”.
+Với thí nghiệm con mèo của Schrodinger, sẽ tồn tại khả năng mà mỗi khi 1 người quyết định 1 cái gì đó thì ngay tại thời điểm đó, dòng thời gian sẽ rẽ nhánh tạo ra 2 vũ trụ song song: 1 vũ trụ mà người đó làm theo quyết định và 1 vũ trụ mà người đó không làm hoặc làm khác đi.
+Vd: nếu trên đường về nhà, tôi quyết định rẽ phải thì có khả năng tồn tại 1 vũ trụ song song khác, nơi tôi quyết định rẽ trái.
+ Và tôi ở 2 vũ trụ này, mỗi khi quyết định, lại tiếp tục tạo ra các vũ trụ song song khác nữa.
+ Cứ như thế, có khả năng tồn tại vô hạn các vũ trụ song song với vô hạn các khả năng khác nhau.
+ Một vũ trụ mà ai cũng nghiện Hi no tori, một vũ trụ không tồn tại Sword art online, một vũ trụ mà thay vì đọc ngôn tình thì người ta đọc Adam Smith với Hayek chẳng hạn,…Thuyết đa vũ trụ giúp chúng ta dễ dàng “lách” được các nghịch lý thời gian.
+ Nhắc đến vd Hitler.
+ Theo lẽ thông thường thì :giết Hitler→ chiến tranh không xảy ra→ không có động cơ quay về quá khứ giết Httler→ Hitler vẫn sống→ Chiến tranh xảy ra→ có động cơ quay về quá khứ giết Hitler→ ….
+ Bạn sẽ quay vào vòng lập của nghịch lý tiền định ngay.
+ Nhưng nếu theo thuyết đa vũ trụ, ngay thời điểm tôi quyết định quay về quá khứ giết Hitler thì dòng thời gian sẽ rẽ ra 2 nhánh mới:+Nhánh 1: Một vũ trụ mà Hitler vẫn sống, chiến tranh vẫn nổ ra.
++Nhánh 2: Một vũ trụ vốn không tồn tại Hitler.
+Lúc này thì cái “tôi” du hành thực ra lại là cái tôi khác, không liên hệ gì với dòng thời gian trước khi rẽ nhánh.
+ Trong Doraemon, con mều ú có nhiều bảo bối vô cùng imba, có khả năng thay đổi thực tại như tủ điện thoại yêu cầu, loa nói dối, công tắc độc tài, máy ước,… Tuy nhiên theo người viết thì có khả năng là những bảo bối kiểu vậy chỉ có tác dụng “dịch chuyển tâm trí” người sử dụng qua một vũ trụ song song khác.
+ Ví dụ: khi khi Nobita ước thế giới hiện tại biến thành thế giới phù thủy thì chiếc máy chỉ đơn giản là dịch chuyển tâm trí của Nobita ở thế giới bình thường rồi “đè” lên tâm trí của Nobita ở một vũ trụ song song khác tồn tại thế giới phù thủy.
+ Cơ chế này cũng tương tự với cách Okabe du hành thời gian trong Steins; gate, sẽ được giải thích kỹ hơn ở phần cuối.
+5/ Vật lý lượng tử trong du hành thời gian, và lời kết của Kip Thorne (v4v).
+Dưới góc độ của vật lí lượng tử, Michio Kaku lại cho rằng, những “nghịch lý” không hoàn toàn là nghịch lý nếu như chúng vẫn tuân theo luật lệ của vật lý học.
+ Ví dụ căn bản: dòng chảy thời gian phân nhánh(thí nghiệm mèo của Schrödinger ở trên).
+ Những nghiên cứu về vật lí lượng tử hiện nay đã đồng ý với giả thuyết cho phép sự xuất hiện của multiverse – đa vũ trụ.
+ Mỗi lần bạn thay đổi hành động trong quá khứ (như Atom đã đề cập), một vũ trụ song song sẽ được hình thành.
+ Nghe có vẻ hơi điêu, nhưng nó vẫn nằm trong sự cho phép, vẫn tuân thủ những nguyên tắc của vật lí lượng tử.
+ Nếu như vũ trụ là quả bóng không ngừng thổi phòng để lớn hơn, thì ở đâu đó sẽ có những quả bóng tương tự khác.
+ Với khoa học kỹ thuật và công nghệ hiện đại, đã có rất nhiều nhà vật lí học suy nghĩ về time-travel một cách nghiêm túc.
+ Chúng ta đang sở hữu cỗ máy gia tốc hạt lớn nhất thế giới (large hardon collider), nó có thể bắn phá các hạt nguyên tử với nhau với năng lượng tương đương 14 nghìn tỉ eV, thậm chí chúng ta có thể tạo ra một lỗ đen siêu nhỏ ở trung tâm của cỗ máy gia tốc hạt này (năm 2010 cỗ máy này đã mô phỏng thành công mini Big Bang).
+Chuyện gì sẽ xảy ra nếu bạn quay về quá khứ? Những nguyên tử tái tạo nên bạn, trên thực tế, cũng đã tồn tại ở quá khứ.
+ Bạn lội ngược dòng thời gian, thời gian phân nhánh, bạn sẽ gặp lại chính bản thân mình ở quá khứ, nhưng cả 2 sẽ tồn tại cùng lúc vì những nguyên tử tạo nên bạn thuộc về dòng thời gian khác.
+ Và cũng chính vì thế, bạn sẽ không gặp phải bất kì nghịch lý nào ngăn cản cuộc gặp gỡ này.
+Để cho rõ hơn, giả sử bạn quay về quá khứ lúc bạn vẫn còn là đứa trẻ.
+ Thì bản thân đứa trẻ đấy không “thật sự” là bạn, mà chỉ là người mang cùng genes tương đương với bạn (vì bạn và đứa trẻ này nằm trên 2 dòng thời gian khác nhau).
+ Vậy nên, nếu bạn có “thủ tiêu” đi đứa trẻ này, nó cũng sẽ không làm bạn “biến mất”.
+ Dòng thời gian đơn giản là phân nhánh, một nhánh trong đó mọi thứ vẫn tiếp diễn bình thường và sẽ không có đứa trẻ này hiện diện.
+ Và một nhánh “ban đầu” là bạn tồn tại và lớn lên.
+ Nguyên tử tái tạo nên đứa trẻ đó không phải là nguyên tử tái tạo nên bạn vì cả 2 nằm trên 2 timeline khác nhau.
+ Thời gian có thể xem như là một tham số đo sự thay đổi đến hàng nguyên tử.
+ Nguyên tử ở dòng thời gian này không thật sự là chính nó nếu ở dòng thời gian khác vì đơn giản là chúng khác “tham số” thời gian.
+Việc khám phá ra wormhole đã cho phép time-travel trở thành chuyện có khả năng.
+ TUY NHIÊN, Kip Thorne – nhà vật lý học đoạt giải Nobel vào năm 2017 (và là bạn thân của Hawking) đã khám phá ra rằng, khi bạn cố gắng biến wormhole thành phương tiện du hành thời gian(kết nối 2 spacetime trên 2 dòng thời gian khác nhau), thì sẽ luôn có một cơ chế vũ trụ (universal mechanism) tạo ra các vụ nổ phản ứng mãnh liệt phá hủy wormhole ngay khi chúng vừa được tạo thành, ngăn cản việc du hành thời gian!Hiện nay, chúng ta chỉ mới đang tìm hiểu về wormhole, blackhole, chỉ đang ở bề mặt và đi những bước đầu của vật lí lượng tử.
+ Du hành thời gian chỉ mới, trên lý thuyết, là có thể thực hiện được ở mức độ sơ khai nhất (như là thí nghiệm về photon trong CTC), nhưng để mang một thứ có khối lượng, thậm chí là một hạt nguyên tử electron quay về quá khứ, vẫn là bất khả thi và quá tầm tay đối với khoa học, kỹ thuật hiện đại.
+ Nhưng không phải là không có hy vọng, nên nhớ chúng ta chỉ mới phát minh ra bóng đèn điện cách đây có 140 năm thôi! Một khi ta am hiểu hơn về vật lý lượng tử, về lỗ đen, wormhole, và với sự nhảy vọt của trang thiết bị kỹ thuật trong tương lai, thì biết đâu đó giấc mơ về du hành xuyên không gian giữa các vì sao, thậm chí là du hành quay ngược về thời gian sẽ không còn là chuyện viễn vông.
+Phụ lục (v4v):Đến phần cuối cùng là phần phân tích riêng về một trong những series tôi yêu thích nhất: Steins;Gate.
+ Tôi cho rằng S;G là tác phẩm thực hiện và đề cập khía cạnh time-travel cùng những vấn đề xoay quanh xuất sắc nhất trong tất cả những A-M tôi đã từng đọc và xem qua.
+Trước tiên, khi nói đến time-travel trong loại hình giải trí – nghệ thuật (phim ảnh, kịch vở, truyện sách, vv), nó vẫn mang rất nhiều yếu tố giả tưởng và hư cấu.
+ Thậm chí ngay cả những lý thuyết bạn đọc được trong bài này, không ít thì nhiều đều sẽ có những chỗ mâu thuẫn lẫn nhau, chúng ta vẫn đang khám phá một khái niệm mới mẻ, bí ẩn.
+ Chính vì thế, không có một tác phẩm về time-travel nào là tuyệt đối hoàn toàn về khía cạnh logic lẫn khoa học.
+Vậy vì sao tôi lại đánh giá S;G xuất sắc? Đó là do tính “tương đối”.
+ Tính tương đối ở đây không phải là tính tương đối của Einstein, mà là tính tương đối của tác phẩm so với những lý thuyết, sự kiện diễn ra trong câu chuyện.
+ Hay nói cách khác, những khái niệm, lý thuyết về time-travel trong S;G đều có sự thống nhất và liên kết đến với các sự kiện, mắt xích chính trong cấu trúc tác phẩm.
+Vừa “tương đối”, mà tại sao lại vừa “thống nhất”? Nói một cách dễ hiểu, Steins;Gate “vay mượn” rất nhiều lý thuyết, khái niệm của time-travel ở hiện thực(thế giới chúng ta đang sống), nhưng khi mang vào tác phẩm, Steins;Gate đã “làm mới” những khái niệm đấy để tái tạo lại cơ chế time-travel hoạt động trong tác phẩm một cách rất đặc thù.
+ Chính điều này đã mang lại sự “thống nhất” ở cấu trúc câu chuyện.
+ Nghĩa là sao? Những “nghịch lý” về time-travel ngoài đời thật đều có thể được lí giải trong S;G dựa vào những khái niệm, lý thuyết bộ đã tự xây dựng nên.
+Nói riêng về season 1 của anime, tạm ko bàn đến VN/S;G 0 đang chiếu.
+ Khởi đầu tác phẩm(giả sử bạn đã xem hết rồi), bạn dễ dàng nhận ra Okabe đang ở trong một vòng lặp theo nghịch lý tiền định.
+ Điểm khởi đầu cũng là điểm kết thúc.
+ Điểm xuất phát cũng sẽ là đích đến của chuyến hành trình dài mà Okabe sắp sửa trải qua.
+ Tác phẩm không hề giấu giếm điều này, S;G đã đặt thước đo cho sự mong đợi của khán giả ngay từ giai đoạn đầu.
+Kế đến, tác phẩm giới thiệu đến người xem thuyết “đa vũ trụ” (với nhiều time-line khác nhau).
+ Nhưng mà này, như đã đề cập ở bài viết, thuyết đa vũ trụ sẽ giải quyết và ngăn mọi nghịch lý xuất hiện.
+ Thế thì câu chuyện sẽ thiếu tính hấp dẫn, cam go vì có thể phát triển theo chiều hướng nào cũng được (đa vũ trụ mà), và lại có nhiều “bản thể Okabe” khác nhau, biết quan sát ai bây giờ? Và câu chuyện của người nào mới là câu chuyện chính?S;G giải quyết vấn đề khá gọn bằng 2 cách: áp dụng thuyết “tự kiên định của Novikov” và “ăn gian” thiết lập nên một dòng thời gian quan trọng nhất.
+Thuyết “tự kiên định” đảm bảo rằng dù Okabe có lựa chọn, hành xử với bất kì cách nào thì trong một “attractor field” nhất định, kết quả vẫn sẽ không thay đổi.
+ Chính điều này tạo cảm giác như cả vũ trụ, số mệnh muốn chống lại anh, làm tăng thêm sự kịch tính trong tác phẩm.
+Mặt khác, từ đầu đến cuối, dù có nhảy qua biết bao nhiêu time-line, bao nhiêu attractor field nhưng chúng ta luôn luôn dõi theo duy nhất “một tiềm thức hiện hữu của Okabe” (hãy cứ cho rằng đây là Okabe “gốc”).
+ Đến đây, khái niệm “reading-steiner” được giới thiệu với người xem.
+ Reading-steiner đảm bảo rằng dù có nhảy qua time-line khác nhau, ký ức từ các time-line cũ vẫn sẽ không bị thay đổi.
+ Hãy thử tưởng tượng như thế này, theo logic thông thường, khi bạn du hành đến một thời gian khác nhau, bạn sẽ gặp phải bản sao của chính bạn.
+ Nhưng với “reading steiner”, khi nhảy dòng thời gian bạn sẽ chỉ nhảy mỗi “tiềm thức” thôi (giống kiểu đoạt hồn ấy).
+ Điều này có tác dụng là đảm bảo tính quan trọng trong mọi dòng thời gian là như nhau, những sự kiện trong dòng thời gian này, tuy mới, nhưng đều trực tiếp liên hệ đến với tiềm thức của Okabe “gốc” mà bạn đang theo dõi ngay từ đầu.
+ Đây là Okabe bạn đã gắn kết cảm xúc, đã dành thời gian làm quen và biết qua – chứ ko phải một Okabe với tính cách mới trong dòng thời gian khác chẳng hạn(tất nhiên là chuyện này vẫn xảy ra).
+Tất nhiên, đảm bảo tính quan trọng của mọi dòng thời gian không phải là công dụng duy nhất, nó còn là một biện pháp giúp lối kể rõ ràng và mạch lạc hơn, tạo nên dòng chảy sự kiện cho câu chuyện.
+ Nếu như nhân vật giữ được ký ức của mọi dòng thời gian anh nhảy đến, thì cho dù có nhảy về trước, nhảy ra sau, đảo dòng thời gian loạn xạ, ký ức cũng sẽ được thêm vào trí nhớ, từ đó tạo nên một chuyến hành trình có dòng thời gian “tương đối” tiến về phía trước làm nhân vật thay đổi và trưởng thành hơn.
+Và để tăng thêm độ kịch tính, cũng như là để tra tấn người xem lẫn Okabe, tác phẩm còn giới thiệu thêm vài cái attractor field với nhiều kết quả được định sẵn.
+ Dù Okabe có “nhiệm màu” thoát được số phận này thì tai họa khác cũng sẽ ập đến.
+ Thuyết hỗn loạn mà điển hình là hiệu ứng cánh bướm trong time-travel là điều không thể thiếu, về khoảng này thì S;G vận dụng tốt, mọi hành động dù nhỏ nhất đều sẽ phân nhánh dòng thời gian (vd như gửi có 1 tin nhắn ăn gì mà Ruka thành gái), và để quay ngược lại điểm xuất phát, đòi hỏi Okabe phải “gỡ rối” mà giải quyết hậu quả anh đã gây ra trên từng dòng.
+Cuối cùng thì, chúng ta đến điểm kết thúc, mà cũng lại là điểm xuất phát với cái nghịch lý tiền định nhiều người thắc mắc về S;G: nếu Okabe gửi tin nhắn về quá khứ đến chính mình và cứu được Kurisu, thì đó sẽ là còi súng bắt đầu vòng lặp vô hạn khi quá khứ Okabe xem được tin nhắn và sẽ luôn cứu thành công Kurisu.
+ Câu hỏi đặt ra là tin nhắn ấy xuất phát từ đâu? Chắc chắn là nó không thể “luôn luôn hiện hữu” rồi (đến đây, tác phẩm lại một lần nữa áp dụng khái niệm ở đời thật vào là nguyên lí nhân quả ngược).
+Nếu bạn muốn biết câu trả lời, tôi nghĩ bạn nên xem S;G 0 đang chiếu đi (hoặc chơi VN), bạn sẽ ko phải thất vọngP.
+S: Em copy từ 1 group trên facebook.
+
+
+Tác giả: Thuận Thiên

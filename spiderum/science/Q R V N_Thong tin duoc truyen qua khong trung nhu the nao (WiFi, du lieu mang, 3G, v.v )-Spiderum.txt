@@ -1,0 +1,63 @@
+Thông tin được truyền qua không trung như thế nào (WiFi, dữ liệu mạng, 3G, v.v )?
+Source: http://qr.
+ae/TUphJfCâu hỏi gốc: Làm sao để giải thích cho một đứa trẻ mười tuổi việc thông tin được truyền qua không trung như thế nào (WiFi, dữ liệu mạng, 3G, v.
+v )?Trả lời bởi Muni Sreenivas Pydi, Kỹ sư điện MS, Đại học Wisconsin - Madison (2019)Tạm bỏ qua mấy đứa mười tuổi đi, bạn sẽ trả lời câu hỏi này cho một người lớn có học thức như thế nào? Có bao nhiêu người trong chúng ta thực sự hiểu những gì diễn ra khi bạn nhắn tin cho bạn bè của mình ở hải ngoại và họ nhận được “ping”, gần như tức khắc! Cho phép tôi giải trí với một suy nghĩ thử nghiệm nhỏ.
+ Khi bạn nhấn “gửi” trên ứng dụng nhắn tin yêu thích của mình, tin nhắn của bạn sẽ thực sự đi tới đâu?“Vào không trung,” bạn sẽ nói thế, “giống như sóng vô tuyến.
+.
+” Nhưng nhìn lại một chút nào.
+ Khi bạn nhấn gửi trên whatsapp, về cơ bản bạn sẽ gửi lệnh tới bộ xử lý di động của bạn thông qua các dây đồng mảnh trên bảng mạch in trong smartphone của bạn.
+ Những lệnh này về cơ bản là xung điện, đúng không? Và xung điện chỉ là các dòng electron chạy theo hiệu điện thế.
+ Chính xác là làm thế nào để tin nhắn của bạn "nhảy" vào không trung từ dòng electron trong dây đồng?Từ giai đoạn bạn có một bảng mạch mà bạn có thể chạm vào và cảm nhận (thậm chí ngửi) và sau đó, đột nhiên bạn có sóng vô tuyến - phần vô hình của quang phổ, bay vào trong không trung với tốc độ ánh sáng.
+ Điều gì xen giữa chúng?Điều xen giữa đó chính là thiết bị có vẻ kỳ lạ này: (iPhone 6 Plus Wi-Fi Antenna.
+ Nguồn hình ảnh)Đó là một ăng-ten, có nghĩa là "cực" trong tiếng Latin [1].
+ Nói một cách đơn giản, một ăng-ten là một thiết bị ma thuật với cái lưỡi kim loại nuốt xung điện và tạo ra sóng radio.
+ Cái vật này câm như hến, nhưng tiếng gào thét của nó có thể được nghe thấy từ hàng dặm.
+Cụ thể, một ăng-ten Wi-Fi như trong hình, kêu gào ở tần số 2,4 GHz (2 tỷ nhịp mỗi giây!) Và tạo ra bước sóng 12,5 cm.
+ Khác với loại ánh sáng nhìn được, những sóng này có thể xuyên qua các bức tường, và thậm chí uốn cong quanh các góc!Một ăng-ten tạo ra sóng vô tuyến như thế nào?Trước khi trả lời câu hỏi này, chúng ta cùng dạo quanh một chút.
+Bạn có biết những thành tựu gần đây trong giới khoa học phổ thông về sóng hấp dẫn không? Về cơ bản, chúng biến động trong trường hấp dẫn, lan truyền như năng lượng bức xạ.
+ Thuyết tương đối rộng của Einstein đã tiên đoán sự tồn tại của chúng một trăm năm trước và chúng ta mới chỉ phát hiện ra chúng.
+Cũng giống như sóng hấp dẫn, sóng điện từ là những dao động trong trường điện từ (ĐT), truyền như năng lượng bức xạ.
+ Và, không giống như câu chuyện về sóng hấp dẫn, sự tồn tại của sóng điện từ vô hình đã được tiên đoán bởi phương trình Maxwell trước khi được phát hiện bởi Heinrich Hertz!Vì vậy, để tạo ra sóng vô tuyến, bạn cần tạo ra những dao động trong trường ĐT.
+ Và để tạo ra những dao động đó, bạn cần các electron di chuyển trong một vật dẫn!Quá trình tạo nên sóng vô tuyến là một điệu múa được dàn dựng, nhịp nhàng cẩn thận của các electron trong các dây đồng nhỏ.
+ Giống như nhiễu loạn trên mặt nước lặng, được tỏa ra từ điểm nhiễu, các dòng electron chạy trong ăng-ten là nguyên nhân gây nhiễu sóng trong trường ĐT rồi phát ra ngoài không gian như sóng ĐT.
+Khi bạn nhấn “gửi” trên ứng dụng nhắn tin yêu thích của mình, hệ điều hành di động của bạn sẽ thiết đặt một chuỗi các sự kiện, sau cùng mã hóa tin nhắn như một vũ đạo kỹ lưỡng về điệu nhảy electron.
+ Điệu nhảy này tạo nên những nhịp điệu lên xuống trong trường ĐT trong không gian xung quanh, tỏa ra ngoài về phía tháp di động.
+Ăng-ten thu của tháp di động “cảm nhận” những sự lên xuống trên bề mặt dẫn điện của nó, tạo ra một điệu nhảy electron rất giống với điệu nhảy tại máy phát.
+ Điệu nhảy electron này lại là một tập hợp các xung điện trong các dây đồng nhỏ, được giải mã bởi phần cứng tại tháp di động.
+ Các thông tin được giải mã sau đó sẽ được truyền tải trên cáp thông lượng cao với hàng ngàn dặm giữa các quốc gia, châu lục và thậm chí cả đại dương (thông qua cáp viễn thông xuyên Đại Tây Dương hoặc một số cáp viễn thông dưới biển khác) vào một tháp di động gần bạn của bạn ở hải ngoại.
+ Từ cột đến điện thoại của bạn là một bước nhảy “không dây” khác.
+ Và cuối cùng, bạn của bạn nghe được tiếng “ping” quen thuộc.
+Thông tin thêm!Vì mọi người đã yêu cầu, tôi đã quyết định đưa thêm thông tin về một số câu hỏi phổ biến.
+ Cùng bắt đầu nào:Làm thế nào để điện thoại biết tháp di động ở đâu?Nó không biết, và nó không cần biết! Điện thoại sẽ phát tin nhắn của bạn theo mọi hướng để bất kỳ ai cũng có thể nghe.
+ Nhưng đừng lo, tin nhắn của bạn sẽ được mã hóa và chỉ có tháp di động mới có thể giải mã tin nhắn của bạn.
+Làm thế nào tháp di động biết tin nhắn đó là từ tôi?Với mỗi tin nhắn bạn gửi, bạn cũng kèm theo mã nhận dạng duy nhất thiết bị của mình.
+ Đó là cách tháp di động biết đó là bạn.
+Làm thế nào tháp di động phân biệt tin nhắn từ các điện thoại khác nhau?Tất cả các điện thoại đều tuân theo một giao thức để gửi tin nhắn đến tháp vào các thời điểm khác nhau, tần số khác nhau, các vị trí khác nhau hoặc sử dụng các mã khác nhau.
+Ví dụ tương tự tốt nhất tôi có cho điều này là trong một lớp học.
+ Tưởng tượng một lớp học với 100 sinh viên và chỉ một giáo viên.
+ Bây giờ, nếu tất cả các sinh viên bắt đầu nói chuyện cùng một lúc, giáo viên sẽ không thể hiểu bất kỳ ai trong số họ.
+ Vì vậy, họ tuân theo một giao thức (cách thức giao tiếp).
+ Nếu một sinh viên muốn phát biểu, họ giơ tay lên và đợi giáo viên chỉ vào họ.
+ Sinh viên không được nói trừ khi được giáo viên yêu cầu.
+ Nếu nhiều sinh viên cùng giơ tay cùng lúc, giáo viên sẽ chọn từng em một để chỉ có một sinh viên được nói vào một thời điểm.
+Tháp di động là giáo viên, và các thiết bị là sinh viên.
+ Giống như sinh viên có thể nói vào những thời điểm khác nhau để tránh bị nhiễu, các thiết bị có thể nói vào những thời điểm khác nhau, những tần số khác nhau hoặc các mã khác nhau để tránh bị nhiễu.
+Giao thoa là một trong những thách thức cơ bản trong truyền thông không dây và tất cả sách giáo khoa đều viết về chủ đề này.
+ Tôi có thể tiếp tục với các kỹ thuật đầy quyến rũ được sử để trách hiện tượng giao thoa trong các mạng di động ngày nay, nhưng có lẽ phải chờ cho những câu hỏi sau.
+Vậy, bạn đang nói rằng phần lớn truyền thông không thực sự là “không dây”?Đúng! Trừ khi bạn đang sử dụng điện thoại vệ tinh, giao tiếp không dây chỉ được sử dụng cho hai bước theo con đường: người gửi -> tháp 1 -> tháp 2 -> người nhận.
+ Giao tiếp giữa các tháp di động diễn ra thông qua các cáp truyền thông tốc độ cao dưới lòng đất.
+ Nếu không chi hàng tỷ đô la cho phần nền của cơ sở hạ tầng viễn thông, “không dây” sẽ không tồn tại.
+Nhưng không phải là dây cáp đã hết thời trong thế kỷ 21 sao? Tại sao không sử dụng không dây mọi lúc?Các loại cáp mà chúng ta đang nói đến ở đây (như cáp truyền thông xuyên Đại Tây Dương) chắc chắn sử dụng công nghệ rất cao.
+ Chúng có thể mang hàng terabyte dữ liệu mỗi giây và không phải gặp vấn đề nhiễu gần như thường xuyên như các đối tác không dây của chúng.
+Ngoài ra, bạn sẽ cần rất nhiều vệ tinh để phục vụ cho hàng tỷ người dùng và dữ liệu họ cần nếu bạn muốn truy cập không dây.
+ Và việc phóng một vệ tinh thực sự là rất đắt đỏ.
+Làm thế nào để tín hiệu biết tháp nào gần bạn tôi nhất?Mỗi tháp di động theo dõi tất cả thiết bị hiện tại trong vùng phủ song của nó.
+ Tương tự, mọi thiết bị đều theo dõi tháp di động gần nhất với nó.
+ Vì vậy, mọi thiết bị đều có “địa chỉ” của tháp di động.
+Khi tin nhắn của bạn đến tháp di động gàn nhất, tháp sẽ tra cứu “địa chỉ” của người nhận và gửi tin nhắn đến tháp tương ứng.
+Ghi chú[1] https://vi.
+wikipedia.
+org/wiki/%C4%82ngtenBài viết được đăng tải và thảo luận tại group Quora Việt Nam.
+
+
+Tác giả: Q R V N

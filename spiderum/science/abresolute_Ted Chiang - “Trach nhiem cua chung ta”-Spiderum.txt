@@ -1,0 +1,63 @@
+Ted Chiang - “Trách nhiệm của chúng ta”
+Đó là một lựa chọn khó khăn.
+.
+.
+Đây là một cảnh báo.
+ Xin hãy đọc cho kỹ.
+Đến lúc này hẳn các bạn đã thấy một Máy tiên đoán; hàng triệu mẫu đã được bán ra trong khi bạn đọc những dòng này.
+ Với những ai chưa biết, thì đó là một thiết bị nhỏ, như điều khiển từ xa để mở cửa ô tô.
+ Nó chỉ có một nút bấm và đèn LED lớn màu xanh lá.
+ Đèn sẽ nháy lên nếu bạn bấm nút.
+ Cụ thể hơn, đèn nháy một giây trước khi bấm nút.
+Người ta bảo lần đầu thử chiếc máy tạo cho họ cảm giác như đang chơi một trò chơi kỳ lạ, với mục tiêu là nhấn nút sau khi thấy đèn nháy, và việc đó thì dễ.
+ Nhưng khi bạn muốn phá vỡ luật chơi mới biết rằng bạn không thể.
+ Nếu bạn cố nhấn nút mà không thấy đèn, đèn lập tức sáng lên, và dù có di chuyển nhanh cỡ nào, bạn không bao giờ nhấn nút trước khi một giây trôi qua.
+ Nếu bạn chờ đèn tự nháy với ý định sẽ không nhấn nút sau đó, thì đèn không bao giờ sáng.
+ Dù có làm cách nào, đèn luôn sáng trước khi nhấn nút.
+ Máy tiên đoán không thể bị lừa bịp.
+Ở trung tâm của mỗi Máy tiên đoán là một mạch điện với độ trễ thời gian ngược chiều - nó gửi một tín hiệu về quá khứ.
+ Hàm ý đầy đủ của công nghệ này sẽ được biết đến về sau, khi ta đạt tới độ trễ lớn hơn một giây.
+ Nhưng đây không phải điều mà lời cảnh báo này muốn nói.
+ Vấn đề cấp bách là Máy tiên đoán chứng tỏ rằng ý chí tự do không tồn tại.
+Đã có rất nhiều lập luận rằng ý chỉ tự do chỉ là một ảo ảnh, dựa trên vật lý hay thuần túy logic.
+ Mọi người hầu như đồng ý rằng những lập luận này là không thể bác bỏ, nhưng không ai thực sự muốn chấp nhận những kết luận nó đưa ra.
+ Trải nghiệm thực tiễn của việc sở hữu ý chí tự do là quá mạnh đến mức lý lẽ không thể gạt phăng đi.
+ Ta chỉ cần một minh chứng, và Máy tiên đoán cho ta điều ấy.
+Trường hợp đển hình là một người chơi với Máy tiên đoán sẽ không thể dứt khỏi nó trong một vài ngày, cho bạn bè xem, rồi lập mưu để chiến thắng nó.
+ Người đó có thể mất dần hứng thú với cỗ máy, nhưng không ai có thể quên ý nghĩa của nó là gì - trong những tuần tiếp theo, những hàm ý về một tương lai tất định dần len lỏi vào trí óc.
+ Vài người khi nhận ra những lựa chọn của họ không thay đổi được gì, đành từ chối không lựa chọn.
+ Như một đoàn quân Thư ký Bartleby, họ không thể tự mình hành động được nữa.
+ Cuối cùng, một phần ba những người dùng Máy tiên đoán phải nhập viện vì không chịu ăn.
+ Tình trạng kết cục là hội chứng câm bất động, một dạng hôn mê trong khi còn tỉnh táo.
+ Họ vẫn cử động mắt để dõi theo chuyển động, và đôi khi đổi tư thế, nhưng không làm gì khác.
+ Khả năng cử động còn đó, nhưng động lực đã mất hết.
+Trước khi người ta dùng Máy tiên đoán, bệnh câm bất động cực kỳ hiếm gặp, đó là hậu quả từ chấn thương ở vùng vành cung vỏ não trước trán.
+ Giờ đây nó lan ra như một đại dịch tư duy.
+ Có người từng hình dung có một ý tưởng sẽ tiêu diệt người nghĩ đến nó, một niềm kinh hãi Lovecraft không thể thốt nên lời, hay một mệnh đề Gödel sẽ đánh sập hệ logic của con người.
+ Hóa ra ý tưởng nguy hại ấy lại quen thuộc với tất cả chúng ta: rằng tự do ý chí không tồn tại.
+ Nó chỉ không thể gây hại khi chúng ta còn chưa tin vào nó.
+Các bác sĩ cố gắng thuyết phục bệnh nhân khi họ vẫn còn phản hồi.
+ Trước kia chúng ta đều cũng sống hạnh phúc và năng động, và khi ấy chúng ta cũng đâu có ý chí tự do.
+ Tại sao bây giờ phải thay đổi? “Không một hành động nào của anh vào tháng trước lại tự do hơn hành động của anh hôm nay,” một bác sĩ nói.
+ “Ngay bây giờ anh vẫn làm được y như thế.
+” “Nhưng giờ tôi mới hiểu”, bệnh nhân một mực đáp lại.
+ Và có người không nói gì nữa.
+Vài người sẽ cãi rằng việc Máy tiên đoán gây ra sự thay đổi hành vi này có nghĩa là chúng ta thực sự có ý chí tự do.
+ Một người máy không thể bị nhụt chí, chỉ có sinh thể tư duy độc lập mới bị tác động.
+ Một nhóm người mắc hội chứng câm bất động trong khi nhóm còn lại không sao, càng nhấn mạnh tầm quan trọng của việc lựa chọn.
+Không may, lý lẽ ấy là sai lầm: Mọi loại hành vi đều tương hợp với tính tất định.
+ Một hệ động có thể rơi vào vùng hấp dẫn và kết thúc ở một điểm nào đó, trong khi một hệ khác mãi mãi ở trạng thái hỗn loạn, nhưng hai kết quả này hoàn toàn tất định.
+Tôi truyền cảnh báo này cho các bạn từ một năm về tương lai: đây là thông điệp dài đầu tiên được tiếp nhận khi mạch điện với độ trễ ngược chiều ở tầm một phần triệu giây được thiết kế để truyền thông tin.
+ Các thông điệp khác sẽ đến sau, đề cập những vấn đề khác.
+ Lời nhắn gửi của tôi là thế này: hãy giả vờ như mình có ý chí tự do.
+ Điều cơ bản là bạn phải làm như lựa chọn của mình có ý nghĩa, dù cho bạn biết rõ sự thật.
+ Thực tại không quan trọng, điều quan trọng là niềm tin của bạn, và tin vào lời nói dối là cách duy nhất để không rơi vào hôn mê khi còn tỉnh.
+ Nền văn minh giờ đây phụ thuộc vào việc tự huyễn hoặc.
+ Có lẽ lịch sử luôn là như thế.
+Nhưng tôi biết, bởi ý chí tự do là một ảo ảnh, ai sẽ rơi vào chứng câm bất động và ai không, tất cả đã được xác định.
+ Không có cách nào cả - bạn không thể lựa chọn hậu quả mà Máy tiên đoán sẽ đổ lên đầu bạn.
+ Có người sẽ gục ngã và có người không, và việc gửi cảnh báo này cũng không thay đổi được tỷ lệ đó.
+ Vậy tại sao tôi lại làm thế?Vì tôi không thể lựa chọn.
+- - -Ted Chiang - What's Expected of Us Dịch: abresolute
+
+Tác giả: abresolute

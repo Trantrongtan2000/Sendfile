@@ -1,0 +1,106 @@
+Viết tiếng Việt với hệ chữ Tiên (Tengwar)
+Nếu đã từng đọc truyện hay xem phim Chúa tể những chiếc Nhẫn hẳn bạn đã thấy qua các tuồng chữ Tiên được gọi là Tengwar này.
+ J.
+R.
+R.
+ Tolkien sáng tạo bộ chữ này nhằm làm tăng chiều sâu lịch sử, văn hoá của ngữ hệ Tiên, vốn đã nên hình thành vóc được nhiều năm.
+ Ban đầu ông chỉ dùng bộ chữ để viết các ngôn ngữ Tiên như Quenya, Sindarin.
+ Sau, vì nhu cầu thực tiễn ông lại tạo thêm phương pháp viết cho tiếng Anh.
+ Rồi khi tiếng tăm Chúa Nhẫn lan ra khắp thế giới, người ta bắt đầu tạo thêm phương pháp viết cho các ngôn ngữ khác.
+Không nằm ngoài xu thế đó, tôi cũng ấp ủ một phương pháp cho tiếng Việt từ lâu.
+ Nhưng phải đến khi bản dịch chỉn chu đầu tiên của Chúa Nhẫn (cuốn Đoàn Hộ Nhẫn) được phát hành vào năm 2013, tôi mới có đủ động lực để bắt tay thực hiện dự án này.
+Tôi lao vào nghiên cứu các văn bản về chữ viết của Tolkien, cùng các phương pháp cho ngôn ngữ khác mà người ta đã làm, tưởng rằng chỉ nhoay nhoáy vài ngày là xong để kịp hoà chung không khí nhộn nhịp nhân dịch sách vừa phát hành (lúc ấy cuộc chiến dịch thuật đang nóng sốt – tôi hay gọi vui là Cuộc chiến miền Tây).
+ Nhưng tôi không ngờ cái lọ xọ cái chai, một vấn đề kéo theo hàng tá vấn đề khác.
+ Càng nghiên cứu tôi lại càng muốn làm cho thật chỉn chu, nghiêm túc, chứ không phải tuỳ tiện vơ một nắm chữ rồi dựa theo đó mà sắp đặt.
+ Nhưng càng chỉn chu, nghiêm túc bao nhiêu lại càng mất thời gian bấy nhiêu.
+ Khi đang nghiên cứu chữ Tengwar, tôi phải nhảy sang xem xét ngữ âm Quenya, Sindarin và tiếng Anh để hiểu hơn phương pháp của Tolkien; rồi tôi phải đọc một mớ tài liệu ngôn ngữ học để hiểu các khái niệm chuyên ngành cần thiết; sau cùng tôi nghiên cứu ngữ âm tiếng Việt để có cái nhìn toàn vẹn về tiếng mẹ đẻ của mình (nhờ vậy mà tôi phát hiện ra chữ Quốc ngữ có rất nhiều sai lầm).
+Khi đã hiểu và biết những gì cần hiểu và biết, tôi liền xác định được đâu là con đường đúng đắn để bước đi: phương pháp này cần phải thuần tuý ngữ âm học (giống phương pháp cho Quenya) để tận dụng đặc điểm thể hiện âm rất hay của chữ Tengwar.
+ Nhưng việc lựa chọn, sắp đặt các con chữ sẽ được dùng cũng tốn không ít thời gian; quy tắc chính tả cũng cần được làm kĩ lưỡng.
+ Và mặc dù về cơ bản mọi thứ đã hoàn thành vào tháng Mười năm 2013, tôi vẫn phải tiếp tục suy nghĩ, chỉnh sửa, sắp xếp lại không cái này cũng cái kia.
+ Thời điểm đó tôi đã viết xong tài liệu mô tả phương pháp này và công bố trên trang facebook Taulë Ardaranyessë rồi, nhưng đến tháng Mười hai năm 2016 tôi phải xoá bài và viết lại toàn bộ vì có quá nhiều thay đổi về cả chữ viết lẫn quy tắc viết.
+ Nhưng bây giờ phương pháp viết đã hoàn chỉnh, không cần sửa thêm gì nữa (ngoại trừ lâu lâu đọc lại vẫn thấy lỗi chính tả!).
+Nay, nhân sự kiện toàn dân học tiếng Việt, tôi bèn viết bài này một là để mọi người biết tới, hai là muốn thổi làn gió mới sau những cơn bão ngớ ngẩn về chữ Quốc ngữ vừa qua, và ba là quảng bá thêm về Tolkien cùng Chúa tể những chiếc Nhẫn cho những ai chưa biết (truyện hay lắm mọi người hãy mua sách đọc nhé!).
+Đã hết cơn lan man, giờ tôi xin được trình bày phần nội dung chính.
+Bài này chỉ ghi vắn tắt tổng hợp những điểm chính về phương pháp viết để giới thiệu.
+ Còn tài liệu chi tiết có thể xem ở đây:Phương pháp viết tiếng Việt bằng chữ TengwarLaicasaanedrive.
+google.
+comĐính chính: Bài này và tài liệu có sai một lỗi khá lớn (ít nhất là đối với tôi).
+ Ấy là vị trí 3 con chữ N, M, Nh chưa được sửa lại từ tận năm 2016! Tôi quên khuấy đi mất rằng Nh [ɲ] là một âm vòm mềm, là âm yếu, nó nên ở cùng hàng với các âm yếu khác.
+ Bởi quên đi việc này nên chữ Tengwar cho N, M, Nh đều sai, dẫn đến các ví dụ khác cũng sai nốt.
+ Nhưng giờ tôi đã sửa lại.
+ Mong rằng chưa có ai thành thục chữ Tengwar để chỉnh sửa này vẫn còn kịp.
+ :(Từ vựng- Chữ tengwa nghĩa là một kí tự chính thuộc bộ chữ Tengwar.
+ Số nhiều là tengwar.
+ Trong phương pháp này, tất cả phụ âm đều là tengwa.
+ Một số chữ tengwa dùng để ghi nguyên âm đôi, hoặc âm đệm nguyên âm.
+- Chữ tehta nghĩa là một dấu phụ ghi phía trên hoặc phía dưới con chữ tengwa.
+ Số nhiều là tehtar.
+ Trong phương pháp này, tất cả nguyên âm và dấu thanh đều là tehta.
+Cấu trúc âm tiết- Phụ âm đầu luôn luôn tồn tại trong mọi âm tiết.
+ Xem mục Âm zero.
+- Dấu tròn môi có thể có hoặc không.
+ Xem mục Phụ âm đầu tròn môi.
+- Nguyên âm có thể là nguyên âm đơn, nguyên âm đôi, hoặc nguyên âm ghép, luôn tồn tại trong mọi âm tiết.
+ Xem các mục tương ứng.
+- Phụ âm cuối có thể có hoặc không nếu nguyên âm là đơn hoặc đôi; nếu là nguyên âm ghép, phụ âm cuối không xuất hiện.
+ Xem mục Nguyên âm ghép.
+- Dấu thanh có thể có hoặc không.
+ Xem mục Dấu thanh.
+Ví dụ một số từ đơn âm tiết: a, nhà, tôi, cuối, đường.
+Ví dụ một số từ đa âm tiết: sinh viên, quốc tế.
+Phụ âmBảng tra theo thứ tự chữ Quốc ngữBảng tra theo thứ tự Tengwar chuẩnBảng này bao gồm tất cả các kí tự tengwa theo bảng Tengwar chuẩn.
+ Các ô màu xám và không có phiên âm IPA đều là những con chữ không được dùng để ghi tiếng Việt.
+ Tuy nhiên có thể dùng các chữ này ghi tiếng nước ngoài khi cần thiết.
+Lưu ý: Tiếng Việt chỉ có âm [ɣ] chứ không có [ɡ].
+Bảng Tengwar chuẩn tuy không quen thuộc như bảng tra theo chữ Quốc ngữ, nhưng nó thể hiện được các biến đổi âm thanh rất logic của tiếng Việt nói riêng, và mọi ngôn ngữ nói chung.
+ Ví dụ, cột I là các âm răng, cột II là âm môi, cột III là âm vòm mềm, cột IV là âm vòm mềm bị tròn môi.
+ Hoặc một cung tròn thể hiện âm vô thanh, hai cung tròn thể hiện âm hữu thanh có cùng khẩu hình như âm vô thanh tương ứng, vân vân.
+.
+.
+Nguyên âmNguyên âm đơnKhi nguyên âm đứng độc lập, ta ghi dấu tehta của nó phía trên dấu chở.
+Khi nguyên âm đơn ghép với phụ âm cuối hoặc âm đệm, ta ghi dấu tehta của nó lên chữ tengwa của phụ âm cuối hoặc âm đệm đó.
+Nguyên âm đôiCác nguyên âm đôi luôn được ghi thành một khối như sau:Âm đệm và nguyên âm ghépTổng hợp tất cả nguyên âm ghép có trong tiếng Việt.
+Tuy nhìn có vẻ nhiều, nhưng tựu chung quy tắc viết rất đơn giản:- Khi ghép nguyên âm đơn với âm đệm, ta viết dấu tehta của nguyên âm đơn phía trên chữ tengwa âm đệm.
+- Khi ghép nguyên âm đôi với âm đệm, ta viết chữ tengwa âm đệm ngay sau khối nguyên âm đôi.
+Dấu thanhDấu thanh luôn ghi bên dưới chữ tengwa có dấu tehta nguyên âm.
+Xem thêm các ví dụ bên dưới để hiểu cách ghi dấu thanh.
+Phụ âm đầu tròn môiTròn môi, hay môi hoá, là hiện tượng hai môi chụm lại trước khi phát âm một phụ âm nào đó.
+ Với chữ Quốc ngữ, ta dễ bị nhầm lẫn giữa hiện tượng tròn môi với nguyên âm đôi “ua, uô” và nguyên âm ghép “ui”.
+Trong kí âm quốc tế IPA, một chữ “w” nhỏ được ghi bên cạnh phụ âm để biểu thị rằng phụ âm đó bị môi hoá.
+Trong phương pháp này, ta ghi dấu tehta ngang bên dưới chữ tengwa phụ âm đầu.
+Cần phân biệt phụ âm đầu tròn môi với nguyên âm đôi “ua, uô” và nguyên âm kép “ui” trong chữ Quốc ngữ.
+Âm zeroTrong tiếng Việt, nếu một âm tiết không có phụ âm đầu thì thanh hầu cổ họng sẽ có một động tác đóng - mở trước khi phát âm.
+ Chữ Quốc ngữ không ghi nhận hiện tượng này.
+ Nhưng phương pháp này đưa ra hai lựa chọn tuỳ ý như sau.
+Cách viết vắn tắt không bắt buộc ghi âm zero, nhưng nếu âm tiết có hiện tượng tròn môi thì phải ghi chữ tengwa của âm đệm [u̯] phía trước.
+Phụ âm đóngKhi đi sau các nguyên âm tròn O, Ô, U, hai phụ âm C và Ng trở thành âm đóng: môi ngậm lại sau phát âm.
+ Lưu ý, khi đi sau nguyên âm đôi UÔ, hai phụ âm này vẫn là âm mở.
+Dấu câuNgoại trừ dấu nối chữ, tất cả các dấu khác luôn có một khoảng trắng giữa nó và con chữ.
+Chữ sốQuy tắc viết không khác với chữ Quốc ngữ: ghi từ trái qua phải, chữ số tận cùng bên phải là số hàng đơn vị.
+Ngoài ra còn một số quy tắc khác như sau.
+Ghi ngôn ngữ khácCó hai cách ghi ngoại ngữ:1.
+ Dùng phương pháp gốc dành riêng cho ngôn ngữ đó.
+ Có thể đặt trong cặp dấu trích dẫn để phân biệt.
+2.
+ Ghi phiên âm- Dùng phương pháp ngữ âm học để chọn kí tự mô tả âm gần giống từ bảng chữ Tengwar trong mục Phụ âm.
+- Nguyên âm đơn luôn luôn viết trên dấu chở.
+ Nếu là nguyên âm dài thì dùng dấu chở dài.
+- Nếu không thể tận dụng các nguyên âm đôi hoặc ghép có sẵn ở trên thì có thể tạo kiểu kết hợp mới miễn phù hợp với các quy tắc của phương pháp này.
+- Có thể dùng dấu nối chữ để phân tách các âm tiết.
+Cách ghi phiên âm khá phức tạp, đòi hỏi phải am hiểu về ngữ âm học của ngôn ngữ đó.
+ Nhưng ưu điểm là có thể áp dụng cho nhiều ngôn ngữ, không cần quan tâm nó đã có phương pháp viết riêng hay chưa.
+Tuy nhiên có những trường hợp không thể ghi phiên âm được: khi không một kí tự nào trên bảng Tengwar của phương pháp này có thể diễn tả âm gần giống.
+ Lúc này ta buộc phải viết nguyên văn bằng hệ chữ gốc của nó (không phải chữ Tengwar).
+Các văn bản ví dụĐích thực là vàng thời không lấp lánhĐích thực là vàng thời không lấp lánh,Lang thang cô lánh chẳng cứ lạc đường;Cội khoẻ thân cường dẫu già không mạt,Rễ sâu bám chặt phạm nào tuyết sương.
+Từ đống tro tàn sẽ khêu lại lửa,Giữa đêm phong toả ánh sáng bật ra;Lưỡi thép gãy lìa lại rèn sắc bén,Kẻ không vương miện tái hồi ngai vua.
+Bài ca của BregaladÔi Orofarnë, Lassemista, Carnimírië!Thanh lương trà xinh, trên tóc em xanh, hoa nở sao mà trắng muốt!Thanh lương trà nhỏ, sao mà rạng rỡ trong mắt ta hè năm xa.
+Da em sáng ngời, lá em nhẹ rơi, giọng em sao mà dịu mát:Mái đầu kiều diễm, đỏ vàng vầng miện ngày xưa sao mà kiêu sa!Thanh lương trà chết, mái đầu khô kiệt ngày nay xơ xác xám màu,Vầng miện đã tắt, giọng em đã dứt cho đến vô cùng mai sau.
+Ôi Orofarnë, Lassemista, Carnimírië!Bài ca của GaladrielTa hát về lá, về lá sắc vàng, kìa lá vàng cùng trổ mọc:Ta hát về gió, kìa đâu nổi gió, len trong xào xạc cành tơ.
+Bên kia Mặt Trời, bên kia Mặt Trăng, trên Đại Dương ngầu sủi bọt,Bên bờ biển bạc ở Ilmarin, Cây Vàng từng mọc bên bờ.
+Đứng dưới ngàn sao trong Đêm Trường Cửu Eldamar cây tỏa sáng,Ở Eldamar bên tường thành chắn Tirion đất người Tiên.
+Phía ấy ngàn xưa lá vàng đã mọc trên những tháng năm chẽ nhánh,Phía này cách biệt Bể Chia Cắt dài, lệ Tiên nay thánh thót tuôn.
+Ơi Lórien! Mùa Đông đã đến, đến trụi trần Ngày không lá;Lá theo nhau rụng xuống dòng nước rụng, Dòng Sông cứ thế trôi xa.
+Ơi Lórien! Bờ Bên Này xa, quá lâu rồi ta đã sống,Đã kết hoa vàng elanor óng bện vào vành miện phôi pha.
+Nhưng nếu bây giờ ta hát về tàu, có con tàu nào sẽ tới,Có con tàu nào đưa ta trở lại Đại Dương vời vợi trùng xa?
+
+Tác giả: Laicasaane

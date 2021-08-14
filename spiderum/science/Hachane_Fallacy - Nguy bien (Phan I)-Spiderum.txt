@@ -1,0 +1,34 @@
+Fallacy - Ngụy biện (Phần I)
+Lỗi diễn đạt và dùng từ không chỉ là một vấn đề của ngôn ngữ, mà còn là vấn đề của tư duy và logic học, nhiều trường hợp trong số đó được liệt vào lỗi ngụy biện.
+Ngụy biện là một chủ đề khá hay, đối với những bạn quan tâm và đã tìm hiểu thì không còn xa lạ với nó nữa.
+ Nhưng vì sao mình vẫn viết bài này? Vì kiến thức là vô hạn, nên chắc chắn vẫn còn nhiều người chưa biết.
+ Mình tổng hợp lại những gì cô đọng và gần gũi nhất giúp mọi người dễ tiếp cận hơn.
+ Sau đó chúng mình có thể cùng nhau phân tích kỹ hơn những ví dụ về lỗi ngụy biện vẫn gặp hàng ngày.
+ Quan trọng là mình thích viết trên Spiderum hơn, tranh luận thoải mái hơn, tính bảo mật cao hơn và tìm kiếm bài viết dễ dàng hơn ^^ Nếu lên google gõ từ “Ngụy biện” bạn sẽ thấy hàng loạt kết quả xuất hiện, hầu hết đều na ná nhau, hầu hết cũng đều dịch từ các nguồn tiếng Anh.
+ Ở đây mình sẽ tổng hợp từ các nguồn chính Thư viện khoa học (do 1 nhóm tác giả tìm hiểu và nghiên cứu), Triethoc.
+edu.
+vn (do TS Phạm Đình Nghiệm viết), sách "Những trò ngụy biện", ngoài ra các bạn muốn cập nhật các ví dụ về ngụy biện thì có thể tìm đến fanpage Ngụy biện - Fallacy, Blog của GS Nguyễn Văn Tuấn, hoặc trên kênh Youtube Carneades.
+org và các sách logic khácBài viết của mình (dự kiến) có 4 phầnPhần I: Khái quát về ngụy biệnPhần II: Các loại ngụy biện và ví dụ (Phần này mình chủ yếu tổng hợp lại)Phần III: [Bàn luận] Các ví dụ về ngụy biện(2 phần này mình rút ra từ kinh nghiệm bản thân và chia sẻ của những người khác, mong mọi người có thể cùng góp ý và bàn luận :)))PHẦN I: KHÁI QUÁT VỀ NGỤY BIỆN1.
+ Ngụy biện là gì?Trong “Nhập môn logic học” của TS.
+ Phạm Đình Nghiệm đưa ra định nghĩa: ngụy biện là sự cố ý vi phạm các quy tắc logic trong suy luận nhằm mục đích đánh lạc hướng người nghe, người đọc, làm cho người khác nhầm tưởng cái sai là đúng, cái đúng là sai.
+ (Theo ý kiến của mình, ngụy biện không hẳn lúc nào cũng là “cố ý”, vì nhiều người ngụy biện mà không biết là mình đang ngụy biện)Trong tiếng Việt, ngụy là “giả dối”, biện là tranh biện, biện luận, ngụy biện tức là sự biện luận giả dối.
+Trong tiếng Hy Lạp, ngụy biện là “Πλάνη” được hiểu như là một cái lỗi – ở đây là lỗi trong thao tác tư duy.
+Plato là nhà triết học Hy Lạp đầu tiên có công sưu tầm những ví dụ về ngụy biện.
+ Aristotle (học trò của Platon) là người đã liệt kê và phân loại các loại ngụy biện.
+ Sau đó, cũng đã có khá nhiều nhà triết học và logic học như John Locke, John Stuart Mill, Jeremy Bentham, hay S.
+ Morris Engel cũng có nhiều cống hiến quan trọng trong việc nghiên cứu về ngụy biện.
+Như vậy, ngụy biện luôn là một vấn đề của logic học, đó là vấn đề loại bỏ những suy luận hay diễn giải phi logic nhằm hướng sự minh triết, chân thực trong tư duy.
+Nguồn ảnh: Internet2.
+ Vì sao cần tìm hiểu về ngụy biện?Ngụy biện luôn hiện hữu ở quanh ta.
+Ở đâu có tranh luận, ở đó có thể xuất hiện ngụy biện: trên các chương trình tivi, trên các mặt báo, các diễn đàn, hay trong chính cuộc sống hàng ngày của chúng ta.
+Bất cứ ai cũng có thể mắc lỗi ngụy biện.
+ Chỉ cần bỏ qua các nguyên tắc trong tranh luận, hiếu thắng muốn chứng minh quan điểm của mình, hay thiếu hiểu biết dẫn đến tư duy logic sai, thì sẽ rất dễ sa đà vào ngụy biện.
+Không chỉ riêng Việt Nam, mà ở Úc, ở Mỹ, châu Âu, người ta đều thấy được sự yếu kém trong tranh luận cộng đồng (điển hình là vụ Holocaust, Nazi,.
+.
+.
+).
+ Không phải người tư duy kém, học vấn thấp mới mắc phải lỗi ngụy biện, mà ngay cả những người hiểu biết, trình độ cao vẫn có thể mắc phải (và cuộc tranh biện được quan tâm nhất gần đây là giữa Trump và Hillary)Ngụy biện còn được cho rằng đã xuất hiện trong các câu chuyện dân gian từ ngày xưa (ví dụ Trạng Quỳnh, Ba Giai Tú Xuất, …), trong khi người xưa cho rằng đó là đại diện cho sự thông minh, nhanh trí, thì nhiều người chỉ ra hàng loạt lỗi ngụy biện trong cách suy luận của Trạng, và cho rằng đó là lối suy nghĩ khôn vặt, gian manh, gây ảnh hưởng xấu đến thế hệ sau.
+ (Phần này chúng ta có thể cùng bàn luận sau :D)Tìm hiểu về ngụy biện giúp chúng ta tránh được các lỗi trong tranh biện, ngoài ra còn nâng cao khả năng tư duy và phản biện.
+Cuối cùng, theo mình ngụy biện là một chủ đề khá thú vị, ngay cả khi đã thuộc nằm lòng các quy tắc thì vẫn có thể mắc phải, càng tìm hiểu và phân tích các ví dụ về ngụy biện thì sẽ càng thấy bể kiến thức thật bao la, và từ trước đến giờ mình đã phạm lỗi quá nhiềuP/S: Trên website Thư viện khoa học có đề cập đến nguyên nhân hình thành lối tư duy ngụy biện ở người Việt, nhưng đây đều là suy luận của tác giả, mình không đưa vào vì rất có thể sẽ mắc các lỗi ngụy biện :v Nếu bạn muốn đọc thì có thể tìm ở đấy :DPhần 2: Các loại ngụy biện thường gặp#hanm
+
+Tác giả: Hachane

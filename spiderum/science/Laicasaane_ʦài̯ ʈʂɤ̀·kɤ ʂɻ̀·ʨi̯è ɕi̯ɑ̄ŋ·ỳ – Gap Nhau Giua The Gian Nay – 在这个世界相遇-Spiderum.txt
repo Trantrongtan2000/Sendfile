@@ -1,0 +1,102 @@
+ʦài̯ ʈʂɤ̀·kɤ ʂɻ̀·ʨi̯è ɕi̯ɑ̄ŋ·ỳ – Gặp Nhau Giữa Thế Gian Này – 在这个世界相遇
+Đôi lờiMặc dù mình đã tìm hiểu ngữ âm tiếng Trung (trên phương diện ngôn ngữ học) được một thời gian, nhưng bính âm (pinyin) vẫn không giúp mình nhớ được khẩu hình các âm vị.
+ Bởi vậy mình bèn quyết định sử dụng một công cụ để chuyển đổi bính âm sang hệ thống phiên âm quốc tế (IPA).
+ Đối với mình, IPA dễ nhớ hơn vì mình đã quen thuộc với hệ thống này được nhiều năm.
+Mình tìm trên mạng thì chỉ thấy công cụ Pinyin phonetics này là vừa miễn phí, vừa đủ dùng nên ban đầu chỉ định sử dụng nó thôi.
+ Sau đó mình thấy công cụ này không giữ được các dấu thanh trong bính âm, mà thanh điệu cũng là phần quan trọng của tiếng Trung giống như tiếng Việt.
+ Nên mình đã viết 1 công cụ khác để tự dùng.
+ Hiện tại mình vẫn chưa có thời gian đăng lên trang cá nhân nên nếu các bạn muốn sử dụng thì hiện thời mình cũng không giúp được.
+ Khi nào có thời gian rãnh mình sẽ đăng lên cùng với công cụ chuyển đổi chữ Quốc ngữ sang chữ Tengwar cho tiếng Việt (đã hoàn thiện được hơn 1 năm nay).
+Công cụ của mình mặc dù có tốt hơn công cụ miễn phí ở trên một chút (giữ được dấu thanh, dùng một số kí tự IPA dễ nhớ hơn) nhưng kì thực nó vẫn chỉ là một thứ thô sơ.
+ Bởi (do giới hạn kĩ thuật) mình chỉ có thể chuyển đổi dựa trên âm đọc chuẩn theo quy ước.
+ Bên cạnh đó việc chuyển đổi cũng phụ thuộc rất nhiều vào phần dữ liệu bính âm đầu vào nên các đặc điểm phương ngữ hay các cách đọc khác của cùng 1 chữ đều tuỳ vào phần bính âm này có đáp ứng được hay không.
+ Mình đang sử dụng công cụ Talking Chinese to Pinyin (TCP) để chuyển đổi chữ Trung sang bính âm, theo tai mình nghe thì công cụ này cho ra bính âm đúng hơn Google Translate.
+ Một số chữ khác mà TCP không đáp ứng được mình đều phải nghe phát âm của ca sĩ rồi diễn dịch lại theo kiến thức ngữ âm học.
+Dưới đây là cả phần IPA (có sửa đổi theo cách phát âm mình nghe được) và phần bính âm gốc lấy từ TCP.
+Lời bài hátTrong ngoặc ( ) là bính âm theo TCP.
+
+
+Vì TCP có cho biết các âm tiết nào nối với nhau thành 1 chữ, mình sử dụng dấu chấm (.
+) trong bính âm để nối âm tiết, tương đương với dấu chấm giữa (·) trong IPA.
+1.
+ɕīŋ·ɥè ɕi̯ɑ̀ŋ i̯ɛ̌n ý tà·xǎi̯ ʂɑ̀ŋ(xīng.
+yuè xiàng yǎn yú dà.
+hǎi shàng)uēi̯·fə̄ŋ i̯ɑ́u̯·i̯è ɕì·y̌ i̯ě pʰɑ́ŋ xu̯ɑ́ŋ(wēi.
+fēng yáo.
+yè xì.
+yǔ yě páng huáng)li̯óu̯ ɕi̯ä́ fēi̯·ǔ ʨʰýn·ʨʰīŋ ʂə̄n·ʈʂʰù(liú xiá fēi.
+wǔ qún.
+qīng shēn.
+chù)nǐ·u̯ǒ̞ ʦʰə́ŋ ɕi̯ɑ̄ŋ·ỳ tɤ tì·fɑ̄ŋ(nǐ.
+wǒ céng xiāng.
+yù de dì.
+fāng)2.
+nǐ ʂɻ̀·fǒu̯ ǐ xu̯ä̀·ʦu̯ò̞ fə̄ŋ·y̌(nǐ shì.
+fǒu yǐ huà.
+zuò fēng.
+yǔ)ʈʂʰu̯ān·ɥè ʂɻ́·ku̯ɑ̄ŋ lái̯·tɑ̀u̯ ʈʂɤ̀·lǐ(chuān.
+yuè shí.
+guāng lái.
+dào zhè.
+lǐ)ʨʰi̯ōu̯ ʨʰỳ ʈʂʰu̯ə̄n lái̯ xǎi̯·tʰɑ́ŋ xu̯ǟ·kʰāi̯(qiū qù chūn lái hǎi.
+táng huā.
+kāi)nǐ ʦài̯ mə̀ŋ·lǐ u̯ǒ̞ pú·ɥɛ̀n ɕǐŋ·lái̯(nǐ zài mèng.
+lǐ wǒ bú.
+yuàn xǐng.
+lái)3.
+měi̯ tʰi̯ɑ́u̯ tà·ý tōu̯·xu̯èi̯ ɕi̯ɑ̄ŋ·ỳ(měi tiáo dà.
+yú dū.
+huì xiāng.
+yù)měi̯·kɤ ɻə́n tōu̯·xu̯èi̯ ʈʂʰʊ́ŋ·ʨỳ(měi.
+ge rén dū.
+huì chóng.
+jù)ʂə̄ŋ·mìŋ ly̌·ʈʂʰə́ŋ u̯ɑ̌ŋ·fù pù·ɕī(shēng.
+mìng lǚ.
+chéng wǎng.
+fù bù.
+xī)měi̯·kɤ̀ mə̀ŋ tōu̯·xu̯èi̯ iǒu̯ nǐ(měi.
+gè mèng dū.
+huì yǒu nǐ)4.
+nǐ ʂɻ̀·fǒu̯ ǐ xu̯ä̀·ʦu̯ò̞ fə̄ŋ·y̌(nǐ shì.
+fǒu yǐ huà.
+zuò fēng.
+yǔ)ʈʂʰu̯ān·ɥè ʂɻ́·ku̯ɑ̄ŋ lái̯·tɑ̀u̯ ʈʂɤ̀·lǐ(chuān.
+yuè shí.
+guāng lái.
+dào zhè.
+lǐ)ʨʰi̯ōu̯ ʨʰỳ ʈʂʰu̯ə̄n lái̯ xǎi̯·tʰɑ́ŋ xu̯ǟ·kʰāi̯(qiū qù chūn lái hǎi.
+táng huā.
+kāi)nǐ ʦài̯ mə̀ŋ·lǐ u̯ǒ̞ pú·ɥɛ̀n ɕǐŋ·lái̯(nǐ zài mèng.
+lǐ wǒ bú.
+yuàn xǐng.
+lái)5.
+měi̯ tʰi̯ɑ́u̯ tà·ý tōu̯·xu̯èi̯ ɕi̯ɑ̄ŋ·ỳ(měi tiáo dà.
+yú dū.
+huì xiāng.
+yù)měi̯·kɤ ɻə́n tōu̯·xu̯èi̯ ʈʂʰʊ́ŋ·ʨỳ(měi.
+ge rén dū.
+huì chóng.
+jù)ʂə̄ŋ·mìŋ ly̌·ʈʂʰə́ŋ u̯ɑ̌ŋ·fù pù·ɕī(shēng.
+mìng lǚ.
+chéng wǎng.
+fù bù.
+xī)měi̯·kɤ̀ mə̀ŋ tōu̯·xu̯èi̯ iǒu̯ nǐ(měi.
+gè mèng dū.
+huì yǒu nǐ)6.
+měi̯ tʰi̯ɑ́u̯ tà·ý tōu̯·xu̯èi̯ ɕi̯ɑ̄ŋ·ỳ(měi tiáo dà.
+yú dū.
+huì xiāng.
+yù)měi̯·ī·kɤ̀ ɻə́n tōu̯·xu̯èi̯ ʈʂʰʊ́ŋ·ʨỳ(měi.
+yī.
+gè rén dū.
+huì chóng.
+jù)ʂə̄ŋ·mìŋ ly̌·ʈʂʰə́ŋ u̯ɑ̌ŋ·fù pù·ɕī(shēng.
+mìng lǚ.
+chéng wǎng.
+fù bù.
+xī)měi̯·ī·kɤ̀ mə̀ŋ tōu̯·xu̯èi̯ iǒu̯ nǐ(měi.
+yī.
+gè mèng dū.
+huì yǒu nǐ)
+
+Tác giả: Laicasaane

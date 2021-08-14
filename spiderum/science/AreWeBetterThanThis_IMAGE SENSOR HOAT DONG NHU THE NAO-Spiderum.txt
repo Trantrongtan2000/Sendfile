@@ -1,0 +1,57 @@
+IMAGE SENSOR HOẠT ĐỘNG NHƯ THẾ NÀO?
+Lần đầu tiên viết bài trên Spiderum.
+ Mong nhận được những đóng góp từ mọi người.
+PHẦN 1: GIỚI THIỆU VỀ CẢM BIẾN HÌNH ẢNH ( IMAGE SENSOR )Cảm biến ảnh (image sensor) là thiết bị có chức năng chuyển đổi tín hiệu hình ảnh thành tín hiệu điện hoặc tín hiệu số.
+Sau khi bắt sáng, các chip cảm ứng có nhiệm vụ chuyển chúng thành các electrons.
+ Các electrons này sau đó sẽ được chuyển thành điện áp, tín hiệu điện được số hóa bằng chip ADC (Analog-to-digital converter - chuyển đổi tín hiệu tương tự sang tín hiệu số) nhanh rồi chuyển tới các chip xử lý số khác trong thiết bị số.
+ Chip ADC thường đặt cùng đế với cảm biến ảnh.
+Phổ ánh sáng mà image sensor có thể nhận được là rất lớn, khoảng từ 190-1100 nm.
+ Ngoài ra còn có cảm biến ảnh đặc biệt làm việc ở vùng phổ tia X, tia gamma.
+Các loại cảm biến ở vùng ánh sáng nhìn thấy, hồng ngoại, tử ngoại được sử dụng phổ biến hiện nay là cảm biến CCD (charge-coupled devices), CMOS (complementary metal–oxide–semiconductor).
+Cảm biến ảnh được thiết kế ở hai dạng:Dạng ma trận hay mảng (Array), thu nhận trực tiếp ảnh hai chiều, sử dụng trong camera, webcam, máy ảnh kỹ thuật số, kính nhìn đêm, kính thiên văn, camera trên vệ tinh,.
+.
+.
+Dạng dòng đơn (Line) thu nhận từng dòng và thực hiện quét để thu được toàn ảnh, sử dụng trong máy fax, máy scan các kiểu, và máy đo quang phổ.
+PHẦN 2: NGUYÊN LÝ HOẠT ĐỘNG VÀ THIẾT CƠ BẢNMột cảm biến hình ảnh bao gồm một bảng mạch nhỏ gồm các photodiode rất nhạy cảm với ánh sáng, chúng chuyển đổi tín hiệu quang thành tín hiệu điện, mỗi diode khi bị ánh sáng tác động sẽ sản sinh một điện áp tỷ lệ thuận với cường độ ánh sáng nó nhận tác động, khi không có ánh sáng tác động chúng sẽ không tạo ra mức điện áp nào cả lúc này chúng sẽ tạo ra một mức đen, khi có ánh sáng ở mức cao nhất chúng sẽ tạo ra mức trắng, khi ánh sáng ở giữa 2 khoảng này thì sẽ tạo được mức xám.
+Hay nói cách khác, image sensor hoạt động dựa trên hiệu ứng quang điện.
+Hiệu ứng quang dẫn: khi chiếu các bức xạ điện từ vào các chất bán dẫn, nếu năng lượng của photon đủ lớn (lớn hơn độ rộng vùng cấm của chất), năng lượng này sẽ giúp cho điện tử dịch chuyển từ vùng hóa trị lên vùng dẫn, do đó làm thay đổi tính chất điện của chất bán dẫn (độ dẫn điện của chất bán dẫn tăng lên do chiếu sáng).
+ Hoặc sự chiếu sáng cũng tạo ra các cặp điện tử - lỗ trống cũng làm thay đổi cơ bản tính chất điện của bán dẫn.
+ Hiệu ứng này được sử dụng trong các photodiode, phototransitor, pin mặt trời.
+.
+.
+Tinh thể silic bình thườngChất bán dẫn: Có 2 loại bán dẫn là bán dẫn loại P và bán dẫn loại N.
+Từ tinh thể silic, bản chất là một chất bán dẫn, có nghĩa là nó gần như không dẫn điện.
+ Nhưng người ta có thể chuyển nó sang được trạng thái dẫn điện khá tốt.
+ Xét nguyên tử Si có 4e- bề mặt ngoài tạo ra tứ diện, trong tinh thể thì nó thỏa mãn 8e- ở lớp vỏ ngoài mỗi nguyên tử nên chỉ còn một vài e- tự do trôi nổi trong mạng tinh thể, vì vậy nó vẫn có thể dẫn điện nhưng rất khó khăn.
+ Nhưng có một quá trình pha tạp thêm nguyên tố khác vào tinh thể Si để tạo ra độ dẫn điện khác nhau, quá trình này gọi là quá trình Doping.
+Bán dẫn loại NKhi pha tạp thêm nguyên tố Photpho vào, ta có bán dẫn loại N.
+ Nguyên tố này phù hợp với kết cấu tứ diện nhưng nó cho thêm 1e- bên lớp ngoài, nghĩa là lớp ngoài nguyên tử photpho có 9e-.
+Bán dẫn loại PNgược lại, khi thêm nguyên tố Boron ta sẽ có chất bán dẫn loại P, lớp vỏ bên ngoài nguyên tử Boron có 7e-, vị trí bị thiếu e- gọi là hole.
+ Hole là một không gian thu hút e- tự do.
+Khi đặt 2 chất bán dẫn này cạnh nhau, ta có diode P-N, chỉ cho dòng điện chạy theo 1 chiều nhất định mà không cho dòng điện chạy theo chiều ngược lại.
+Cực dương nối với P, cực âm nối với NNếu chúng ta đặt nguồn điện áp lên diode P-N, cực dương (anode) nối với loại P, cực âm (cathode) với loại N, khi đó ta rút được e- từ loại P và cho dòng điện đi qua từ cực âm tới cực dương hay từ loại N tới loại P.
+Cực âm nối với N, cực dương nối với PKhi ta đảo ngược lại, nối cực dương với loại N, cực âm với loại P thì loại P đã đang tích e- của loại N, nay lại được thêm e- từ cực âm, đến một ngưỡng nào đó sẽ không nhận thêm e- từ cực âm nữa và đẩy các e- trở lại, không cho dòng điện chay qua diode nữa.
+ Từ đó ta có thể tận dụng hiệu ứng quang điện để chế tạo photodiode.
+Ở chất bán dẫn P-N có vùng nghèo và vùng khuếch tán.
+ Vùng nghèo là vùng tiếp giáp giữa bán dẫn loại P và bán dẫn loại N, ở đó e- và hole đã đi về 2 cực, nên nó được gọi là vùng nghèo (depletion region).
+ Vùng khuếch tán là khu vực các e- hoặc các hole đang được khuếch tán sang các nơi có mật độ thấp hơn, chưa đi về 2 cực.
+Khi photodiode nhận được photon ( thường vào khoảng 190-1100nm), tinh thể Si sẽ hấp thụ nó (ở vùng nghèo hoặc vùng khuếch tán) và tạo ra cặp e- và hole, sau đó e- nhận được khi chiếu sáng sẽ chạy về phía cực dương và hole chạy về phía cực âm do tác động của điện trường.
+ Từ đó ta sẽ đo được cường độ ánh sáng bằng cách đo số e- hay điện áp trên cực dương.
+Khi ánh sáng chiếu vàoTạo ra cặp e- và holee- đi về phía cực dương, hole đi về phía cực âmĐo được điện tích thay đổi trên PNgày nay photodiode có dạng bề mặt vuông, chữ nhật hoặc đa giác, kích thước từ 1,4 µm đến hơn 20 µm, cho phép đạt mật độ cao cỡ mega pixel cho một CCD có diện tích 1 inch vuông.
+ Mật độ pixel xác định độ phân giải hình ảnh.
+ Nhưng công nghệ vi xử lý đã thực hiện nội suy điểm ảnh đến giới hạn mà độ chính xác của chuyển đổi ánh sáng sang điện tích cho phép, tức là số pixel ảnh xuất ra cao hơn số photodiode của sensor.
+ Nói cách khác, độ phân giải của anh nhận được cao hơn độ phân giải của sensor.
+Một số thông số và sơ lược về nguyên lý hoạt độngThiết kế cơ bảnMột sensor cơ bản gồm màng lọc màu, lá chắn tràn sáng sang pixel khác, photodiode, mạch bổ trợ trên nền silicon.
+Thiết kế cơ bản nhấtVới công nghệ mới sẽ có micro-lens để tối ưu ánh sáng pixel nhận đượcTác dụng của lá chắn sáng (light shield) là để chống tràn thông tin từ pixel này sang pixel khácBộ lọc màu kiểu mảng Bayer:Do photodiode chỉ đo được cường độ ánh sáng nhận được, vì vậy để tách màu, người ta sử dụng bộ lọc màu.
+ Có rất nhiều thiết kế, dưới đây là một ví dụ về bộ lọc màu kiểu mảng Bayer với hệ màu RGB.
+Trên mỗi 1 pixel sẽ có một bộ lọc màu riêng, là một trong 3 màu Red-Green-Blue.
+ Trên 4 pixel bố trí ma trận màu, vì màu xanh lá nhạy cảm với mắt người nhất nên sẽ có 2 pixel G.
+Sau khi nhận sáng, các pixel gửi thông tin về hệ thống xử lý, hệ thống xử lý sẽ xuất ra file raw gồm nhiều pixel màu ghép lại với nhau, sau đó qua thuật toán nội suy ra màu thật của từng pixel và toàn ảnh.
+Ví dụ về bộ lọc màu mảng bayerVí dụ về ảnh raw:Ảnh raw (ảnh thô, hiển thị đúng thông tin của pixel ghi nhận được)NỘI SUY TÁI TẠO MÀU THỰC:Ae ai chơi ảnh sẽ biết, mỗi một hãng máy ảnh ( cho dù cùng loại sensor) sẽ có một màu ảnh đặc trưng khác nhau, khác biệt đó do thuật toán nội suy màu ảnh từ file raw của mỗi hãng khác nhau.
+.
+Cảm ơn mọi người đã đọc.
+ Mong có phản hồi và nhận xét từ mọi người để mình có thêm động lực viết thêm về mảng kỹ thuật khô khan này.
+.
+Tài liệu tham khảo và một số nguồn ảnh tham khảo trên mạng và từ video của youtuber Blake Jacquot và youtuber Graham Houghton
+
+Tác giả: AreWeBetterThanThis?

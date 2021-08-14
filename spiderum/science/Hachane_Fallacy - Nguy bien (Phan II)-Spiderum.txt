@@ -1,0 +1,137 @@
+Fallacy - Ngụy biện (Phần II)
+Phần I:http://hachane.
+spiderum.
+com/bai-dang/Fallacy-Nguy-bien-Phan-I-3u3PHẦN II: CÁC LOẠI NGỤY BIỆN THƯỜNG GẶPAristotle chia ngụy biện thành 13 loại, nhưng ngày nay các nhà logic học xác định thêm hàng chục loại ngụy biện khác nữa.
+ Ở đây mình đề cập đến 24 loại ngụy biện cùng các ví dụ.
+1.
+ Lợi dụng sự đồng tình của đám đôngKiểu ngụy biện này sử dụng sự ủng hộ của đám đông làm chân lý cho cuộc tranh luận.
+Ví dụ: A cho rằng uống cà phê sẽ giúp cho việc sáng tạo.
+ A chứng minh: “Nhiều người đã đồng ý rằng cà phê giúp cho việc sáng tạo”.
+ Đây là sự ngụy biện vì thay vì chứng minh bằng cách chỉ ra các yếu tố khoa học rằng các chất trong cà phê giúp cho não thăng hoa sáng tạo thì A đã dùng đám đông làm luận cứ để chứng minh cho điều mình nói.
+2.
+ Lợi dụng lòng thương hại Phương pháp ngụy biện này sử dùng lòng trắc ẩn hay cảm tính của con người để đánh tráo tính logic của chân lý.
+ Ví dụ: “A không giết người.
+ A mắc bệnh tim bẩm sinh, nếu tòa tuyên phạt A có tội, A sẽ bị xúc động và sẽ rất nguy hiểm.
+ Xin tòa đừng để một người nào chết thêm nữa”3.
+ Lợi dụng bạo lựcNgụy biện dựa vào bạo lực thực chất là một sự đe dọa, nhằm mục đích gây áp lực cho người đối thoại phải chấp nhận một kết luận nào đóVí dụ: Khi lớp học đang tranh luận về vấn đề bài học, một sinh viên nói rằng: “Những gì các bạn đang bàn đi ngược lại chính sách của nhà nước, điều đó là sai trái, các bạn có thể bị tù đấy.
+” Trong ví dụ này, bạn viên đã lợi dụng quyền lực nhà nước tác động đến mục đích đúng sai khoa học của buổi tranh luận.
+4.
+ Viện dẫn quyền lực Đây là loại ngụy biện dùng những nhân vật nổi tiếng hay được nhiều người ái mộ để tìm sự ủng hộ cho luận điểm của mình.
+ Ví dụ: "Chúng ta nên tin vào Chúa.
+ Vì Einstein là một thiên tài và ông cũng tin vào Chúa.
+"Đây là một ngụy biện vì nếu muốn chứng minh thì phải dùng các lập luận, bằng chứng khoa học, còn "Chúa" và "thiên tài" thì không liên quan gì đến nhau.
+5.
+ Công kích cá nhân Lối ngụy biện này sử dụng việc chỉ trích tư cách cá nhân người tranh biện thay vì hướng đến những luận điểm của người kia.
+ Ví dụ: “Anh học của Tây có vài chữ mà đã quay lại chửi bới đồng nghiệp à? Anh là con công cháu cha, anh không hiểu gì về sự nghèo khổ của chúng tôi.
+”6.
+ Ngụy biện dựa trên uy tín cá nhânDùng vị thế cá nhân của mình chứ không phải tính logic của luận điểm để chứng minh.
+Ví dụ: A và B tham gia tranh cãi về một vấn đề.
+ A là Tiến Sĩ, B là nghiên cứu sinh.
+ Thay vì trong lí luận để chứng minh mình đúng thì A lại dùng học vị của mình để nói lí luận mình đúng so với B.
+ Giữa vấn đề học vị và vấn đề chân lí của luận điểm không có điểm gắn kết logic nên A đang dùng uy tín cá nhân của bản thân để ngụy biện.
+7.
+ Ngụy biện "anh cũng vậy" Đây là một trong những ngụy biện rất phổ biến.
+ Nó dựa vào lí lẽ rằng một hành động có thể chấp nhận được bởi vì người đối nghịch đã làm.
+ Ví dụ: “Anh là một người lừa dối.
+” “Rồi sao? Anh cũng là một tay lừa dối vậy.
+”8.
+ Ngụy biện nặc danh luận cứTrong một số trường hợp, vì các lí do bảo mật hay các lí do khác, mà danh tính người đảm bảo cần giữ bì mật, điều này làm nảy sinh một vấn đề ngụy biện là lạm dụng và sử dụng sai mục đích.
+Ví dụ: “Một người đã nói anh có tội, họ đã làm chứng vì nhưng vì lí do bảo mật chúng tôi không thể tiết lộ danh tính”9.
+ Ngụy biện lạm dụng thống kêThống kê thường được giới ngụy biện sử dụng tối đa.
+ Người ta có thể vặn vẹo hai con số 1 và 3 điểm để sản xuất những phát biểu như “khác nhau 2 điểm”, “cao gấp 3 lần”, hay “tăng 200%”; người ta có thể dựa vào ý kiến đồng tình của 4 người trong 5 người để cho là “80% người được thăm dò”, hay thậm chí “đa số cộng đồng” đồng ý với một luận điểm nào đó.
+ Tức là những khái quát hoá một cách vội vã, hay dựa vào một mẫu số cực kỳ thấp.
+ Thực ra, thống kê không chứng minh điều gì cả.
+ Thống kê chỉ là một phương tiện hay thuật toán dùng để loại bỏ những trường hợp khả dĩ hay không khả dĩ.
+ 10.
+ Ngụy biện bất khả triSự ngụy biện này viện dẫn một luận cứ chưa chắc chắn về tính chân lý, một giả thuyết khoa học thành một kết luận khoa học để làm luận cứ.
+ Ví dụ: “Không ai chứng minh được Chúa không tồn tại.
+ Vậy chắc chắn chúa tồn tại.
+” Từ tiền đề không chắc chắn dẫn đến kết luận chắc chắn là một sai lầm.
+11.
+ Ngụy biện cá trích Ngụy biện bằng cách làm rối luận điểm bởi việc đưa nhiều luận điểm không liên quan.
+ Kết quả là luận đề tranh luận bị biến dạng khỏi luận đề ban đầu.
+Ví dụ: “Anh có thể nói rằng tử hình là một hình thức không có hiệu quả trong việc chống lại tội phạm, nhưng còn nạn nhân của tội phạm thì sao? Gia đình của nạn nhân sẽ nghĩ gì khi họ thấy tên sát nhân người thân của họ bị giam giữ trong nhà tù bằng đồng tiền của chính họ.
+ Họ có muốn nuôi dưỡng những tên sát nhân như thế không?”12.
+ Ngụy biện rẽ đôiChỉ nêu lên các khả năng đối lập nhau, các thái cực, từ đây cho rằng không phải là cực này thì là cực kia, loại bỏ tất cả các khả năng khác.
+ Bằng cách sử  dụng  Ngụy biện rẽ đôi, người phạm ngụy biện đã thủ tiêu tất cả những lựa chọn còn lại và trong nhiều trường hợp những lựa chọn đó có ảnh hưởng mạnh mẽ  đến kết quả  cuối cùng của lập luận.
+ Chẳng hạn, có lần tôi nói với bạn mình: “Có hai loại người trên thế  giới, người quản lý người khác và người bị  người khác quản lý.
+ Anh muốn trở thành loại nào?”Phát  ngôn  trên  của  tôi  là  sai  vì  ai  cũng  vừa  quản  lý  ai  đó  vừa  bị  ai  đó  quản  lý.
+  Rất  hiếm trường hợp bạn không bị  ai đó quản lý mà chỉ  quản lý người khác.
+ Ngụy biện rẽ đôi  thành công phần nào dựa trên tâm lý thích sự  đơn giản của chúng ta.
+ Nếu bạn không phải là một người thích đào sâu tìm kiếm những câu trả  lời chính xác, một người giàu kinh nghiệm vềquản  lý hay  đang trong trạng thái thách thức tôi, khi nghe  thấy phát  biểu trên  về  chủ  đề“quản lý”, chắc hẳn bạn đã phải gật gù đồng tình với tuyên bố của tôi ngay lập tức.
+13.
+ Ngụy biện do dùng phép tương tự sai.
+Loại sai lầm này bắt nguồn từ luận điểm: “Có A thì có B, nên muốn có B thì phải có A”.
+ Trong logic hình thức, mệnh đề “A kéo theo B” tương đương với “không B kéo theo không A” chứ không có “có B kéo theo A”.
+Ví dụ: “Các nước có IQ cao đều xây có đường sắt cao tốc, nên nước nào có đường sắt cao tốc thì nước đó IQ cao.
+ Nước ta cũng phải xây đường sắt cao tốc để có IQ cao”.
+Một dạng khác: “Có A thì có B, nên không có A thì không có B”.
+ Điều này hoàn toàn sai vì B có thể được sinh ra từ nhiều vấn đề, không có A thì chưa chắc đã không có B, trừ khi “Có B khi và chỉ khi có A”.
+ Ví dụ: “Tôi quét nhà thì nhà sách, tôi không quét nhà thì nhà không sạch.
+” (Các bà mẹ hay nói câu này)14.
+ Ngụy biện nhân quả Cho rằng sự kiện xảy ra trước chính là nguyên nhân của sự kiện xảy ra sau, trong một số trường hợp có thể đúng, nhưng trong nhiều trường hợp thì chưa chắc vì 2 sự kiện có thể không liên quan đến nhau hoặc còn do nhiều yếu tố khác tác động nữa.
+Ví dụ: “Hôm nay tôi đã bước chân trái ra khỏi nhà, và tôi gặp rất nhiều chuyện đen đủi.
+ Tôi gặp chuyện đen đủi là tại bước chân trái.
+"15.
+ Ngụy biện dựa vào cái mớiCho rằng một điều gì đó tốt hơn và đúng hơn đơn giản chỉ vì nó mới hơn cái khác.
+Ví dụ: “Iphone 6 phải tốt hơn Iphone 5 vì nó ra đời sau Iphone 5”.
+ Muốn chứng minh, người lí luận phải đưa ra các bằng chứng minh Iphone 6 khắc phục được những nhược điểm của Iphone 5.
+16.
+ Khái quát hóa vội vãNgụy biện từ một ví dụ hay trường hợp nhỏ khái quát hóa cho một cộng đồng.
+ Ví dụ: Ví dụ, tôi đi du lịch thành phố A.
+ Sau khi dạo qua vài con đường và thấy mỗi con đường đều có cảnh sát giao thông, tôi rút ra kết luận: “Tất cả các con đường ở thành phố A đều có cảnh sát giao thông.
+” Đó là ngụy biện khái quát hóa vội vã.
+17.
+ Thủ tiêu ngoại lệ Ngụy biện này áp dụng quy tắc chung lên một trường hợp cụ thể nào đó nằm ngoài phạm vi bao trùm của quy tắc đó.
+ Thông thường khi áp dụng những quy tắc hay quy luật, chúng ta có thói quen đơn giản hoá để dễ kết luận, và cũng dễ dẫn đến ngụy biện.
+Ví dụ: Khi một người bị yêu cầu không làm ồn để tránh làm ảnh hưởng đến người khác, anh ta lý luận: "Tôi có quyền tự  do ngôn luận và quyền tự  do làm những gì mình thích.
+ Anh có quyền gì ngăn cản tôi chứ.
+” Ở  đây anh ta đã đơn giản hoá luật về  tự  do cá nhân nhằm ngụy biện choh{nh động của mình.
+18.
+ Ngụy biện bù nhìn rơm Loại ngụy biện này cố tình xuyên tạc, bóp méo quan điểm hay phát biểu của người khác đến mức cực đoan để làm luận điểm tấn công.
+Ví dụ:A: Nạn tắc đường thường xuyên xảy ra do lượng xe m|y lưu thông ng{y c{ng nhiều.
+ Để  giảiquyết vấn nạn này, chúng ta phải hạn chế xe máy.
+B: Không còn xe m|y thì x}y đường x| để làm gì.
+Ở  đây người  A đưa ra  một phát biểu về  hạn chế  xe.
+ Người B cực đoan hóa phát biểu củangười A bằng cách diễn giải lại phát biểu này trở thành không còn chiếc xe máy nào.
+19.
+ Tam đoạn luận saiCấu trúc của 1 tam đoạn luận gồm 2 câu tiền đề và 1 câu kết luận.
+Ví dụ: “Tôi yêu em.
+ Tôi là đàn ông.
+ Suy ra đàn ông yêu em” (Ví dụ này cô giáo logic của mình suốt ngày nói)Câu này sai về mặt logic, vì “tôi” chỉ là một trong những người đàn ông, cách nói trên dẫn đến cách hiểu “tất cả những người đàn ông đều yêu em” là sai.
+ Cách nói đúng phải là: “Tôi yêu em.
+ Tôi là (một trong những người) đàn ông.
+ Suy ra có một (trong những) người đàn ông yêu em” (Mình sẽ nói thêm về tam đoạn luận ở những bài viết sau :D)20.
+ Ngụy biện lạm dụng chữ nghĩaĐây là một loại ngụy biện dựa vào dùng những chữ mang cảm tính cao để gắn một giá trị đạo đức vào một đề nghị hay một câu phát biểu.
+ Ví dụ: “Bất cứ một người có lương tri nào cũng phải đồng ý rằng về Việt Nam ăn Tết là làm lợi cho cộng sản,” chữ “lương tri” được cài vào nhằm cho người đối thoại phải nghiêng theo những người có lương tri.
+21.
+ Ngụy biện lý luận tuột dốcLý luận tuột dốc giả  định rằng một khi chúng ta đặt chân ở đỉnh dốc, chúng ta sẽ bị trơn tuột đến đáy mà không có cơ hội quay lại.
+ Theo ngụy biện này, sự kiện A xảy ra, chắc chắn sẽ  dẫn đến sự  kiện B.
+ Trong thực tế, có tồn tại những sự  kiện mang tính nối tiếp tạo thành chuỗi.
+ Tuy nhiên, chuỗi sự  kiện đó không chỉ có một khả năng duy nhất xảy ra.
+ Chỉ tồn tại một số ít những trường hợp mà điều chúng ta làm chắc chắn sẽ dẫn đến một điều tồi tệ tiếp theo.
+Ví dụ: Năm 1996, khi người ta nhân bản vô tính thành công chú cừu Dolly, nhiều người đã phản đối vì cho rằng "sự  ra đời của cừu Dolly sẽ  dẫn đến việc các nhà khoa học nhân bản vô tính con người trong tương lai, một hành động bị xem là trái đạo đức.
+ Trong câu chuyện này, lập luận của họ phải một lỗi sai là dù có nhân bản thành công cừu Dolly thì cũng không có nghĩa trong tương lai chúng ta sẽ  nhân bản  con  người,  dù  rằng  khả  năng  đó  có  thể  xảy  ra.
+22.
+ Ngụy biện so sánh ẩuSo sánh 2 sự việc không đồng nhất, chỉ giống nhau ở một khía cạnh nhỏVí dụ: “Trong tự nhiên, sự vật luôn luôn tuân theo quy luật mạnh được yếu thua, cá lớn nuốt cá bé.
+ Cho nên một xã hội cần phải có những người giỏi cai trị những kẻ ngu dốt thì xã hội mới trật tự”.
+Ngụy biện kiểu này là đồng nhất giới tự nhiên và xã hội, đồng nhất quy luật tự nhiên và quy luật xã hội trong khi xã hội và tự nhiên là hai hệ thống khác nhau, khác về cấu trúc lẫn cơ chế vận hành, vì thế, không thể đánh đồng chúng như nhau.
+23.
+ Ngụy biện hai sai thành một đúngNgụy biện hai sai thành một đúng lập luận rằng: "A làm hành động B sai trái với C, C làm hành động D để trả đũa hành động của A, do đó D là một hành động đúng.
+"Ví dụ: Anh chơi xấu với tôi trước.
+ Do đó hành động của tôi để trả đũa lại anh cũng là hoàn toàn đúng.
+24.
+ Tiền đề mâu thuẫnSử dụng 2 tiền đề không thể cùng xảy ra một lúc1.
+ Tiền đề A.
+2.
+ Tiền đề B (thực tế nếu B xảy ra thì A không xảy ra và ngược lại.
+)3.
+ Kết luận C rút ra dựa trên việc cả hai tiền đề A và B xảy ra.
+Ví dụ kinh điểm của loại ngụy biện này là: “Thánh thần là bậc to{n năng.
+ Vậy thánh thần có thể  tạo ra một tảng đá mà chính ngài cũngkhông thể nhấc lên nổi không?”Thực ra các loại ngụy biện đều dựa vào cách lập luận phi logic, không trả lời đúng vào trọng tâm.
+ Khi nhận ra đối phương đang ngụy biện, bạn chỉ cần nhấn mạnh lại luận điểm ban đầu để cuộc tranh luận đi đúng hướng.
+Tham khảo: Thư viện khoa học, Sách "Những trò ngụy biện"#hanmQuan điểm khác:Học giải ngụy biện chỉ làm rác cuộc tranh luận & 4 quy tắc logicBài viết gửi bởi Tornad trong mục Quan điểm - Tranh luậntornad.
+spiderum.
+com
+
+Tác giả: Hachane

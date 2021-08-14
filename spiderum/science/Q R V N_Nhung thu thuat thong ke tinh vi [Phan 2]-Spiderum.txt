@@ -1,0 +1,74 @@
+Những thủ thuật thống kê tinh vi [Phần 2]
+Những thủ thuật thống kê tinh vi [Phần 1]Bài viết gửi bởi Quora Việt Nam trong mục Science2vnspiderum.
+comCâu hỏi gốc: Những thủ thuật thống kê tinh vi nhất để lừa dối mọi người ?Dimosthenis E.
+ Gkotsis's answer to What are the most subtle ways to deceive people with statistics?nullqr.
+aeTrả lời bởi Dimosthenis E.
+ Gkotsis , nghiên cứu sinh về Vật lý Y học (Medical Physics)Tôi còn nhớ giáo sư dạy Vật lý hạt nhân của tôi vào năm thứ 4, đã cho chúng tôi một ví dụ về cách các số liệu thống kê đôi khi có thể gây hiểu nhầm, mà tôi sẽ nói đến ngay bây giờ.
+Hãy tưởng tượng mỗi năm bạn dành 6 tháng sống ở Nam Cực với mức nhiệt -5 độ C và 6 tháng còn lại sống trong sa mạc với mức nhiệt 45 độ C.
+Theo thống kê, trung bình, bạn đang sống quanh năm ở mức nhiệt lý tưởng: 20 độ C, nhưng điều này không đúng bởi vì trong thực tế bạn chưa bao giờ trải qua mức nhiệt này mà cả năm phải sống trong những ngày cực nóng hoặc cực lạnh.
+Bạn có thể lừa dối người khác bằng cách sử dụng trung vị (median) thay vì trung bình (mean) và ngược lại.
+ Nói chung, khá dễ để dắt mũi người khác - đặc biệt nếu người đó không biết thống kê hoạt động như thế nào.
+Truyền thông thì thường xuyên làm điều đó.
+Thomas Barnidge's answer to What are the most subtle ways to deceive people with statistics?nullqr.
+aeTrả lời bởi Thomas BarnidgeỨng viên A nhận được 49% sự đồng thuận từ những người bỏ phiếu.
+Ứng viên B nhận được 5% sự đồng thuận từ những người bỏ phiếu.
+46% còn lại bỏ phiếu trắng.
+Báo giật tít: "Phần lớn người dân không ủng hộ ứng viên A, cho thấy ông có vẻ không được lòng quần chúng.
+"Những chính sách của thị trưởng A gây ra 100 vụ giết người mỗi năm.
+Những chính sách của Thị trưởng B gây ra 1 vụ giết người mỗi năm.
+Một năm sau, ở thành phố của thị trưởng B xảy ra 2 vụ giết người.
+Thành phố của thị trưởng A xảy ra 100 vụ.
+Báo giật tít: "Số vụ giết người tăng gấp đôi ở thành phố của thị trưởng B, cho thấy ông có vẻ  thiếu khả năng lãnh đạo.
+"Mehran Jalali's answer to What are the most subtle ways to deceive people with statistics?nullqr.
+aeTrả lời bởi Mehran Jalali , 15 tuổi | Sinh viên tại NODET | Nhà đầu tư chứng khoán |Blogger Tôi đã tự hỏi câu này từ lâu, và đã nghiên cứu chủ đề này một thời gian dài.
+ Dưới đây là những điều thú vị nhất mà tôi biết:Thứ nhất, sử dụng các vật minh hoạ (objects) thay vì các đường trong biểu đồ cột là cực kỳ dễ gây hiểu nhầm.
+Ở bức hình trên (do chính tôi tạo ra), tôi muốn chứng minh rằng GDP của nước B cao gấp đôi GDP của nước A.
+ Lẽ ra tôi nên sử dụng các cột để biểu diễn, nhưng thay vào đó, tôi đã sử dụng những chiếc túi đựng đầy tiền.
+Về mặt kỹ thuật, tôi không làm gì sai cả.
+ Tôi đánh dấu các con số trên trục Y, và làm cho những chiếc túi "chạm" đến các số tôi muốn chúng đạt tới.
+Tuy nhiên, những gì bạn thực sự nhận thấy lại khác.
+ Để những chiếc túi nhìn không bị "dị", tôi buộc phải tăng chiều rộng bằng tỷ lệ  với chiều cao.
+ Điều này có nghĩa là diện tích của túi nước B lớn hơn 4 lần so với túi nước A.
+ Hơn nữa, não của bạn còn hình dung được độ sâu của vật thể.
+ Vì vậy, khi bạn nhìn thấy túi tiền của nước B cao hơn 2 lần nước A, thực chất não của bạn đang nhận thức rằng nó lớn gấp 8 lần.
+Thứ hai, đừng bao giờ tin vào biểu đồ tròn dạng 3D.
+Trong biểu đồ trên, bạn thấy phần nào lớn nhất? Phần màu tím, phải không?OK, bây giờ tôi sẽ thêm các giá trị:Ngạc nhiên chưa! Phần màu xanh còn lớn hơn phần màu tím!Não bạn đã bị đánh lừa rằng phần màu tím lớn hơn màu xanh, bởi vì phần màu tím gần bạn hơn.
+ Nó cũng giống như việc những đứa trẻ 3 tuổi không nhận biết được độ lớn thực sự của mặt trời vì nó ở quá xa vậy.
+Sự tinh vi ở đây là mặc dù về mặt kĩ thuật, bạn minh hoạ dữ liệu của mình đúng, nhưng tâm trí bạn lại nhận thức chúng theo 1 cách hoàn toàn khác.
+Bình luận 1: Douglas MagowanTôi đã phản đối dùng biểu đồ tròn dạng 3D trong suốt sự nghiệp của mình.
+ Các phòng marketing thì lại yêu thích chúng.
+Tôi thực sự ghét việc dùng biểu đồ tròn để bắt đầu một cái gì đó.
+ Có rất ít thứ mà biểu đồ tròn có thể minh hoạ tốt hơn so với bảng biểu (table) hoặc bất cứ loại biểu đồ nào khác.
+ Chúng ta thường không có trực giác tốt đối với các đơn vị góc.
+ Và nếu một biểu đồ tròn được chia thành nhiều phần hơn nữa thì lại càng khó để nhìn thấy bất cứ điều gì trong mối quan hệ giữa chúng.
+Biến nó thành 3D ư? Bạn đang cố tình bóp méo dữ liệu đấy.
+ Và như vậy là gian lận!Nhưng những người đưa các biểu đồ này vào các báo cáo thường không quan tâm đến những gì chúng thực sự biểu diễn.
+ Chúng giống như một tác phẩm nghệ thuật.
+ Một nét chấm phá đầy màu sắc để tạo khoảng trống giữa các phần trong trang.
+Bình luận 2: Mehran JalaliChính xác!Hãy nói điều đó với Steve Jobs!19,5% > 21,2% !Tushar Singh Soam's answer to What are the most subtle ways to deceive people with statistics?nullqr.
+aeTrả lời bởi Tushar Singh Soam, Nhà khoa học dữ liệu kiêm nhà nghiên cứu công nghệ sinh học || IIT KGP || Ham đọc sách"Thống kê thường được các cá nhân, tổ chức và các quốc gia sử dụng để kể câu chuyện theo phiên bản của riêng họ.
+ Họ không nói dối, nhưng họ chọn không kể toàn bộ câu chuyện để thao túng cảm xúc của người nghe.
+"Hãy lấy một ví dụ:Có hai bệnh viện: A và B.
+Nếu chúng ta chỉ tính 1000 bệnh nhân gần đây nhất:900 bệnh nhân sống sót tại bệnh viện A và 800 bệnh nhân sống sót tại bệnh viện B.
+Vậy ta có thể kết luận gì về 2 bệnh viện này?Hẳn rồi, bệnh viện A chẩn đoán bệnh tốt hơn bệnh viện B.
+Ok, giờ hãy thêm một biến khác vào trường hợp trên: tình trạng sức khỏe của bệnh nhân.
+Giả sử chỉ có hai cấp độ: sức khỏe kém và sức khỏe tốtGiả sử kịch bản như sau:Bệnh viện A: 30 bệnh nhân sống sót trong số 100 bệnh nhân sức khỏe kém.
+Bệnh viện B: 210 bệnh nhân sống sót trong số 400 bệnh nhân sức khỏe kém.
+Như vậy, số liệu theo các trạng thái sức khỏe khác nhau sẽ là:Có thể thấy, mặc dù bệnh viện B làm tốt hơn bệnh viện A ở cả hai trạng thái sức khỏe, nhưng ta không thể biết điều đó nếu chỉ nhìn vào số liệu tổng quát.
+Bạn thấy đấy, rất dễ dàng để đánh lừa mọi người bằng cách ẩn đi (một cách cố ý) một số biến quan trọng.
+ Đôi khi ngay cả các nhà nghiên cứu cũng tự biến bản thân thành trò hề bằng việc phạm phải những lỗi này.
+Hiện tượng trên còn được biết đến với tên gọi "nghịch lý của Simpson" (Simpson's paradox).
+Đừng tin mọi thứ đập vào mắt bạn trên báo chí, tin tức truyền hình hoặc ở bất cứ nơi nào mà bắt đầu bằng thuật ngữ "Theo một cuộc khảo sát".
+ Khả năng cao là họ đang lừa dối bạn hoặc lừa dối chính mình.
+ Tự mình đi tìm chân lý đi!How statistics can be misleading - Mark LiddellView full lesson: http://ed.
+ted.
+com/lessons/how-statistics-can-be-misleading-mark-liddell Statistics are persuasive.
+ So much so that people, organizations, a.
+.
+.
+www.
+youtube.
+comBài dịch của Đức Mạnh tại group Quora Việt Nam.
+
+
+Tác giả: Q R V N

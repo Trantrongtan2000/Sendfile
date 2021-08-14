@@ -1,0 +1,132 @@
+Ratatouille và những liên tưởng về tiến hóa (phần hai)
+Phần trước mình đã viết về một số khía cạnh trong Ratatouille: về tình bạn giữa người và chuột, khả năng nhận diện và giải chất độc của chuột, ý thức của động vật và nguồn gốc của ý thức.
+ Ở cuối bài, mình đề cập đến khía cạnh cảm xúc ở động vật, dựa trên những ý tưởng về hệ thống và quá trình thần kinh trên chuột.
+ Vấn đề cảm xúc cốt lõi nhằm để giải quyết những ngờ vực về ý thức của động vật.
+ Con người cũng chẳng phải dạng cao cả gì mấy, cuối cùng là đều cho mình cả, nên những tìm tòi này chẳng qua chỉ để giải quyết vấn đề của giống loài, chúng ta không phải cỗ máy sinh học không phải cứ điều kiện hóa hành vi là băng băng tiến tới.
+ Ratatouille và một số liên tưởng đến vấn đề tiến hóa (p1)Bài viết gửi bởi Mike Wazowski trong mục Science2vnannpham96.
+spiderum.
+comBài viết này sẽ đi sâu hơn một chút về khía cạnh ý thức, dựa trên những chi tiết mà mình đã soi trên Ratatouille.
+ Đây là bài đọc cho vui, và mình đã lên ý tưởng khá lâu (cách đây một năm trước) nên sẽ có một vài kiến thức đã cũ, nên có gì bạn đọc giúp mình nhé.
+Bài viết chỉ tập trung vào một chi tiết chủ chốt.
+ Đó là cách Remy điều khiển Linguini.
+Hẳn bạn từng chú tâm vào chi tiết này và thấy thú vị.
+ Nó sao nhỉ, đến giờ vẫn kỳ lạ và dị thường ấy.
+ Bởi vì ngoài đời, nếu bạn nhìn thấy một con chuột đen thùi lùi thì chắc chắn bạn đã đập hay bẫy nó chết tươi rồi.
+Nhưng giả sử thế nào, nó sạch sẽ thơm tho, đáng yêu là chuột bạch hay chuột lang, thì sao nhỉ? Bạn sẽ thích thú, hay lo sợ điều gì đó, nói nôm na cho vui là “để một con chuột lên đầu lên cổ mình ngồi”?Nhưng thôi, chi tiết này ngoài đời thực sẽ gần như (và có thể nói là chắc chắn) không bao giờ tồn tại.
+ Nhưng loài vật vẫn có ý thức, chuột vẫn thông minh và có cảm xúc và vẫn được dùng làm thí nghiệm, tất cả mọi sinh vật đều sợ hãi là bất biến và một phỏng dự tương lai đang diễn ra.
+CyborgTrong Ratatouille, Remy điều khiển từng lọn tóc của của Linguini là chi tiết lạ.
+ Trên Youtube, rất nhiều video đưa ra giả thiết làm sao điều đó xảy ra? Có thể do Linguini mắc một hội chứng autonomic dysreflexia (bất thường về cách phản xạ) - tức là cách phản xạ của cậu ấy là một kiểu cao cấp hơn.
+ Linguini chẳng khác gì con rối để Remy điều khiển.
+ Tuy nhiên, chúng ta sẽ thắc mắc: liệu đó có thật hay không khi ở ngoài đời, nếu có một sinh vật (kể cả con người) điều khiển tâm trí con người theo cách đó? Con người là ai nếu chịu sự điều khiển của bất kỳ một sinh vật nào?Điều ấy khiến mình nghĩ đến cyborg, một hình dạng nửa người nửa máy.
+ Vẫn câu kinh điển, trước khi sinh ra con người thì phải có con chuột.
+ Cyborg đã được thử nghiệm trên chuột từ rất lâu.
+ Nguồn ảnh: The Ransom NoteNhững con chuột được điều khiển từ rất xa, với công nghệ neurorobotic.
+ Đây là mối quan hệ hai chiều: máy móc điều khiển não bộ, ngược lại điều khiển máy móc.
+ Đó được gọi là brain-machine interface (BMI), mở rộng ra là giao diện não-não (BBI)- hoạt động trên nhiều bộ não khác nhau thông qua kết hợp của giao diện BMI.
+ So với con đường não- máy, giao diện não- não tối ưu hơn vì có thể giúp sinh vật hoàn thành nhiệm vụ định hướng bản thân trong môi trường thử nghiệm phức tạp.
+Để thực hiện BBI (não sinh vật khác- não chuột), chuột được cấy vi điện cực, tích hợp hình ảnh động cơ dựa trên điện não đồ và kích thích não.
+ Từ đó qua vận động của chuột, điều khiển và kiểm soát tâm trí con người.
+ Giao diện não-não (brain-brain interface) ở con người phát hiện ý định vận động thông qua tín hiệu điện não đồ (EEG) ghi lại từ một người và thông tin về sự vận động được truyền qua mạng lưới vỏ não của người khác.
+ [2]Kết quả cho thấy những con chuột cyborg có thể được điều hướng một cách trơn tru và thành công bởi tâm trí con người để hoàn thành nhiệm vụ điều hướng trong một mê cung phức tạp.
+ Kênh thông tin não- não cho phép thông tin được truyền từ não người sang não sinh vật khác.
+ Mối liên hệ giao tiếp trực tiếp giữa các bộ não từ lâu đã là một giấc mơ đối với con người, đặc biệt đối với những người gặp khó khăn trong ngôn ngữ bằng lời nói hoặc ngôn ngữ cơ thể.
+ Trên bệnh nhân chấn thương tủy sống, chúng ta có thể kích động một cử động không tự nguyện.
+ Một điện cực được đặt trên đầu, hướng đến bên trong vùng não, khi ta kích thích vùng đó, cảm giác như thật, cảm giác như bệnh nhân đang tự chạm vào tay của chính mình.
+ Một ví dụ khác, thử nghiệm giao diện não máy đầu tiên đã được tiến hành trên bệnh nhân liệt nửa người nhờ vào một con chip điện cực gọi là cổng não (brain gate), chúng có thể vận hành máy tính từ xa bằng ý nghĩ, không cần hệ thống nhận dạng giọng nói nữa.
+ Bệnh nhân liệt nửa người vẫn có thể nói được ý nghĩ của mình.
+Ngoài chuột, BBI đã được phát triển trên gián – những con gián cyborg.
+ Kích thích từ não người chuyển lên antennae của con gián.
+ Gián cyborg sau đó có thể được điều hướng bởi bộ não con người để hoàn thành việc đi bộ dọc theo một đường ray hình chữ S.
+ Một hướng ứng dụng khác là trải nghiệm chơi như thật ở con người: virtual reality.
+ Đó là con đường tiến hóa ở thế kỷ 21.
+ [1]Linh tinh ngoài lề xíu: con người khống chế nỗi sợ và liệu con người còn thực sự là con ngườiXuyên suốt trong Ratatouille là những nỗi sợ.
+ Mở đầu bằng vẻ lạnh lùng đến chết người của Anton Ego, Remy sợ hãi tháo chạy khỏi căn nhà của con người, bà lão hoảng sợ khi thấy chuột trên bếp và chuột từ trên tường xuống, bầy chuột khẩn cấp bò đi để bơi trên dòng sông thoát nạn.
+ Remy một mình sợ sệt cô đơn với quyển sách nấu ăn của Gusteau làm điểm tựa.
+ Ở nhà hàng Gusteau, những đầu bếp đều sợ hãi sau cái chết của Gusteau, nỗi sợ khi nhà hàng bị mất đi một sao, Linguini bước vào với nỗi lo sợ sẽ bị đuổi việc một lần nữa.
+ Skinner bị chi phối bởi nỗi sợ rằng mình không sở hữu nhà hàng Gusteau khi Linguini đến và khuynh đảo mọi thứ.
+ Colette – cô người yêu của Linguini có nỗi sợ vô hình khi phải bước khỏi những chuẩn mực công thức, trong khi cô là người nữ duy nhất trong nhà bếp.
+ Anton Ego bỗng chốc hoảng sợ khi nghe sự trỗi dậy của nhà hàng từng bị mình giết chết bằng ngòi bút.
+ Bữa ăn trong ngày trọng đại lên cao trào cũng nhờ nỗi sợ: Remy mắc phải bẫy của Skinner, tay thanh tra Y tế bị lũ chuột vây bắt trên đường làm việc.
+ Tất cả mọi thứ đều chạy trong mạch sợ hãi, cả chuột lẫn người.
+ Người sợ khi thấy chuột và chuột sợ khi thấy người dẫn dắt cả toàn bộ câu chuyện.
+Vậy điều ấy có ý nghĩa gì?Remy điều khiển từng lọn tóc của Linguini là một bước xóa bỏ sợ hãi của con chuột với con người và con người với con chuột.
+  Anton Ego bình thản khi thấy Remy.
+ Khúc cuối người với chuột làm bạn với nhau.
+Vậy điều gì ở khúc cuối khiến hai bên làm bạn với nhau dễ dàng đến vậy?Tại sao người ta phải mất công tìm hiểu về ý thức và cảm xúc ở động vật?Ở kỳ trước, mình đã có đề cập đến ý thức ở động vật.
+ Khi chủ nghĩa hành vi coi cảm xúc là thứ hoang đường và trừu tượng, và thực chất tất cả mọi sinh vật chúng ta đều được vận hành bởi những hành vi, vốn đòi hỏi tập luyện và tinh chỉnh.
+ Người ta phủ nhận cảm xúc, dù rằng từ thời Darwin đã giả định sự xuất hiện của cảm xúc.
+ Jaak Panksepp vào năm 2004 và năm 2005 nghiên cứu ở loài chuột - những sóng siêu âm có thể bộc lộ niềm vui và buồn bã.
+ Ông tin rằng những cảm xúc ở loài chuột là thứ vận hành chính trong việc kiếm ăn và sinh hoạt của chúng.
+Việc giải mã cảm xúc của loài chuột nhằm giải quyết câu hỏi về cảm xúc ở con người.
+ Con người vốn phức tạp, trong con người có phần ý thức và vô thức, và đó là điều khá hấp dẫn.
+ Tuy nhiên, vui vẻ và buồn bã không phải thứ cảm xúc người ta tìm kiếm đầu tiên.
+  Còn nhớ thí nghiệm Little Albert chứ, biến một đứa trẻ từ không bao giờ sợ chuột thành sợ sệt mỗi khi chuột và bất cứ thứ gì có lông không? Sợ hãi là cảm xúc đã đi trước cả vui vẻ và buồn bã.
+ Thứ cảm xúc nguyên thủy nhất trong mọi cảm xúc, luôn khơi dậy câu hỏi với những nhà khoa học trong lĩnh vực khoa học thần kinh.
+ Cơ chế sợ hãi trong não bộ luôn thách thức chúng ta mong muốn thao túng và điều khiển chúng.
+ Những nghiên cứu về sợ hãi tốn nhiều nhân lực và chi phí trong nhiều thập kỷ qua.
+Joe LeDoux bắt đầu quan tâm về cảm xúc của loài chuột vào những năm 70, khi cảm xúc vẫn là được nhìn nhận là thứ mang tính trải nghiệm chủ quan, không thể nghiên cứu hoàn chỉnh, còn nhận thức và trí nhớ được xem là những thứ mang chức năng xử lý thông tin.
+ Nghiên cứu động vật bắt đầu sâu hơn, khi bắt đầu ở cấp độ tế bào và những synap riêng lẻ trên những tế bào đó.
+ Joe bắt đầu tìm hiểu trên hệ thống mê cung chuộtKhi Joe nghiên cứu con đường mê cung chuột, cộng sự của ông nghiên cứu cảm xúc tương tự ở người.
+ Họ đã lập biểu đồ những con đường của sự sợ hãi.
+ Ông nghĩ về sự sợ hãi dưới dạng hành vi có thể quan sát được.
+ Vì động lực để phát triển của sinh vật sống sót là phát hiện với nguy hiểm và ứng phó với nó, kể cả con người.
+  Trên mê cung chuột, Joe bắt đầu trở lại với kỹ thuật điều kiện hóa hành vi.
+ Người ta đưa kích thích lớn, vốn không khiến chuột rung động gì cả, sau đó lồng với cú sốc điện.
+ Con chuột nghe thấy âm thanh bắt đầu cứng người lại, cơ căng mạnh, tim đập nhanh, hồi hộp.
+ Hormone được tiết ra, tạo cơ chế phòng vệ giúp con chuột đối phó với nguy hiểm.
+ Thông qua kích thích âm thanh ở não chuột, nghiên cứu phát hiện hạch hạnh nhân (amygdala) là trung tâm điều khiển sự sợ hãi.
+ Nếu chúng ta làm tổn thương hai hạch nhân này, con chuột không còn biết sợ là gì.
+ Sự khác biệt giữa động vật thực sự sợ hãi và không sợ hãi là sự khác biệt về cấu trúc trong hạch hạnh nhân.
+ Tương tự ở con người, qua chẩn đoán hình ảnh, người ta biết được phần nào của bộ não con người đang kích hoạt khi bệnh nhân nhận kích thích, ở cấu trúc hạch hạnh nhân.
+Vậy việc tìm ra hạch hạnh nhân có ý nghĩa gì? Ngoài cho thấy sợ hãi khi đi theo con đường trong não chuột, người ta bắt đầu ứng dụng thử nghiệm những người có hạch hạnh nhân  bị tổn thương do bệnh lý não bộ hoặc tổn thương não.
+ Nếu con người tác động trực tiếp trên hạch hạnh nhân càng sớm càng tốt sau khi bệnh nhân trải qua cú shock trong sự kiện đau thương, ký ức về điều đó sẽ được ngăn chặn theo một cách hóa học.
+ Nhất là những người lính chịu tang thương từ chiến trường, bị cưỡng hiếp hay trấn lột, những tổn thương cũ,…Từ đó, chính con người kiểm soát sự sợ hãi của chính mình.
+ [1]Dù đây là ý tốt, nhưng sợ hãi là một cảm xúc không thể thiếu trong cuộc sống con người.
+ Sợ hãi, là cách con người tiến hóa xa hơn trong tự nhiên, nếu không có nó, chúng ta không thể trốn tránh vô vàn mối đe dọa xung quanh.
+ Khi đã có phát minh, hẳn sẽ có một số người sử dụng chúng với mục đích không hay ho.
+ Nếu nó rơi vào tay kẻ xấu có toàn quyền thao túng sự sợ hãi của người khác bằng cách phá hủy hạch hạnh nhân, cuộc sống con người chỉ có niềm vui và nỗi buồn mà thiếu sợ hãi, chúng ta thực sự là ai? Liệu chúng ta có thành nô lệ của chính mình, khi không biết đến sợ hãi?Trở lại với cyborg.
+ Mình vốn không xem Comics, nhưng đã có đọc qua bài của Samurice về nguồn gốc nhân vật Cyborg, nên muốn liên tưởng một chút.
+ Rằng lý do nhân vật trở thành Cyborg là do anh ta đã có trải nghiệm đau thương trước đó, và nó khó lành lại.
+ Rõ ràng là sự sợ hãi và đau thương là thứ kích thích để khiến một người bình thường thành siêu anh hùng, nên mạnh.
+ Chính sự sợ hãi dẫn con người đến nhiều điều hay ho, về khám phá con chuột để vận hành lên chính chúng ta.
+ Những cyborg vẫn đang tiếp tục được tạo, hứa hẹn cho nhiều thứ khác.
+ Nguồn Gốc Nhân Vật #12: CyborgBài viết gửi bởi Samurice trong mục Comicsspiderum.
+comLiệu chúng ta có còn thật sự là con người nữa hay không? Liệu chỉ có duy nhất một bản thể?  Con người luôn mâu thuẫn với chính mình, như trong Phân tâm học của Freud - có phần id, ego và superego.
+ Làm sao có thêm một loài vật khác có thể điều khiển được tâm trí con người? Và xa hơn, người này điều khiển người kia? Bên trong con người ngoài phần ý thức, cũng có phần vô thức đang chờ dịp để bùng lên.
+Nó khiến mình nhớ lại đến vở kịch đã học hồi lớp 12 của Lưu Quang Vũ - Hồn Trương Ba Da Hàng Thịt.
+ Trương Ba đã chết, được nhập hồn vào trong cơ thể của người hàng thịt thô kệch, ông không thể chịu được sự phàm phu của người này, đấu tranh mãi để cuối cùng được chết hẳn.
+ Liệu có khi nào đó là cách ngầm mà con người tự tiêu diệt lẫn nhau để loài khác lên ngôi?Kết: Trở lại chi tiết cuối trong Ratatouille, nhà hàng La Ratatouille - tầng trên là những con chuột đang thưởng thức ẩm thực, tầng dưới là con người.
+ Những món ăn được yêu cầu, Remy bắt tay vào làm với Colette, Linguini mang dĩa phục vụ thực khách.
+ Remy biết ý của Anton Ego - sự ngạc nhiên.
+ Cậu chinh phục Ego chỉ vì điều đó, đi ngược lại lối mòn của đầu bếp.
+ Tóm lại là Remy THÔNG MINH hơn cả những đầu bếp con người.
+  Đó là cách ẩn dụ cho một tương lai mới - một sinh vật khác thống trị loài người.
+ Vấn đề này nhiều cái cần bàn, nên có gì mình sẽ để ở một bài viết khác.
+ *Tự dưng đến đây nhớ đến phim ngắn Lifted được chiếu cùng với bộ phim này, kể về hai con ngoài hành tinh nhoi nhoi trên dĩa bay điều khiển một con người từ xa đang ngủ trong căn phòng.
+ Và nhân vật con người rất giống Linguini, đang say ngủ.
+ Chàng ta sống cô đơn, còn những sinh vật ngoài hành tinh lại làm bạn với nhau.
+ Con người say ngủ để sinh vật khác điều khiển mình.
+ Thực ra đây chỉ là một phần của thuyết âm mưu Pixar.
+ Vài phim cũng đã thể hiện về một xã hội, khi con người được điều khiển bằng giao diện não-não với nhau.
+ Vài ví dụ thêm nữa liên tưởng từ Ratatouille trong những bộ phim Pixar, về vấn đề kiểm soát tâm trí.
+ Trong Ratatouille, những con người - họ đều là những kẻ cô đơn.
+ Lũ chuột đã phải dạy họ về sự bầy đàn.
+ Những bộ phim dưới đây cũng vậy, con người đều trở nên cô đơn trước khi có một sinh vật khác dạy họ ý nghĩa của việc sống bầy đàn.
+ Điều lạ lùng, bản tính con người vốn bầy đàn, cuối cùng lại để loài khác dạy mình điều ấy.
+-    Wall-E, về hành tinh Axiom: Trái Đất không còn là nhà của con người.
+ Con người là những thân hình béo ục ịch không thể nhấc nổi cơ thể và tương tác với người bên cạnh, mọi ý thức đều được điều khiển bởi những chiếc ghế gắn liền với họ.
+ Vị thuyền trưởng vật lộn  tiêu diệt chiếc camera trên tài để tìm về Trái Đất.
+-  Up: lũ chó của Charles Muntz - gã thám hiểm độc ác có thể nói được qua thiết bị được gắn ở cổ, có vai trò ngang hàng chẳng khác gì Charles.
+P.
+s: Thực ra mình vẫn chưa vừa lòng với bài viết, vì mãi đến phút cuối (con người luôn đến phút cuối mới nhận ra) mới nhận ra thông điệp sinh vật khác nắm quyền trên con người nên vẫn chưa viết được tròn ý.
+ Vả lại đây cũng không phải lĩnh vực của mình, nên sẽ có sơ suất, mong bạn đọc góp ý.
+ Vĩnh Anh[1]What does rats dreams mean? - Dream MeaningWhat do Rats Dream About? : Documentary on the Dreams and Minds of Rats.
+ .
+ If you dream as if a rat sneaks in and attacks you, this is a bad sign, portending.
+.
+.
+www.
+youtube.
+com[2] Human Mind Control of Rat Cyborg’s Continuous Locomotion with Wireless Brain-to-Brain Interface (Nature, 2019)
+
+Tác giả: Vĩnh Anh

@@ -1,0 +1,93 @@
+[Vật Lý Cơ Bản] Vũ khí hạt nhân
+    cũng 1 thời gian rồi mình không viết bài trên spiderum.
+ tại mình hơi bận với không có cảm hứng để viết.
+ anyway, đây sẽ là 1 chuỗi các bài viết mới về Vật Lý.
+ Nhân tiện, tất cả các series của mình như [Kinh tế cơ bản], [Toán học hại não], [Vật lý cơ bản].
+.
+.
+ Mình không tuyên bố quyền sở hữu và các bạn có thể thỏa mái viết tiếp vào series nào mà các bạn muốn.
+ không cần phải sửa tên để tránh đụng hàng đâu.
+1, Hạt nhân là gì?    First thing first, mình sẽ làm rõ 1 vài điều cơ bản trước đã.
+ Hạt nhân trong từ vũ khí hạt nhân được hiểu là phần core của 1 nguyên tử được cấu tạo bởi 2 loại hạt: Proton và Neutron.
+ Proton mang điện tích dương và Neutron không mang điện.
+ Nguyên tố cơ bản nhất là Hidro được cấu tạo bởi chỉ 1 Electron bay xung quanh 1 Proton.
+ Số Proton và số Electron sẽ luôn được cân bằng để đảm bảo nguyên tử trung hòa về điện.
+ Nếu ta ép 2 nguyên tử Hidro vào nhau với đủ cường độ và mật độ, chúng sẽ hòa vào nhau và tạo thành Heli với 2 Proton ở nhân và 2 Electron bay xung quanh.
+ Tuy nhiên, ngoài việc hòa vào nhau thì chúng còn tỏa ra 1 lượng lớn năng lượng về cái năng lượng tỏa ra tôi sẽ nói tiếp ở mục sau.
+ Tuy nhiên, các bạn chỉ cần hiểu 1 điều đơn giản đó là tất cả mọi nguyên tố mà chúng ta biết đến đều được bắt đầu từ hidro.
+ Càng lên cao, hạt nhân càng lớn và càng bất ổn định.
+ Tại sao chúng lại bất ổn thì hãy đọc tiếp phần 2.
+2, Các đồng vị phóng xạ.
+    Như đã nói ở trên, hạt nhân được cấu tạo từ 2 loại hạy P và N.
+ Từ nãy đến giờ tôi chỉ đề cập đến P vậy hạt N đâu? Số lượng hạt P ảnh hưởng đến tính chất hóa học của 1 chất còn để chế boom hạt nhân, ta cần chú ý đến số hạt N mà nguyên tố đó mang.
+ 1 nguyên tố có thể mang nhiều hạt N mà không làm thay đổi tính chất hóa học của nguyên tố đó.
+ ví dụ như Hidro, ta thêm 1~2 hạt N vào hạt nhân của Hidro ta vẫn được nguyên tử hidro với tính chất hóa học y như vậy nhưng với 1~2 hạt N thêm vào nhân, nguyên tử Hidro này cực kì bất ổn định và có xu hướng tan vỡ.
+ sự tan vỡ này của Hidro được gọi là hiện tượng "Phân rã hạt nhân" và Hidro có 1~2 N thêm vào được gọi là các "Đồng vị" của Hidro.
+ Tương tự như Hidro, tất cả các nguyên tố khác đều có thể nhận thêm hoặc loại bỏ bớt N ra khỏi hạt nhân của chúng để đạt đến trạng thái ổn định hơn.
+ Việc các hạt nhân tự phân rã để đảm bảo trạng thái ổn định của chúng là phân rã tự nhiên.
+ chúng có xu hướng tiến về phía các đồng vị ổn định nhất của chúng như Hidro với 1 P hoặc các nguyên tố nặng hơn như Urani thì có xu hướng tiến về phía các nguyên tố ổn định hơn ở giữa bảng tuần hoàn như cờ rôm, chì, I ốt.
+.
+.
+ đồng thời giải phóng 1 lượng lớn năng lượng khi chúng phân rã.
+3, Phản ứng hạt nhân    Như phần 1 và 2 đã nói, chúng ta có thể thêm P hoặc N vào hạt nhân để tạo thành các nguyên tố mới hoặc đồng vị mới và bản thân chúng cũng tự vỡ ra thành các hạt nhân nhỏ hơn, ổn định hơn trong tự nhiên.
+ Có 2 cách chúng ta có thể thu lợi từ các phản ứng hạt nhân này.
+ Cách thứ nhất là chúng ta gom thật nhiều hạt nhân nhỏ (Hidro và các đồng vị của chúng) để tổng hợp lên các nguyên tố nặng hơn đồng thời thu được năng lượng từ các phản ứng đó.
+ Đây là cách mà mặt trời sử dụng để cung cấp năng lượng cho chúng ta.
+ Tuy nhiên, để chúng ta có thể tạo ra được 1 mảnh mặt trời thu nhỏ để chủ động thu hoạch năng lượng thì khá là khó và vẫn còn cần rất nhiều nghiên cứu.
+ Cách thứ 2 thì đơn giản hơn 1 chút đó là đập vỡ các nguyên tố lớn hơn, nặng hơn như Urani, Plutoni.
+.
+.
+ thành các nguyên tố nhỏ hơn như sắn, chì, I ốt.
+.
+.
+ Cách này cũng cho chúng ta năng lượng rất lớn và rất dễ làm.
+ thực tế là chúng ta đã xây rất nhiều nhà máy điện hạt nhân và boom hạt nhân từ cách này.
+ Với cách 1 thì chúng ta mới chỉ làm được boom thôi chứ chưa chủ động thu hoạch năng lượng được từ chúng.
+    Ở hình trên, chúng ta có thể thấy Hạt nhân Urani có tổng số P và N là 235.
+ Sau khi bị bắn bở 1 hạt N nó trở thành Urani 236.
+ Urani 236 này cực kì bất ổn và ngay lập tức phân rã thành 2 hạt nhân nhỏ hơn đồng thời giải phóng rất nhiều năng lượng.
+4, Vũ khí hạt nhân.
+    Như phần 3 đã đề cập, phản ứng phân rã các hạt nhân lớn như Urani hay Plutoni giải phóng rất nhiều năng lượng.
+ Tuy nhiên, Như thuốc nổ và quả boom vậy, để làm 1 quả boom, chúng ta cần tập trung 1 lượng thuốc nổ đủ lớn và phải nén chúng lại sao cho gần như toàn bộ lượng thuốc nổ đều được bắt lửa cùng 1 lúc khiến cho giói thuốc nổ phát nổ chứ không chỉ bốc cháy như thuốc diêm.
+ Đây chính là vấn đề nan giải với boom hạt nhân vì quặng Urani trong tự nhiên chỉ chứa chủ yếu là đồng vị U238 chứ không phải U235 như hình trên.
+ Chúng ta vẫn hay nghe nói việc chương trình làm giàu Urani của triều tiên/Iran đó chính là họ đang cố làm tăng hàm lượng U235 trong 1 thể tích Urani để có thể phát nổ.
+ U238 và U235 có cùng 1 tính chất hóa học vì số P của chúng bằng nhau nên tách chúng ra khá là khó.
+ Nhưng vì U238 hơi nặng hơn U235 1 chút vì chúng dư 3 hạt N nên họ có thể làm như thế này:Hệ thống ống ly tâm để làm giàu U235    Với hệ thống như trên hình, họ bơm khí Urani vào 1 cái bình, U238 nặng hơn 1 chút sẽ chìm xuống dưới và 235 nhẹ hơn sẽ ở bên trên.
+ họ rút phần khí bên trên của bình ra và đưa tiếp vào 1 loại các chuỗi bình tiếp với cách làm như vậy.
+ dần dần, nồng độ U235 sẽ tăng từ 0.
+7% (trong tự nhiên) lên đến 90% để làm boom.
+    Ok, vậy bạn đã có lượng thuốc nổ cần thiết để làm boom, bây giờ bạn chỉ cần cái ngòi nổ thôi nhỉ? Phần này thì hơi phức tạp 1 chút vì chúng ta không thể đốt urani như là thuốc nổ được.
+ Chúng ta cần 1 nguồn phát xạ Neutron.
+ cái này thì đơn giản thôi nhưng vấn đề là chúng ta phải đảm bảo làm sao các hạt N được bắn ra đấy sẽ bắn trúng các hạt nhân U235 bên cạnh để tạo ra phản ứng ngay lập tức.
+ Nghe có vẻ đơn giản nhưng thực tế hơi phức tạp 1 chút.
+    Như hình trên, ở quả cầu đầu tiên, chúng ta bỏ quá ít Urani vào và kết quả là các hạt N bay hết ra ngoài và quả boom của chúng ta bị xịt.
+ Quả cầu thứ 2, chúng ta tập trung quá nhiều Urani điều này sẽ đảm bảo là quả boom sẽ phát nổ nhưng thứ 1: tốn quá nhiều urani và thứ 2, quả boom có thể phát nổ bất kì lúc nào.
+ chúng ta cần thiết kế 1 lớp "Gương" xung quanh 1 khối lượng urani vừa đủ để các hạt N trốn thoát sẽ bị phản ngược lại để tiếp tục phản ứng.
+ Tiếp theo nữa, chúng ta nên tách urani ra thành 2 phần nhỏ để đảm bảo chắc chắn chúng sẽ không thể phát tự phát nổ.
+ Cấu tạo của quả boom thì giống như này:1 trong nhưng thiết kế cơ bản của boom hạt nhân    Như hình trên, chúng ta cần cân đo đong đếm đủ lượng urani cần thiết để quả boom không bị xịt.
+ chúng ta chia nó làm 2 phần như trên để đảm bảo quả boom không tự phát nổ.
+ khi chúng ta kích hoạt quả boom, phần thuốc súng ở cuối quả boom sẽ phát nổ và bắn phần urani ở đằng sau lên phía đầu quả boom.
+ Ở đây, chúng ta có nguồn phát xạ neutron.
+ Nguồn này sẽ liên tục bắn các hạt Neutron vào cục Urani đó để kích thích phản ứng dây chuyền xảy ra.
+ khi 1 hạt nhân U235 phát nổ, 2~3 hạt neutron khác sẽ được bắn ra từ nó và 2~3 hạt này cũng sẽ kích nổ các hạt nhân U235 bên cạnh chúng.
+ Kết quả là ta được phản ứng dây chuyền khiến cả khổi urani 235 phát nổ giải phóng 1 lượng năng lượng cực kì khủng khiếp.
+5, Tác hại của vũ khí hạt nhân.
+    Việc kích nổ 1 lượng lớn Urani như vậy sẽ tỏa ra 1 lượng nhiệt khổng lồ và các sản phẩm của phân rã phóng xạ bắn ra khắp nơi.
+ Nhiệt độ tăng vọt trong 1 thể tích nhỏ sẽ làm cho 1 vùng không khí đó bị nở ra đột ngột tạo 1 làn sóng nhiệt khủng khiếp, nung chảy mọi thứ và quét sạch mọi thứ trên đường đi của nó.
+ Tuy nhiên, đấy chỉ là 1 phần.
+ Như tôi đã nói ở trên, ngoài giải phóng năng lượng dưới dạng nhiệt, nó còn giải phóng vô số các tia phóng xạ như hạt α (nguyên tử heli), hạt β (Electron), tia γ (sóng điện từ có tần số cực cao và năng lượng cực lớn).
+.
+.
+ những Tia phóng xạ này mang năng lượng cao và có khả năng đánh bật Electron ra khỏi cấu trúc phân tử.
+ Đặc biệt những cấu trúc quan trọng như ADN, ARN.
+.
+.
+ trong tế bào sẽ rất dễ bị ảnh hưởng vì chỉ cần sai 1 lỗi thôi là cả phần gen đó sẽ bị hỏng.
+ Nếu đó là phần gen quy định việc tế bào phải chết định kì thì sao? nó sẽ không thể ra lệnh cho tế bào chết đi nữa và tế bào đó sẽ phân chia liên tục tạo thành ung thư.
+ Nên là tốt nhất đừng đọc bài này xong về chế thử boom hạt nhân nhé.
+ Nhưng thực ra, vì các cường quốc đều có boom hạt nhân nên thế chiến 3 vẫn chưa "dám" nổ ra mặc dù quan hệ giữa liên xô và mỹ trong nửa cuối thế kỉ trước cực kì căng thẳng.
+ Nên có khi nào, boom hạt nhân lại là thứ cứu rất nhiều mạng sống? Tưởng tượng thế chiến 3 nổ ra với rất nhiều cải tiến về máy bay và boom đạn giữa 2 liên minh cực đông dân là trung quốc và nga vs mỹ và tây âu thì sẽ như thế nào? Chính vì 2 liên minh này đều sở hữu vũ khí hạt nhân nên họ không dám tuyên chiến với nhau.
+ tất cả các cuộc xung đột từ đó đến giờ chỉ là những cuộc xung đột nhỏ lẻ ở các quốc gia nhỏ lẻ chứ không phải của 2 liên minh quân sự với nhau.
+ Ý kiến của bạn thì sao?
+
+Tác giả: BSGP26cm

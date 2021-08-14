@@ -1,0 +1,167 @@
+Cấu kiện và kỹ thuật kiến trúc thời Lý - Trần nhìn từ tư liệu chữ viết đồng đại (P2)
+Trong phần trước, tôi đã chia sẻ các kết quả nghiên cứu đặc điểm bộ vì kèo trong kiến trúc thời Lý - Trần qua các tư liệu đồng đại cùng việc phân tích các hiện vật đã khai quật được, trong bài tiếp theo và cũng là bài cuối về chủ đề này, tôi sẽ chia sẻ về đặc điểm ngói lợp mái và kết cấu mái thời Lý - Trần qua tổng hợp của Phạm Lê Huy.
+ Các bạn nên đọc bài trước ở đây:Cấu kiện và kỹ thuật kiến trúc thời Lý - Trần
+nhìn từ tư liệu chữ viết đồng đại (P1)Bài viết gửi bởi MantisH trong mục Science2vnspiderum.
+comNgói và linh vật trang trí bờ nóc trong kiến trúc thời Lý.
+ Bảo tàng dưới hầm nhà Quốc hộiII.
+ NGÓI LỢP MÁI VÀ KẾT CẤU MÁI THỜI LÝ - TRẦN    Các kết quả điều tra khai quật tại Hoàng thành Thăng Long cũng như các di tích tự viện thời Lý - Trần cho thấy: đương thời, ngói được sử dụng phổ biến trong các công trình cung điện và kiến trúc Phật giáo.
+ Xem xét các nguồn tư liệu văn bản, có thể thấy việc sản xuất - sử dụng ngói đã được nhà Lý khuyến khích trong một khoảng thời gian ngắn cuối thế kỷ 11, cụ thể là giai đoạn 1084 - 1097 dưới triều Lý Nhân Tông.
+ Sau đó, đến năm 1097, chỉ có các công trình kiến trúc cao cấp mới được lợp ngói.
+ Cụ thể, vào tháng 11 năm 1084 (Anh Võ Chiêu Thắng 9), Lý Nhân Tông ban hành chiếu thư lệnh cho “thiên hạ” tạo ngói lợp nhà.
+ Tuy nhiên, theo Đại Việt sử lược, chỉ 13 năm sau, tức năm 1097 (Hội Phong 6), nhà Lý lại cấm “bách tính” - tức thường dân làm nhà lợp ngói.
+ Như vậy, có thể cho rằng nhà Lý muốn lấy lệnh cấm năm 1097 để phân biệt các kiến trúc của tầng lớp dân thường với các kiến trúc của hoàng đế, tầng lớp quý tộc, các cơ sở tôn giáo.
+    Đối với các loại hiện vật ngói đã phát lộ, từ trước đến nay, chúng ta thường gọi chúng bằng những tên gọi mang tính thói quen (những tên gọi “truyền thống”, dù chúng ta không biết “truyền thống” đó mới có từ thời nào), hoặc đặt cho chúng những tên gọi mới, dựa trên những quan sát chủ quan về hình dạng.
+ Ví dụ, với cùng một loại ngói, hiện nay chúng ta sử dụng rất nhiều tên gọi khác nhau, không thống nhất như “ngói mũi sen”, “ngói cánh sen”, “ngói mũi hài”, “ngói vảy cá”, “ngói vảy rồng”… Vấn đề đặt ra là người thời Lý -Trần đã sử dụng những tên gọi như thế nào? Trong phần này, để khảo sát về cấu trúc bộ mái thời Lý - Trần, trước tiên, dựa trên các nguồn tư liệu chữ viết đồng đại như minh văn và miêu tả của sứ giả nhà Nguyên, chúng tôi sẽ thử khảo sát tên gọi các loại ngói lợp mái dưới thời Lý - Trần.
+ Cũng dựa trên ghi chép của sứ Nguyên, chúng tôi sẽ làm rõ một phần kỹ thuật lợp mái vảy thời Trần.
+ Cuối cùng, chúng tôi sẽ trình bày một vài suy nghĩ của mình về đặc điểm cấu trúc bộ mái thời Trần.
+1.
+ Tên gọi một số loại ngói lợp mái và và kỹ thuật lợp ngói mái vảy    Qua khảo sát tư liệu chữ viết đồng đại, có thể thấy dưới thời Lý - Trần, tồn tại các loại thuật ngữ chỉ ngói như sau:1.
+1.
+“Kim ngõa” 金瓦 - Ngói vàng và “Ngân ngõa” 銀瓦 - Ngói bạc    “Ngân ngõa” được nhắc đến lần đầu tiên trong các ghi chép của Đại Việt sử lược hay Đại Việt sử ký toàn thư về cung điện của nhà Tiền Lê tại Hoa Lư.
+ Theo đó, các cung điện của Lê Đại Hành đều được lợp bằng “ngân ngõa”.
+ Theo ghi chép của Đại Việt sử lược, lầu Chúng Tiên được xây dựng vào thế kỷ 12 có lợp “kim ngõa” - ngói vàng ở tầng trên và “ngân ngõa” - ngói bạc ở tầng dưới.
+ Sùng Thiện Diên Linh tháp bi (1121) - một nguồn tư liệu chữ viết đồng đại - cũng xác nhận “ngân ngõa” được sử dụng tại kiến trúc này qua câu: “cấu Chúng Tiên tam cấp chi bảo đài, ngân ngõa điệp nhi quang chiếu khung mân” 構衆仙三級之宝台、銀瓦 疊而光照穹旻, nghĩa là “xây đài Chúng Tiên ba cấp, ngói bạc trùng điệp chiếu rọi vòm xanh”.
+    Tuy nhiên, xét về mặt kinh tế và kỹ thuật, việc sử dụng vàng hay bạc để sản xuất ngói dường như là phi thực tế.
+ “Ngân ngõa” nhiều khả năng chỉ là tên gọi phiếm chỉ của loại ngói phủ men trắng.
+ Liên quan đến loại ngói này, Đại Việt sử ký toàn thư cho biết năm 1105, tại chùa Diên Hựu xây hai tòa tháp mái trắng - “bạch manh tháp” 白甍塔.
+ Sùng Thiện Diên Linh tháp bi (1121) gọi hai tháp của chùa Diên Hựu là “lưu ly bảo tháp” 瑠璃宝塔.
+ Trong Doanh tạo pháp thức, ngói lưu ly được định nghĩa là ngói phủ men 薬.
+ Như vậy, tháp mái trắng mà Đại Việt sử ký toàn thư nhắc đến là tháp lợp ngói phủ men trắng, tương tự với loại ngói mà chúng ta đã phát hiện tại Hoàng thành Thăng Long (Hình 11).
+1.
+2.
+ “Bích ngõa” 碧瓦 - Ngói men xanh    Thiên Phúc tự hồng chung minh văn (1109) có nhắc đến sự tồn tại của một loại ngói gọi là “bích ngõa” (ngói xanh) trong câu “thải tử kỉ mộc, đào bích ngõa lô” 採梓杞木、陶碧瓦爐, tạm dịch là “tìm chọn gỗ quý, nung lò ngói xanh”.
+ “Bích” là màu xanh ngọc, “bích ngõa” có thể hiểu là ngói phủ men xanh màu ngọc bích, tương tự như những hiện vật chúng ta tìm thấy tại Hoàng thành Thăng Long (Hình 12).
+1.
+3.
+ “Uyên ngõa” 鴛瓦 - Ngói uyên ương    Như Trần Kim Anh cũng đã nhắc đến, Sùng Nghiêm Diên Thánh tự bi minh (1118) sử dụng thuật ngữ “uyên ngõa” để chỉ ngói uyên ương, trong câu “lâm phong uyên ngõa nhi dực phi” 臨風鴛瓦而欲翔, tức là “ngói uyên ương đón gió như muốn bay” (Trần Kim Anh, 2011).
+ Như vậy, chúng ta có thể biết loại hình di vật ngói có trang trí hình uyên ương đương thời (thế kỷ 12) được gọi là “uyên ngõa” (Hình 13).
+1.
+4.
+ Ngói vảy và “Liên ngõa” 蓮瓦 - Ngói sen    Tại các di tích thời Lý - Trần, chúng ta đã tìm được rất nhiều hiện vật ngói lợp mái không thuộc loại hình ngói âm dương.
+ Mặc dù có nhiều biến thể khác nhau, nhưng theo chúng tôi, có thể xếp chung các loại “ngói mũi sen”, “ngói mũi sen kép”, “ngói mũi lá” trong một nhóm chung, tạm gọi là “ngói vảy” 鱗瓦, xuất phát từ đặc điểm khi được lợp trên mái, nó tạo thành hình giống như vảy cá.
+    Đứng từ góc độ tư liệu chữ viết, qua việc khảo sát minh văn thời Lý - Trần, chúng ta thấy tư liệu sớm nhất đề cập đến nhóm “ngói vảy” nêu trên là Càn Ni sơn Hương Nghiêm tự bi minh (1125) với câu: “thiềm huy hân sí, ngõa điệp bài lân” 簷翬掀翅、瓦疊排鱗, nghĩa là “mái hiên bay cao như cánh chim, ngói xếp như bày vảy cá”.
+ Như vậy, chúng ta thấy rằng ngói vảy đã được sử dụng trong các công trình tự viện muộn nhất từ nửa đầu thế kỷ 12.
+    Trong nhóm “ngói vảy” có loại hình ngói có mũi cong lên, hiện nay được gọi bằng nhiều tên gọi như “ngói mũi hài”, “ngói mũi sen” hoặc “ngói cánh sen”.
+ Tuy nhiên, khi khảo sát minh văn thời Lý - Trần, có thể thấy người đương thời không gọi loại ngói này là ngói “mũi hài”, “mũi sen” hay “cánh sen”, mà chỉ đơn giản gọi là “liên ngõa” - ngói sen.
+ Thiệu Long tự bi minh (1226) là tư liệu sớm nhất nhắc đến tên gọi “liên ngõa” - ngói sen với câu “liên ngõa vạn tầng lân tự, hiểu lộ tích tích nghi châu” 蓮瓦万層鱗似、暁露滴滴疑珠, nghĩa là “Ngói sen ngàn lớp tựa vẩy cá, sương sớm giọt giọt ngỡ hạt châu”.
+    Tên gọi “liên ngõa” - ngói sen cũng được nhắc đến trong Hưng Phúc tự bi minh (1324), một văn bia được soạn vào đầu thế kỷ 14.
+ Trong minh văn này có câu “Phật điện cái dĩ liên ngõa” 仏殿蓋以蓮瓦, tức là “Phật điện lợp bằng ngói sen”.
+ Tư liệu này cho thấy đến đầu thế kỷ 14, “liên ngõa” là loại ngói được sử dụng cho các kiến trúc đẳng cấp cao.
+ Cụ thể, tại chùa Hưng Phúc, ngói sen được dùng để lợp Phật điện (tòa điện đặt tượng Phật) - kiến trúc quan trọng nhất trong tự viện.
+ Liên quan đến vấn đề này, chúng ta cũng có thể tham khảo mô hình kiến trúc đất nung phát hiện tại Vụ Bản (Nam Định).
+ Từ trước đến nay, người ta thường coi đây là một mô hình “nhà”.
+ Tuy nhiên, xét từ việc hai bên trái - phải của kiến trúc trung tâm có bố trí bệ bia và bệ dường như là bệ tháp, đây nhiều khả năng là mô hình của một quần thể kiến trúc tự viện.
+ Như Oyama đã chỉ ra, kiến trúc trung tâm được lợp bằng ngói sen, trong khi một phần tường bao được lợp bằng ngói ống (Oyama Akiko, 2012), cho thấy đương thời, có sự phân biệt đẳng cấp trong việc sử dụng ngói sen và ngói ống.
+    Từ trước đến nay, tại các di tích thời Trần, chúng ta tìm được rất ít ngói âm dương (ngói ống và ngói phẳng), chủ yếu chỉ tìm thấy ngói vảy.
+ Qua khảo sát các tư liệu chữ viết, chúng ta có thể khẳng định rằng ngói vảy đã được sử dụng một cách hết sức phổ biến vào cuối thế kỷ 13.
+ Trong An Nam tức sự, Trần Phu - sứ giả nhà Nguyên sang Đại Việt năm 1293 - đã rất ấn tượng về loại hình ngói này, và ghi lại trong tập bút ký của mình như sau:    魚鱗簷粲瓦（中略）瓦形如板、上正方而鋭其下之半、如古圭、然横半竹以為桟、以竹釘釘其瓦于栈上、自簷以次相圧至屋脊、宛如魚鱗、    Tạm dịch:    Hiên vảy cá rực rỡ màu ngói [lược một đoạn] Ngói có hình như tấm ván, phần trên hình chữ nhật nhưng nửa dưới thuôn nhọn, giống như miếng ngọc khuê thời cổ.
+ Đặt ngang nửa cây tre (“bán trúc”) làm “sạn”, lấy đinh tre đóng ngói đó vào “sạn”.
+ Từ mái hiên lợp tuần tự đè lên nhau đến bờ nóc (“ốc tích”), tựa như vảy cá.
+    Tại sao Trần Phu lại quan tâm đặc biệt đến ngói vảy như vậy? Lý do trước tiên có thể nghĩ đến là đối với Trần Phu cũng như nhiều người Trung Quốc thời bấy giờ, ngói vảy là một loại cấu kiện rất hiếm gặp.
+ Trên thực tế, khi đọc phần “ngõa tác” (tạo ngói) của Doanh tạo pháp thức - bộ bách khoa thư về kiến trúc thời Bắc Tống, chúng ta thấy bộ sách này chỉ đề cập đến ngói âm dương mà không có một dòng nào viết về ngói vảy.
+ Tuy nhiên, người viết cho rằng còn một vấn đề nữa cần hết sức chú ý khi đọc ghi chép của Trần Phu.
+ Nếu nhìn vào các hiện vật ngói thời Lý, có thể chắc chắn rằng dưới thời Lý, ngói ống được sử dụng rất phổ biến, nhiều công trình kiến trúc lợp ngói ống của thời Lý sau này đã được kế thừa dưới thời Trần.
+ Tuy nhiên, trong hai cuộc kháng chiến chống Mông - Nguyên (1284 - 1285 và 1287 - 1288), rất nhiều công trình lợp ngói âm dương (ngói ống và ngói phẳng) có từ thời Lý đã bị đốt phá.
+ Theo Đại Việt sử ký toàn thư, năm 1288, khi quay trở lại kinh đô, Thượng hoàng nhà Trần đã phải nghỉ tại “hành lang của thị vệ” do “cung điện đã bị giặc Nguyên đốt hết”.
+ Như vậy, vào cuối thế kỷ 13, nhà Trần đã phải xây dựng lại rất nhiều cung điện và tự viện.
+ Kết hợp ghi chép của Trần Phu với việc tỷ lệ ngói vảy chiếm đa số trong ngói khai quật được tại các di tích Trần, người viết cho rằng thời điểm cuối thế kỷ 13 chính là giai đoạn chuyển giao trong dòng chủ lưu sử dụng ngói, từ ngói ống sang ngói vảy trong lịch sử kiến trúc Việt Nam.
+2.
+ Kỹ thuật lợp ngói vảy thời Trần    Mặc dù chúng ta không rõ loại ngói vảy mà Trần Phu đề cập trong An Nam tức sự là ngói sen hay ngói mũi lá, nhưng An Nam tức sự đã cung cấp những thông tin rất quan trọng để làm rõ cách thức lợp ngói vảy (bao gồm cả ngói sen và ngói mũi lá) dưới thời Trần.
+    Theo Trần Phu, để lợp ngói vảy, người ta trước tiên dùng đinh tre (“trúc đinh”) đóng ngói lên “sạn”, sau đó lợp đè lên nhau, tuần tự từ mái hiên lên nóc mái (“tích”).
+ Trong Doanh tạo pháp thức, “sạn” được giải thích là bộ khung lót ngói, nhưng dựa trên những phân tích dưới đây, có thể xác định “sạn” chính là hàng “mè” để cài ngói.
+    Như chúng ta đã biết, hầu hết hiện vật ngói vảy (bao gồm cả ngói sen và ngói mũi lá) thời Trần tìm được từ trước đến nay đều có mấu ở mặt dưới, được cho là để cài vào mè.
+ Tuy nhiên, bên cạnh đó, cũng tồn tại một số lượng nhỏ ngói vảy (bao gồm cả ngói mũi lá và ngói sen) vừa có mấu, vừa đục 2 lỗ ở phần đuôi (Hình 16).
+ Xung quanh hiện tượng này, một số nhà khảo cổ như Đặng Hồng Sơn hay Nguyễn Văn Anh (ĐHKHXH&NV) cho rằng: đây là hai lỗ để đóng đinh sắt hoặc đinh tre, giúp cố định ngói trên mái.
+ Trong bài viết này, dựa trên ghi chép của Trần Phu, có thể khẳng định những lỗ này đúng là vị trí đóng đinh, cụ thể là đinh tre (“trúc đinh”), lên “sạn” để cố định ngói.
+ Ngoài ra, vì tỷ lệ hiện vật ngói có lỗ trên tổng số hiện vật ngói vảy tại hầu hết các di tích thời Trần là rất ít, đồng thời đối chiếu với ghi chép của Trần Phu, có thể nhận định các viên ngói vảy có lỗ chính là những viên được lợp ở hiên.
+ Chúng tôi cũng muốn chú ý thêm răng vị trí đục lỗ lại rất gần mấu phía sau ngói.
+ Điều đó có nghĩa là “sạn” để đóng ngói cũng chính là hàng “mè” để cài ngói.
+ Nói tóm lại, đối với hàng ngói đầu tiên (ngói hiên), người ta vừa cài ngói vào mè (“sạn”) bằng mấu, vừa đóng cố định ngói vào cùng một hàng mè đó bằng đinh tre.
+ Từ hàng ngói thứ hai, ngói chỉ đơn giản được cài vào mè mà không cần đóng cố định.
+    Tuy nhiên, ở đây lại phát sinh một vấn đề mới cần giải thích.
+ Chúng ta đã tìm thấy một số viên ngói vảy có gắn lá đề (Hình 20).
+ Đây chắc chắn là những viên ngói hiên, nhưng tại sao lại không có lỗ? Nói cách khác, tại sao lại có sự tồn tại song song các viên ngói hiên có lỗ và không có lỗ? Chúng tôi cho rằng điều này xuất phát từ sự khác biệt trong độ dốc mái giữa các kiến trúc.
+ Suy luận này được chúng tôi đưa ra trên cơ sở so sánh với kỹ thuật lợp mái vảy “truyền thống” vẫn được lưu giữ từ thời Nguyễn.
+ Trong cách lợp ngói vảy thời “cận hiện đại” này, người ta không đóng cố định hàng ngói hiên.
+ Đối với mái có độ dốc ≤ 40 độ, người ta sẽ đóng thêm “hàng tàu” - một bệ đỡ bằng gỗ đóng vai trò làm điểm đỡ cho hàng ngói đầu tên (Hình 15).
+ Đối với mái có độ dốc > 40 độ, để cố định hàng ngói hiên một cách chắn chắn hơn, người ta phải dán ngói bằng “hồ dầu”, hoặc đục lỗ buộc dây.
+ Như vậy, chúng ta thấy rằng đối với các kiến trúc có độ dốc mái lớn, người ta phải cố định chắc chắn hàng ngói hiên hơn so với các kiến trúc có độ dốc mái nhỏ.
+    Trên cơ sở so sánh như trên, chúng tôi suy đoán rằng những viên ngói vảy không có lỗ nhưng có trang trí lá đề là ngói hiên của các công trình kiến trúc có độ dốc mái nhỏ.
+ Trong khi đó, những viên ngói vảy có lỗ đóng đinh tre là ngói hiên của các công trình kiến trúc có độ dốc mái lớn.
+ Có thể xác nhận sự tồn tại của các công trình có độ dốc mái lớn thời Trần qua những ghi chép của sứ giả nhà Nguyên, mà chúng tôi sẽ trình bày chi tiết hơn ở phần sau (Hình 17).
+3.
+ Đặc điểm của cấu trúc bộ mái thời Lý - Trần3.
+1.
+ Đặc trưng đầu đao - "mái cong dạng chim bay"    Trước đây, Nguyễn Bá Lăng đã coi góc mái cong là một đặc trưng của kiến trúc “truyền thống” Việt Nam (Nguyễn Bá Lăng, 1973).
+ Tuy nhiên, đây là kết luận được đưa ra dựa trên việc phân tích các công trình kiến trúc gỗ hiện còn lưu giữ được, mà sớm nhất là thời Lê.
+ Phân tích các mô hình nhà phát hiện tại Hưng Hà (Thái Bình) và Vụ Bản (Nam Định), Trịnh Cao Tưởng chỉ ra một đặc điểm của kiến trúc Trần là “kết cấu mái cong dạng chim bay”, “có góc đao và vỉ ruồi ở đầu hồi” (Trịnh Cao Tưởng, 1978).
+ Vấn đề là đặc trưng góc mái cong này đã xuất hiện từ thời nào?    Phân tích tư liệu minh văn cho thấy đặc điểm “mái cong dạng chim bay” đã xuất hiện từ thời Lý, muộn nhất từ đầu thế kỷ 11.
+ Trước hết, trong Bảo Ninh Sùng Phúc tự bi (1107) có câu “thiềm a dực thế, như điểu tứ phi” 檐阿翼勢、如鳥四飛, nghĩa là “mái hiên xòe cánh, như chim bay bốn phía”.
+ Chữ “tứ phi” cho thấy vị trí cong dạng chim bay là vị trí bốn góc mái.
+ Trong Sùng Nghiêm Diên Thánh tự bi (1118) lại có câu “cô lăng yết nhi hân sí huy phi” 觚稜揭而掀翅翬飛 nghĩa là “cô lăng dựng lên như giang cánh tung bay”.
+ Theo sách Học lâm do Vương Hiển Quốc biên soạn vào đời Tống, “cô lăng” là “đường tích của ngói góc mái (bờ dải) tạo thành múi vuông”, tức vị trí góc mái.
+ Như vậy, chùa Sùng Nghiêm Diên Thánh có bốn góc mái dựng lên như hình chim giang bay.
+ Đặc biệt, cấu trúc “mái cong hình chim bay” trên mái ngói vảy được miêu tả trên Càn Ni sơn Hương Nghiêm tự bi minh, với câu “thiêm huy hân sí, ngõa điệp bài lân” 簷翬掀翅、瓦疊排鱗 nghĩa là “mái hiên như cánh giang bay, ngói xếp như bày vảy cá”.
+    Quan sát các hiện vật và mô hình kiến trúc đất nung đã phát hiện, có thể cho rằng đặc trưng “mái cong dạng chim (giang cánh) bay” được tạo thành bởi các cấu kiện như trang trí dạng “cánh”, dạng hình đầu chim, đầu đao hoặc lá đề (Hình 18-19,21,23).
+ Trịnh Cao Tưởng gọi cấu kiện dạng cánh là “vỉ ruồi”.
+ Tuy nhiên, do tư liệu minh văn sử dụng từ “sí” (cánh), nên chúng tôi đề xuất gọi loại cấu kiện trang trí góc mái này là “cánh” thay cho thuật ngữ “vỉ ruồi” mà Trịnh Cao Tưởng đề xuất.
+    Cũng cần nói thêm rằng, ở bốn góc mái cong này, dưới thời Lý - Trần, người ta thường cho treo chuông vàng.
+ Ví dụ, Sùng Thiện Diên Linh tháp bi minh (1121) có câu “giác giai kim linh” 角桂金鈴, nghĩa là “góc treo chuông vàng”.
+ Thiệu Long tự bi minh (1210) có câu “kim kinh tứ giác thiềm cao” 金鈴四角簷高, tức là “chuông vàng bốn góc hiên cao”.
+3.
+2.
+ Đặc trưng mái dốc đứng, mái hiên thấp của kiến trúc Trần    Trong An Nam tức sự, Trần Phu đã miêu tả kiến trúc thời Trần như sau:    有室皆穿竇、無床不尚爐、屋無折架法、自棟至簷、直峻如傾、棟雖至高、簷僅四五尺、又有低者、故欲黒暗、則就地開牕如狗竇、    Tạm dịch:    Các phòng đều khoét lỗ, không giường nào không đặt lò    Mái không có “chiết cử pháp”, từ nóc đến mái hiên, dốc đứng như nghiêng.
+ Mái tuy cao, nhưng mái hiên chỉ 4 - 5 thước.
+ Lại làm thấp là do muốn tối, gần mặt đất mở cửa sổ như lỗ chó.
+    Tự phụ là sứ giả “thiên triều”, Trần Phu miêu tả kiến trúc thời Trần với giọng văn đầy miệt thị.
+ Tuy nhiên, ghi chép này đã cung cấp cho chúng ta một thông tin rất quý báu về đặc điểm bộ mái thời Trần.
+    Đó là đặc điểm mái “trực tuấn như khuynh” 直峻如傾, nghĩa là “dốc đứng như nghiêng”, tuy nóc cao nhưng mái hiên chỉ cao khoảng 4 - 5 thước (tức khoảng 1,2m - 1,5m).
+ Đặc điểm này theo Trần Phu là do kiến trúc Trần không có “chiết gia pháp”.
+ Vấn đề đặt ra là phép “chiết gia” ở đây là gì? Theo chúng tôi, đó là kỹ thuật tạo độ võng cho mái.
+ Doanh tạo pháp thức có ghi chép về kỹ thuật “cử chiết”, “cử” là chiều cao nóc, “chiết” là việc hạ rui.
+ Nếu lấy chiều cao từ nóc đến hoành cuối cùng là một “cử”, hoành đỡ rui dưới nóc hạ cao độ xuống 1/10 cử, hoành tiếp theo hạ cao độ 1/20 và cứ hạ cao độ tuần tự như vậy cho đến hiên, người ta sẽ tạo được độ võng cho mái (Hình 22).
+    Nếu hiểu “chiết gia pháp” của Trần Phu là kỹ thuật “cử chiết” trong Doanh tạo pháp thức, chúng ta sẽ giải thích được ghi chép của Trần Phu một cách hợp lý.
+ Do kỹ thuật kiến trúc thời Trần không sử dụng kỹ thuật tạo độ võng, kết quả là mái “dốc đứng như nghiêng”.
+ Điều này cũng liên hệ mật thiết đến kỹ thuật lợp ngói vảy mà chúng tôi đã trình bày ở phần trước.
+ Do mái có độ dốc lớn, nên đối với hàng ngói hiên, ngoài việc cài mấu vào “mè”, người ta còn phải đóng cố định ngói vào “mè” băng đinh tre.
+    Tuy nhiên, người viết muốn nhấn mạnh rằng không phải tất cả các kiến trúc thời Lý - Trần đều có độ dốc mái lớn.
+ Như đã trình bày ở phần trước, hầu hết kiến trúc thời Trần mà Trần Phu quan sát được cuối thế kỷ 13 đều là những kiến trúc mới được xây dựng lại sau hai cuộc kháng chiến chống Nguyên lần 2 và lần 3.
+ Trên thực tế, sự tồn tại của nhóm ngói hiên trang trí hình lá đề nhưng lại không có lỗ cũng cho thấy sự tồn tại của các kiến trúc có độ dốc mái nhỏ.
+ Theo Đặng Hồng Sơn, việc sử dụng đinh để cố định ngói xuất hiện tương đối muộn, vì tất cả các viên ngói vảy thời Lý phát hiện tại chùa Lạng (Viên Giác tự, Hưng Yên) đều không có lỗ (Đặng Hồng Sơn, 2013).
+ Chúng ta cần hiểu ghi chép của Trần Phu chỉ cho thấy rằng: vào cuối thế kỷ 13, cónhiều công trình có độ dốc mái lớn, nhưng đó không phải là tất cả.
+III.
+ KẾT LUẬN    Trong bài viết này, thông qua việc phân tích các tư liệu chữ viết đồng đại, chúng tôi đã xác định được một số tên gọi cấu kiện kiến trúc và kỹ thuật kiến trúc thời Lý - Trần.
+ Trên cơ sở đó, có thể hình dung về kiến trúc thời Lý - Trần như sau:    1.
+ Ngay từ thời Lý, đã xuất hiện các kiến trúc có mái cong như chim giang cánh bay.
+ Đây là đặc điểm xuyên suốt kiến trúc thời Lý - Trần.
+ Hình ảnh mái cong như chim bay được tạo lập nhờ các cấu kiện “si” (cánh, ví dụ như trên mô hình tháp Bến Lăn) hoặc đầu đao cong (như đầu đao thời Trần phát hiện tại Hoàng thành Thăng Long), được đặt ở góc mái, còn được gọi là “lăng” hay “cô lăng”.
+    2.
+ Các mô hình kiến trúc thời Trần cho thấy kiến trúc thời Trần thường có kết cấu 4 mái.
+ Kiến trúc thời Trần bao gồm cả các kiến trúc có độ dốc mái nhỏ và độ dốc mái lớn.
+ Tuy nhiên, đến cuối thế kỷ 13 - thời điểm sứ giả nhà Nguyên là Trần Phu sang Đại Việt (1293), nhiều kiến trúc có độ dốc mái lớn, mái “thẳng đứng như nghiêng”.
+ Điều này theo Trần Phu bắt nguồn từ việc không sử dụng kỹ thuật tạo độ võng cho mái (“chiết gia pháp”).
+    3.
+ Mái kiến trúc thời Lý - Trần được lợp bằng nhiều loại ngói như “kim ngõa” (ngói vàng), “ngân ngõa” (ngói bạc - ngói phủ men trắng), “uyên ngõa” (ngói uyên ương), “liên ngõa” (ngói sen)… Đến năm 1293, khi Trần Phu sang Việt Nam, ngói vảy (bao gồm cả ngói sen và ngói lá) đã được sử dụng một cách phổ biến.
+ Đến đầu thế kỷ 14, như có thể thấy trong Hưng Phúc tự bi minh (1324), ngói sen được coi là loại ngói dành cho các kiến trúc cao cấp, ví dụ như Phật điện trong tự viện.
+    4.
+ Phương pháp lợp ngói vảy (bao gồm cả ngói sen và ngói lá) thời Lý - Trần là lợp ngược từ dưới (hàng hiên) lên trên (bờ nóc).
+ Đối với các công trình có độ đốc mái lớn, hàng ngói đầu tên (ngói hiên) vừa được cài vào mè (“sạn”) bằng mấu bên dưới ngói, vừa được đóng cố định vào mè bằng đinh tre (“trúc đinh”).
+ Đối với các công trình có độ dốc mái nhỏ, hàng ngói hiên (thường là ngói vảy gắn lá đề) không cần đục lỗ để đóng đinh.
+ Ngược lại, trong thời gian sắp tới, bằng việc phân tích các hiện vật ngói hiên có lỗ hay không, chúng ta có thể suy đoán được công trình kiến trúc đó có độ dốc mái lớn hay nhỏ.
+    5.
+ Tương ứng với đặc điểm mái dốc, dù nóc rất cao, nhưng mái hiên của nhiều kiến trúc Trần nhìn chung có chiều cao không lớn, chỉ khoảng 4 - 5 thước (1,2m - 1,5m).
+ Có thể con số 1,2m - 1,5m là con số mang tính cường điệu, nhưng việc mái hiên thấp giải thích một số di tích kiến trúc thời Lý - Trần có độ vươn mái không lớn.
+ Tuy nhiên, chúng tôi muốn nhấn mạnh một lần nữa là có sự tồn tại song song cả 2 loại công trình, mái có độ dốc lớn và ngược lại.
+    6.
+ Kiến trúc thời Lý - Trần sử dụng đấu củng để tạo độ vươn cho mái, đặc biệt là cấu kiện “lô” (đấu lớn) năm trực tếp trên cột.
+ Trong một số kiến trúc, cột gỗ không để nguyên màu gỗ mà được sơn son, có thể trang trí họa tiết hình “long”, “hạc”, “tiên nữ”.
+ Đấu củng cũng sẽ được sơn son và trang trí, hoặc tạo hình các họa tiết hình “vân” (mây) hoặc “hà” (ráng) để phù hợp với màu sắc và trang trí của cột.
+    7.
+ Ngay từ thời Lý, bộ vì đã sử dụng cấu kiện “hồng lương” hay “nguyệt lương” tức rường cong.
+ Rường cong tương đương với cấu kiện mà ngày nay chúng ta gọi là “câu đầu” (đầu cong), chính là xà lòng bắc qua hai cột cái theo chiều dọc của tòa nhà.
+ Kết cấu bộ vì thời Lý - Trần nhiều khả năng là kết cấu cột đỡ đấu lớn, đấu lớn đỡ “hồng lương” - rường cong (tức là rường cong không ăn mộng thẳng vào cột), tương tự như những gì chúng ta quan sát được trên cấu trúc bộ vì nóc thượng điện các chùa Dâu, Thái Lạc, Bối Khê.
+ Dưới thời Lý, có thể tồn tại kết cấu hai nhịp vì sử dụng “hồng lương”.
+Hết.
+
+
+Tác giả: Lượng Minh

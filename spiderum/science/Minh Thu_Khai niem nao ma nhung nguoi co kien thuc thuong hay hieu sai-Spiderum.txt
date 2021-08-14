@@ -1,0 +1,39 @@
+Khái niệm nào mà những người có kiến thức thường hay hiểu sai?
+Khái niệm nào mà những người có kiến thức thường hay hiểu sai?--------------------------------------------------Trả lời bởi James Edward Hinds--------------------------------------------------Sự tiến hóa, như ngày nay người ta thường hiểu, không phải là một thuyết hoàn chỉnh hay một thuyết chức năng (điều này cũng giống với Thiết kế thông minh)Cả thiết kế thông minh và thuyết tiến hóa đều thiếu các điều kiện sàng lọc để đưa ra các giả thuyết kiểm chứng được.
+ Điều này có thể thông cảm đối với trường hợp của Thiết kế thông minh bởi Thiết kế thông minh thường được coi là ngụy khoa học nhưng sẽ là dối trá khi bỏ qua cho Tiến hóa những lỗi y hệt bởi nó áp dụng mô hình được công nhận.
+ Nếu 1 cái là ngụy khoa học, cái còn lại cũng thế, lý do thì giống nhau.
+Hãy để tôi giải thích thông qua một số điểm chính của thuyết Tiến hóa.
+Dưới tác động của chọn lọc tự nhiên, các loài có thể phát triển hoặc tuyệt chủng.
+ Bạn có nhận thấy vấn đề không? Luận điểm này không hề có nguyên nhân gây ra tuyệt chủng hay dẫn đến tiến hóa.
+ Nó trở thành một phép lặp thừa thãi, chẳng cho ta biết điều gì về vũ trụ.
+ Tiến hóa không cần phải đúng với tất cả các loài, dù là phát triển đi lên hay bị tuyệt chủng chăng nữa; bởi chúng có thể không tồn tại nữa và khẳng định này vẫn đúng.
+Muốn trở thành một giả thuyết kiểm chứng được, nó phải thế này:Dưới tác động của chọn lọc tự nhiên A, loài sẽ tiến hóa; dưới tác động của CLTN B, loài sẽ tuyệt chủng.
+Đây mới là giả thiết kiểm chứng được.
+ Bạn có thể chia một số lượng chuột này thành 2 nhóm và đặt chúng vào 2 môi trường chọn lọc khác nhau rồi quan sát nhóm A tiến hóa còn nhóm B thì chết dần.
+ Cho đến nay- 170 năm sau khi Darwin công bố “Nguồn gốc các loài”- điều này vẫn còn đang thiếu sót.
+Thực tế, trong một thời gian dài, người ta cho rằng Thuyết Tiến hóa cần một phương án để vượt qua thử nghiệm, và nó thậm chí còn chưa chính xác tuyệt đối với thực tế.
+ Lý thuyết cân bằng ngắt quãng cho rằng các dấu vết thay đổi chậm (nếu có) sẽ xuất hiện trên các hóa thạch; các quần thể nhỏ tách biệt có khả năng tiến hóa khá nhanh.
+ Điều này chắc chắn sẽ đóng góp vào việc xác minh thử nghiệm, nhỉ? Có lẽ là không đâu.
+Để công bằng với thuyết Tiến hóa, có một phương pháp tạo ra những điều kiện như vậy trong cuốn Selfish Gene của Dawkins, nó quan sát các mô phỏng độc hại có thể khiến loài biểu hiện hành vi không tối ưu.
+ Tuy nhiên, người ta nghi ngờ điều này có thể thực sự gây ra sự tuyệt chủng bởi áp lực chọn lọc sẽ lựa chọn chống lại những mô phỏng có hại đó.
+ Và lẽ đương nhiên, không có giả thuyết nào được kiểm chứng cả.
+(Tôi sẽ lược bỏ vài thứ do giới hạn kí tự, nhưng Thiết kế thông minh cũng có vấn đề tương tự về việc định ra lượng thông tin đủ để tránh các sai số ngẫu nhiên; đây là một biện pháp tùy ý có thể phát triển nếu người ta chứng minh nó là sai.
+)Ý kiến cá nhân: Cuộc tranh luận về nguồn gốc có lẽ là vô nghĩa.
+Dù cả hai thuyết đều là giả khoa học, Tiến hóa vẫn có cơ hội trở thành một thuyết khoa học thực sự.
+ Điều này về lý thuyết thì TKTM không có khả năng vì nó đã được sửa đổi thành một thuyết khoa học có thể kiểm chứng.
+Mà có khi chả liên quan.
+ Chẳng quan trọng liệu ngụy khoa học của bạn có thể kiểm tra được hay không khi mà chẳng ai cố gắng kiểm chứng nó.
+Tiến hóa phù hợp với các ghi chép hóa thạch hơn, nhờ vào một số phương pháp xác định.
+Các thuyết tiến hóa bổ trợ cho rằng Trái Đất già không có nghĩa là Tiến hóa nhất thiết phải là một quá trình diễn ra chậm chạp.
+ Dù thế, đôi khi nó được sử dụng để biện minh cho việc cấm đoán các thử nghiệm lâu dài.
+Thiết kế thông minh phù hợp với kinh nghiệm thực thế của ta hơn nhưng bạn không thể chứng minh điều ngược lại- rằng loài không thể tiến hóa.
+Việc này không thực sự chứng tỏ TKTM là sai.
+ Không phải tất cả các phát biểu đúng đều kiếm chứng được.
+Hầu hết các kỹ thuật và liệu pháp điều trị di truyền như CRISPR CAS9 được cho là gần với TKTM hơn là Tiến hóa.
+Nhưng các liệu pháp cao cấp như CRISPR vẫn thiên về TKTM hơn.
+ Theo thời gian nó có thể là thứ sẽ phá vỡ thế cân bằng.
+ Nếu những người ủng hộ Tiến hóa không làm gì cả, chúng ta có thể sẽ thấy khoa học nhất trí bác bỏ thuyết Tiến hóa trong 40 năm tới, hoặc tương tự với TKTM.
+ Thiết kế thông minh đang tạo ra công nghệ, còn Tiến hóa thì khôngJames Edward Hinds's answer to What important scientific concepts are widely not understood or misunderstood by otherwise well informed and intelligent people?nullqr.
+ae---------------------------------------Dịch bởi Minh Thư
+
+Tác giả: Minh Thư

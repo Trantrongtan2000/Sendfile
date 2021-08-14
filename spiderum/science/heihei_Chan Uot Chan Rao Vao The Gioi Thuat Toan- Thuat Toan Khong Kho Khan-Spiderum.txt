@@ -1,0 +1,51 @@
+Chân Ướt Chân Ráo Vào Thế Giới Thuật Toán: Thuật Toán Không Khô Khan
+"Thuật toán là một bộ các quy tắc hay quy trình cụ thể nhằm giải quyết một vấn đề nào đó trong một số bước hữu hạn, hoặc nhằm cung cấp một kết quả từ một tập hợp của các dữ kiện đưa vào.
+"Đó là Wikipedia nói thế, bạn có hiểu không? Hiểu? Tốt, hãy đọc bài viết của mình.
+ Nếu không hiểu? Không sao, cũng hãy đọc bài viết của mình.
+.
+.
+Ảnh mang tính chất câu viewSau đây mình sẽ viết lại cái định nghĩa trên của Wikipedia bằng ngôn ngữ bình dân: "Thuật toán là một tập hợp các bước để giải quyết một vấn đề, hoặc tạo ra một sản phẩm từ một tập hợp các nguyên liệu cho trước".
+ Nghe quen không? Yeah, nó rất giống với việc nấu ăn.
+Lập Trình là Nấu Ăn, Công Thức Nấu Ăn là Thuật ToánNhư trên, công thức nấu ăn chính là tập hợp các bước để biến một đống nguyên liệu lộn xộn thành một món ăn vừa ngon miệng lại vừa đẹp mắt.
+ Ví dụ làm món trứng luộc:Nguyên liệu: TrứngSảm phẩm: Trứng luộc (of course)Cách làm:    - Chuẩn bị nồi nước     - Nhẹ nhàng đặt trứng vào nồi nước.
+ Hãy dùng một chiếc thìa lớn, từ từ thả trứng vào nồi nước đang sôi.
+ .
+.
+.
+      - Vặn nhỏ lửa và đun trong 8-14 phút.
+ .
+.
+.
+      - Chuyển trứng sang nước đá .
+.
+.
+      - Bóc vỏ và thưởng thức.
+Vì mình không phải là một chuyên gia ẩm thực, nên mình luộc trứng dở như hạch (thật đấy), mình biết trên này có rất nhiều bạn nấu ăn giỏi hơn mình (mà thật ra ai biết luộc trứng đều giỏi hơn mình rồi) thì đừng ném trứng vào mặt mình nha, mình chỉ lấy làm ví dụ thôi.
+Ví dụ trên, ta có thể chuyển sang ngôn ngữ thuật toán:Input: Trứng sốngOutput: Trứng luộcThuật toán:    1.
+ Chuẩn bị nồi    2.
+ Đặt trứng vào nồi    3.
+ Vặn nhỏ lửa, đun trong 8-14 phút    4.
+ Chuyển trứng sang nước đá    5.
+ Bóc vỏ và thưởng thứcNấu ăn có lúc thành công rực rỡ, lúc thì thành một đống hổ lốn, kinh dị vô cùng phải không? Lập trình cũng vậy đấy, nếu thuật toán của bạn đúng, thì thành phẩm của bạn sẽ chạy mượt mà, còn nếu không, thì xác định thôi.
+Giống như khi luộc trứng, nếu bạn bỏ bước 1 thì sao? Đặt trứng lên bếp rồi "luộc" hả? Cầu trời là trứng của bạn không nổ một phòng đấy.
+ Còn nếu làm sai bước 3 thì sao? Chắc chắn trứng sẽ vỡ loang lổ hết cả, và khi ăn, bạn cũng thấy vô cùng tệ, nhỉ? Khi bạn viết thuật toán, nếu sai một bước thì hoặc là chương trình của bạn sẽ chạy mãi, chạy mãi, người ta gọi đó là infinite-loop, hoặc chương trình sẽ không bao giờ chạy, và cứ đứng mãi, cho đến khi bạn xé xác nó ra thôi.
+Thuật toán cũng giống cái cách bạn đi đến trường nữaKhi bạn đi đến trường, bạn có thể chọn đường nhanh nhất, đường an toàn nhất hoặc đường nhiều gái đẹp nhất nhỉ? Riêng mình, mình thường hay chọn cách thứ 3 đó.
+ Và một ngày đẹp trời con đường bạn thích đi lại bị kẹt kín thì làm thế nào, tất nhiên sẽ chọn một con đường khác rồi, nhưng nếu tất cả các đường nều bị kẹt thì sao? Hẳn là bạn sẽ phải ở nhà và gọi điện cho cô giáo xin nghỉ phép hôm đó rồi.
+ Đi học thì cũng có nhiều phương tiện để cho bạn đi: xe đạp, xe máy, taxi, bus hoặc đi bộ,.
+.
+.
+ Nếu hôm đó trời quang mây tạnh và bạn muốn hưởng khí trời thì bạn sẽ thích đi bộ, hoặc xe đạp, còn nếu hôm đó trời mưa, hoặc bạn phải đi trên con đường bụi bặm thì cách tốt nhất chính là taxi hoặc xe bus.
+ Đó, đi học không thôi mà cũng phiền phức phếch.
+ Nhưng khoan đã, mình cho bạn một câu đố như sau:Nếu hôm đó bạn phải đến trường rất gấp và đoạn đường từ nhà đến trường của bạn không cho phép đi xe máy, bạn lại đang chỉ có 100k trong túi, mà nếu đi taxi từ nhà đến trường thì mất lận 150k, xe đạp của bạn lại đang để ở nhà thằng bạn gần trường.
+ Và bằng một cách vô tình, giá tiền để đi taxi từ nhà bạn đến nhà thằng bạn đúng bằng số tiền bạn đang có trong túi.
+ Nếu ở trong trường hợp đó, bạn sẽ phải làm cách nào để đến trường nhanh nhất!!! (giả sử bố mẹ bạn không có ai ở nhà và bạn cũng không có cách nào liên lạc với bạn bè cùng lớp :3)Trong trường hợp đó có rất nhiều cách để đi đến trường, có thể nói là vô số cách:    - Đi bộ một mạch từ nhà đến trường    - Đi bộ từ nhà đến nhà thằng kia, rồi từ nhà thằng kia lái xe đến trường    - Bắt taxi từ nhà đến nhà thằng bạn, rồi từ nhà thằng bạn lái xe lên trường    - Hoặc thậm chí là đi bộ lên nhà thằng bạn, lấy xe rồi đạp xe từ đó lượn đi một vòng thành phố, rồi đến trường (cách này thật nhảm nhí)    - Hoặc, ngu ngốc hơn là bắt taxi từ nhà đến nhà thằng bạn, lấy xe rồi đạp xe một vòng thành phố, về nhà cầm rổ trứng (rổi trứng hồi nãy), chạy đi tìm ông bác lái taxi, ném trứng vô mặt ổng rồi ung dung đạp xe lên trường (ôi thật là =3 )Nhưng trong tất cả các cách đó, chỉ có một cách nhanh nhất.
+ Chính là "Bắt taxi từ nhà đến nhà thằng bạn, rồi từ nhà thằng bạn lái xe lên trường"Đấy đấy, bạn thấy đấy, mấy cái thuật toán cũng y hệt luôn, có rất nhiều thuật toán để bạn giải quyết một vấn đề, nhưng bạn phải chọn cách nhanh nhất, tối ưu nhất và tiết kiệm (bộ nhớ) nhất.
+Trong thực thi thuật toán cũng khó tránh khỏi những trường hợp không thể lường trước (thay vì nó như này thì nó lại như nọ, giống việc tắt đường ấy), nên người viết thuật toán (bạn) phải tính toán thật kĩ càng, chặn đường hết mọi trường hợp có thể xảy ra.
+ Như thuật toán tính thương của hai số a và b, nếu bạn không tính đến trường hợp khi b nhận giá trị bằng 0 thì đến lúc đó code sẽ gặp lỗi, cho nên đấy, đấy, blablabla, bạn phải làm cái này, rồi cái kia.
+Thuật toán có thể là bất kì thứ gì bạn nhìn thấy, và bạn làm hằng ngàyTừ bây giờ, bạn thử nghĩ coi, nghĩ thử khi bạn ăn, bộ máy tiêu hóa sẽ thực hiện thuật toán như thế nào, khi bạn ngủ thì như thế nào, hoặc bạn thử viết thuật toán đấm Admin Viet Anh xem, hoặc thuật toán weitei chẳng hạn :3 Đấy đấy đấy, thế giới thuật toán không phải khô khan đâu đúng không, thậm chí có phần "ướt át" ấy chứ.
+ Để ý thử coi.
+Rồi, mình kết thúc phần đầu tại đây, nếu có hứng (ý là bài này được nhiều upvote ấy) mình sẽ viết tiếp các phần sau nữa.
+ Thế nhá,Chào!!!Hưởng ứng ngày toàn dân đấm Admin                        Đọc thêm:Chuyện Phiếm Về Nhớ Và QuênBài viết gửi bởi Hei Hei trong mục Chuyện trò - Tâm sựspiderum.
+com
+
+Tác giả: heihei

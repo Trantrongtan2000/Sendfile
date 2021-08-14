@@ -1,0 +1,46 @@
+Những hạn chế của thí nghiệm
+Vào đêm đầu tiên khi bạn mới check-in khách sạn hoặc ngủ ở nhà một người bạn, bạn có thấy bản thân mình khó ngủ, hay trở mình và không thể chợp mắt như thông thường ?Hiện tượng này được gọi là “Hiện tượng đêm đầu tiên” (First-night effect).
+ Các nhà khoa học đã biết đến nó từ hơn 50 năm trước.
+ “Ngay cả đối với những người trẻ tuổi và khỏe mạnh, không có bất cứ vấn đề mãn tính về giấc ngủ, 99% họ vẫn gặp phải Hiện Tượng Đêm Đầu Tiên – một trạng thái gần như nửa tỉnh nửa mơ” theo Yaka Sasaki từ Đại học BrownCác loài động vật khác cũng lập lờ, lơ mơ giữa ranh giới nửa tỉnh nửa mơ này.
+ Cá voi, cá heo và rất nhiều loài chim có thể ngủ với chỉ một nửa bộ não của chúng, trong khi nửa còn lại vẫn tỉnh táo và đôi mắt tương ứng của nó vẫn mở.
+ Bằng cách này, một con cá heo có thể thức và cảnh giác xung quanh liên tục lên tới 5 ngày, thâm chí có thể hơn.
+Sasaki tự hỏi nếu con người cũng làm một điều gì tương tự như vậy, mặc dù ở mức độ thấp hơn.
+ Có lẽ khi chúng ta bước vào một môi trường mới.
+ một nửa bộ não của chúng ta vẫn tỉnh táo hơn nửa còn lại, nên chúng ta mới có phản ứng tốt hơn đối với những tiếng động,mùi không bình thường hoặc những dấu hiệu nguy hiểm khác.
+ Có lẽ nào chúng ta cảm thấy trằn trọc, lạ giường ở đêm đầu tiên là do một nửa bộ não phải cố gắng làm “tăng ca” với vai trò một người “gác đêm”?“Tôi linh cảm như vậy nên chúng tôi đã tiến hành một thí nghiệm và hi vọng sẽ tìm thấy thứ gì đó thú vị” – Sasaki cho biếtThí nghiệm của SasakiBà mời 11 tình nguyện viên ngủ lại một vài tối tại phòng thí nghiệm.
+ Họ ngủ trong một máy quét y tế để đo hoạt động của não, trong khi các điện cực trên đầu và tay đo sóng não, cử động mắt, nhịp tim và nhiều chỉ số khác.
+ “Máy quét có một chiếc đệm hoàn toàn rất phẳng.
+ Chúng tôi còn đặt thêm vào rất nhiều gối và khăn tắm để giúp người tham gia thí nghiệm cảm thấy thoải mái.
+ Trang thiết bị thí nghiệm có thể gây hạn chế nhưng mọi người vẫn ngủ được”.
+ Kết quả cho thấy họ mất nhiều thời gian để rơi vào trạng thái ngủ hơn và giấc ngủ không được sâu vào đêm đầu tiên.
+Máy đo sóng não dùng kĩ thuật MEG – MagnetoencephalographyKhi họ ngủ, đồng nghiệp của bà là Masako Tamaki và Ji Won Bang đo các hoạt động của sóng-chậm (slow-wave activity), một nhịp đồng bộ của các tế bào thần kinh liên quan tới giấc ngủ sâu Họ đã phát hiên ra rằng hoạt động này giảm đi đáng kể trong bán cầu não trái của các tình nguyện viên, chỉ hiện tượng này chỉ xảy ra ở đêm đầu tiên.
+ Sự bất cân xứng của hoạt động trên 2 bán cầu não càng mạnh mẽ, tình nguyện viên càng mất nhiều thời gian hơn để rơi vào giấc ngủ.
+Nhóm nghiên cứu đã không tìm thấy bất cứ đối xứng sóng chậm nào trên bán cầu não trái.
+ Nó không đáng kể đối với những vùng đảm nhiệm chức năng quan sát, cử động và sự tập trung.
+ Thay vào đó, nó lại chỉ ảnh hưởng tới Default Mode Network (DMN)- một nhóm các vùng trong não liên quan tới các hoạt động không tập trung tự phát như mơ mộng giữa ban ngày (daydreaming) hay ngồi suy tư lung tung (mind-wandering).
+ Những kết quả này phù hợp với giả thuyết về bộ não trong đêm đầu tiên đóng vai một người “gác đêm”, khi mà mạng lưới chế độ mặc địch trở nên nhảy cảm hơn bình thườngĐể kiểm tra lại giả thuyết này, Sasaki yêu cầu các tình nguyện viên ngủ trong một chiếc giường bình thường với một đôi tai nghe.
+ Trong suốt buổi thí nghiệm, nhóm nghiên cứu cho phát những tiếng bíp với tần số khác nhau vào 2 bên tai của người tham gia.
+ Nhóm nghiên cứu phát hiện ra rằng bán cầu não trái của những người tham gia phản ứng nhạy hơn đối với những tiếng bíp không ổn định ( còn tiếng bíp không ổn định ở bán cầu não phải hay những tiếng bíp ổn định ở cả hai bên đều không đem lại thay đổi).
+ Người tham gia thức dậy nhanh hơn nếu âm thanh được tiếp nhận bởi bán cầu não trái.
+ Đặc biệt là hiện tượng này chỉ xảy ra ở Đêm đầu tiên chứ không xảy ra ở đêm thứ hai.
+Cá heo là một trong những loài động vật có thể mở một mắt khi ngủThí nghiệm này cho thấy môi trường có tác động đến giấc ngủ như thế nào.
+ Điều này cũng xảy ra tương tự đối với các loài động vật.
+ Năm 1999, Niels Rattenborg từ Viện Max Planck đã phát hiện ra rằng những chú vịt ngủ ở rìa của bầy vịt cũng không có giấc ngủ sâu như những con vịt nằm an toàn bên trong.
+ “Trong trường hợp này, những chú vịt ngủ trở thành những chú vịt ngồi” – ông cho biết thêm.
+ Hải cẩu cũng làm điều tương tự, trên mặt đất, chúng ngủ theo cách thông thương nhưng trên biển, chúng chỉ nằm ngủ một phía với đôi mắt mở nhìn xuống, có thể là để canh chừng cá mậpThật thú vị khi thấy rằng các nhà nghiên cứu đã tìm thấy điều tương tự ở bộ não con người.
+ Chúng ta có cơ sở để dự đoán rằng, đối với những loài vịt và hải cẩu, đây là một phản ứng thích nghi đem tới sự bảo vệ trong một môi trường mới, khi chúng có rất ít thông tin về những mối nguy hiểm tiềng tang”Lino Nobili từ Bệnh viện Niguarda tại Milan cho biết những kết quả này trùng khớp với một “cái nhìn tương đối mới về giấc ngủ” – một quá trình chắp vá (Patchwork Process) hơn là một quá trình mà liên quan tới toàn bộ não bộ.
+ Những nghiên cứu mới đây cho thấy một số vùng có thể ngủ sâu hơn những vùng khác hoặc thấm chí là tỉnh dậy một cách tạm thời.
+ Điều này lý giải không chỉ lý giải Hiệu ứng Đêm đầu tiên mà còn những hiện tượng lạ kì khác như mộng du hoặc mất ngủ nghịch lý (paradoxical insomnia), một chứng khi con người có được giấc ngủ ngắn hơn so với khoảng thời gian thực chất họ bỏ ra để ngủ.
+Những hoài nghiTuy nhiên, còn rất nhiều hoài nghi đến từ các nhà khoa học phân tích giấc ngủ khác.
+ Luigi Degennaro từ Đại học Sapienza tại Rome lại cho rằng con số tình nguyện viên hay phương pháp nghiên cứu vẫn chưa hợp lý.
+ Ví dụ như thay vì tập trung vào các DMN, ông nói nhóm nghiên cứu nên tập trung xem xét tất cả các vùng não nơi các hoạt động của sóng chậm xuất hiện khác nhau giữa bán cầu não trái và bán cầu não phải, sau đó kiểm tra xem những hiện tượng này có phản ứng với DMN hay những mạng lưới khác không.
+ Ngoài ra, cần phải tính cả những yếu tố như tay thuận hay giới tính, những yếu tố có tác động tới các hoạt động của não bộ bất đối xứng.
+Cùng quan điểm với Luigi, Vladyslav Vyazovskiy từ Đại học Oxford cho rằng những yếu tố như nguồn ánh sáng hoặc âm thanh, môi trường và tư thế nằm của người được thí nghiệm cũng ảnh hưởng tới thí nghiệmNhững hạn chế của thí nghiệmTuy nhiên Sasaki không nghĩ rằng những yếu tố này lại quan trọng đến mức đó.
+ Trong thí nghiệm tiếp theo, những người tình nguyện sử dụng nút bịt tai, nên sẽ không nghe thấy bất cứ âm thanh nào từ bên ngoài.
+ Ngay cả trong trường hợp này, những hoạt động não bất đối xứng vẫn chỉ xảy ra vào ban đêm, trong khi những yếu tố như tay thuận hay giới tính vẫn không thay đổiTuy vậy, việc hạn chế về số lượng đối tượng thí nghiệm cũng là nhược điểm, nó cho thấy những kĩ thuật quét não yêu cầu một ngân sách khá đắt đỏ và có thể là yếu tố không thể cải thiện được.
+ Để xác nhận giả thuyết về hiện tượng này, Sasaki muốn sử dụng những luồng điện yếu (weak electric currents) để vô hiệu hóa mạng lưới DMN ở bán cầu não trái, xem liệu những người tham gia thí nghiệm có dễ chìm vào trong giấc ngủ ở một môi trường lạ không.
+ Nếu điều này đúng thì nó ủng hộ giả thuyết của bà về việc vùng này chịu trách nhiệm cho Hiệu ứng đêm đầu tiênMặc dù vậy nó vẫn không giúp người tham gia thí nghiệm ngủ ngon hơn.
+ Sasaki đã cố gắng chỉ ở một khách sạn khi bà đi công tác hoặc du lịch.
+ “Ngay mai tôi sẽ bay tới Anh và ở tại khách sạn Marriott”, bà cho biết “Nó phải là một môi trường mới hoàn toàn, vì vậy bộ não của tôi cũng sẽ thoải mái hơn chút”Source : The AtlanticAnh DangNgoài ra các bạn có thể khám phá thêm về hiện tượng này qua video của HowStuffWorks
+
+Tác giả: DigitalMonk

@@ -1,0 +1,78 @@
+Khái quát về lịch sử ngành Thiên văn
+2Bài viết có tham khảo thông tin, kiến thức trong Wikipedia và một số cuốn sách như Lược sử thời gian, Vũ trụ,.
+.
+.
+ Những ai đã đọc qua Lược sử thời gian hẳn sẽ thấy quen quen bởi vì có một vài đoạn mình bê ra cho chuẩn kiến thức.
+ Thông cảm nhá.
+ Cảm ơn.
+Từ rất xa xưa, khoảng năm 340 trước Công nguyên, nhà triết học Hy Lạp Aristotle đã đưa ra hai luận chứng sáng giá chứng minh rằng Trái Đất có hình cầu chứ không phải là một cái dĩa phẳng.
+ Thứ nhất, ông thấy rằng hiện tượng nguyệt thực là do Trái Đất xem vào giữa Mặt Trời và Mặt Trăng.
+ Mà bóng của Trái Đất lên Mặt Trăng luôn luôn là hình tròn, điều này chỉ đúng khi Trái Đất có dạng hình cầu.
+ Nếu Trái Đất là một cái dĩa phẳng thì bóng của nó phải dẹt như hình elip, nếu trong thời gian Nguyệt Thực Mặt Trời không luôn luôn ngay dưới tâm của cái dĩa đó.
+ Thứ hai, từ những chuyến du hành của mình, người Hy Lạp biết rằng sao Bắc Đẩu nhìn ở phương Nam dường như thấp hơn khi nhìn ở những vùng ở phương Bắc! (Bởi vì sao Bắc đẩu nằm ngay sát ở Bắc cực, trong khi đó đối với người quan sát ở xích đạo, nó dường như nằm ngay trên đường chân trời).
+Aristotle nghĩ rằng Trái Đất đứng yên còn Mặt Trời, Mặt trăng, các hành tinh và những ngôi sao chuyển động xung quanh nó theo những quỹ đạo tròn.
+ Ông tin vào điều đó bởi vì ông cảm thấy - do những nguyên nhân bí ẩn nào đó - rằng Trái Đất là trung tâm của vũ trụ, rằng chuyển động tròn là chuyển động hoàn thiện nhất.
+ Ý tưởng này được Ptolemy phát triển thành một mô hình vũ trụ hoàn chỉnh vào thế kỉ thứ hai sau Công nguyên.
+ Theo mô hình này thì Trái Đất đứng ở tâm và bao quanh nó là 8 mặt cầu tương ứng mang Mặt Trăng, Mặt Trời các ngôi sao và năm hành tinh đã biết vào thời gian đó: Thủy tinh, Kim tinh, Hỏa tinh, Mộc tinh và Thổ tinh.
+ Chính các hành tinh lại chuyển động trên những vòng tròn nhỏ hơn gắn với các mặt cầu tương ứng.
+ Mặt cầu ngoài cùng mang những thiên thể được gọi là các ngôi sao cố định, chúng luôn ở những vị trí cố định đối với nhau, nhưng lại cùng nhau quay ngang qua bầu trời.
+ Bên ngoài mặt cầu cuối cùng đó là gì thì mô hình đó không bao giờ nói một cách rõ ràng, nhưng chắc chắn nó cho rằng đó là phần của vũ trụ mà con người không thể quan sát được.
+ Mô hình này đã được nhà thờ Thiên Chúa giáo chuẩn ý như một bức tranh về vũ trụ phù hợp với kinh thánh, bởi vì nó có một ưu điểm lớn là để dành khá nhiều chỗ ở ngoài mặt cầu cuối cùng của các ngôi sao cố định cho thiên đường và địa ngục.
+ (Đọc tới đây các mem thi toán THCS có bất ngờ không? Ptolemy là người có định lý mang tên ông trong tứ giác nội tiếp ấy, một người phát minh ra định luật hay như thế lại chính là người đã khiến nhân loại chìm trong ngu muội về thiên văn trong hơn 1000 năm sau đấy).
+Đến năm 1554, một mục sư tên là Nicholas Copernicus đã đưa ra một mô hình đơn giản hơn.
+ Ý tưởng của ông là Mặt trời đứng yên còn Trái đất và các hành tinh chuyển động theo quỹ đạo tròn xung quanh Mặt Trời.
+ Sau đó hai nhà thiên văn - một người Đức tên là Johannes Kepler và một người Italia là Galileo Galilei đã công khai ủng hộ học thuyết của Copernicus, mặc dù quỹ đạo chưa ăn khớp với các quan sát thực tế.
+ Năm 1609, bằng việc quan sát vũ trụ bằng chiếc kính thiên văn do ông phát minh ra, Galileo đã quan sát thấy các vệ tinh quay xung quanh Mộc tinh, điều đó có nghĩa là các thiên thể không nhất thiết phải quay xung quanh Trái Đất như Aristotle và Ptolemy đã nghĩ.
+ Đến thời của Kepler, sau khi phát hiện các quỹ đạo hình elip rất ăn khớp với các quan sát thực tế của Tycho Brahe, ông đã phát minh ra 3 định luật mang tên ông giải thích về hệ quả của chuyển động hình elip của các hành tinh quanh mặt trời.
+1.
+ Các hành tinh chuyển động quanh Mặt trời theo các quỹ đạo hình elip với Mặt trời nằm ở vị trí một trong hai tiêu điểm.
+2.
+ Đường nối một hành tinh với Mặt trời quét được những diễn tích bằng nhau trong những khoảng thời gian bằng nhau.
+3.
+ Bình phương chu kì quỹ đạo của một hành tinh tỉ lệ với lập phương khoảng cách trung bình từ hành tinh đó đến Mặt trời.
+  Mặc dù các định luật ấy đúng nhưng ông không sao dung hòa được với ý tưởng của ông cho rằng các hành tinh chuyển động được là bởi các lực từ.
+ Điều này mãi tới năm 1687 mới giải thích được, khi Isaac Newton công bố tác phẩm "Những nguyên lý toán học của Triết học tự nhiên" của ông.
+ Newton đã đưa ra một định luật về hấp dẫn vũ trụ được gọi là định luật "Vạn vật hấp dẫn" mà theo đó mỗi một vật trong vũ trụ đều được hút tới một vật khác bằng một lực càng mạnh nếu hai vật càng nặng và càng gần nhau.
+ Lực hút giữa hai hành tinh theo định luật tỉ lệ thuẩn với tích khối lượng của chúng và tỉ lệ nghịch với bình phương khảng cách giữa chúng.
+ Chính các lực này đã khiến các vật phải rơi xuống đất (Câu chuyện kể rằng do có quá táo rơi trúng đầu chắc chắn chỉ là một câu chuyện thêu dệt).
+ Newton đã chỉ ra rằng theo định luật của ông, lực hấp dẫn sẽ làm cho Mặt Trăng chuyển động elip quanh Trái Đất cũng như các hành tinh chuyển động với quỹ đạo elip quanh Mặt trời.
+Căn cứ vào lý thuyết hấp dẫn của Newton ta có thể thấy rằng các ngôi sao luôn hút nhau nên chúng không thể đứng yên một chỗ được.
+ Vậy liệu chúng có thể rơi vào nhau hay không? Đây là một câu hỏi rất khó trả lời và nó cũng phần nào thể hiện được bầu không khí tư tưởng chung của giai đoạn trước TK XX.
+ Thậm chí những người cho rằng thuyết hấp dẫn của Newton chứng tỏ vũ trụ không thể là tĩnh thì cũng không nghĩ tới chuyện cho rằng nó có thể đang giãn nở.
+ Thay vì thế họ cải biến lý thuyết này bằng cách làm cho lực hấp dẫn trở thành lực đẩy ở những khoảng cách rất lớn.
+ Hiểu nôm na là nếu 2 hành tinh càng gần nhau thì sẽ xuất hiện lực hút còn nếu chúng ở tít xa nhau thì xuất hiện lực đẩy.
+ Như vậy thì vũ trụ mới "tĩnh".
+ Khi mà số đông lúc bấy giờ vẫn tin vũ trụ là tĩnh thì vào năm 1929, Edwin Hubble đã thực hiện một quan sát mang tính cách mạng.
+ Đó là dù bạn nhìn ở đâu thì những thiên hà xa xôi cũng đang chuyển động rất nhanh ra xa chúng ta.
+ Nói một cách khác, vũ trụ đang dãn nở.
+ Từ đó ta có thể suy ngược lại là ngày trước các thiên hà đã ở gần nhau hơn hiện tại.
+ Những quan sát ấy của Hubble gợi ý rằng từng có một thời điểm, được gọi là Vụ nổ lớn (Big Bang), tại đó vô cùng nhỏ và vô cùng đặc (mật độ vô hạn).
+ Cũng bởi vì các nhà toán học không thể nào thao tác với các số vô hạn cho nên người ta gọi đó là một điểm kì dị.
+ Tức là điểm mà tất cả các định luật Vật lý được biết từ trước tới giờ đều bị phá vở trong đó.
+ Lỗ đen cũng là một điểm kì dị.
+Từ giả thiết rằng Vũ trụ có điểm bắt đầu ta dễ dàng đặt một câu hỏi rằng Liệu trước Vụ nổ lớn là cái gì?.
+ Liệu ta có thể biết được các sự kiện đó hay không? Câu trả lời là không.
+ Bởi vì tại điểm kì dị Big Bang toàn bộ không gian và thời gian đều bị uốn cong (thuyết tương đối rộng) vô cùng.
+ Tức là thời gian là bắt đầu từ Vụ nổ lớn.
+ Cho dù trước đó có sự kiện gì đi chằng nữa thì thời gian của các sự kiện đó không tồn tại cho nên ta cũng sẽ không biết được điều gì trước Vụ nổ lớn.
+ Vậy nên khoa học cho rằng thời điểm Vụ nổ lớn là mốc 0 của thời gian.
+Các nhà thiên văn học hiện nay đang vất vả đi tìm một lý thuyết tối hậu mô tả chính xác về vũ trụ về mọi mặt.
+ Gọi là lý thuyết tối hậu nhưng việc đạt được nó vẫn không thú vị bằng cố gắng thay đổi từng ngày để hoàn thiện hiểu biết hơn các bạn nhỉ? Mục đích của Thiên văn học không gì khác hơn là mô tả chính xác về thế giới mà ta đang sống trong đó - Vũ Trụ.
+ Trên đây mà phần mình khái quát về Thiên Văn học từ Công nguyên đến khoảng sau thế kỉ XX.
+ Mình sẽ dành một bài giải thích về quan niệm về Không gian và Thời gian cũng như việc hình thành Thuyết Tương đối Đặc biệt và Thuyết Tương đối Tổng quát hay còn gọi là thuyết Tương đối Hẹp và Rộng.
+ Sẽ hack não báy luôn đấy.
+ Ngay khi Einstein công bố thuyết tương đối hẹp thì người Nhật đã rất sốt sắng tiếp thu, đưa vào chương trình học và đã xuất bản hơn 10 TRIỆU cuốn sách.
+ (100 năm trước).
+ Không chỉ có thế nó còn được đưa vào các chương trình hoạt hình, giáo dục cho trẻ em.
+ Việc nước ta bị chậm hơn 100 năm đã khiến cho nhiều người còn hiểu biết chưa đúng về thế giới.
+ Chưa kể việc nghe nói thì hàng tá người vẫn không viết thiên văn là gì, thuyết tương đối là gì, vũ trụ là gì,.
+.
+.
+ vân vân và vân vân.
+ Cho nên Tuân muốn góp một chút kiến thức để mọi người hiểu biết hơn từng ngày và cũng để thắp sáng nên ngọn lửa đam mê cho các em nhỏ sau này.
+ (Quy mô quá hơ, hì hì, thôi kệ vậy)Lê Nguyên Tuân- lớp 10- fb https://www.
+facebook.
+com/nguyentuan.
+698741253
+
+Tác giả: Nguyên Tuân

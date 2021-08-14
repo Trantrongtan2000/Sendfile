@@ -1,0 +1,104 @@
+TỪ VÔ HẠN ĐẾN SỰ HÌNH THÀNH CÁC VŨ TRỤ SONG SONG (P2)
+Cantor -  Người chế ngự vô hạn        Những khúc mắc của GalileiCũng vào thế kỷ 17, nhà vật lý, toán học và thiên văn học Galileo Galilei quan tâm rất nhiều đến vô hạn.
+ Galilei là người ủng hộ cho Copernicus về thuyết vũ trụ nhật tâm thay vì vũ trụ địa tâm như suy nghĩ bấy giờ với cuốn sách: "Đối thoại về các hệ thống lớn trên thế giới", cho rằng những kẻ tin rằng trái đất là trung tâm của vũ trụ, rặt một lũ ngốc.
+ Đó là sự phỉ báng và sỉ nhục vô cùng lớn đối với giáo hội, khiến ông phải ra hầu tòa.
+ Sau ấy, chúng ta cũng đã biết chuyện gì xảy ra: ông bước ra khỏi tòa án và không kìm nổi cảm xúc của mình, "Dù sao trái đất vẫn quay".
+ Những câu nói ấy khiến ông bị buộc quản thúc tại nhà đến hết đời.
+ Trong giai đoạn đó, Galilei viết cuốn "Hai khoa học mới", đưa ra một số bí ẩn của vô hạn.
+Galilei đối mặt với tòa án dị giáoTrong cuốn sách, Salviati và Simplicio đang nói chuyện về vô hạn.
+ Cuộc đối thoại như sau: xét dãy số dương 1, 2, 3,.
+.
+.
+ Đây là một dãy số vô hạn.
+ Bây giờ xét một dãy mới bằng cách bình phương từng phần tử trong dãy vừa cho: 1, 4, 9,.
+.
+ Một lần nữa, dãy mới tạo này cũng là vô hạn, vì nó được tạo ra từ dãy số vô hạn ban đầu với tỉ lệ 1-1.
+ Như vậy, tồn tại mối quan hệ 1-1, hay trong toán học, tồn tại một song ánh từ tập N là số tự nhiên, tới tập K là số chính phương, từ x đến x bình phương.
+ Do quan hệ 1-1, hai tập này phải có cùng số phần tử.
+ Nhưng ngay lập tức, ta thấy nghịch lý ở đây: rõ ràng tập số tự nhiên phải lớp hơn tập số chính phương, vì nó chứa cả số chính phương và số không phải chính phương (ví dụ 2, 3, 5, 6, .
+.
+.
+).
+ Vậy là Galilei đã phát hiện một tính chất kỳ lạ: với vô hạn, một phần cũng nhiều bằng toàn phần.
+ Đến đây, hệ tiên đề của Euclid bắt đầu lung lay, vì trong cuốn "Cơ sở của hình học", Euclid đã đưa ra nhận xét lấy làm tiên đề cho mọi chứng minh sau đó: "Toàn phần bao giờ cũng lớn hơn một phần".
+ Galilei cũng không giải thích nghịch lý này, mà chỉ đưa ra nhận xét rằng "Đối với những đại lượng vô hạn thì không thể nói đại lượng này lớn hơn hay nhỏ hơn đại lượng kia.
+"        Vứt bỏ các khái niệm về toàn thể - bộ phậnCứ như thế, vô hạn là đề tài cấm kị thời bấy giờ, vậy mà, vẫn có những kẻ dấn thân vào nghiên cứu vô hạn, một trong số đó là Bernhard Bolzano- nhà triết gia và toán học người Séc.
+ Với những suy nghĩ đột phá của mình, Bolzano quyết định lấp đầy chiếc hố ngăn cách vô hạn hiện thực và vô hạn tiềm tàng bằng cách coi các tập vô hạn như là những chính thể trọn vẹn chứ không phải là các dãy liên tiếp của những cái không hữu hạn, và ông cũng ôm ấp hy vọng có thể định lượng được vô hạn giống với các đại lượng hữu hạn.
+BolzanoÔng chỉ ra điểm sai của Galilei là do cố tính áp đặt cho vô hạn những thuộc tính chỉ áp dụng cho hữu hạn.
+ Nếu chúng ta xem xét lại những khái niệm "toàn thể" và "bộ phận", "được chứa trong" và "có kích cỡ nhỏ hơn", mọi chuyện có thể sẽ thỏa đáng.
+ Ví dụ, các số chính phương A được chứa trong các số tự nhiên N, không có nghĩa kích thước tập A nhỏ hơn tập N.
+ Ông xét một ví dụ thế này : Ví dụ của BolzanoVẽ một nửa đường tròn, và một đường thẳng a dài vô hạn song song với đường kính của nửa đường tròn đó.
+ Từ tâm O  của nửa đường tròn, kẻ một đường bất kì xuống đường thẳng  a, ta đều phải đi qua cung của nửa đường tròn.
+ Nghĩa là, mỗi đường thẳng ta kẻ từ O xuống đường thẳng a đều xác định một cặp điểm, 1 thuộc đường tròn- 1 thuộc đường thẳng a.
+ Như vậy số điểm trên nửa đường tròn bằng số điểm của đường thẳng vô hạn, chính là vô hạn điểm.
+ Như vậy, không kể bán kính của đường tròn là bao nhiêu, số điểm của đường tròn vẫn bằng số điểm của đường thẳng, và tất cả đường tròn đều tạo bởi vô hạn điểm bằng nhau.
+ Do đó ông đánh giá tất cả vô hạn đều bằng nhau, không cái nào nhỏ hơn cái nào.
+Suy luận của Bolzano nghe thì rất hợp lý, nhưng rốt cục thì vẫn tạo ra những nghịch lý mới.
+  Đây chính là kết cục của kẻ dám đương đầu với vô hạn.
+        Những quan điểm mới của Cantor Cantor sinh ra trong một gia đình trung lưu người Do Thái nhập cư vào Đức từ Nga.
+ Ông được học trường trung học tư ở Frankfurt và đã sớm thể hiện niềm đam mê và tài năng thần đồng đối với toán học.
+ Sau đó, Cantor học trường bách khoa Zurich rồi chuyển tới đại học Berlin.
+ Tại đây, ông đã gặp Weierstrass, cha đẻ của giải tích hiện đại.
+Cantor năm 25 tuổi và trước khi mất vài nămBị hấp dẫn bởi những bài nghiên cứu chặt chẽ và chính xác về Giải tích của Weierstrass, Cantor viết một loạt bài báo về biểu diễn hàm số bằng các chuổi lượng giác.
+ Chính những bài báo này vô tình đã hướng Cantor tới những tập hợp các điểm trên đường thẳng số.
+ Ông nhanh chóng nhận ra rằng chủ đề này phức tạp hơn ông tưởng, từ đó ông bắt đầu để hết tâm trí nghiên cứu các tập hợp, nhất là những tâp hợp vô hạn.
+Sửa lỗi cho BolzanoCũng như Bolzano, Cantor đã có ý định mãnh liệt nhắm tống cái vô hạn tiềm tàng vào quên lãng và xác lập vô hạn hiện thực.
+ Tất cả các công trình của nhà toán học này về vô hạn, xét cho cũng cũng đều dựa trên các khái niệm đơn giản không ngờ.
+Một tập hợp không gì khác chỉ là một bộ sưu tập các đối tượng giống bộ sưu tập tem mà theo Cantor, "Tập hợp được tạo nên bởi vật thể phân biệt mà trực giác hoặc trí tưởng tượng chúng ta có thể hình dung ra.
+" Và từ đó, đối với các tập hữu hạn, ta có thể chắc chắn tuyệt đối rằng hai tập hợp bằng nhau (tức có chung số lượng phần tử), khi ta có thể gắn mỗi phần tử của tập hợp này với tập hợp kia.
+ Từ đây, ta có khái niệm mới: tập hợp đếm được.
+ Tập hợp {1,2,3,4} là tập đếm được, tập {a,b,c} là đếm được, vì ta có thể gán a với 1, b với 2, c với 3.
+ Tập {1,2,3,4,.
+.
+.
+.
+} là đếm được, vì mặc dù có vô hạn phần tử, ta cũng có thể chỉ ra cách đếm.
+ Mở rộng ra, tập hợp S được gọi là đếm được (countable) nếu nó hữu hạn hoặc nếu có một song ánh (một quan hệ 1-1) từ tập hợp các số tự nhiên N đến S.
+ Ngược lại, tập không đếm được là những tập không phải là tập đếm được.
+ Tập chỉ thời gian là tập không đếm được, ta không thể đếm theo kiểu 1 giờ, 2 giờ, vì vốn dĩ thời gian không phải là tổng của các khoảnh khắc mà là liên tục (như đã đề cập ở nghịch lý 3 Zenon).
+ Tập độ dài đoạn thẳng là tập không đếm được, vì ta không thể xác định được song ánh từ N vào tập này.
+ Trên cơ sở đó, ông cũng chứng minh được tập số nguyên Z là tập đếm được nhờ một song ánh vào N, đồng thời Cantor cũng chứng minh được tập số hữu tỷ Q là đếm được nhờ "phương pháp đường chéo", một phương pháp vô cùng thông minh.
+ Và cũng theo chứng minh của Cantor, tập số thực R là tập không đếm được, vô hạn của R là vô cùng lớn những vô hạn đếm được và R lớn hơn Q rất rất nhiều.
+ Có người nói, nếu số hữu tỉ là hàng vạn ngôi sao, thì số vô tỉ chính là bóng đêm chứa hàng vạn ngôi sao đó.
+ Và điều ấy cho thấy các vô hạn thực chất không hề bằng nhau, và kết luận của Bolzano ở trên đã sai mất rồi!Số điểm tạo nên mọi không gian đều bằng nhau Nghe thì có vẻ vô lý.
+ Không gian 2 chiều gồm dài và rộng, mà số điểm trên mặt phẳng 2 chiều đó lại bằng số điểm trên đường thẳng 1 chiều.
+ Theo cảm tính thông thường, đường thẳng chứa vô số điểm, mà mặt phẳng lại chứa vô số đường thẳng, nên không thể có chuyện vô hạn điểm của đường thẳng bằng vô hạn điểm của mặt phẳng được.
+ Nhưng Cantor đã chứng minh điều đó xảy ra.
+ Ở đây, ông phải viện đến René Descartes, với công trình là hệ tọa độ Descartes cho phép tạo ra mối liên hệ giữa các số và các điểm.
+Cantor xét một tia số và một hệ tọa độ Descartes.
+ Descartes cho ta biết vị trí của mỗi điểm trên mặt phẳng có thể được xác định bởi cặp số (x,y), chẳng hạn (0.
+ 1463, 0.
+5718).
+  Ở đây, ông tạo một tương ứng 1-1 giữa cặp số (x,y) với số k trên tia số bằng cách viết xen kẽ các số của x và y, ví dụ với cặp (x,y) như trên ta có số k là 0.
+15476138.
+ Do đó, cặp (x,y) sẽ gắn với số k, Cantor đã có thể chứng minh rằng mỗi điểm trên mặt phẳng tương ứng với một điểm trên đường thẳng, và do đó, theo định nghĩa ban đầu về hai tập bằng nhau, ta rút ra: số điểm trong mặt phẳng bằng số điểm trên đường thẳng.
+Cũng tương tự với cách chứng minh đó, ông chứng minh được mọi không gian đều chứa số điểm bằng nhau!Một hệ thứ bậc của vô hạn - Giả thuyết continuumCantor không dừng lại ở đó.
+ Khi đã chứng được sự tồn tại của các vô hạn không đếm được, ông tiến tới xác lập một trật tự của vô hạn, hay một hệ thứ bậc.
+ Ở đây, Cantor đã dùng đến lý thuyết tập hợp.
+Ông cho rằng có thể tạo ra một tập hợp X lớn hơn tập A đã cho bằng cách tạo ra tập hợp X chứa tập các tập con của A.
+ Ví dụ tập A có 3 phần tử {1,3,5}, thì tập hợp X các tập con của nó gồm {{∅},{1},{3},{5},{1,3},{1,5},{3,5},{1,3,5}}, có 8 phần tử.
+ Bằng phương pháp tổ hợp kết hợp công thức nhị thức Newton, Cantor đã chứng minh được tập các tập con của một tập có N phần tử, bất kể vô hạn hay không, luôn có số phần tử lớn hơn và bằng 2^N.
+Tập số nguyên có kích cỡ vô hạn.
+ Cantor gán cho vô hạn đó có kí hiệu Aleph 0 (ℵ0), hay cấp thứ nhất của vô hạn.
+ Dựa trên những chứng minh trên, Cantor đã xây dựng được thứ bậc của vô hạn, bằng cách tạo một tập các tập con của số nguyên, có kích thước ℵ1= 2^ℵ0.
+.
+.
+ Cứ như thế, ta có hệ các thứ bậc từ 0, 1, 2,.
+.
+đến vô hạn tuyệt đối.
+ Hệ thứ bậc này cũng là vô hạn.
+Nhưng đến đây, một câu hỏi khác nảy ra: thống kê các tập vô hạn bằng các tập con liệu có quét hết đầy đủ mọi loại vô hạn, hay còn những thể loại vô hạn khác ẩn nấp đâu đó mà phương pháp tập con chưa thể liệt kê ra hết, có một vô hạn nào đó có thể kẹt giữa hai thứ bậc liên tiếp của vô hạn đã xác lập trên không? Có tập vô hạn nào nằm giữa vô hạn ℵ0 và ℵ1= 2^ℵ0 hay không?Và nhà toán học của chúng ta phải dừng chân tại đây, khi mọi cố gắng để tìm, chứng minh rằng có, hoặc không có tập hợp nào như thế đều không có kết quả.
+ Ông miễn cưỡng phát biểu rằng không có tập hợp nào như thế.
+ Nhưng theo logic toán của chúng ta, không tìm được, không có nghĩa là không có.
+ Và chỉ khi nào chứng minh được là không có, thì mới là không có.
+ Người ta gọi giả thuyết của Cantor là giả thuyết Continuum.
+David Hilbert, tác giả của nghịch lý Đại khách sạn, cho rằng Giả thuyết Continuum là vấn đề chưa có lời giải quan trọng nhất trong toán học.
+Đến thế kỉ 20, có những bước tiến vô cùng mới về giả thuyết này.
+ Kurt Godel đã chỉ ra rằng chúng ta không thể chứng minh được giả thuyết Continuum là sai.
+ Paul Cohen lại nói rằng chúng ta không thể chứng minh được giả thuyết Continuum là đúng.
+ Lần đầu, có một câu hỏi không lời giải trong toán học.
+ Ta đều biết Toán học được coi là đỉnh cao lý luận của con người, vậy mà ngay cả toán học cũng có giới hạn của nó.
+ Từ đây, giới hạn tư duy con người bắt đầu được nghiên cứu, Godel là người đi đầu cùng định lý bất toàn và các hệ quả mang tính triết học của nó.
+
+
+Tác giả: Elsfor

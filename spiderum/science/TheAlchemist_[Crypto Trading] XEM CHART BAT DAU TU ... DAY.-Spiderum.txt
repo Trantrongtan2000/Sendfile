@@ -1,0 +1,108 @@
+[Crypto Trading] XEM CHART? BẮT ĐẦU TỪ ... ĐÂY.
+ Chắc câu chuyện của bạn với Bitcoin nó diễn ra kiểu kiểu như thế này.
+Cuộc sống năm ngoái đang hết sức bình thường thì đùng một cái bạn nghe truyền thông um hết lên là đồng “tiền ảo” Bitcoin có giá 2000 đô.
+ Hơi giật mình một chút vì bạn nhớ lần gần nhất bạn nghe nói về nó là lúc nó thoi thóp sắp “chết", nhưng rồi bạn cũng trấn tĩnh lại tiếp tục công việc thường ngày.
+ Đùng cái thứ hai, bạn ngồi cafe chém gió với thằng bạn lâu năm ko gặp thì biết nó vừa mua con xe bốn bánh kia nhờ Bitcoin.
+ Giá Bitcoin lúc này 4000.
+Vừa cảm thấy hơi gợn 1 chút, thì bạn gái của bạn cũng nhắn tin rằng là “ông đồng nghiệp cùng công ty mua Bitcoin lúc 2000 giờ 5000 rồi kìa anh”.
+Đm.
+ Thế là bạn lên mạng tìm đọc về Bitcoin với cả Blockchain.
+ Ù ù cạc cạc một thời gian.
+ Vừa vỡ ra được rằng Bitcoin, Blockchain, ETH, ICOs, etc.
+ là một phần công nghệ tiềm năng trong tương lai, thì giá phi cmn lên 7000.
+ Sốt ruột quá.
+ Lúc này thì người người nhà nhà nói chuyện Bitcoin rồi.
+OK.
+ Bạn hạ quyết tâm bỏ khoảng 20 triệu đầu tư thử.
+ Chưa kịp mua thì đcm bạn nhìn thấy cái chart nến giá Bitcoin trên tradingview lần đầu tiên.
+ Bạn choáng cmnl.
+Ngẫm mà xem.
+ Cái cảm giác lần đầu tiên bạn nhìn vào biểu đồ giá.
+ Xanh xanh đỏ đỏ.
+ Đường vàng đường tím.
+ Cột nọ cột kia.
+ Vẽ hươu vẽ vượn.
+ Ko hiểu gì.
+ Chóng mặt vđ ạ.
+Bạn toát mồ hôi và nghĩ.
+ “Đis.
+ Ko biết cái trò này có dành cho mình" “Hay là thôi cứ mua rồi hold là đc rồi"Nhưng rồi bạn nghe nói thằng Diệu người yêu con Vi nó “trade" để có nhiều Bitcoin hơn, để “tới được mặt trăng", để x10 x100, để “lambo", để  bỏ việc sống tự do bên bờ biển cát trắng nắng vàng.
+Bạn tự nhủ “Fuck this shit.
+ Tao sẽ trade.
+ Tao sẽ tới được mặt trăng.
+ Tao sẽ có gấu"OK Bro.
+Nhưng để làm được điều đó, bạn phải học Phân tích kỹ thuật là gì? và đọc chart chính là bước đầu tiên.
+Nào! Hãy cùng nhau đi những bước đầu tiên tới mặt trăng nào.
+Mà trước hết lắng nghe John Murphy nói về chart (biểu đồ) trong cuốn Technical Analysis of Financial Markets cái đã:Nên nhớ rằng biểu đồ chỉ là nơi ghi các dữ liệu.
+ Chính bản thân nó có giá trị rất nhỏ, tương tự như một cái bút lông và tấm vải bạt, chúng không có giá trị gì cả.
+ Tuy nhiên, ở trong tay của một nghệ sĩ tài ba, họ có thể sử dụng chúng để vẽ nên một bức tranh đẹp.
+ Có lẽ một hình ảnh so sánh tốt hơn nữa là con dao mổ.
+ Trong tay một bác sĩ phẫu thuật có tài, nó có thể cứu giúp mạng sống của con người.
+ Tuy nhiên, nếu con dao đó rơi vào tay chúng ta, thì nó sẽ chẳng có tác dụng gì thậm chí là còn có thể gây nguy hiểm.
+ Một biểu đồ có thể trở thành công cụ vô cùng hữu ích trong việc dự báo thị trường khi mà các quy tắc được nắm chắc.
+Thật ra thì cái chart cũng không quá phức tạp.
+ Trục tung (y) biểu thị giá, trục hoành (x) biểu thị thời gian.
+ Biểu đồ được biểu thị theo trục thời gian từ trái sang phải, dữ liệu của thời điểm sau sẽ nằm bên phải dữ liệu của thời điểm trước.
+Các bạn có để ý là tôi đã cố tình để một khoảng trống nhỏ giữa biểu đồ giá và trục tung (y) bên phải không? Cái này là một trick để giúp người phân tích có thể mường tượng thấy xu hướng biến động tiếp theo của giá.
+ Nó được gọi là “Blank Bars” hay “Extra Bars”.
+ Giờ hãy nhìn vào biểu đồ dưới đây, nó không có phần “Blank Bars” hay “Extra Bars”.
+Nom bí dì dị nhỉ.
+ Cảm giác như phân tích đóng cm vào hòm, không lối thoát.
+ Thế nên là khi phân tích để một khoảng trống nhỏ ra nhé các bạn.
+Chỉ có 2 dạng chia tỉ lệ thang trên biểu đồ giá đó là bán lô-ga-rít và biểu đồ tỉ lệ số học.
+ Khi sử dụng một biểu đồ tỉ lệ số học, bạn đang hình dung về giá theo định dạng tuyến tính.
+ Đây là cách nhìn theo kiểu truyền thống, đại loại như kiểu thời gian và nhiệt độ.
+ Trong trường hợp tuyến tính chúng ta đề cập đến việc biểu thị sự thay đổi giá tuyệt đối bằng số học.
+ Vì vậy, với khoảng cách từ $6 đến $12, mặc dù ở đây sự thay đổi là 100%, nhưng khi biểu thị trên biểu đồ thì nó cũng là y hệt so với khoảng cách từ $50 đến $56, tương đương với mức thay đổi là hơn 10%.
+Biểu đồ bán lô-ga-rít thì biểu thị lô-ga-rít trên trục y, do vậy đôi khi nó còn được gọi là “Biểu đồ tỷ lệ”.
+ Khoảng cách giữa $5 và $10 sẽ giống với khoảng cách giữa $50 và $100 do mức thay đổi đều là 100%.
+Biểu đồ tỉ lệ Lô-ga-rítHãy để ý vào phần giá trên trục y, với giá trị giá cần gần về phía đầu trục thì khoảng cách sẽ xa hơn so với giá gần về phía đỉnh trục.
+ Điều này là do thang đo lô ga rít biểu thị sự thay đổi về phần trăm.
+Biểu đồ số họcBiểu đồ dưới đây cũng chính là biểu đồ $BTCUSD theo tuần ở trên, nhưng sử dụng thang đo số học, hay còn gọi là tuyến tính.
+ Rất khó có thể nhìn thấy sự thay đổi về giá trong thời gian 2013 –  đầu 2017.
+ Nhưng đối với thang đo lô ga rít, bạn có thể nhìn thấy rõ ràng những gì diễn ra trong thời gian đó.
+ Vấn đề đối với biểu đồ tuyến tính là do sử dụng thang đo số học nên nó đã phóng đại một cách không chính xác các giá trị nằm về phía đỉnh trục, và biểu thị không rõ ràng những giá trị nằm về phía đầu trục.
+Trông khó phân tích hơn hẳn nhỉ?Arithmetic vs Logarithmic - Dùng cái nào thì ngon hơn?Hỏi như thế này thì không khác gì so sánh vang trắng với vang đỏ cái nào ngon hơn cả.
+ Mỗi cái phục vụ cho một mục đích khác nhau và tuỳ vào sở thích của mỗi một người phân tích.
+ NHƯNGTôi luôn sử dụng biểu đồ lô-ga-rít một cách mặc định.
+ Tôi luôn xem biểu đồ lô-ga-rít trước tiên, đặc biệt là trong thị trường crypto này.
+Vì sao ư? Biểu đồ Lô-ga-rít rất thích hợp để xem giá loại tài sản có biên độ giao động rất lớn (Bitcoin right?) trong một khoảng thời gian dài.
+ Alan Shaw (co-founder của CMT Association) và rất nhiều trader huyền thoại của Wall Street cho rằng Log-chart là vô cùng quan trọng trong việc đưa ra nhận định về trung hạn và dài hạn.
+ Nó giúp người phân tích đưa ra các đường xu hướng thị trường chính xác hơn là sử dụng biểu đồ thang số học.
+Đấy bạn thử vẽ trend-line cho chart BTCUSD sử dụng số học ở trên xem có khó không.
+Alan Shaw cũng cho rằng biểu đồ Lô-ga-rít là vô dụng đối với daytrader (người giao dịch trong ngày).
+ Vì daytrader vào và ra kèo luôn trong ngày, họ chỉ cần có lãi ngay lập tức.
+ Lô-ga-rít không thực sự hữu dụng như thang số học trong ngắn hạn (ngày-giờ-phút).
+Peter L Brandt, một trader nổi tiếng thế giới, và cũng là một người khá ảnh hưởng trong crypto-trading gần đây, thì nói rằng ông chẳng mấy khi dùng lo-ga-rít vì ông ý là trader ngắn hạn.
+ Nhưng khi muốn phân tích trên khung thời gian dài hơn thì ông ý sẽ dùng Log.
+Hãy sử dụng nhiều khung thời gian.
+Có một nguyên tắc mà các traders nổi tiếng đồng ý với nhau đó là luôn kết hợp nhiều khung thời gian trong việc phân tích.
+ Đây là một phần của cách tiếp cận phân tích đi từ xa vào gần (top/down approach)i.
+ Đầu tiên, chúng ta bắt đầu với một cái nhìn dài hạn, và sau đó đi đến những khung thời gian ngắn hơn.
+ Việc này sẽ luôn bạn giữ được trong đầu bức tranh tổng quát của coin mà bạn đang phân tích.
+Việc đầu tiên tôi hay làm là xác định khoảng thời gian mà tôi muốn tập trung vào.
+ Tôi đang muốn lướt sóng trên các biểu đồ 30 phút hay 60 phút? Hay tôi đang muốn đầu tư dài hơi hơn chờ mặt trăng và đang dựa vào các biểu đồ theo ngày và tuần? Cá nhân tôi thì hay theo dõi theo tuần và tháng, vì vậy tôi sử dụng khung thời gian là theo ngày.
+ Nếu bạn là một daytrader, bạn vẫn có thể sử dụng biểu đồ hàng ngày, hàng tuần để có cái nhìn dài hạn về giá.
+Lang thang tìm hiểu chủ đề này, tôi nghĩ Brian Shannon, người nổi tiếng với việc áp dụng nhiều khung thời gian khác nhau vào phân tích, có chia sẻ khá thú vị.
+Thường thì Brian sử dụng tối thiểu 3 khung thời gian (trong ví dụ này là cho swing trade):Xác định cơ hội – dựa trên các biểu đồ dài hạn (200 ngày hoặc hơn) để có thể nắm bắt chắc được xu hướng tổng quan của thị trường lúc này.
+Đánh giá – xu hướng trung hạn (thông thường là 30 – 50 ngày sử dụng biểu đồ với khung thời gian 1-6 tiếng) để xác định rủi ro/cơ hộiTham gia (mua hoặc bán) – trên khung thời gian ngắn hơn (10 – 15 ngày sử dụng biểu đồ 30 phút hoặc ngắn hơn) để tinh chỉnh điểm mua vào của chúng taViệc sử dụng nhiều khung thời gian để phân tích nên được sử dụng bởi tất cả mọi người tham gia thị trường, bất kể bạn theo khung thời gian nào.
+ Tôi nghĩ Brian đã giải thích khái niệm này và ứng dụng nó một cách hoàn hảo.
+ Anh ấy sử dụng khoảng thời gian ngắn hơn tôi vẫn hay làm, nhưng chắc là sắp tới tôi sẽ thử sử dụng cách của anh ý nhiều hơn xem.
+Thành thực mà nói, PTKT không phải là một môn khoa học.
+ Nó không phải là 3+3=6.
+ Howard Lindzon gọi nó là “Nghệ thuật biểu đồ”.
+ Và tôi thấy thực sự đúng là như vậy, không có câu trả lời chắc chắn và dễ dàng nào trong phân tích chart hết.
+ Mỗi một biểu đồ được vẽ ra thể hiện một phong cách và góc nhìn riêng của người phân tích.
+ Đúng hay sai, thắng hay thua thị trường sẽ trả lời.
+ Không phải sách giáo khoa.
+Đối với các trader thị trường cổ điển như cổ phiếu, hay commodities, giá USD là yếu tố quan trọng nhất (không có gì quan trọng hơn).
+ Nhưng trong thị trường crypto, bạn không những muốn chiến thắng trên đồng USD, mà bạn còn muốn kiếm được nhiều hơn BTC và ETH nữa.
+ Đó mới là điểm khó và thú vị của thị trường này.
+Ví dụ như khi bạn muốn nghiên cứu coin $EOS chẳng hạn, bạn sẽ phải mở 3 chart EOSUSD, EOSBTC, và EOSETH lên coi.
+ Hại não hơn hẳn :))Thôi được rồi, bài viết này nhẹ nhàng thế này thôi.
+ Bước đầu tiên tới mặt trăng thì cũng không nên vất vả quá nhỉ.
+ Chuyện hay còn dài, nỗi đau còn nhiều.
+Hẹn các bạn (các ông) bài tới.
+
+
+Tác giả: TheAlchemist

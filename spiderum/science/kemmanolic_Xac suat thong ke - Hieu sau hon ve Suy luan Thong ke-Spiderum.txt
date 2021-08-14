@@ -1,0 +1,407 @@
+Xác suất thống kê - Hiểu sâu hơn về Suy luận Thống kê
+Bài này nhằm tìm hiểu sâu hơn về Suy luận Thống kê (Statistical Inference), trong đó, cố gắng hiểu hơn về bản chất, ý nghĩa của môn học Thống kê trong ứng dụng giải quyết các bài toán thực tế trong cuộc sống, cũng như, làm rõ các khái niệm cơ bản nhưng dễ nhầm lẫn, như mô hình xác suất, mô hình thống kê, phân phối xác suất, .
+.
+.
+ Mình lược dịch Chương 5.
+ Suy luận Thống kê của quyển sách Probability and Statistics: The Science of Uncertainty (Link cuối bài).
+ Đồng thời, bài viết cũng bổ sung, tổng hợp thêm các kiến thức liên quan (để sách tham khảo cuối bài), ví dụ, phần 0 của bài là nhắc lại khái niệm, các thuật ngữ về Xác suất.
+ Bài viết nhằm làm rõ các khái niệm cơ bản về Xác suất, và Suy luận Thống kê, gồm 6 phần: Phần 0.
+ Đôi nét về Xác suấtPhần 1.
+ Ý nghĩa của Thống kêPhần 2.
+ Kiểm định sử dụng mô hình Xác suấtPhần 3.
+ Mô hình thống kêPhần 4.
+ Thu thập dữ liệuPhần 5.
+ Một vài kiểm định cơ bản===Phần 0.
+ Đôi nét về Xác suất0.
+1 Ví dụ Xác suất là việc định lượng khả năng sẽ xảy ra của một sự kiện trong cuộc sống, dựa trên các quy tắc toán học để dự báo, ước lượng.
+ Nói cách khác, xác suất đo đạc mức độ không chắc chắn (uncertainty) của một sự kiện.
+  "Khả năng hôm nay trời mưa là 30%" là một nhận định mà định lượng cảm nhận về khả năng trời mưa.
+ Xác suất luôn được gán cho một số từ khoảng [0, 1] (hoặc tỷ lệ phần trăm từ 0 đến 100%).
+ Con số cao hơn cho thấy kết quả có nhiều khả năng hơn con số thấp hơn.
+ 0 cho biết kết quả sẽ không xảy ra.
+ Xác suất 1 cho thấy kết quả chắc chắn sẽ xảy ra.
+Có 3 phương pháp chủ yếu để gán xác định xác suất cho một kết quả, sự kiện, đó là: phương pháp cổ điển (classical method), tần suất tương đối (relative frequency method) và phương pháp chủ quan (subjective method).
+ Phương pháp cổ điển để gán xác suất là phù hợp khi tất cả các kết quả đều có khả năng xảy ra như nhau.
+ Nếu có thể xay ra n kết quả thử nghiệm, từng kết quả thử nghiệm có xác suất là 1 / n.
+ Phương pháp tần suất tương đối được sử dụng khi dữ liệu có sẵn để ước tính số lần kết quả thử nghiệm sẽ xảy ra nếu thí nghiệm được lặp đi lặp lại rất nhiều lần.
+ Ví dụ, khi ta tung đồng xu đến hàng ngàn lần, thì xác suất để đồng xu ở mặt ngửa là 0.
+5.
+ Dù cách hiểu theo lối tần suất này dễ hiểu, nhưng hạn chế ở điểm: không phải sự kiện nào trong cuộc sống cũng có thể lặp đi lặp lại (ví dụ, xác suất để A được bầu chọn làm Tổng thống).
+ Phương pháp chủ quan là thích hợp nhất trong trường hợp không thể thực tế cho rằng các kết quả thử nghiệm có khả năng như nhau và khi có ít dữ liệu liên quan.
+ Khi phương pháp chủ quan được sử dụng để gán xác suất cho kết quả thử nghiệm, ta có thể sử dụng bất kỳ thông tin nào có sẵn, chẳng hạn như kinh nghiệm hoặc trực giác của mình.
+ Sau khi xem xét tất cả các thông tin có sẵn, chỉ định một giá trị xác suất thể hiện mức độ tin tưởng (degree of belief) (trên thang điểm từ 0 đến 1) rằng kết quả thử nghiệm sẽ xảy ra.
+ Bởi vì xác suất chủ quan thể hiện mức độ niềm tin của một người, nó mang tính cá nhân.
+ Sử dụng phương pháp chủ quan, những người khác nhau có thể được dự kiến sẽ gán các xác suất khác nhau cho cùng một kết quả thử nghiệm.
+Lý thuyết về xác suất giúp ta có thể đưa ra quyết định tốt hơn trong các điều kiện bất định trong cuộc sống.
+ 0.
+2 Định nghĩa về mô hình xác suấtMột mô hình xác (probability model) suất bao gồm: + Không gian mẫu (sample space): bao gồm tất cả kết qủa có thể xảy ra Ví dụ, một không gian mẫu của thời tiết trong ngày là {nắng, mưa, âm u}Không gian mẫu rời rạc (discreet) bao gồm hữu hạn các phần tử và không gian mẫu liên tục (continuous) bao gồm vô hạn các phần tử.
+ Ví dụ, không gian mẫu về thời tiết là hữu hạn, nhưng không gian mẫu về chiều cao của dân số Việt Nam là liên tục.
+ + Sự kiện (events): là tập con của không gian mẫuVí dụ, không gian mẫu {nắng, mưa, âm u} có sự kiện {nắng}, {mưa}, {âm u}, {nắng, âm u}, {mưa, âm u}, {nắng, mưa}, {nắng, mưa, âm u}.
+ + Phép đo xác suất (Probability measure): thể hiện xác suất của các sự kiện.
+ Phép đo xác suất, hay phân phối xác suất (probability distribution) là một hàm P mà gán một số thực P(A) cho mỗi sự kiện A.
+ Ta sẽ tìm hiểu kĩ hơn ở mục 0.
+4.
+ phương pháp cổ điển, tần suất tương đối và phương pháp chủ quan.
+ 0.
+3 Biễn ngẫu nhiên (Random variable)Biến ngẫu nhiên của một mô hình xác suất là một hàm gắn 1 giá trị số (numeric value) cho một giá trị trong không gian mẫu.
+ Ví dụ, gọi X là hàm số giới tính của người dân thành phố A.
+ Không gian mẫu (gần như là tập xác định của hàm số) là {Nam, Nữ, Khác}.
+ Khi đó, ta có X(Nam) = 2 triệu, X(Nữ) = 2.
+5 triệu, X(Khá) = 0.
+3 triệu.
+ Hay ta có thể viết, Dân_số_VN(Nam) = 2 triệu; Dân_số_VN(Nữ) = 2.
+5 triệu.
+ Hoặc theo cách khác, f(x)= Dân_số_VN.
+ f(Nam) = 2 triệu; f(Nữ) = 2.
+5 triệu.
+ Xác suất của biến ngẫu nhiên là xác suất xảy ra sự kiện.
+ Ví dụ.
+ S = {nắng, mưa, âm u}.
+ Gắn X là thời tiết trong tuần.
+ X(nắng) = 3; X(mưa) = 2; X(âm u) = 2; X = 3 khi trời nắng; X = 2 khi trời mưa, và X = 2 khi trời âm u.
+ Nếu P(mưa) = 0.
+4; P(nắng) = 0.
+3; P(âm u) = 0.
+3.
+ Thi P(X = 3) = P(nắng) = 0.
+4; P(X=4) = P(mưa) = 0.
+4; P(X=-1) = P(âm u) = 0.
+3.
+ Một ví dụ khác, lật một đồng xu hai lần và gọi X là số lượng mặt ngửa.
+ Sau đó, P (X = 0) = P ({X X}) = 1/4, P (X = 1) = P ({XN, NX}) = 1/2 và P (X = 2) = P ({HH}) = 1/4.
+ Biến ngẫu nhiên bao gồm biến ngẫu nhiên rời rạc (discreet) và liên tục (continuous).
+0.
+4 Phân phối xác suất (probability distribution)Nhắc lại, Phân phối xác suất hay phép đo xác suất của biến ngẫu nhiên X là sự mô tả xác suất của các giá trị có thể có của X.
+ Hay có thể nói, là của hàm số X (với biến số là kết quả đầu ra).
+ Một cách định nghĩa khác, phép đo xác suất, hay phân phối xác suất là một hàm P mà gán một số thực P(A) cho mỗi sự kiện A.
+ Như vậy, phân phối xác suất là một hàm số, mà "biến" một giá trị của hàm số X với một giá trị xác suất tương ứng nằm trong khoảng [0;1].
+ Người ta sử dụng hàm phân phối dồn tích (cumulative distribution functions, CDF) để mô tả phân phối xác suất của biến ngẫu nhiên.
+ Ngoài ra, người ta còn sử dụng hàm xác suất (probability function), đối với biến ngẫu nhiên rời rạc, thì gọi là probability mass function, đối với biến liên tục là hàm mật độ xác suất (probability density function).
+ Xác suất này được biểu trưng bởi tích phân, tức là phần diện tích dưới hàm mật độ xác suất.
+ Do đó, xác suất để X tại một điểm bất kì bằng 0, còn xác suất để X thuộc khoảng (a; b) là tích phân của hàm mật độ xác suất từ a tới b.
+Probability mass function của một biến ngẫu nhiên rời rạc là sự thay đổi của CDF tại một giá trị xác định.
+ Đối với biến liên tục, hàm mật độ xác suất là đạo hàm của hàm CDF.
+ (Đọc thêm tại Applied Statistics for Engineering).
+Đối với biến ngẫu nhiên, bất kể rời rạc hay liên tục, người ta quan tâm tới các tham số, như giá trị trung bình (mean), hay giá trị kì vọng (expected value), phương sai (variance) và độ lệch chuẩn (standard deviation) của biến ngẫu nhiên đó.
+ Đồng thời, ta cũng quan tâm tới các dạng phân phối xác suất điển hình, được sử dụng rộng rãi trong Thống kê, như phân phối chuẩn (normal distribution), phân phối chi-bình phương (chi-square distribution).
+1.
+ Ý nghĩa của Thống kê Cùng tìm hiểu ví dụ về Nghiên cứu sự hiệu quả của chương trình ghép tim của Đại học Stanford.
+ Nghiên cứu này nhằm kết luận xem liệu chương trình ghép tim của Đại học Stanford có mang lại hiệu quả như đã dự định không, tức là gia tăng tuổi thọ của bệnh nhân.
+ Nói cách khác, câu hỏi nghiên cứu đề ra là, liệu một bệnh nhân được ghép tim có sống lâu hơn so với một bệnh nhân không được ghép tim hay không.
+ Khi cân nhắc chấp nhận một phương pháp điều trị y tế mới được đề xuất cho một căn bệnh, ta cần xem xét các yêu tố như những cải thiện của phương pháp điều trị, chi phí, cũng như đau đớn sẽ gây ra thêm cho bệnh nhân.
+ Nếu phương pháp điều trị mới chỉ tạo ra một cải tiến nhỏ, thì có thể không có giá trị nếu nó rất tốn kém hoặc gây thêm nhiều đau đớn cho bệnh nhân.
+ Ta không bao giờ có thể biết liệu một bệnh nhân đã nhận được trái tim mới có sống lâu hơn vì cấy ghép so với việc không thực hiện cấy ghép hay không.
+ Vì vậy, hy vọng duy nhất trong việc xác định sự hiệu quả của phương pháp điều trị có hiệu quả là so sánh tuổi thọ của bệnh nhân đã được ghép tim mới với tuổi thọ của bệnh nhân không cấy ghép.
+ Tuổi thọ của một bệnh nhân bị ảnh hưởng bởi nhiều yếu tố, nhiều trong số đó sẽ không liên quan gì đến sức khỏe của tim.
+ Ví dụ, mỗi bệnh nhân có sự sai khác rất nhiều về lối sống hay mắc các bệnh lý khác, và điều này sẽ có ảnh hưởng lớn tới sự sai khác về tuổi thọ giữa các bệnh nhân.
+ Vậy làm thế nào để có thể so sánh, trả lời câu hỏi nghiên cứu đã đặt ra?Một cách tiếp cận vấn đề này là tưởng tượng rằng có phân phối xác suất (probability distribution) mô tả tuổi thọ của hai nhóm bệnh nhân.
+ Gọi mật độ fT và fC là phân phối xác suất của 2 nhóm, trong đó T biểu thị cho nhóm được cấy ghép và C biểu thị cho nhóm không được ghép.
+ Ở đây, dùng nhãn C bởi vì nhóm này được coi là một kiểm soát (control) trong nghiên cứu để đưa ra một số so sánh với việc điều trị (ghép tim).
+ Sau đó, coi tuổi thọ của một bệnh nhân được cấy ghép như một quan sát ngẫu nhiên từ fT và tuổi thọ của một bệnh nhân không được cấy ghép như một quan sát ngẫu nhiên từ fC.
+ Do vậy, ta muốn so sánh fT và fC để xác định liệu cấy ghép có hiệu quả hay không.
+ Ví dụ, ta có thể tính và so sánh tuổi thọ trung bình của mỗi phân phối.
+ Nếu tuổi thọ trung bình của fT lớn hơn fC, thì có thể khẳng định rằng việc điều trị là hiệu quả.
+ Tất nhiên, ta vẫn sẽ phải đánh giá liệu cải tiến có đủ lớn để vượt qua chi phí tăng thêm và tăng phần đau đớn của bệnh nhân hay không.
+ Nếu chúng ta có thể có một số lượng lớn các quan sát tùy ý từ fT và fC, thì ta có thể xác định các phân phối này với độ chính xác cao.
+ Tuy nhiên, trong thực tế, ta bị hạn chế với một số lượng quan sát tương đối nhỏ.
+ Ví dụ, trong nghiên cứu được trích dẫn có 30 bệnh nhân trong nhóm người không được cấy ghép và 52 bệnh nhân trong nhóm người đã được cấy ghép.
+Đối với mỗi bệnh nhân không được cấy ghép, giá trị của X - số ngày họ còn sống sau ngày họ được xác định là ứng viên cho ca ghép tim cho đến khi ngày kết thúc nghiên cứu - đã được ghi lại.
+ Vì nhiều lý do, những bệnh nhân này đã làm không nhận được trái tim mới, ví dụ, họ đã chết trước khi một trái tim mới có thể được tìm thấy cho họ.
+ Những dữ liệu này, cùng với một chỉ báo về tình trạng của bệnh nhân khi chấm dứt ngày nghiên cứu, được trình bày trong Bảng 5.
+1.
+ Giá trị chỉ báo S = a biểu thị rằng Bệnh nhân còn sống khi kết thúc nghiên cứu và S = d biểu thị rằng bệnh nhân đã chết.
+ Bảng 5.
+1: Bảng mô tả số ngày sống, tình trạng của bệnh nhân không được cấy ghép Đối với mỗi bệnh nhân điều trị, giá trị của Y, số ngày họ chờ đợi ghép sau ngày họ được xác định là ứng viên cho ca ghép tim, và giá trị của Z, số ngày họ còn sống sau ngày họ nhận được ghép tim cho đến ngày kết thúc nghiên cứu, cả hai đều được ghi lại.
+ Các thời gian sống sót cho nhóm điều trị sau đó được đưa ra bởi các giá trị của Y + Z.
+ Dữ liệu này, cùng với một chỉ báo về tình trạng của bệnh nhân tại ngày kết thúc nghiên cứu, được trình bày trong Bảng 5.
+2.
+Bảng 5.
+2 Bảng mô tả số ngày sống, tình trạng của bệnh nhân được cấy ghép Ta không thể so sánh trực tiếp fT và fC vì ta không biết các phân phối này.
+ Nhưng ta có một số thông tin về những phân phổi này bởi vì ta đã thu được các giá trị từ mỗi phân phối, như được trình bày trong Bảng 5.
+1 và 5.
+2.
+ Vậy làm thế nào để ta sử dụng những dữ liệu này để so sánh fT và fC để trả lời câu hỏi quan trọng nhất về sự hiệu quả của điều trị ghép tim.
+ Đây là lĩnh vực của thống kê và lý thuyết thống kê, cụ thể là, cung cấp các phương pháp để suy luận về phân phối xác suất chưa biết dựa trên việc quan sát (hoặc lấy mẫu) có được từ các phân phối xác suất.
+Lưu ý rằng ví dụ này đã được đơn giản hóa phần nào, mặc dù ví dụ trên trình bày bản chất của vấn đề.
+ Trong thực tế, vấn đề sẽ phức tạp hơn khi nhà thống kê sẽ có sẵn các dữ liệu bổ sung về mỗi bệnh nhân, như tuổi, giới tính và tiền sử bệnh.
+ Ví dụ, trong Bảng 5.
+2 ta có các giá trị của cả Y và Z cho mỗi bệnh nhân trong nhóm điều trị.
+ Ví dụ trên đưa ra một số bằng chứng cho thấy các câu hỏi có tầm quan trọng thực tiễn lớn đòi hỏi phải sử dụng tư duy và phương pháp luận thống kê.
+ Có nhiều tình huống trong khoa học vật lý và xã hội trong đó thống kê đóng vai trò then chốt.
+ Thành phần trọng tâm trong tất cả đây là những gì chúng ta phải đối mặt với sự không chắc chắn (uncertainty).
+ Sự không chắc chắn này được gây ra bởi cả sự biến động (variation), điều mà có thể được mô hình hóa thông qua xác suất, và bởi thực tế là chúng ta không thể thu thập đủ quan sát để biết chính xác các mô hình xác suất (probability models).
+ Mô hình toán học được xây dựng và sử dụng để xử lí với các biến động gây ra sự không chắc chắn.
+ Trong chương này trình bày Thống kê như một phương pháp để xử lí sự không chắc chắn gây ra bởi yếu tố, ta không thể thu thập toàn bộ quan sát.
+ Tóm tắt mục 1 • Thống kê được áp dụng cho các tình huống trong đó câu hỏi nghiên cứu không thể trả lời một cách chắc chắn, thường là do sự thay đổi trong dữ liệu.
+ • Xác suất được sử dụng để mô hình hóa các biến động (variation) quan sát được trong dữ liệu.
+ Suy luận thống kê liên quan đến việc sử dụng dữ liệu quan sát được để giúp xác định phân phối xác suất thực (true probability distribution) tạo ra bởi các biến động này và do đó có được cái nhìn sâu sắc cho các câu trả lời cho các câu hỏi quan tâm.
+Ghi chú của người dịch: Như vậy, ta giả sử rằng dữ liệu có một dạng phân phối, được đặc trưng bởi các tham số.
+ Bộ môn Xác suất giúp ta biểu diễn phân phối của dữ liệu dưới ngôn ngữ Toán học.
+ Tuy nhiên, trong thực tế, ta không thể thu thập toàn bộ quan sát của phân phối, nên không thể biết chính phân phối xác suất của dữ liệu là gì.
+ Từ những quan sát hạn chế thu thập được, ta sử dụng Thống kê để dự đoán phân phối thật của dữ liệu.
+ 2.
+ Suy luận sử dụng mô hình xác suất (probability model)Như đã đề cập, Xác suất giúp đo lường hay định lượng sự không chắc chắn.
+ Tất nhiên, ta không chắc chắn về nhiều thứ và cũng không thể cho rằng xác suất có thể áp dụng cho tất cả các tình huống.
+ Tuy nhiên, ta giả sử cảm thấy có thể áp dụng Xác suất cho tình huống gặp phải và khi đó, xác định một phép đo xác suất P dựa trên tập hợp các tập hợp con của không gian mẫu S cho một kết quả (response hay outcome) s.
+ Trong ứng dụng xác suất, giả sử rằng P đã biết và ta không chắc chắn về một kết quả tương lai s ∈ S.
+ Trong bối cảnh như vậy, ta có thể buộc phải hoặc muốn đưa ra suy luận (inference) về giá trị chưa biết của s.
+ Ta sẽ phải dự đoán (prediction) hoặc ước lượng (estimate) giá trị hợp lý cho s, ví dụ, dưới điều kiện phù hợp, ta có thể lấy giá trị kì vọng của s như kết quả dự đoán.
+ Trong các trường hợp khác, ta có thể phải xây dựng một tập hợp con có xác suất cao chứa s, ví dụ, tìm một vùng (region) bao gồm ít nhất 95% xác suất và có kích thước nhỏ nhất trong số tất cả các vùng như vậy.
+ Ngoài ra, chúng ta có thể được yêu cầu để đánh giá liệu giá trị đã nêu s0 có phải là giá trị không hợp lý từ P đã biết hay không, ví dụ, đánh giá xem có hay không s0 nằm trong vùng được xác định thấp bởi P và do đó là không thể tin được.
+ Đây là những ví dụ về suy luận có liên quan đến các ứng dụng của lý thuyết xác suất.
+Tóm tắt mục 2 • Các mô hình xác suất được sử dụng để mô hình sự không chắc chắn về các kết quả trong tương lai.
+ • Chúng ta có thể sử dụng phân phối xác suất để dự đoán kết quả trong tương lai hoặc đánh giá xem có hợp lí khi cho rằng một giá trị nhất định là một giá trị tương lai có thể có từ phân phối hay không.
+3.
+  Mô hình Thống kêTrong một vấn đề thống kê, ta phải đối mặt với sự không chắc chắn của một yếu tố khác với các yếu tố trong Mục 2.
+ Trong ngữ cảnh thống kê, ta quan sát dữ liệu s, nhưng lại không chắc chắn về P.
+ Trong tình huống như vậy, ta xây dựng các suy luận về P dựa trên trên s.
+ Đây là nghịch đảo của tình huống được thảo luận trong Mục 2.
+ Làm thế nào để đưa ra những suy luận thống kê (Statistical inferences) có lẽ không rõ ràng chút nào.
+ Trong thực tế, có một số cách tiếp cận có thể sử dụng sẽ được thảo luận trong các chương tiếp theo.
+ Trong chương này, ta sẽ tìm hiểu các thành phần cơ bản của mọi phương pháp tiếp cận.
+ Gần như tất cả các phương pháp tiếp cận suy luận thống kê là khái niệm về mô hình thống kê (statistical model) cho dữ liệu s.
+ Khái niệm này có dạng một tập các phép đo xác suất, kí hiệu {Pθ: θ ∈ *}, một trong số đó tương ứng với phép đo xác suất chưa biết thực sự (true unknown probability measure) mà tạo ra dữ liệu s.
+ Nói cách khác, ta đang khẳng định rằng có một cơ chế ngẫu nhiên (random mechanism) tạo s và chúng ta biết rằng phép đo xác suất tương ứng P là một trong những phép xác suất trong {Pθ: θ ∈ *}.
+ Lưu ý, kí hiệu * là dùng thay cho kí hiệu chỉ tập nhưng Spiderum không hiển thị được :(.
+Có 2 loại mô hình thống kê: chứa tham số và không chứa tham số.
+ Mô hình thống kê chứa tham số (parametric model) là một tập hợp mà có thể được biểu diễn bằng một số lượng hữu hạn các tham số.
+ Các phân phối xác suất trong nó được biểu diễn bằng các tham số.
+ Mục tiêu của mô hình thống kê là sử dụng suy luận thống kê để tìm được tham số "thực sự", tức là tìm được phân phối xác suất thực sự đã sinh ra dữ liệu s.
+ Mô hình thống kê không chứa tham số (nonparametric model) là tập hợp mà không thể biểu diễn bằng hữu hạn tham số.
+ Mô hình thống kê {Pθ: θ ∈ *} tương ứng với thông tin liên quan đến phép đo xác suất thực sự là gì.
+ Biến θ được gọi là tham số (parameter) của mô hình, và tập hợp * được gọi là không gian tham số (parameter space) .
+ Thông thường, ta sử dụng các mô hình trong đó, θ ∈ * định danh các phép đo xác suất trong mô hình, tức là, Pθ1 = Pθ2 khi và chỉ khi θ1 = θ2.
+ Nếu tất cả các phép đo xác suất Pθ đều có thể được biểu diễn thông qua các hàm xác suất hoặc hàm mật độ fθ (để thuận tiện, ta sẽ không phân biệt giữa trường hợp biến rời rạc và liên tục trong ký hiệu), thì thông thường, mô hình thống kê được viết là {fθ: θ ∈ *}.
+Từ định nghĩa của một mô hình thống kê, ta thấy rằng có một giá trị duy nhất θ ∈ *, sao cho Pθ là phép đo xác suất thực (true probability measure).
+ Ta coi giá trị này là giá trị tham số thực (true parameter value).
+ Nó rõ ràng tương đương với việc đưa ra suy luận về giá trị tham số thực hơn là phép đo xác suất thực, nghĩa là, đưa ra suy luận về giá trị thực tham số θ cũng đồng thời là suy luận về phân phối xác suất thực.
+ Vì vậy, ví dụ, ta có thể ước lượng giá trị thực của θ, xây dựng các vùng nhỏ trong * mà có khả năng chứa giá trị thực hoặc đánh giá liệu dữ liệu có ủng hộ hay không với một số giá trị cụ thể, được coi là giá trị thực, θ0.
+ Đây là những loại suy luận, có nét tương đồng với những gì đã thảo luận trong Phần 2, nhưng tình huống ở đây khá là khác nhau.
+ Ví dụ 3.
+1Giả sử chúng ta có một chiếc bình chứa 100 chip, mỗi chip hoặc màu đen (Đ) hoặc trắng (T).
+ Giả sử thêm rằng ta được biết có 50 hoặc 60 chip đen trong chiếc bình.
+ Các chip được trộn kỹ, và sau đó 2 chip được rút mà không được rút lại.
+ Mục tiêu là đưa ra suy luận về số lượng chip đen thực sự trong chiếc bình, khi đã quan sát dữ liệu s = (s1, s2), trong đó si là màu của chip thứ i được rút ra khỏi bình.
+Trong trường hợp này, chúng ta có thể lấy mô hình thống kê là {Pθ: θ ∈ *}, trong đó θ là số lượng chip đen trong bình, sao cho * = {50, 60} và Pθ là phép đo xác suất trên S = {(Đ, Đ), (Đ, T), (T, Đ), (T, T)}.
+ Do đó, P50 được gán cho xác suất 50 · 49 / (100 · 99) cho mỗi chuỗi (Đ, Đ) và (T, T) và xác suất 50 · 50 / (100 · 99) cho mỗi các chuỗi (Đ, T) và (T, Đ) và P60 gán xác suất 60 · 59 / (100 · 99) cho chuỗi (Đ, Đ), xác suất 40 · 39 / (100 · 99) cho chuỗi (T, T) và xác suất 60 · 40 / (100 · 99) cho mỗi chuỗi (Đ, T) và (T, Đ).
+ Việc lựa chọn tham số này có phần tùy ý, vì chúng ta có thể dễ dàng gắn nhãn các phép đo xác suất có thể tương tự như P1 và P2.
+ Tham số về bản chất chỉ là một nhãn cho phép ta phân biệt giữa các ứng viên tiềm năng cho phép đo xác suất thực.
+ Tuy nhiên, thông thường phải chọn nhãn một cách phù hợp sao cho nhãn có nghĩa nào đó trong vấn đề đang thảo luận.
+Lưu ý rằng, ta sẽ sử dụng chữ in hoa để biểu thị một giá trị không quan sát được của một biến ngẫu nhiên X và chữ thường để biểu thị giá trị quan sát được.
+ Vì vậy, một mẫu quan sát được (X1, .
+.
+.
+, Xn) sẽ được ký hiệu (x1, .
+.
+.
+, xn).
+Tuy nhiên, trong nhiều ứng dụng, tham số θ được coi là một số đặc điểm của phân phối mà nhận một giá trị duy nhất cho mỗi phân phối trong mô hình.
+ Ví dụ, một hàm xác suất được biểu thị là ta có thể lấy θ là giá trị trung bình và sau đó không gian tham số sẽ là * = {1, 1.
+5}.
+ Hình 3.
+1 Nét liền là hàm phân phôi Exponential(1), Nét đứt là hàm phân phối Exponential(2)Lưu ý rằng ta cũng có thể sử dụng phần tư đầu tiên, hoặc cho vấn đề đó bất kỳ phần tư nào khác, để gắn nhãn cho phân phối, với điều kiện mỗi phân phối trong họ phân phối sẽ đưa ra một giá trị duy nhất cho đặc trưng được lựa chọn.
+ Nói chung, bất kỳ chuyển đổi 1-1 nào của một tham số đều được chấp nhận như sự tham số hóa (parameterization) của một mô hình thống kê.
+ Khi ta gán nhãn lại, ta gọi điều này là xác định lại tham số (reparameterization) của mô hình thống kê.
+Bây giờ ta xem xét 1 ví dụ quan trọng của các mô hình thống kê.
+ Ví dụ 3.
+2 Mô hình BernoulliGiả sử rằng (x1, .
+.
+.
+, xn) là một mẫu từ phân phối Bernoulli (θ) với θ ∈ [0, 1]không xác định.
+ Chúng ta có thể quan sát kết quả tung đồng xu và ghi Xi bằng  1 nếu khi nào quan sát được mặt ngửa ở lần tung thứ i và bằng 0 nếu ngược lại.
+ Ngoài ra, ta cũng có thể quan sát các mặt hàng được sản xuất trong một quy trình công nghiệp và ghi lại Xi bằng 1 nếu mặt hàng thứ i bị lỗi và 0 nếu ngược lại.
+ Trong tất cả các trường hợp này, ta muốn biết giá trị thực của θ, vì điều này cho chúng ta biết một điều quan trọng về đồng tiền mà chúng ta đang tung, hoặc quá trình công nghiệp.
+ Bây giờ giả sử ta không có thông tin gì về xác suất thực sự.
+ Theo đó, ta lấy không gian tham số là * = [0, 1], là tập hợp tất cả các giá trị có thể cho θ.
+ Hàm xác suất cho mục mẫu thứ i được đưa ra bởi công thức: và hàm xác suất cho mẫu được đưa ra bởi công thức:Câu hỏi đặt ra là thông tin về mô hình {Pθ: ∈ *} đến từ đâu trong một trường hợp ứng dụng xác suất? Làm thế nào để xác định một mô hình thống kê cho dữ liệu? Đôi khi có những thông tin như vậy dựa trên kinh nghiệm trước đó, nhưng thường thì đó là một giả định cần kiểm tra trước khi áp dụng quy trình suy luận.
+ Trong thực tế, quy trình kiểm tra các giả định đó, hay gọi là quy trình kiểm tra mô hình (model-checking procedures) bắt buộc thực hiện trước quá trình suy luận.
+ Nếu mô hình sai, các suy luận khác được rút ra từ dữ liệu và mô hình thống kê có thể bị lỗi.
+ Tóm tắt mục 3• Trong một ứng dụng thống kê, ta không biết phân phối của kết quả, nhưng ta biết (hoặc giả định) rằng phân phối xác suất thực sự là một trong những tập hợp các phân phối có thể {fθ: ∈ *}, trong đó fθ là hàm mật độ hoặc hàm xác suất (bất cứ điều gì có liên quan) cho kết quả đó.
+ Tập hợp các phân phối có thể có được gọi là mô hình thống kê.
+• Tập * được gọi là không gian tham số và biến θ được gọi là tham số của mô hình.
+ Bởi vì mỗi giá trị của θ tương ứng với một phân phối xác suất riêng biệt trong mô hình, chúng ta có thể nói về giá trị thực của θ, tương đương với phân phối thực qua fθ.
+4.
+ Thu thập dữ liệu Sự phát triển của Phần 2 và 3 dựa trên biến phụ thuộc được quan sát được ghi nhận từ một phép đo xác suất P.
+ Trên thực tế, trong nhiều ứng dụng, đây là một giả định.
+ Ta thường xuyên bắt gặp các dữ liệu có thể được tạo ra theo cách này, nhưng ta không thể luôn luôn chắc chắn về điều đó.
+ Khi ta không thể chắc chắn rằng dữ liệu được tạo ra bởi một cơ chế ngẫu nhiên, thì phân tích thống kê về dữ liệu được gọi là một nghiên cứu quan sát (observational study).
+ Trong một nghiên cứu quan sát, nhà thống kê chỉ quan sát dữ liệu chứ không can thiệp trực tiếp can thiệp vào việc tạo ra dữ liệu, để đảm bảo rằng giả định ngẫu nhiên giữ vững.
+ Ví dụ, giả sử một giáo sư thu thập dữ liệu từ các sinh viên của mình cho một nghiên cứu xem xét mối quan hệ giữa các lớp và việc làm bán thời gian.
+ Có hợp lý không để coi như dữ liệu thu thập được đã đến từ một phân phối xác suất? Nếu vậy, làm thế nào chúng ta sẽ giải thích hợp lí cho điều này?Điều quan trọng là một nhà thống kê phải phân biệt cẩn thận giữa các tình huống là các nghiên cứu quan sát và những trường hợp không phải nghiên cứu quan sát.
+ Như các cuộc thảo luận sau đây minh họa, có những tiêu chuẩn phải được áp dụng để phân tích một nghiên cứu quan sát.
+ Trong khi các phân tích thống kê của các nghiên cứu quan sát là hợp lệ và thực sự quan trọng, ta phải nhận thức được những hạn chế của họ khi diễn giải kết quả đó.
+ 4.
+1 Tổng thể hữu hạn Giả sử ta có tập hữu hạn II, được gọi là tổng thể (population) và hàm X có giá trị thực (đôi khi được gọi là phép đo - measurement) được xác định trên II.
+ Vì vậy, với mỗi π ∈ II, chúng ta có đại lượng X (π) có giá trị thực đo lường một số khía cạnh của π.
+ (Lưu ý: một nhóm các biến ngẫu nhiên X1, X2, .
+.
+, Xn được gọi là phân phối đồng nhất độc lập (independent and identically distributed, kí hiệu II) nếu nhóm đó độc lập và mỗi một biến trong n biến này có phân phối giống nhau).
+ Xét một ví dụ sau.
+ Giả sử, II là một tổng thể có N = 20 lô đất cùng kích cỡ.
+ Tiếp tục giả sử X(π) là phép đo độ màu mỡ của lô đất π trên 10 điểm và thu được kết quả đo sau đây:Mục tiêu của một nhà thống kê trong trường hợp này là biết hàm FX càng chính xác càng tốt.
+ Nếu ta biết chính xác về FX, thì ta đã xác định được phân phối của X trên phân phối II.
+ Một cách để biết chính xác phân phối là tiến hành điều tra dân số, trong đó, nhà thống kê đi ra ngoài và quan sát X (π) cho mỗi π ∈ II và sau đó tính toán FX.
+ Đôi khi điều này là khả thi, nhưng thường thì không thể hoặc thậm chí là không mong muốn, do chi phí về việc tổng hợp chính xác tất cả các phép đo - nghĩ về việc khó khăn như thế nào để thu thập chiều cao của tất cả các sinh viên trong trường của bạn.
+ Thường, việc ước lượng một cách khá chính xác FX đạt được khi lựa chọn một tập con {π1, .
+.
+.
+, πn}.
+Có hai câu hỏi ta cần trả lời - cụ thể là, ta nên chọn tập con {π1, .
+.
+.
+, πn} như thế nào và n nên lớn bao nhiêu?4.
+2 Lấy mẫu ngẫu nhiên đơn (Simple Random Sampling) Trước tiên ta sẽ giải quyết vấn đề chọn {π1, .
+.
+.
+, πn}.
+ Giả sử, ta chọn tập hợp con này theo một số quy tắc nhất định dựa trên nhãn duy nhất của mỗi π ∈ II.
+ Ví dụ, nếu nhãn là một số, ta có thể xếp hạng các số và sau đó lấy n các yếu tố với các nhãn nhỏ nhất.
+ Hoặc chúng ta có thể xếp hạng các số và lấy phần tử cách nhau 1 bậc cho đến khi chúng ta có một tập con của n, v.
+v.
+Có nhiều quy tắc như vậy ta có thể áp dụng, và có một vấn đề cơ bản.
+ Nếu chúng ta muốn FˆX xấp xỉ FX cho toàn bộ tổng thể, thì, khi ta sử dụng một quy tắc, ta đối mặt với rủi ro chỉ chọn {π1, .
+.
+.
+, πn} từ một quần thể phụ.
+ Ví dụ, nếu ta sử dụng mã sinh viên để xác định từng thành phần của một tổng thể sinh viên, và nhiều sinh viên năm 4 sẽ có mã sinh viên thấp hơn, khi đó, khi n nhỏ hơn N rất nhiều và ta chọn những sinh viên có mã sinh viên nhỏ nhất, FˆX thực sự chỉ xấp xỉ phân phối X trong tổng thể của sinh viên năm cuối tốt nhất.
+ Phân phối này có thể rất khác với FX.
+ Tương tự, đối với bất kỳ quy tắc nào khác ta sử dụng, ngay cả khi ta không thể hình dung được tập phụ (subpopulation) có thể là gì, ảnh hưởng lựa chọn (selection effect), hoặc thiên kiến (bias) có thể tồn tại, gây ra ước tính không hợp lệ.
+Đây là trình độ chuyên môn (qualification) ta cần áp dụng khi phân tích kết quả nghiên cứu quan sát.
+ Trong một nghiên cứu quan sát, dữ liệu được tạo ra bởi một số quy tắc, đặc biệt là chưa được biết đến bởi các nhà thống kê; điều này có nghĩa là bất kỳ kết luận nào được rút ra dựa trên dữ liệu X (π1) ,,.
+ .
+ .
+ , X (πn) có thể không hợp lệ cho toàn bộ dân số.
+ Dường như chỉ có một cách để đảm bảo tránh các hiệu ứng lựa chọn, cụ thể là phải chọn tập {π1, .
+.
+.
+, πn} bằng cách sử dụng ngẫu nhiên.
+ Đối với cách lấy mẫu ngẫu nhiên (simple random sampling), điều này có nghĩa là một cơ chế ngẫu nhiên được sử dụng để chọn πi theo cách như vậy rằng mỗi tập con của n có xác suất 1 / #N n$ được chọn.
+ Ví dụ, ta có thể đặt N miếng khoai tây vào một cái bát, mỗi cái có một nhãn duy nhất tương ứng với một phần tử của tổng thể, sau đó rút ngẫu nhiên n miếng khoai tây từ bát mà không được thay thế.
+ Các nhãn trên các khoai tây được rút ra xác định các cá nhân đã được chọn từ II.
+ Ngoài ra, để ngẫu nhiên hóa, ta có thể sử dụng bảng số ngẫu nhiên hoặc tạo các giá trị ngẫu nhiên sử dụng thuật toán máy tính.
+Lưu ý rằng với lấy mẫu ngẫu nhiên đơn giản, (X (π1), .
+.
+, X (πn)) là ngẫu nhiên.
+ Đặc biệt, khi n = 1, khi đó chúng ta có P (X (π1) x) = FX (x), cụ thể là phân phối xác suất của biến ngẫu nhiên X (π1) giống như phân bố tổng thể.
+Bất cứ khi nào dữ liệu được thu thập bằng cách sử dụng lấy mẫu ngẫu nhiên đơn giản, chúng tôi sẽ đề cập đến điều tra thống kê như một nghiên cứu lấy mẫu (sampling study).
+ Đó là một nguyên tắc cơ bản của thực hành thống kê tốt rằng các nghiên cứu lấy mẫu luôn được ưu tiên hơn các nghiên cứu quan sát, bất cứ khi nào chúng khả thi.
+ Điều này là do chúng ta có thể chắc chắn rằng, với một mẫu nghiên cứu, bất kỳ kết luận nào chúng tôi rút ra dựa trên mẫu π1, .
+.
+.
+, πn sẽ áp dụng cho 1 tổng thể quan tâm.
+ Với các nghiên cứu quan sát, ta không bao giờ có thể chắc chắn rằng mẫu dữ liệu chưa thực sự được chọn từ một số tập hợp con đúng của *.
+ Ví dụ: nếu bạn được yêu cầu đưa ra những suy luận về sự phân bố chiều cao của học sinh tại trường của bạn nhưng đã chọn một số bạn bè của bạn làm mẫu của bạn, thì rõ ràng là CDF ước tính có thể rất không giống với CDF thật (có thể nhiều bạn bè của bạn thuộc một giới tính hơn cai khac).
+Tuy nhiên, thông thường, ta không có lựa chọn nào khác ngoài sử dụng dữ liệu quan sát cho thống kê phân tích.
+ Lấy mẫu trực tiếp từ tổng thể quan tâm có thể cực kỳ khó khăn hoặc thậm chí là không thể.
+ Ta vẫn có thể coi kết quả của các phân tích đó là một dạng bằng chứng, nhưng ta phải cảnh giác về các ảnh hưởng lựa chọn (selection effects) có thể và thừa nhận khả năng này.
+ Các nghiên cứu lấy mẫu được coi là một bằng chứng thống kê cao hơn so với quan sát nghiên cứu, vì chúng tránh được ảnh hưởng lựa chọn.
+Câu hỏi thứ hai ta cần giải quyết liên quan đến việc lựa chọn cỡ mẫu n.
+ Có vẻ dễ hiểu khi ta muốn chọn cỡ mẫu càng lớn càng tốt.
+ Mặt khác, luôn có chi phí liên quan đến lấy mẫu và đôi khi mỗi giá trị mẫu là rất tốn kém để có được.
+ Hơn nữa, càng thu thập nhiều dữ liệu, ta càng gặp nhiều khó khăn hơn trong việc đảm bảo dữ liệu không bị sai bởi nhiều loại lỗi có thể phát sinh trong quá trình thu thập.
+ Vì vậy, câu trả lời của chúng tôi là ta muốn nó được chọn đủ lớn để có được độ chính xác cần thiết nhưng không cần lớn hơn.
+ Theo đó, nhà thống kê phải chỉ định mức độ chính xác bắt buộc và thì sau đó xác định n.
+Có nhiều phương pháp khác nhau để chỉ định độ chính xác cần thiết trong một vấn đề và sau đó xác định một giá trị phù hợp cho n.
+ Xác định n là thành phần chính trong việc thực hiện nghiên cứu lấy mẫu và là thường được gọi là tính toán kích thước mẫu (sample-size calculation).
+4.
+3 HistogramsCác biến định lượng có thể được phân loại thành các biến rời rạc hoặc biến liên tục.
+ Các biến liên tục là các biến mà ta có thể đo đến độ chính xác tùy ý khi tăng độ chính xác của một dụng cụ đo lường.
+ Ví dụ, chiều cao của một cá nhân có thể được coi là một biến liên tục, trong khi số năm giáo dục một cá nhân sẽ được coi là một biến định lượng rời rạc.
+ Biểu đồ tần suất có thể sử dụng cho cả biến rời rạc và biến liên tục, đặc biệt hữu ích cho biến liên tục.
+ 4.
+4 Survey SamplingLấy mẫu tổng thể hữu hạn cung cấp công thức cho một ứng dụng rất quan trọng thống kê, cụ thể là lấy mẫu khảo sát (survey sampling) hoặc bỏ phiếu (polling).
+ Thông thường, một cuộc khảo sát bao gồm một bộ các câu hỏi được hỏi về một mẫu {π1, .
+.
+.
+, πn} từ tổng thể II.
+ Mỗi câu hỏi tương ứng với một phép đo, vì vậy nếu có m câu hỏi, câu trả lời từ người trả lời π là vectơ m chiều (X1 (π), X2 (π), .
+.
+, Xm (π)).
+ Một ví dụ rất quan trọng về lấy mẫu khảo sát là việc bỏ phiếu trước bầu cử được thực hiện để dự đoán kết quả của một cuộc bỏ phiếu.
+ Ngoài ra, nhiều công ty ngành hàng tiêu dùng sử dụng các cuộc khảo sát thị trường rộng lớn để tìm hiểu điều người tiêu dùng muốn và để có được thông tin giúp tăng doanh số.
+Thông thường, việc phân tích kết quả không chỉ quan tâm tới phân phối tổng tể của cá nhân Xi mà còn phân phối tổng thể giao nhau (joint population distribution).
+ Những phân phối chung này được sử dụng để trả lời cho câu hỏi như, liệu có mối quan hệ giữa X1 và X2, và nếu có, thì nó có dạng nào? Phân phối chung đặc biệt hữu ích với X1, X2 đều là biến định tính liên tục.
+Bài viết này chỉ dừng lại giới thiệu chứ không đi sâu tới các khía cạnh của lấy mẫu khảo sát.
+Tóm tắt phần 4• Lấy mẫu ngẫu nhiên đơn giản từ tổng thể II nghĩa là ta chọn ngẫu nhiên một tập con cỡ n từ II theo cách sao cho mỗi tập con có xác suất được chọn như nhau.
+• Dữ liệu từ nghiên cứu lấy mẫu được tạo ra từ phân phối của phép đo biến ngẫu nhiên X trên toàn bộ tổng thể II hơn là một tổng thể nhỏ nào đó.
+ Đó là lí do tại sao nghiên cứu lấy mẫu được ưa chuộng hơn nghiên cứu quan sát.
+• Khi cỡ mẫu n khá nhỏ so với kích thước tổng thể, chúng ta có thể coi những giá trị quan sát được của biến ngẫu nhiên X như là một mẫu từ phân phối X trên toàn bộ tổng thể.
+5.
+ Một số suy luận cơ bảnBây giờ giả sử ta đang ở trong một tình huống liên quan đến phép đo X, có phân phối là chưa xác định và ta đã thu được dữ liệu (x1, x2, .
+.
+.
+, xn), tức là, quan sát n giá trị của X.
+ Hy vọng rằng những dữ liệu này là kết quả của việc lấy mẫu ngẫu nhiên đơn giản, nhưng có thể chúng được thu thập từ một nghiên cứu quan sát.
+ Gọi hàm số tần số tương đối chưa biết của tổng thể, hoặc hàm mật độ xấp xỉ là fX và hàm phân phối tổng thể là FX.
+Những gì chúng ta làm bây giờ với dữ liệu phụ thuộc vào hai điều.
+ Đầu tiên, chúng ta phải xác định những gì chúng ta muốn biết về phân bố tổng thể cơ bản.
+ Điển hình là quan tâm chỉ là một vài đặc điểm của phân phối này - giá trị trung bình và phương sai.
+ Thứ hai, ta phải sử dụng lý thuyết thống kê để kết hợp dữ liệu với mô hình thống kê để suy luận về các đặc điểm quan tâm.
+5.
+1 Phương pháp "không chính thức" (informal)  Bây giờ ta thảo luận về một số đặc điểm điển hình được quan tâm và giới thiệu một số phương pháp không chính thức ước tính cho các đặc điểm này, được gọi là thống kê mô tả (discriptive statistics).
+ Thống kê mô tả thường được sử dụng như một bước sơ bộ trước khi rút ra những suy luận chính thức hơn và biện minh trên cơ sở trực quan đơn giản.
+ Chúng được gọi là mô tả bởi vì chúng là ước tính số lượng mà mô tả các tính năng của phân phối cơ bản.
+ Thống kê mô tả là đưa ra rất nhiều đặc điểm của phân phối, như mean, median, phương sai, độ xiên, vân vân.
+ Vẽ đồ thị (Plotting) giúp trực quan hóa dữ liệu, giúp ta có một vài ý tưởng về hình dạng của phân phối được lấy mẫu.
+ Độ xiên cũng có thể được phát hiện khi vẽ đồ thị.
+5.
+2 Phương pháp chính thức - các loại suy luận Sử dụng Thống kê mô tả hay Vẽ đồ thị có những khó khăn nhất định vì việc lựa chọn những phương pháp này dựa trên trực giác của người nghiên cứu.
+ Thông thường, không rõ ta nên sử dụng Thống kê mô tả nào.
+ Hơn nữa, các tóm tắt dữ liệu này không tận dụng thông tin ta có về phân bố dân số thực sự như mô hình thống kê, cụ thể là, fX {fθ: ∈ *}.
+ Sử dụng các thông tin này giúp ta phát triển một lý thuyết về suy luận thống kê, tức là, để chỉ định cách chúng ta nên kết hợp thông tin mô hình với dữ liệu để suy luận về số lượng tổng thể.
+Trong mục 5.
+2, ta đã thảo luận về ba loại suy luận trong trường hợp mô hình xác suất đã biết, được xác định là một hàm mật độ hoặc hàm xác suất f.
+Trong ứng dụng thống kê, ta không biết f; chúng ta chỉ biết rằng f thuộc về một mô hình thống kê, tức là f ∈ {fθ: θ ∈ *}, và ta quan sát dữ liệu s.
+ Ta không chắc chắn về việc ứng viên nào cho fθ là chính xác, hay nói cách khác, giá trị nào có thể có của θ là chính xác.
+Như đã đề cập trong Mục 5.
+1, mục tiêu chính của ta là xác định không đúng fθ thật sự, nhưng tìm ra một số đặc điểm quan tâm của phân phối thực như giá trị trung bình, trung vị hoặc giá trị của hàm phân phối thực F tại một giá trị xác định.
+Ta biểu diễn những đặc điểm này bằng ψ (θ).
+ Ví dụ, khi đặc điểm được quan tâm là giá trị trung bình của phân phối thực của một biến ngẫu nhiên liên tục, sau đó:Ngoài ra, chúng ta có thể quan tâm đến (θ) = F − 1 (0,5), trung vị của phân phối của một biến ngẫu nhiên với hàm phân phối được đưa ra bởi Fθ.
+Các giá trị khác nhau của θ dẫn đến các giá trị có thể khác nhau về đặc điểm của ψ (θ).
+ Sau khi quan sát dữ liệu, ta muốn suy luận về giá trị chính xác.
+ Ta sẽ xem xét ba loại suy luận cho ψ(θ.
+ (i) Chọn một ước lượng T (s) của ψ(θ ), được gọi là vấn đề ước tính (problem of estimation).
+ (ii) Xây dựng tập hợp con C (s) của tập hợp các giá trị có thể cho ψ(θ ) màta tin rằng chứa giá trị thực, được gọi là vấn đề của việc xây dừng vùng đáng tin cậy (credit region/ confidence region).
+ (iii) Đánh giá xem ψ0 có phải là giá trị hợp lý của ψ(θ )  hay không sau khi quan sát s, gọi là vấn đề đánh giá giả thuyết (hypothesis testing).
+ Vì vậy, ước tính, khu vực đáng tin cậy hoặc tin cậy và đánh giá giả thuyết là ví dụ của các loại suy luận.
+ Cụ thể, chúng tôi muốn xây dựng ước tính T (s) của ψ(θ ) xây dựng vùng tin cậy hoặc độ tin cậy C (s) cho ψ(θ ) và đánh giá tính hợp lý của một giá trị giả thuyết ψ0 cho ψ(θ ).
+ Vấn đề suy luận thống kê đòi hỏi phải xác định cách chúng ta nên kết hợp thông tin trong mô hình {fθ: ∈ *} và dữ liệu s để thực hiện các suy luận này khoảng (θ).
+Tóm tắt mục 5.
+5 • Thống kê mô tả đại diện cho các phương pháp thống kê không chính thức được sử dụng để thực hiện suy luận về phân phối biến ngẫu nhiên X quan tâm, dựa trên quan sát mẫu từ phân phối này.
+ Các đại lượng này mô tả các đặc điểm của mẫu quan sát và có thể được coi là ước lượng của các đại lượng tổng thể chưa biết tương ứng.
+ Các phương pháp chính thức hơn bắt buộc sử dụng để đánh giá lỗi trong các ước lượng này hoặc thậm chí thay thế chúng bằng các ước lượng có độ chính xác hơn.
+• Vẽ các đồ thị liên quan là rất quan trọng.
+ Những điều này cho ta một số ý tưởng về hình dạng của phân bố tổng thể mà ta lấy mẫu từ đó.
+• Có ba loại suy luận chính: ước lượng, khoảng tin cậy hoặc độ tin cậy và đánh giá giả thuyết.
+Tài liệu tham khảo[1] Evans, M.
+, and Rosenthal, J.
+, 2009.
+ Probability and Statistics: The Science of Uncertainty.
+ 2nd edn.
+ New York : W.
+ H.
+ Freeman.
+ [2]  Wasserman,.
+ L.
+ 2010.
+ All of Statistics: A Concise Course in Statistical Inference.
+ New York: Springer.
+[3] Montgomery, D.
+ C.
+, and Runger, G.
+ C.
+, 2003.
+ Applied Statistics and Probability for Engineers.
+ New York : John Wiley & Sons.
+[4] Anderson, D.
+ R.
+, Sweeney, D.
+ J.
+, and Williams, T.
+ A.
+, 2008.
+ Statistics for Business and Economics.
+ Ohio : Thomson South-Western.
+  
+
+Tác giả: kemmanolic

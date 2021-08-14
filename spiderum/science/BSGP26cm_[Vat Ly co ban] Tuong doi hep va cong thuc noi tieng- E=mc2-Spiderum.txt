@@ -1,0 +1,67 @@
+[Vật Lý cơ bản] Tương đối hẹp và công thức nổi tiếng: E=mc2
+    Mình biết có nhiều bạn viết về chủ đề này rồi nhưng phần nhiều là dùng nhiều thuật ngữ với công thức quá nên có thể các bạn khó hiểu.
+ Mình sẽ cố gắng diễn giải cho các bạn dễ hiểu nhất và giải thích tsao lại rút ra được E=mc2.
+ mình vừa đi hàn về và thực ra cũng định giải quyết đống việc chồng chất trong lúc mình đi chơi.
+ Cơ mà nay là sinh nhật Please nên mình viết bài này tặng cho ông ấy.
+ Chúc ông sinh nhật vui vẻ.
+btw, trước khi đọc bài này, mình nghĩ các bạn nên đọc bài này trước: [Vật lý cơ bản] Vũ khí hạt nhân vì bên dưới có dính 1 chút đến phóng xạ.
+I, Vấn đề với cơ học cổ điển của Newton và sự ra đời của thuyết tương đối hẹp    3 định luật nổi tiếng của Newton đã đặt nền móng cho ngành vật lý cổ điển suốt từ cuối thế kỉ 18 đến đầu thế kỉ 20.
+ Tuy nhiên, khi công nghệ chúng ta phát triển, chúng ta bắt đầu chạm trán với những vật thể to như mặt trời, nhỏ như nguyên tử và nhanh như ánh sáng.
+ Chúng ta đã phát triển các thiết bị đo đạc hiệu quả hơn, chuẩn xác hơn và phát hiện ra 1 điều: Ở cuộc sống hàng ngày, cơ học cổ điển của Newton đủ tốt để dùng, đủ tốt để đưa chúng ta lên mặt trăng.
+ Tuy nhiên, khi chúng ta nghiên cứu những thứ quá lớn, quá nhỏ, quá nhanh thì cơ học cổ điển của Newton đã không đủ tốt nữa.
+ Vấn đề đầu tiên mà chúng ta gặp phải đó là vận tốc ánh sáng.
+ Vào thời đó họ đã biết ánh sáng chuyển động rất nhanh (~300.
+000km/s) nhưng nếu 1 cái xe vừa chạy với vận tốc 60km/h xong bật đè pha thì sao? ánh sáng sẽ di chuyển với vận tốc c+60 chứ? Nó rất là legit mà đúng không? Tuy nhiên khi người ta làm thí nghiệm thì lại không phải như thế.
+ Kể cả cái xe có chạy nhanh cỡ nào thì ánh sáng phát ra từ đèn pha vẫn không đổi.
+ Vậy là vận tốc ánh sáng là bất biến, thì làm sao? Ok, nếu nó bất biến thì thử nghĩ đến bài toán này xem:    Bạn dùng 2 tấm chắn và cho 1 quả bóng bàn nảy qua lại giữa chúng với vận tốc không đổi tạm gọi là v1.
+ Bạn bắt đầu vừa di chuyển tấm chắn và vừa cho quả bóng tiếp tục nảy qua lại.
+ lúc này, quả bóng đi được quãng đường xa hơn do vận tốc đã được tổng hợp với chuyển động ngang và dọc là v2 đúng theo cơ học cổ điển đã dự đoán.
+Quãng đường di chuyển của quả bóng dưới con mắt của 1 người đứng ngoài lề.
+    Nhìn hình trên, với cùng 1 khoảng thời gian nhưng quãng đường S2 dài hơn S1 => bóng S2 chuyển động nhanh hơn S1.
+    Tuy nhiên, ở phần trên chúng ta đã xác định: vận tốc ánh sáng là không đổi.
+ Thế nếu chúng ta thay quả bóng bằng 1 hạt Photon, thay tấm chắn bằng 2 cái gương và làm lại thí nghiệm thì sao? vận tốc hạt Photon 2 sẽ nhanh hơn hạt photon 1 à? cùng 1 khoảng thời gian nhưng quãng đường di chuyển lại khác nhau là sao? đây chính là vấn đề mà cơ học cổ điển gặp phải.
+ Làm sao để giải thích được khi thực nghiệm đã chứng minh vận tốc ánh sáng là không đổi.
+ Vậy là Einstein suy nghĩ.
+ Nếu quãng đường không đổi, vận tốc không đổi vậy chỉ còn 1 đại lượng khác đó là thời gian thôi.
+ Người quan sát đứng yên, 2 tấm gương di chuyển thì thời gian của tấm gương trôi qua sẽ lệch so với người quan sát.
+ Người quan sát nhìn thấy là 1.
+5 giây đã trôi qua, hạt photon đã di chuyển được quãng đường C*1.
+5 = S2.
+ Đối với 2 tấm gương, chúng nó mới chỉ thấy 1 giây trôi qua và quãng đường hạt photon di chuyển được là C*1=S1 => S1 nhỏ hơn S2 (số liệu chỉ mang tính minh họa).
+ Lúc đầu, ý tưởng này của Einstein gặp phải rất nhiều phản đối.
+ Phần vì ở Đức lúc đó đang có phong trào bài trừ người do thái và rất nhiều nhà vật lý người đức đã "ném gạch" ý kiến này của Einstein.
+ Thời gian co lại để đảm bảo hạt photon không thay đổi vận tốc.
+ Khi chúng ta đi xe, chúng ta chỉ thay đổi vận tốc để đến đích nhanh hơn chứ ai thay đổi thời gian để đến đích sớm hơn bao giờ.
+ Vậy là ông đã đào sâu nghiên cứu và phát hiện ra không chỉ thời gian thay đổi khi ta chuyển động mà còn không gian và khối lượng cũng thay đổi theo.
+ Quả bóng đường kính 1cm khi di chuyển gần với vận tốc ánh sáng thì nó cũng bị "co" lại gần đến 0cm.
+ Trọng lượng của nó cũng tăng lên đến vô cực.
+ Điều này đã được kiểm chứng khi các nhà khoa học tăng tốc các hạt Proton trong máy gia tốc, đạt đến gần tốc độ ánh sáng, các hạt này quá "nặng" để có thể được tăng thêm vận tốc nữa.
+ Tuy nhiên, ở cuộc sống sinh hoạt hàng ngày, tốc độ của chúng ta là quá chậm để có thể nhận ra thay đổi đó.
+ Công thức về sự thay đổi ở dưới link cho bạn nào muốn tìm hiểu thêm.
+II, Từ thuyết tương đối hẹp đến công thức nổi tiếng: E=mc2 (cảnh báo, có toán phía trước, đề nghị độc giả giảm tốc độ đọc)    Ở phần I, chúng ta đã nhất trí vận tốc ánh sáng là bất biến và không gian, thời gian và khối lượng đã phải tự điều chỉnh để giữ hằng số này là không đổi.
+ nhưng thế thì liên quan gì đến E=mc2? nghĩ thử về vấn đề này nhé:    Bạn tự đặt mình vào trong 1 hệ kín (bỏ tất cả các tác nhân bên ngoài).
+ Bạn cầm 1 cục Urani trên tay (ví dụ thôi nhé đừng có mà cầm vào), cục Urani này liên tục phát ra các tia phóng xạ, bỏ qua các tia khác, hãy tập trung vào tia Gamma.
+ Tia gamma này bản chất của nó là ánh sáng với tần số rất cao và nó mang năng lượng rất lớn tạm gọi là E1.
+ Vậy bảo toàn năng lượng, với việc nó phát ra các tia gamma với năng lượng là E1 thì nó phải mất năng lượng đúng không? năng lượng đó đến từ đâu? cục urani không nguội đi và nó cũng không chuyển động chậm lại.
+ Đây chính là 1 điều nữa mà cơ học cổ điển của Newton không thể giải thích và nó còn rối hơn nữa khi chúng ta đặt cục U xuống và bắt đầu di chuyển.
+ Dưới con mắt của ta thì cục Urani mới là thứ di chuyển và nó có năng lượng chính là động lượng của nó: khối lượng nhân vận tốc của cục Urani = E2.
+ (0.
+5m*v2=E2) và vì nó đang phát ra tia gamma, ta thấy năng lượng của nó bị giảm 1 lượng bằng đúng với năng lượng của các tia gamma mang là E1 => Năng lượng tổng của cục Urani là E2-E1.
+ Cơ mà lại có vấn đề như này, Như phần I đã nói, di chuyển thì thời gian trôi khác đi => tần số của tia gamma bị thay đổi => năng lượng mà tia gamma mang bị thay đổi dưới góc nhìn của ta và của cục Urani.
+ [Đoạn này đã bị kiểm duyệt vì chứa quá nhiều toán học và công thức lằng nhằng có khả năng gây tổn thương não bộ với người đọc].
+ Anyway, sau 1 hồi toán học thì chúng ta có năng lượng của tia gamma phát ra từ cục Urani thay đổi từ E1 thành E1*(1+v2/c2).
+ Vậy tóm lại là, nếu chúng ta di chuyển so với cục Urani thì sẽ có 2 trường hợp sau:    1, chúng ta di chuyển trước sau đó cục Urani mới phát sáng:dưới góc nhìn của chúng ta, cục Urani mang năng lượng là 0.
+5m*v2 trừ đi năng lượng của ánh sáng mà nó phát ra là: E1*(1+v2/c2).
+    2, chúng ta nhìn cục urani phát sáng sau đó mới di chuyển:dưới góc nhìn của chúng ta, cục urani mang năng lượng là "âm" E1 sau đó vì chúng ta di chuyển, nó trở thành 0.
+5m*v2, bù lại chút năng lượng "âm" từ lúc đầu, chúng ta có tổng năng lượng của cục Urani là: 0.
+5m*v2 trừ E1    Nhưng mà, kể cả việc chúng ta di chuyển sớm hay muộn, chúng ta cũng đâu có đụng vào cục Urani? nghĩa là tổng năng lượng của cục Urani trong cả 2 phần là phải bằng nhau? nghĩa là: 0.
+5m*v2-E1 = 0.
+5*m*v2-E1*(1-v2/c2).
+ Điều này rất mâu thuẫn vì 2 vế đâu có tương đương nhau? dưới đây là cách giải (tôi không biết viết toán trên spiderum nên phải viết ra word xong chụp màn hình.
+ mong các bạn thông cảm)    Lúc đầu khi Einstein trình bày công thức này, cả thế giới chấn động vì nó.
+ sau đó họ đã làm nhiều thí nghiệm kiểm chứng sự mất năng lượng đi kèm với sự giảm về khối lượng và đã chứng minh công thức trên là đúng.
+P/s: Thân gửi Nguyen Thanh và mấy bài viết phản biện cùng với giáo sư Phạm của ông.
+ không phải tự nhiên mà người ta dùng nó, công nhận nó gần 1 trăm năm nay đâu.
+
+
+Tác giả: BSGP26cm

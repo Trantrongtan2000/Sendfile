@@ -1,0 +1,52 @@
+Những thủ thuật thống kê tinh vi [Phần 1]
+Câu hỏi gốc: Những thủ thuật thống kê tinh vi nhất để lừa dối mọi người ? Source: http://qr.
+ae/TUIbXGTrả lời bởi Nipun Ramakrishnan, học ngành Kỹ thuật Điện và Khoa học Máy tính tại Đại học California, Berkeley (2019)Giả sử một ngày hòm thư của bạn nhận được một bản tin dự đoán rằng một cổ phiếu sẽ tăng vào cuối tuần.
+ Không thèm tin là ai cũng có thể dự đoán được thị trường chứng khoán, bạn cười nhếch mép, kiểm tra cổ phiếu trong tuần tới và thấy nó thực sự tăng lên.
+ Đỏ thôi đen quên đi, bạn nghĩ.
+ Bạn chờ đợi bản tin tiếp theo và nó nói rằng cổ phiếu này sẽ đi xuống vào tuần sau.
+ Một lần nữa nó lại đúng.
+Mười tuần trôi qua như thế và lần nào bạn cũng thấy các bản tin dự đoán đúng.
+ Đến lúc này, bạn không thể không chửi thầm thế méo nào lại có thằng dự đoán được nhỉ.
+ Tỷ lệ để bản tin dự đoán chính xác trong mười tuần liên tiếp sử dụng phép dự đoán ngẫu nhiên (random guess) nhỏ hơn 0,1% (chính xác hơn là 1/2^10 = 1/1024).
+ Họ chắc chắn phải có kỹ năng dự báo "khủng".
+Đúng theo kịch bản, người môi giới chứng khoán bí ẩn đằng sau những bản tin này gửi cho bạn một lời mời chào vào ngày hôm sau để đầu tư tiền vào công ty dự báo của mình.
+ Có vẻ là một vụ làm ăn tuyệt vời! Anh ta đã thể hiện kỹ năng khủng.
+ Cũng không có gì có vẻ mờ ám.
+ Kết quả dự đoán của anh ta được đặt ngay ngắn trên bàn trước mặt bạn và bạn chỉ cần húp thôi.
+Nhưng có một số thủ thuật tinh vi đang diễn ra ở đây.
+ Chúng ta hãy nhìn vào câu chuyện từ quan điểm của người môi giới chứng khoán.
+Vào ngày đầu tiên, người môi giới chứng khoán gửi 10.
+240 bản tin, một nửa trong số đó dự đoán cổ phiếu sẽ tăng, và nửa còn lại dự đoán nó sẽ giảm.
+ 5.
+120 người nhận bản tin này ngay lập tức thấy sự thiếu chính xác.
+ Họ sẽ không bao giờ nhận tin từ người môi giới chứng khoán này nữa.
+ Tuy nhiên, 5120 người đã nhận được dự đoán chính xác sẽ tiếp tục nhận bản tin vào tuần sau 5.
+120 bản tin này một lần nữa được chia thành hai nhóm phỏng đoán, trong đó có 2.
+560 người nhận được dự đoán chính xác hai ngày liên tiếp.
+Bạn hiểu ra rồi đấy.
+ Đến cuối tuần thứ mười, bạn và chín người khác nhận được sự mời gọi đầu tư vào công ty môi giới chứng khoán đáng tin cậy này.
+ Và nếu bạn không biết một thoả thuận nào tốt hơn, bạn sẽ ký vào bản hợp đồng mà không nghi ngờ gì.
+Câu chuyện này được gọi là câu chuyện môi giới chứng khoán Baltimore, và nó thực sự cho thấy tầm quan trọng của việc nhìn sự việc dưới nhiều quan điểm khi xem xét các sự kiện, dữ liệu hoặc số liệu thống kê ngày nay.
+Source: http://qr.
+ae/TUIbXFTrả lời bởi Ozan Özbey, Nhà nghiên cứu thị trườngThủ thuật ưa thích của tôi là từ quan hệ tương quan (correlation) suy ra quan hệ nhân quả (causation).
+Cùng xem ví dụ dưới đây.
+Nguồn ảnhBài báo này nói  một nghiên cứu, trong đó các nhà nghiên cứu tại Đại học Oxford Brookes phát hiện ra rằng sau hai tuần, 85% người tham gia nghiên cứu đã giảm gần 2kg.
+Khi "lên báo", kết quả nghiên cứu được phát biểu dưới một mệnh đề.
+ Đó là, ăn ngũ cốc hai lần một ngày sẽ giúp bạn giảm cân .
+Tôi biết bạn sẽ chạy tức tốc đến của hàng gần nhất và mua ngay 1 gói ngũ cốc, nhưng chờ đã.
+Chúng ta không thể nói nó là mối quan hệ nhân quả được, nhiều nhất nó chỉ là một mối quan hệ tương quan.
+ Nghĩa là nếu những người ăn ngũ cốc hai lần một ngày giảm cân, điều đó không đồng nghĩa với việc ăn ngũ cốc là nguyên nhân khiến họ giảm cân.
+ Phải có một biến khác (variable), ví dụ trình độ nhận thức của họ về sức khoẻ, sẽ  ảnh hưởng đến cả hai vế của phương trình.
+ Người có ý thức giữ gìn sức khỏe ăn ngũ cốc hai lần một ngày bởi vì họ nghĩ rằng nó có lợi cho sức khoẻ.
+ Đồng thời, họ cũng rất cẩn thận về chế độ ăn uống của mình, họ tập thể dục, họ uống nhiều nước và tránh các món tráng miệng có hàm lượng calo cao, vì vậy họ giảm cân.
+Và không phải lúc nào cũng có một biến liên quan như vậy! Ví dụ, có một sự tương quan giữa số người bị chết đuối do ngã xuống hồ bơi và số lượng phim mà Nicolas Cage tham gia diễn xuất.
+ Tất nhiên hai việc này không việc nào là nguyên nhân gây ra việc nào, và cũng không có một biến nào ở giữa tác động đến chúng.
+Nguồn ảnh[ND: Các bạn có thể google search "confounding variables" để tìm hiểu thêm về hiện tượng này.
+ Ví dụ, nếu một nghiên cứu chỉ ra rằng 80% những người uống cafe có triệu chứng ung thư phổi, liệu có thể kết luận uống cafe gây ung thư phổi không? Không, vì rất có thể có 1 biến nào đó ảnh hưởng đến cả việc uống cafe và bị ung thư phổi.
+ Chẳng hạn, những người uống cafe thường có thói quen hút thuốc và hút thuốc mới chính là nguyên nhân gây ung thư.
+]Phần 2:Những thủ thuật thống kê tinh vi [Phần 2]Bài viết gửi bởi Quora Việt Nam trong mục Science2vnquoravn.
+spiderum.
+comBài dịch của Đức Mạnh tại group Quora Việt Nam.
+
+
+Tác giả: Q R V N
